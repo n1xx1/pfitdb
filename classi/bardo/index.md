@@ -1,3 +1,9 @@
+---
+source: Manuale di Gioco, pag. TODO
+original-name: Bard
+original-srd: https://2e.aonprd.com/Classes.aspx?ID=3
+---
+
 # Bardo
 
 _Sei un maestro nella tua arte, uno studioso di segreti nascosti e un seducente

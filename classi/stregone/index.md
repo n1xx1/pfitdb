@@ -1,3 +1,9 @@
+---
+source: Manuale di Gioco, pag. TODO
+original-name: Sorcerer
+original-srd: https://2e.aonprd.com/Classes.aspx?ID=11
+---
+
 # Stregone
 
 _Non hai scelto di diventare un incantatore, lo sei dalla nascita. La magia è

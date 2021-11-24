@@ -1,3 +1,9 @@
+---
+source: Manuale di Gioco, pag. TODO
+original-name: Druid
+original-srd: https://2e.aonprd.com/Classes.aspx?ID=6
+---
+
 # Druido
 
 _È impossibile resistere al potere della natura. In pochi minuti può devastare
