@@ -84,7 +84,7 @@ Esperto in Riflessi
 
 Esperto in Volontà
 
-### Skills
+### Abilità
 
 Addestrato in Società
 
