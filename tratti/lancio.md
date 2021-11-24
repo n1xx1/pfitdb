@@ -1,3 +1,11 @@
+---
+source: Manuale di Gioco, pag. TODO
+original-name: Thrown
+original-srd: https://2e.aonprd.com/Traits.aspx?ID=195
+---
+
+# Lancio
+
 Puoi lanciare quest'arma come un attacco a distanza ed è un'arma a distanza una
 volta lanciata. Un'arma da lancio aggiunge il tuo modificatore di Forza al danno
 esattamente come un'arma da mischia. Quando questo tratto si presenta per
