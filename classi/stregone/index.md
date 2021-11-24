@@ -8,12 +8,12 @@ abilità magiche innate, scoprendo capacità sempre nuove e più potenti. Tuttav
 il potere nel tuo sangue comporta un rischio, e sei sempre combattuto tra
 divenire un maestro fra gli incantatori o cedere agli istinti più distruttivi._
 
-**Caratteristica Chiave: CARISMA**
+**CARATTERISTICA CHIAVE: CARISMA**
 
 Al 1° livello, la tua classe ti conferisce un aumento di caratteristica che
 applichi al Carisma.
 
-**Punti Ferita: 6 più il tuo modificatore di Costituzione**
+**PUNTI FERITA: 6 più il tuo modificatore di Costituzione**
 
 Al 1° livello e a ogni livello successivo sommi questo valore ai tuoi Punti
 Ferita massimi.
@@ -208,33 +208,31 @@ mai contenere più di 3 Punti Focalizzazione.
 
 La descrizione di una linea di sangue contiene le seguenti informazioni.
 
-<strong>Lista degli Incantesimi</strong> Utilizzi questa tradizione magica e la
-relativa lista degli incantesimi.
+**Lista degli Incantesimi** Utilizzi questa tradizione magica e la relativa
+lista degli incantesimi.
 
-<strong>Abilità della Linea di Sangue</strong> Sei addestrato nelle abilità
-indicate.
+**Abilità della Linea di Sangue** Sei addestrato nelle abilità indicate.
 
-<strong>Incantesimi Concessi</strong> Inserisci automaticamente nel tuo
-repertorio gli incantesimi qui indicati, in aggiunta a quelli che ottieni grazie
-a lanciare incantesimi da stregone. Al 1° livello, ottieni un trucchetto e un
-incantesimo di 1° livello. Impari gli altri incantesimi della lista non appena
-ottieni la capacità di lanciare incantesimi da stregone di livello
-corrispondente.
+**Incantesimi Concessi** Inserisci automaticamente nel tuo repertorio gli
+incantesimi qui indicati, in aggiunta a quelli che ottieni grazie a lanciare
+incantesimi da stregone. Al 1° livello, ottieni un trucchetto e un incantesimo
+di 1° livello. Impari gli altri incantesimi della lista non appena ottieni la
+capacità di lanciare incantesimi da stregone di livello corrispondente.
 
-<strong>Incantesimi della Linea di Sangue</strong> Ottieni automaticamente
-l'incantesimo della linea di sangue iniziale al 1° livello; puoi ottenerne altri
-selezionando i talenti Linea di Sangue Avanzata e Linea di Sangue Superiore.
+**Incantesimi della Linea di Sangue** Ottieni automaticamente l'incantesimo
+della linea di sangue iniziale al 1° livello; puoi ottenerne altri selezionando
+i talenti Linea di Sangue Avanzata e Linea di Sangue Superiore.
 
-<strong>Magia del Sangue</strong> Ogni volta che lanci un incantesimo della
-linea di sangue utilizzando Punti Focalizzazione o un incantesimo concesso dalla
-linea di sangue tramite uno slot incantesimo, ottieni un effetto di magia del
-sangue. Se quest'ultimo offre una scelta, la devi compiere prima di determinare
-gli esiti dell'incantesimo. L'effetto di magia del sangue si verifica dopo aver
-effettuato eventuali prove per determinare gli effetti iniziali dell'incantesimo
-e si applica contro un nemico solo se il Tiro per Colpire con incantesimo ha
-successo o se il nemico fallisce il Tiro Salvezza. Se l'incantesimo prevede
-un'area, quando lo lanci devi designare te stesso o un bersaglio nell'area come
-bersaglio dell'effetto di magia del sangue. Quando si fa riferimento al livello
+**Magia del Sangue** Ogni volta che lanci un incantesimo della linea di sangue
+utilizzando Punti Focalizzazione o un incantesimo concesso dalla linea di sangue
+tramite uno slot incantesimo, ottieni un effetto di magia del sangue. Se
+quest'ultimo offre una scelta, la devi compiere prima di determinare gli esiti
+dell'incantesimo. L'effetto di magia del sangue si verifica dopo aver effettuato
+eventuali prove per determinare gli effetti iniziali dell'incantesimo e si
+applica contro un nemico solo se il Tiro per Colpire con incantesimo ha successo
+o se il nemico fallisce il Tiro Salvezza. Se l'incantesimo prevede un'area,
+quando lo lanci devi designare te stesso o un bersaglio nell'area come bersaglio
+dell'effetto di magia del sangue. Quando si fa riferimento al livello
 dell'incantesimo, si intende il livello dell'incantesimo che lanci.
 
 ### Lanciare Incantesimi da Stregone
@@ -260,7 +258,7 @@ incantesimo (solitamente effettuando un Tiro Salvezza). Poiché la tua
 caratteristica chiave è il Carisma, i tiri per colpire con incantesimi e le CD
 di incantesimi utilizzano il tuo modificatore di Carisma.
 
-<h3><strong>Intensificare gli Incantesimi</strong></h3>
+#### Intensificare gli Incantesimi
 
 Quando ottieni slot incantesimo di 2° livello o superiore, puoi sfruttarli per
 lanciare versioni più potenti degli incantesimi dì livello inferiore. Questo
@@ -271,7 +269,7 @@ lanciarlo. Molti incantesimi presentano specifici miglioramenti quando vengono
 intensificati a determinati livelli. Il privilegio di classe incantesimi
 distintivi ti permette di intensificare liberamente alcuni incantesimi.
 
-<h3><strong>Trucchetti</strong></h3>
+#### Trucchetti
 
 Un trucchetto è un tipo speciale di incantesimo che non utilizza slot
 incantesimo, e può essere lanciato a volontà, un qualsiasi numero di volte al
@@ -304,7 +302,7 @@ di 3° livello.
 |       19       |     5      |  4  |  4  |  4  |  4  |  4  |  4  |  4  |  4  |  4  | 1\* |
 |       20       |     5      |  4  |  4  |  4  |  4  |  4  |  4  |  4  |  4  |  4  | 1\* |
 
-\* Il privilegio di classe Paradigma della Linea di Sangue ti conferisce uno
+\* Il privilegio di classe paradigma della linea di sangue ti conferisce uno
 slot incantesimo di 10° livello che funziona in maniera leggermente diversa
 dagli altri slot.
 

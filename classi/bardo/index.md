@@ -8,12 +8,12 @@ furfante o un musicista virtuoso. Sebbene la tua versatilità induca qualcuno a
 ritenerti un affascinante tuttofare perdigiorno, si rischia grosso a liquidarti
 come uno che non eccelle in niente._
 
-**Caratteristica Chiave: CARISMA**
+**CARATTERISTICA CHIAVE: CARISMA**
 
 Al 1° livello, la tua classe ti conferisce un aumento di caratteristica che
 applichi al Carisma.
 
-**Punti Ferita: 8 più il tuo modificatore di Constitutione**
+**PUNTI FERITA: 8 più il tuo modificatore di Constitutione**
 
 Al 1° livello e a ogni livello successivo sommi questo valore ai tuoi Punti
 Ferita massimi.
@@ -117,6 +117,29 @@ In quanto bardo, acquisisci i seguenti privilegi di classe. Le capacità ottenut
 ai livelli superiori riportano, accanto ai rispettivi nomi, i livelli richiesti
 per acquisirle.
 
+| Il Tuo Livello | Privilegi di Classe                                                                                                                     |
+| :------------: | --------------------------------------------------------------------------------------------------------------------------------------- |
+|       1        | Competenze iniziali, incantesimi di composizione, lanciare incantesimi occulti, musa, repertorio degli incantesimi, stirpe e background |
+|       2        | Talento da bardo, talento di abilità                                                                                                    |
+|       3        | Incantesimi di 2° livello, incantesimi distintivi, incremento di abilità, riflessi fulminei, talento generico                           |
+|       4        | Talento da bardo, talento di abilità                                                                                                    |
+|       5        | Aumenti di caratteristica, incantesimi di 3° livello, incremento di abilità, talento di stirpe                                          |
+|       6        | Talento da bardo, talento di abilità                                                                                                    |
+|       7        | Incantesimi di 4° livello, incantatore esperto, incremento di abilità, talento generico                                                 |
+|       8        | Talento da bardo, talento di abilità                                                                                                    |
+|       9        | Incantesimi di 5° livello, incremento di abilità, risolutezza, talento di stirpe, tempra possente                                       |
+|       10       | Aumenti di caratteristica, talento da bardo, talento di abilità                                                                         |
+|       11       | Esperienza con le armi da bardo, incantesimi di 6° livello, incremento di abilità, sensi vigili, talento generico                       |
+|       12       | Talento da bardo, talento di abilità                                                                                                    |
+|       13       | Esperienza con le armature leggere, incantesimi di 7° livello, incremento di abilità, specializzazione con le armi, talento di stirpe   |
+|       14       | Talento da bardo, talento di abilità                                                                                                    |
+|       15       | Aumenti di caratteristica, incantatore magistrale, incantesimi di 8° livello, incremento di abilità, talento generico                   |
+|       16       | Talento da bardo, talento di abilità                                                                                                    |
+|       17       | Incantesimi di 9° livello, incremento di abilità, risolutezza superiore, talento di stirpe                                              |
+|       18       | Talento da bardo, talento di abilità                                                                                                    |
+|       19       | Capolavoro, incantatore leggendario, incremento di abilità, talento generico                                                            |
+|       20       | Aumenti di caratteristica, talento da bardo, talento di abilità                                                                         |
+
 ### Competenze Iniziali
 
 Al 1° livello ottieni un certo numero di competenze che rappresentano il tuo
@@ -202,6 +225,32 @@ automaticamente intensificato alla metà del tuo livello arrotondata per eccesso
 che equivale al livello più alto di slot incantesimo da bardo che hai. Per
 esempio, i trucchetti di un bardo di 1° livello sono anch'essi di 1° livello,
 mentre quelli di un bardo di 5° livello sono di 3° livello.
+
+| Il Tuo Livello | Trucchetti | 1°  | 2°  | 3°  | 4°  | 5°  | 6°  | 7°  | 8°  | 9°  | 10° |
+| :------------: | :--------: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|       1        |     5      |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|       2        |     5      |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|       3        |     5      |  3  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|       4        |     5      |  3  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|       5        |     5      |  3  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|       6        |     5      |  3  |  3  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |
+|       7        |     5      |  3  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |
+|       8        |     5      |  3  |  3  |  3  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |
+|       9        |     5      |  3  |  3  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |
+|       10       |     5      |  3  |  3  |  3  |  3  |  3  |  -  |  -  |  -  |  -  |  -  |
+|       11       |     5      |  3  |  3  |  3  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |
+|       12       |     5      |  3  |  3  |  3  |  3  |  3  |  3  |  -  |  -  |  -  |  -  |
+|       13       |     5      |  3  |  3  |  3  |  3  |  3  |  3  |  2  |  -  |  -  |  -  |
+|       14       |     5      |  3  |  3  |  3  |  3  |  3  |  3  |  3  |  -  |  -  |  -  |
+|       15       |     5      |  3  |  3  |  3  |  3  |  3  |  3  |  3  |  2  |  -  |  -  |
+|       16       |     5      |  3  |  3  |  3  |  3  |  3  |  3  |  3  |  3  |  -  |  -  |
+|       17       |     5      |  3  |  3  |  3  |  3  |  3  |  3  |  3  |  3  |  2  |  -  |
+|       18       |     5      |  3  |  3  |  3  |  3  |  3  |  3  |  3  |  3  |  3  |  -  |
+|       19       |     5      |  3  |  3  |  3  |  3  |  3  |  3  |  3  |  3  |  3  | 1\* |
+|       20       |     5      |  3  |  3  |  3  |  3  |  3  |  3  |  3  |  3  |  3  | 1\* |
+
+\* Il privilegio di classe capolavoro ti conferisce uno slot incantesimo di 10°
+livello che funziona in maniera leggermente diversa dagli altri slot.
 
 ### Muse
 
