@@ -1,8 +1,8 @@
 ---
 traits: [concentrazione, esplorazione]
 source: Manuale di Gioco, pag. 302
-original-name: Flurry of Blows
-original-srd: https://2e.aonprd.com/Actions.aspx?ID=9
+original-name: Refocus
+original-srd: https://2e.aonprd.com/Actions.aspx?ID=71
 ---
 
 # Refocus
