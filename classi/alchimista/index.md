@@ -231,7 +231,7 @@ alchemici comuni al tuo formulario. Tali formule possono riguardare oggetti di
 livello pari o inferiore al livello di oggetti che sei in grado di creare.
 Impari queste formule automaticamente, ma è anche possibile trovare o acquistare
 altre formule negli insediamenti o da altri alchimisti, o inventarle con il
-talento @Compendium[pf2e.feats-srd.XR95taODq1sq82Du]{Inventore}.
+talento [Inventore](/talenti/inventore).
 
 ### Stirpe e Background
 
@@ -243,12 +243,12 @@ del background che hai scelto.
 Al 1° livello, e successivamente ad ogni livello pari, ottieni un talento da
 alchimista.
 
-### Talenti di Abilità<span style="float: right;">2°</span>
+### Talenti di Abilità - 2°
 
 Al 2° livello, e successivamente ogni 2 livelli, ottieni un talento di abilità.
 Per selezionarne uno devi essere almeno addestrato nell'abilità corrispondente.
 
-### Incrementi di Abilità<span style="float: right;">3°</span>
+### Incrementi di Abilità - 3°
 
 Al 3° livello, e successivamente ogni 2 livelli, ottieni un incremento di
 abilità. Puoi utilizzarlo per aumentare ad addestrato il tuo grado di competenza
@@ -260,11 +260,11 @@ il tuo grado di competenza in un'abilità in cui sei già Esperto, mentre al 15�
 livello puoi utilizzarli per aumentare a Leggendario il tuo grado di competenza
 in un'abilità in cui sei già maestro.
 
-### Talenti Generici<span style="float: right;">3°</span>
+### Talenti Generici - 3°
 
 Al 3° livello, e successivamente ogni 4 livelli, ottieni un talento generico.
 
-### Aumenti di Caratteristica<span style="float: right;">5°</span>
+### Aumenti di Caratteristica - 5°
 
 Al 5° livello, e successivamente ogni 5 livelli, aumenti quattro diversi
 punteggi di Caratteristica. Puoi utilizzare questi aumenti di caratteristica per
@@ -272,30 +272,30 @@ incrementare i tuoi punteggi di caratteristica sopra il 18\. Applicare un
 aumento a un punteggio di caratteristica lo incrementa di 1 se è già pari o
 superiore a 18, o di 2 se il punteggio parte da meno di 18.
 
-### Alchimia Potente<span style="float: right;">5°</span>
+### Alchimia Potente - 5°
 
 Gli oggetti alchemici che crei al volo sono particolarmente potenti. Quando
 utilizzi Alchimia Rapida per creare un oggetto alchemico infuso che concede un
 tiro salvezza, puoi scambiare la sua CD con la tua CD di classe.
 
-### Scoperta del Campo di Ricerca<span style="float: right;">5°</span>
+### Scoperta del Campo di Ricerca - 5°
 
 Apprendi una scoperta speciale pertinente al tuo campo di ricerca.
 
 Guarda i campi di ricerca specifici per ulteriori informazioni.
 
-### Talenti di Stirpe<span style="float: right;">5°</span>
+### Talenti di Stirpe - 5°
 
 In aggiunta al talento di stirpe iniziale, ne ottieni uno al 5° livello e
 successivamente ogni 4 livelli.
 
-### Esperienza con le Armi Alchemiche<span style="float: right;">7°</span>
+### Esperienza con le Armi Alchemiche - 7°
 
 Ti sei addestrato per usare più efficacemente le armi che trovi nel tuo
 laboratorio. Il tuo grado di competenza con armi semplici, bombe alchemiche e
 attacchi senz'armi aumenta a esperto.
 
-### Infusioni Perpetue<span style="float: right;">7°</span>
+### Infusioni Perpetue - 7°
 
 Al 7° livello, hai imparato a creare infusioni alchemiche perpetue che possono
 fornire una riserva pressoché illimitata di alcuni oggetti semplici. Acquisisci
@@ -305,17 +305,17 @@ variano in base al tuo campo di ricerca e devono figurare nel tuo formulario.
 
 Guarda i campi di ricerca specifici per ulteriori informazioni.
 
-### Volontà di Ferro<span style="float: right;">7°</span>
+### Volontà di Ferro - 7°
 
 Hai sviluppato difese mentali ferree. Il tuo grado di competenza nei tiri
 salvezza su Volontà aumenta a esperto.
 
-### Allerta<span style="float: right;">9°</span>
+### Allerta - 9°
 
 Rimani vigile nei confronti di possibili minacce. Il tuo grado di competenza in
 Percezione aumenta a esperto.
 
-### Doppia Miscela<span style="float: right;">9°</span>
+### Doppia Miscela - 9°
 
 Conosci così bene le tue formule che può miscelarne due insieme. Quando utilizzi
 l'azione Alchimia Rapida, anziché consumare una partita di reagenti infusi per
@@ -323,19 +323,19 @@ creare un singolo oggetto, puoi consumarne due per creare fino a due oggetti
 alchemici come descritto nella suddetta azione. Non occorre che si tratti di due
 esemplari dello stesso oggetto.
 
-### Esperienza con l'Alchimia<span style="float: right;">9°</span>
+### Esperienza con l'Alchimia - 9°
 
 La pratica costante ha accresciuto l'efficacia delle tue minare. Il tuo grado di
 competenza nella CD di classe dell'alchimista aumenta a esperto.
 
-### Colosso<span style="float: right;">11°</span>
+### Colosso - 11°
 
 Il tuo corpo è abituato alle sollecitazioni fisiche e resiste alle malattie.
 Aumenti a maestro il tuo grado di competenza nei tiri salvezza su Tempra. Quando
 ottieni un successo in un tiro salvezza su Tempra, lo consideri un successo
 critico.
 
-### Potenza Perpetua<span style="float: right;">11°</span>
+### Potenza Perpetua - 11°
 
 Migliorando le tue infusioni perpetue, puoi usare Alchimia Rapida per creare
 oggetti più potenti senza alcun costo. Gli oggetti selezionabili variano in base
@@ -343,26 +343,26 @@ al tuo campo di ricerca e devono figurare nel formulario.
 
 Guarda i campi di ricerca specifici per ulteriori informazioni.
 
-### Esperienza con le Armature Leggere<span style="float: right;">13°</span>
+### Esperienza con le Armature Leggere - 13°
 
 Hai imparato a schivare mentre indossi un'armatura media, un'armatura leggera, o
 sei privo di armatura. Il tuo grado di competenza con armature medie, armature
 leggere e difesa senz'armatura aumenta a esperto.
 
-### Scoperta del Campo di Ricerca Superiore<span style="float: right;">13°</span>
+### Scoperta del Campo di Ricerca Superiore - 13°
 
 Fai una scoperta incredibile con cui approfondisci la conoscenza del tuo campo
 di ricerca.
 
 Guarda i campi di ricerca specifici per ulteriori informazioni.
 
-### Specializzazione con le Armi<span style="float: right;">13°</span>
+### Specializzazione con le Armi - 13°
 
 Hai imparato a infliggere ferite più gravi con le armi che conosci meglio.
 Infliggi 2 danni aggiuntivi con armi e attacchi senz'armi in cui sei esperto.
 Questi danni aumentano a 3 se sei maestro e a 4 se sei leggendario.
 
-### Alchimista Solerte<span style="float: right;">15°</span>
+### Alchimista Solerte - 15°
 
 Sei talmente a tuo agio nel miscelare sostanze da riuscire a creare tre oggetti
 alla volta. Quando utilizzi l'azione Alchimia Rapida, puoi consumare fino a tre
@@ -370,19 +370,19 @@ partite di reagenti infusi per creare un massimo di tre oggetti alchemici come
 descritto nell'azione. Non occorre che siano tre esemplari dello stesso oggetto
 e riponi automaticamente uno di questi nuovi oggetti mentre li crei.
 
-### Eludere<span style="float: right;">15°</span>
+### Eludere - 15°
 
 Hai imparato a muoverti velocemente per evitare esplosioni, soffi di drago e non
 solo. Il tuo grado di competenza nei tiri salvezza su Riflessi aumenta a
 maestro. Quando ottieni un successo in un tiro salvezza su Riflessi, consideri
 il risultato un successo critico.
 
-### Maestria Alchemica<span style="float: right;">17°</span>
+### Maestria Alchemica - 17°
 
 Le tue misture alchemiche sono straordinariamente efficaci. Il tuo grado di
 competenza nella CD di classe dell'alchimista aumenta a maestro.
 
-### Perfezione Perpetua<span style="float: right;">17°</span>
+### Perfezione Perpetua - 17°
 
 Hai perfezionato le tue infusioni, al punto di poter utilizzare Alchimia Rapida
 per creare oggetti ancor più potenti senza alcun costo. Gli oggetti
@@ -391,7 +391,7 @@ formulario.
 
 Guarda i campi di ricerca specifici per ulteriori informazioni.
 
-### Maestria con le Armature Leggere<span style="float: right;">19°</span>
+### Maestria con le Armature Leggere - 19°
 
 Aumenti la tua perizia con le armature, migliorando la tua capacità di schivare
 i colpi. Il tuo grado di competenza con armature medie, armature leggere e

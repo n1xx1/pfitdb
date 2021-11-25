@@ -23,12 +23,12 @@ anziché solo due esemplari della stessa bomba.
 ## Infusioni Perpetue - 7°
 
 Scegli due delle seguenti formule:
-[ampolla d'acido inferiore](/equipaggiamento/ampolla-d-acido),
-[borsa dell'impedimento inferiore](/equipaggiamento/borsa-dell-impedimento),
-[fulmine in bottiglia inferiore](/equipaggiamento/fulmine-in-bottiglia),
-[fuoco dell'alchimista inferiore](/equipaggiamento/fuoco-dell-alchimista),
-[fiala del gelo inferiore](/equipaggiamento/fiala-del-gelo),
-[pietra del tuono inferiore](/equipaggimento/pietra-del-tuono).
+_[ampolla d'acido inferiore](/equipaggiamento/ampolla-d-acido)_,
+_[borsa dell'impedimento inferiore](/equipaggiamento/borsa-dell-impedimento)_,
+_[fulmine in bottiglia inferiore](/equipaggiamento/fulmine-in-bottiglia)_,
+_[fuoco dell'alchimista inferiore](/equipaggiamento/fuoco-dell-alchimista)_,
+_[fiala del gelo inferiore](/equipaggiamento/fiala-del-gelo)_,
+_[pietra del tuono inferiore](/equipaggimento/pietra-del-tuono)_.
 
 ## Potenza Perpetua - 11°
 
@@ -38,7 +38,7 @@ Le versioni moderate delle bombe scelte per infusioni perpetue.
 
 Incrementi l'area di spargimento delle tue bombe fino a danneggiare i nemici
 entro 3 metri, o entro 4,5 metri se possiedi
-[spargimento ampliato](/talenti/spargimento-ampliato).
+[Spargimento Ampliato](/talenti/spargimento-ampliato).
 
 ## Perfezione Perpetua - 17°
 

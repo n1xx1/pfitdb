@@ -401,7 +401,7 @@ grazie a lanciare incantesimi primevi. Non puoi usare questo slot incantesimo
 con capacità che permettano di lanciare incantesimi senza consumare slot o
 conferiscano ulteriori slot incantesimo. A differenza degli altri slot
 incantesimo, avanzando di livello non ottieni altri slot di 10° livello, ma puoi
-selezionare il talento [potere dello ierofante](/talenti/potere-dello-ierofante)
+selezionare il talento [Potere dello Ierofante](/talenti/potere-dello-ierofante)
 che conferisce un secondo slot.
 
 ### Incantatore Leggendario - 19°
