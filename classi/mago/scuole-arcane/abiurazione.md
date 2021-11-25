@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 171
 original-name: Abjuration
 original-srd: https://2e.aonprd.com/ArcaneSchools.aspx?ID=1
 ---

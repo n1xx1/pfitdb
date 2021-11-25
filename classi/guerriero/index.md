@@ -155,8 +155,9 @@ addestramento di base, indicate all'inizio della descrizione della classe.
 
 ### Parare con lo Scudo
 
-Ottieni il talento generico [Parare con lo Scudo](/talenti/parare-con-lo-scudo),
-una reazione che ti permette di ridurre i danni sfruttando lo scudo.
+Ottieni il talento generico
+[Parare con lo Scudo](/talenti/generici/parare-con-lo-scudo), una reazione che
+ti permette di ridurre i danni sfruttando lo scudo.
 
 ### Stirpe e Background
 

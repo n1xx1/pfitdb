@@ -230,8 +230,9 @@ incantesimi è basato sul Carisma.
 
 ### Parare con lo Scudo
 
-Ottieni il talento generico [Parare con lo Scudo](/talenti/parare-con-lo-scudo),
-una reazione che ti permette di ridurre i danni sfruttando lo scudo.
+Ottieni il talento generico
+[Parare con lo Scudo](/talenti/generici/parare-con-lo-scudo), una reazione che
+ti permette di ridurre i danni sfruttando lo scudo.
 
 ### Reazione del Campione
 

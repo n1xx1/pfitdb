@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 171
 original-name: Arcane Schools
 original-srd: https://2e.aonprd.com/ArcaneSchools.aspx
 ---
@@ -43,4 +43,4 @@ mai contenere più di 3 Punti Focalizzazione.
 
 ## [Trasmutazione](/classi/mago/scuole-arcane/trasmutazione)
 
-## [Universale](/classi/mago/scuole-arcane/universale)
+## [Maghi Universali](/classi/mago/scuole-arcane/universale)

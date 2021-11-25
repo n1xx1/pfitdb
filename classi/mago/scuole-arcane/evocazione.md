@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 172
 original-name: Conjuration
 original-srd: https://2e.aonprd.com/ArcaneSchools.aspx?ID=2
 ---

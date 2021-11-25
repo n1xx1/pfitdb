@@ -5,7 +5,7 @@ original-name: Deadly Simplicity
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=264
 ---
 
-# Semplicità Letale
+# Semplicità Letale - Talento 1
 
 **Prerequisiti** L'arma preferita della tua divinità è un'arma semplice o un
 attacco senz'armi, sei addestrato con l'arma preferita della tua divinità

@@ -5,7 +5,7 @@ original-name: Shield Block
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=839
 ---
 
-# Parare con lo Scudo :r:
+# Parare con lo Scudo :r: - Talento 1
 
 **Innesco** Hai sollevato lo scudo e stai per subire danni da un attacco fisico.
 
