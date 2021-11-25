@@ -1,0 +1,10 @@
+---
+source: Manuale di Gioco, pag. TODO
+original-name: Attack
+original-srd: https://2e.aonprd.com/Traits.aspx?ID=15
+---
+
+# Attacco
+
+Una capacità con questo tratto comporta un attacco. Per ogni attacco effettuato
+oltre il primo del tuo turno, subisci una penalità da attacchi multipli.
