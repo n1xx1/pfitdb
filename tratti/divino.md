@@ -1,0 +1,10 @@
+---
+source: Manuale di Gioco, pag. TODO
+original-name: Divine
+original-srd: https://2e.aonprd.com/Traits.aspx?ID=48
+---
+
+# Divino
+
+Questa magia proviene dalla tradizione divina e attinge potere da divinità o
+fonti simili. Qualsiasi cosa con questo tratto è magica.

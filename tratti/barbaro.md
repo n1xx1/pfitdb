@@ -1,0 +1,10 @@
+---
+source: Manuale di Gioco, pag. TODO
+original-name: Barbarian
+original-srd: https://2e.aonprd.com/Traits.aspx?ID=18
+---
+
+# Barbaro
+
+Questo tratto indica le capacità legate alla classe del
+[barbaro](/classi/barbaro).
