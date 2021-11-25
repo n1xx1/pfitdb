@@ -10,7 +10,7 @@ In quanto parte di un clero, ti concentri sulla magia divina e sul legame con i
 domini della tua divinità.
 
 **Prima Dottrina (1°):** Acquisisci il talento da chierico
-[Iniziato del Dominio](/talenti/iniziato-del-dominio).
+[Iniziato del Dominio](/talenti/chierico/iniziato-del-dominio).
 
 **Seconda Dottrina (3°):** Raggiungi il grado esperto nei tiri salvezza su
 Tempra.

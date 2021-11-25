@@ -375,5 +375,5 @@ preparare un incantesimo utilizzando lanciare incantesimi divini. Non puoi usare
 questo slot incantesimo con capacità che permettano di lanciare incantesimi
 senza consumare slot o conferiscano ulteriori slot incantesimo. Avanzando di
 livello non ottieni altri slot di 10° livello, ma puoi acquisire il talento
-[Artefice di Miracoli](/talenti/artefice-di-miracoli) che conferisce un secondo
-slot.
+[Artefice di Miracoli](/talenti/chierico/artefice-di-miracoli) che conferisce un
+secondo slot.

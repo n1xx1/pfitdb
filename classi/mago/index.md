@@ -392,5 +392,5 @@ puoi usare questo slot incantesimo con capacità che permettano di lanciare
 incantesimi senza consumare slot o conferiscano ulteriori slot incantesimo. A
 differenza degli altri slot incantesimo, avanzando di livello non ottieni altri
 incantesimi di 10° livello, sebbene tu possa acquisire il talento
-[Potenza dell'Arcimago](/talenti/potenza-dell-arcimago) per ottenere un secondo
-slot.
+[Potenza dell'Arcimago](/talenti/mago/potenza-dell-arcimago) per ottenere un
+secondo slot.

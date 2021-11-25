@@ -149,9 +149,9 @@ potente, il tuo potere aumenterà drasticamente, con buona pace di chi non
 comprende questa strana scienza.
 
 Anche se non ne soddisfi i prerequisiti, acquisisci il talento
-[Fabbricare Oggetti Alchemici](/talenti/fabbricare-oggetti-alchemici) insieme
-alle 4 formule degli oggetti alchemici comuni di 1° livello conferite da esso.
-Puoi utilizzare questo talento per creare oggetti alchemici a patto che le
+[Fabbricare Oggetti Alchemici](/talenti/generici/fabbricare-oggetti-alchemici)
+insieme alle 4 formule degli oggetti alchemici comuni di 1° livello conferite da
+esso. Puoi utilizzare questo talento per creare oggetti alchemici a patto che le
 relative formule siano presenti nel tuo formulario.
 
 #### Reagenti Infusi
@@ -207,11 +207,8 @@ oggetti distintivi con un'altra formula nel tuo formulario. Questo nuovo oggetto
 distintivo deve essere nell'elenco dei possibili oggetti distintivi del tuo
 campo di ricerca.
 
-I campi di ricerca possono essere trovati qua:
-
-- [Bombarolo](/classi/alchimista/campi-di-ricerca/bombarolo)
-- [Cerusico](/classi/alchimista/campi-di-ricerca/cerusico)
-- [Mutagenista](/classi/alchimista/campi-di-ricerca/mutagenista)
+I campi di ricerca possono essere trovati
+[qua](/classi/alchimista/campi-di-ricerca).
 
 ### Competenze Iniziali
 
@@ -231,7 +228,7 @@ alchemici comuni al tuo formulario. Tali formule possono riguardare oggetti di
 livello pari o inferiore al livello di oggetti che sei in grado di creare.
 Impari queste formule automaticamente, ma è anche possibile trovare o acquistare
 altre formule negli insediamenti o da altri alchimisti, o inventarle con il
-talento [Inventore](/talenti/inventore).
+talento [Inventore](/talenti/generici/inventore).
 
 ### Stirpe e Background
 
