@@ -1,0 +1,11 @@
+---
+source: Manuale di Gioco, pag. TODO
+original-name: Healing
+original-srd: https://2e.aonprd.com/Traits.aspx?ID=89
+---
+
+# Guarigione
+
+Un effetto di guarigione ripristina il corpo di una creatura, in genere
+restituendole Punti Ferita, ma a volte rimuovendo malattie o altri effetti
+debilitanti.
