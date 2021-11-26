@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 86
 original-name: Animal Instinct
 original-srd: https://2e.aonprd.com/Instincts.aspx?ID=1
 ---
@@ -10,10 +10,10 @@ Quando ti Infuri vieni pervaso dall'impeto di un predatore selvaggio e sferri
 prodigiosi attacchi senz'armi. I barbari con questo istinto provengono da
 culture che venerano animali aggressivi (come orsi e scimmie). Forse lotti con
 un lato animalesco e incontrollabile della tua personalità, o potresti
-discendere da un lupo mannaro o da un altro licantropo. Scegli dalla Tabella
-3-3: Istinti Animali la bestia che meglio si adatta all'animale che hai scelto.
+discendere da un lupo mannaro o da un altro licantropo. Scegli dalla tabella
+seguente la bestia che meglio si adatta all'animale che hai scelto.
 
-## Table 3-3: Istinti Animali
+## Istinti Animali
 
 | Animale  | Attacco  | Danno  | Tratti                                                              |
 | -------- | -------- | ------ | ------------------------------------------------------------------- |

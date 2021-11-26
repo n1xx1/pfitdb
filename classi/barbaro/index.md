@@ -1,6 +1,6 @@
 ---
-source: Manuale di Gioco, pag. TODO
-original-name: Alchemist
+source: Manuale di Gioco, pag. 83
+original-name: Barbarian
 original-srd: https://2e.aonprd.com/Classes.aspx?ID=2
 ---
 
@@ -160,14 +160,7 @@ o fa parte della tua indole. L'istinto ti assegna una capacità, ti proibisce
 certi comportamenti, ti conferisce resistenze e incrementi dei danni ai livelli
 superiori e ti permette di scegliere talenti legati a esso.
 
-Gli istinti possono essere trovati qua:
-
-- [Istinto Animale](/classi/barbaro/istinti/istinto-animale)
-- [Istinto del Gigante](/classi/barbaro/istinti/istinto-del-gigante)
-- [Istinto dell'Ira](/classi/barbaro/istinti/istinto-dell-ira)
-- [Istinto Draconico](/classi/barbaro/istinti/istinto-draconico)
-- [Istinto Spirituale](/classi/barbaro/istinti/istinto-spirituale)
-- [Istinto Superstizioso](/classi/barbaro/istinti/istinto-superstizioso)
+Gli istinti possono essere trovati [qua](/classi/barbaro/istinti)
 
 ### Stirpe e Background
 
