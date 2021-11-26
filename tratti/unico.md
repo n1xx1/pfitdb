@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 639
 original-name: Unique
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=161
 ---

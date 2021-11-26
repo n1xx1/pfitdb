@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 635
 original-name: Negative
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=118
 ---

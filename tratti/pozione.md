@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 637
 original-name: Potion
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=130
 ---

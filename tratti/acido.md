@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 628
 original-name: Acid
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=3
 ---

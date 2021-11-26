@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 628
 original-name: Open
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=123
 ---

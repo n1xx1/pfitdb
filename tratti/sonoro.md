@@ -1,8 +1,8 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 638
 original-name: Sonic
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=147
-TODO:
+638:
   - riga sulle creature sonore
 ---
 

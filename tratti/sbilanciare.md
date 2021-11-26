@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 638
 original-name: Trip
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=196
 ---
