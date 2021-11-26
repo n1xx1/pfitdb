@@ -1,6 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
-category: equipaggiamenti-alchemici
+source: Manuale di Gioco, pag. 578
 original-name: Bottled Lightning
 original-srd: https://2e.aonprd.com/Equipment.aspx?ID=76
 ---

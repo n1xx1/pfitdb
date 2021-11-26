@@ -22,4 +22,4 @@ sfuggire a danni evidenti. Se lasciati incustoditi abbastanza a lungo, in genere
 1 minuto, i servitori con il tratto
 [privo di intelletto](/tratti/privo-di-intelletto) di solito non agiscono, gli
 [animali](/tratti/animale) seguono il loro istinto e i servitori intelligenti
-agiscono come vogliono. TODO: A minion can't control other creatures.
+agiscono come vogliono. Un servitore non può controllare altre creature.

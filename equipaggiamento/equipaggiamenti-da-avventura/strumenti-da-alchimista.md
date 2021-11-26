@@ -1,8 +1,9 @@
 ---
 source: Manuale di Gioco, pag. TODO
-category: equipaggiamenti-da-avventura
 original-name: Alchemist's Tools
 original-srd: https://2e.aonprd.com/Equipment.aspx?ID=2
+TODO:
+  - fix source
 ---
 
 # Strumenti da Alchimista - Oggetto 0
