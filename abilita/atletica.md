@@ -1,0 +1,115 @@
+---
+source: Manuale di Gioco, pag. 243
+original-name: Atletics
+original-srd: https://2e.aonprd.com/Skills.aspx?ID=3
+TODO:
+  - add table
+  - add actions
+---
+
+# Atletica (For)
+
+Atletica indica la tua prodezza fisica. Quando compi l'azione base
+[Sfuggire](/azioni/sfuggire), puoi usare il tuo modificatore di Atletica anziché
+il tuo modificatore di attacco senz'armi.
+
+### [Forzare](/azioni/forzare])
+
+### [Lottare](/azioni/lottare])
+
+### [Nuotare](/azioni/nuotare])
+
+<table>
+    <thead>
+        <tr>
+            <th></th>
+            <th colspan="2">Distanza con Scalare</th>
+            <th colspan="2">Distanza con Nuotare</th>
+        </tr>
+        <tr>
+            <th>Velocità</th>
+            <th>Successo</th>
+            <th>Critico</th>
+            <th>Successo</th>
+            <th>Critico</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>1,5-4,5 metri</td>
+            <td>5</td>
+            <td>5</td>
+            <td>5</td>
+            <td>10</td>
+        </tr> 
+        <tr>
+            <td>6-10,5 metri</td>
+            <td>5</td>
+            <td>10</td>
+            <td>10</td>
+            <td>15</td>
+        </tr> 
+        <tr>
+            <td>12-16,5 metri</td>
+            <td>10</td>
+            <td>15</td>
+            <td>15</td>
+            <td>20</td>
+        </tr> 
+        <tr>
+            <td>18-19,5 metri</td>
+            <td>15</td>
+            <td>20</td>
+            <td>20</td>
+            <td>25</td>
+        </tr>
+    </tbody>
+</table>
+
+### [Salto in Alto](/azioni/salto-in-alto])
+
+## Saltare
+
+Per Saltare in Alto e Saltare in Lungo si usa l'azione base Saltare. Saltare ti
+permette di compiere un balzo breve e accurato. Puoi Saltare fino a 3 metri in
+orizzontale se la tua Velocità è almeno 4,5 metri, o fino a 4,5 metri se la tua
+Velocità è almeno 9 metri. Atterri nello spazio in cui termina il tuo Salto
+(quindi puoi solitamente superare un varco di 1,5 metri se la tua Velocità è tra
+4,5 e 9 metri, o uno di 3 metri se la tua Velocità è 9 metri o superiore). Se
+Salti in verticale puoi muoverti di fino a 0,9 metri in verticale e 1,5 metri in
+orizzontale su una superficie rialzata.
+
+### [Salto in Lungo](/azioni/salto-in-lungo])
+
+### [Sbilanciare](/azioni/sbilanciare])
+
+### [Scalare](/azioni/scalare])
+
+> ### Cadere
+>
+> Se cadi per più di 1,5 metri subisci danni da caduta quando atterri: questi
+> sono un ammontare di danni contundenti pari a 1 per ogni 60 cm di cui sei
+> caduto. Se subisci danni cadendo, diventi [prono](/condizioni/prono) quando
+> atterri.
+>
+> Se cadi in acqua, sulla neve o su qualsiasi altra sostanza morbida, calcola i
+> danni come se la distanza dalla quale sei caduto fosse inferiore di 6 metri.
+> La riduzione non può essere maggiore della profondità dell'acqua (quindi se
+> cadi in un punto dove l'acqua è profonda 3 metri, considera la caduta come se
+> fosse stata più breve di 3 metri). Puoi
+> [Afferrare un Bordo](/azioni/afferrare-un-bordo) come reazione per ridurre o
+> azzerare i danni di alcune cadute.
+
+### [Spingere](/azioni/spingere])
+
+> ### Movimento Forzato
+>
+> L'azione Spingere può costringere una creatura a muoversi. Quando un effetto
+> ti costringe a muoverti, o se inizi a cadere, la distanza che percorri è
+> determinata dall'effetto che ti ha spostato, e non dalla tua Velocità. Poiché
+> non stai compiendo azioni per muoverti, ciò non conta ai fini delle reazioni
+> innescate dal movimento.
+
+## Azione con Addestramento di Atletica
+
+### [Disarmare](/azioni/disarmare])
