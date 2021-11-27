@@ -8,7 +8,7 @@ original-srd: https://2e.aonprd.com/Conditions.aspx?ID=31
 
 Giaci a terra. Sei [impreparato](/condizioni/impreparato) e hai penalità di
 circostanza -2 ai tiri per colpire. Le uniche azioni di movimento che puoi usare
-da prono sono [Andare a Carponi](/azioni/andare-a-carponi) e
+da prono sono [Andare Carponi](/azioni/andare-carponi) e
 [Alzarsi](/azioni/alzarsi). [Alzarsi](/azioni/alzarsi) pone fine alla condizione
 prono. Puoi [Andare in Copertura](/azioni/andare-in-copertura) da prono,
 appiattendoti e guadagnando copertura superiore contro gli attacchi a distanza,
