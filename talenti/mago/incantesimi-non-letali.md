@@ -5,7 +5,7 @@ original-name: Nonlethal Spell
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=1835
 ---
 
-# Incantesimi non Letali :a: - Talento 2
+# Incantesimi non Letali :1: - Talento 2
 
 Puoi modificare gli incantesimi offensivi per renderli meno letali. Se la tua
 prossima azione è Lanciare un Incantesimo che infligge danni e non ha il tratto

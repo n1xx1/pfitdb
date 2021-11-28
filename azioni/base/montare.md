@@ -5,7 +5,7 @@ original-name: Mount
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=96
 ---
 
-# Montare :a:
+# Montare :1:
 
 **Requisiti** Sei adiacente a una creatura più grande di te almeno di una taglia
 e consenziente a farti da cavalcatura.

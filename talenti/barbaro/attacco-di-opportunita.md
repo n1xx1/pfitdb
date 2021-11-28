@@ -5,7 +5,7 @@ original-name: Attack of Opportunity
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=145
 ---
 
-# Attacco di Opportunità :r: - Talento 6
+# Attacco di Opportunità :R: - Talento 6
 
 **Innesco** Una creatura entro la tua portata utilizza un'azione con il tratto
 [maneggiare](/tratti/maneggiare) o un'azione di movimento, effettua un attacco a

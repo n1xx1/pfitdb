@@ -5,7 +5,7 @@ original-name: No Escape
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=137
 ---
 
-# Nessuna Fuga :r: - Talento 2
+# Nessuna Fuga :R: - Talento 2
 
 **Innesco** Un nemico entro portata tenta di allontanarsi da te.
 

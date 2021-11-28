@@ -5,7 +5,7 @@ original-name: Shake it Off
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=139
 ---
 
-# Scrollarsi di Dosso :a: - Talento 2
+# Scrollarsi di Dosso :1: - Talento 2
 
 Ti concentri sulla rabbia per superare la paura e ignorare la nausea. Riduci di
 1 il valore della condizione [spaventato](/condizioni/spaventato) ed effettui un

@@ -5,7 +5,7 @@ original-name: Sense Motive
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=85
 ---
 
-# Intuire :a:
+# Intuire :1:
 
 Cerchi di capire se il comportamento di una creatura è anormale. Scegli una
 creatura e la esamini in cerca di linguaggio non verbale inconsueto, segni di

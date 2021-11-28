@@ -5,7 +5,7 @@ original-name: Mutagenic Flashback
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=340
 ---
 
-# Richiamo Mutagenico :f:
+# Richiamo Mutagenico :G:
 
 **Frequenza** una volta al giorno
 

@@ -8,9 +8,12 @@ original-srd: TODO
 
 # Goblin Combattente
 
-I guerrieri che costituiscono la prima linea delle tribù goblin preferiscono combattere in gruppi numerosi, specialmente se sono almeno il triplo degli avversari.
+I guerrieri che costituiscono la prima linea delle tribù goblin preferiscono
+combattere in gruppi numerosi, specialmente se sono almeno il triplo degli
+avversari.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**: CD 13
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+CD 13
 
 ## Goblin Combattente - Creatura -1
 
@@ -24,18 +27,22 @@ I guerrieri che costituiscono la prima linea delle tribù goblin preferiscono co
 
 **Oggetti** affettacani, arco corto (10 frecce), armatura di cuoio
 
-***
+---
 
 **CA** 16; **Temp** +5, **Rifl** +7, **Vol** +3
 
 **PF** 6
 
-**Scatto Goblin :r: Innesco** Un goblin alleato termina un'azione di [movimento](/tratti/movimento) adiacente al combattente. **Effetto** Il goblin combattente fa un [Passo](/azioni/passo).
+**Scatto Goblin :R: Innesco** Un goblin alleato termina un'azione di
+[movimento](/tratti/movimento) adiacente al combattente. **Effetto** Il goblin
+combattente fa un [Passo](/azioni/passo).
 
-***
+---
 
 **Velocità** 7.5 metri
 
-**Mischia** :a: affettacani +8 \[+4/+0] ([accurata](/tratti/accurata), [agile](/tratti/agile), [vile](/tratti/vile)), **Danni** 1d6 taglienti
+**Mischia** :1: affettacani +8 \[+4/+0] ([accurata](/tratti/accurata),
+[agile](/tratti/agile), [vile](/tratti/vile)), **Danni** 1d6 taglienti
 
-**Distanza** :a: arco corto +8 \[+3/-2] (incremento di gittata 18 metri, [micidiale 1d10](/tratti/micidiale), ricarica 0), **Danni** 1d6 perforanti
+**Distanza** :1: arco corto +8 \[+3/-2] (incremento di gittata 18 metri,
+[micidiale 1d10](/tratti/micidiale), ricarica 0), **Danni** 1d6 perforanti

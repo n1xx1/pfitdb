@@ -5,7 +5,7 @@ original-name: Silent Spell
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=644
 ---
 
-# Incantesimi Silenziosi :a: - Talento 4
+# Incantesimi Silenziosi :1: - Talento 4
 
 **Prerequisiti** [Incantesimi Celati](/talenti/mago/incantesimi-celati)
 

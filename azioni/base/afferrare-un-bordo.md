@@ -5,7 +5,7 @@ original-name: Grab an Edge
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=95
 ---
 
-# Afferrare un Bordo :r:
+# Afferrare un Bordo :R:
 
 **Innesco** Cadi da un cornicione o durante la caduta superi un appiglio.
 

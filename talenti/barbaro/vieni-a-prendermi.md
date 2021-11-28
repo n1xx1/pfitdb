@@ -5,7 +5,7 @@ original-name: Come and Get Me
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=157
 ---
 
-# Vieni a Prendermi :a: - Talento 10
+# Vieni a Prendermi :1: - Talento 10
 
 Ti esponi a subire attacchi così da poter contrattaccare. Sei
 [impreparato](/condizioni/impreparato) finché non termina la furia; inoltre, ai

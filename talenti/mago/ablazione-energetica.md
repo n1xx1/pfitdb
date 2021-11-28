@@ -5,7 +5,7 @@ original-name: Energy Ablation
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=1834
 ---
 
-# Ablazione Energetica :a: - Talento 2
+# Ablazione Energetica :1: - Talento 2
 
 Quando lanci incantesimi di energia, conservi parte di quell'energia come
 barriera protettiva. Se la tua prossima azione è Lanciare un Incantesimo che

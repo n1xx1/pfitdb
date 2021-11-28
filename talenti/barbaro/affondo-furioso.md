@@ -5,7 +5,7 @@ original-name: Furious Finish
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=136
 ---
 
-# Affondo Furioso :a: - Talento 2
+# Affondo Furioso :1: - Talento 2
 
 Concentri tutta la tua rabbia in un ultimo assalto disperato per metter fine
 allo scontro. Colpisci: se l'attacco va a segno, ottieni bonus di circostanza ai

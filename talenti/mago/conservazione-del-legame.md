@@ -5,7 +5,7 @@ original-name: Bond Conservation
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=648
 ---
 
-# Conservazione del Legame :a: - Talento 8
+# Conservazione del Legame :1: - Talento 8
 
 **Prerequisiti** legame arcano
 

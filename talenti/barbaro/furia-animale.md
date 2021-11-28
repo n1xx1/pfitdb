@@ -6,7 +6,7 @@ original-name: Animal Rage
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=151
 ---
 
-# Furia Animale :a: - Talento 8
+# Furia Animale :1: - Talento 8
 
 **Requisiti** Non hai utilizzato questa capacità dall'ultima volta che ti sei
 infuriato.

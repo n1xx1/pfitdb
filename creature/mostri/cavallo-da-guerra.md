@@ -8,9 +8,12 @@ original-srd: TODO
 
 # Cavallo da Guerra
 
-*(Nota dell'Archivio: questa creatura non ha una descrizione separata all'interno del manuale. Vedi a fondo pagina per informazioni sulla categoria rilevante.)*
+_(Nota dell'Archivio: questa creatura non ha una descrizione separata
+all'interno del manuale. Vedi a fondo pagina per informazioni sulla categoria
+rilevante.)_
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD 16
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
+16
 
 ## Cavallo da Guerra - Creatura 2
 
@@ -20,18 +23,19 @@ original-srd: TODO
 
 **For** +5, **Des** +3, **Cos** +4, **Int** -4, **Sag** +2, **Car** -2
 
-***
+---
 
 **CA** 17; **Temp** +8, **Rifl** +7, **Vol** +6
 
 **PF** 36
 
-**Disarcionare** :r: CD 17
+**Disarcionare** :R: CD 17
 
-***
+---
 
 **Velocità** 12 metri
 
-**Mischia** :a: zoccolo +9 \[+4/-1], **Danni** 1d6+5 contundenti
+**Mischia** :1: zoccolo +9 \[+4/-1], **Danni** 1d6+5 contundenti
 
-**Galoppo** :aa:  Il cavallo da guerra [Avanza](/azioni/avanzare) due volte. Ottiene bonus di circostanza +3 metri alla sua Velocità durante queste Avanzate.
+**Galoppo** :2: Il cavallo da guerra [Avanza](/azioni/avanzare) due volte.
+Ottiene bonus di circostanza +3 metri alla sua Velocità durante queste Avanzate.

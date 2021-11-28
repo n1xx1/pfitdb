@@ -8,9 +8,12 @@ original-srd: TODO
 
 # Gnomo delle Profondità Combattente
 
-Gli gnomi delle profondità combattenti non esitano a lanciarsi in battaglia, ma se possono scegliere preferiscono tattiche finalizzate alla sicurezza dei concittadini e dell'insediamento, più che alla distruzione dell'avversario.
+Gli gnomi delle profondità combattenti non esitano a lanciarsi in battaglia, ma
+se possono scegliere preferiscono tattiche finalizzate alla sicurezza dei
+concittadini e dell'insediamento, più che alla distruzione dell'avversario.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**: CD 16
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+CD 16
 
 ## Gnomo delle Profondità Combattente - Creatura 2
 
@@ -22,24 +25,28 @@ Gli gnomi delle profondità combattenti non esitano a lanciarsi in battaglia, ma
 
 **For** +4, **Des** +2, **Cos** +3, **Int** +0, **Sag** +1, **Car** -1
 
-**Oggetti** armatura di cuoio borchiato, balestra pesante (20 quadrelli), lancia, scudo d'acciaio (Durezza 5, PF 20, SR 10)
+**Oggetti** armatura di cuoio borchiato, balestra pesante (20 quadrelli),
+lancia, scudo d'acciaio (Durezza 5, PF 20, SR 10)
 
-***
+---
 
-**CA** 18 (20 con lo scudo [alzato](/azioni/alzare-lo-scudo)); **Temp** +9, **Rifl** +8, **Vol** +5
+**CA** 18 (20 con lo scudo [alzato](/azioni/alzare-lo-scudo)); **Temp** +9,
+**Rifl** +8, **Vol** +5
 
 **PF** 34
 
-**Attacco di Opportunità:r:**
+**Attacco di Opportunità:R:**
 
-**Parare con lo Scudo** :r:
+**Parare con lo Scudo** :R:
 
-***
+---
 
 **Velocità** 6 metri
 
-**Mischia** :a: lancia +10 \[+5/+0], **Danni** 1d6+4 perforanti
+**Mischia** :1: lancia +10 \[+5/+0], **Danni** 1d6+4 perforanti
 
-**Distanza** :a: balestra pesante +8 \[+3/-2] (incremento di gittata 36 metri, ricarica 2), **Danni** 1d10 perforanti
+**Distanza** :1: balestra pesante +8 \[+3/-2] (incremento di gittata 36 metri,
+ricarica 2), **Danni** 1d10 perforanti
 
-**Incantesimi Innati Primevi** CD 15; **1°** *[camuffamento illusorio](/incantesimi/camuffamento-illusorio)*
+**Incantesimi Innati Primevi** CD 15; **1°**
+_[camuffamento illusorio](/incantesimi/camuffamento-illusorio)_

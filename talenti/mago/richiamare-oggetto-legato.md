@@ -5,7 +5,7 @@ original-name: Call Bonded Item
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=1836
 ---
 
-# Richiamare Oggetto Legato :a: - Talento 4
+# Richiamare Oggetto Legato :1: - Talento 4
 
 **Prerequisiti** legame arcano
 

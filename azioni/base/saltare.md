@@ -5,7 +5,7 @@ original-name: Leap
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=81
 ---
 
-# Saltare :a:
+# Saltare :1:
 
 **Innesco** Il tuo turno inizia.
 

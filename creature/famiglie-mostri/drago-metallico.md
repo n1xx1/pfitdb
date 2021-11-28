@@ -27,7 +27,7 @@ primigeni che si librano tra le stelle.
 
 Alcuni draghi possono assumere forma umanoide e infiltrarsi negli insediamenti o
 influenzare particolari individui senza rivelare la loro identità. Questi draghi
-ottengono la seguente capacità: **Cambiare Forma** :a:
+ottengono la seguente capacità: **Cambiare Forma** :1:
 ([arcano](/tratti/arcano), [concentrazione](/tratti/concentrazione),
 [metamorfosi](/tratti/metamorfosi), [trasmutazione](/tratti/trasmutazione)) Il
 drago può assumere l'aspetto di qualsiasi umanoide di taglia Piccola o Media.

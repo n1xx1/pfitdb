@@ -6,7 +6,7 @@ original-name: Dragon Transformation
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=172
 ---
 
-# Trasformazione Draconica :a: - Talento 16
+# Trasformazione Draconica :1: - Talento 16
 
 **Prerequisiti**:
 [istinto draconico](/classi/barbaro/istinti/istinto-draconico),

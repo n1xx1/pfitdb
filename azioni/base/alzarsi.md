@@ -5,6 +5,6 @@ original-name: Stand
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=86
 ---
 
-# Alzarsi :a:
+# Alzarsi :1:
 
 Ti alzi da [prono](/condizioni/prono).

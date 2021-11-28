@@ -5,7 +5,7 @@ original-name: Swipe
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=142
 ---
 
-# Fendente Poderoso :aa: - Talento 4
+# Fendente Poderoso :2: - Talento 4
 
 Sferri un ampio fendente ad arco. Colpisci in mischia una volta e confronti il
 risultato del tiro per colpire con la CA di un massimo di due nemici, entrambi

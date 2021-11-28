@@ -5,7 +5,7 @@ original-name: Point Out
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=97
 ---
 
-# Indicare :a:
+# Indicare :1:
 
 **Requisiti** Una creatura è [non individuata](/condizioni/non-individuato) da
 uno o più tuoi alleati, ma non è [non individuata](/condizioni/non-individuato)

@@ -5,7 +5,7 @@ original-name: Arrest a Fall
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=91
 ---
 
-# Arrestare una Caduta :r:
+# Arrestare una Caduta :R:
 
 **Innesco** Cadi.
 

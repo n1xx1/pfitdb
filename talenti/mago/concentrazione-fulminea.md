@@ -5,7 +5,7 @@ original-name: Effortless Concentration
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=206
 ---
 
-# Concentrazione Fulminea :f: - Talento 16
+# Concentrazione Fulminea :G: - Talento 16
 
 **Innesco** Inizia il tuo turno.
 

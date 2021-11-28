@@ -8,9 +8,14 @@ original-srd: TODO
 
 # Goblin Guerrigliero
 
-In teoria i guerriglieri hanno il compito di guidare gli altri goblin durante le scorribande. In realtà, una volta iniziata la battaglia, è raro che i guerriglieri continuino a svolgere il loro compito. La maggior parte di essi tradisce il proprio mandato e si tuffa nella mischia, in cerca di approvazione da parte degli altri membri delle tribù di Golarion.
+In teoria i guerriglieri hanno il compito di guidare gli altri goblin durante le
+scorribande. In realtà, una volta iniziata la battaglia, è raro che i
+guerriglieri continuino a svolgere il loro compito. La maggior parte di essi
+tradisce il proprio mandato e si tuffa nella mischia, in cerca di approvazione
+da parte degli altri membri delle tribù di Golarion.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**: CD 15
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+CD 15
 
 ## Goblin Guerrigliero - Creatura 1
 
@@ -24,18 +29,23 @@ In teoria i guerriglieri hanno il compito di guidare gli altri goblin durante le
 
 **Oggetti** arco corto (20 frecce), armatura di cuoio, squartacavalli
 
-***
+---
 
 **CA** 17; **Temp** +7, **Rifl** +8, **Vol** +5
 
 **PF** 18
 
-**Scatto Goblin :r: Innesco** Un goblin alleato termina un'azione di [movimento](/tratti/movimento) adiacente al guerrigliero. **Effetto** Il goblin guerrigliero fa un [Passo](/azioni/passo).
+**Scatto Goblin :R: Innesco** Un goblin alleato termina un'azione di
+[movimento](/tratti/movimento) adiacente al guerrigliero. **Effetto** Il goblin
+guerrigliero fa un [Passo](/azioni/passo).
 
-***
+---
 
 **Velocità** 7,5 metri
 
-**Mischia** :a: squartacavalli +8 \[+3/-2] ([portata](/tratti/portata) 3 metri, [sbilanciare](/tratti/sbilanciare), [versatile P](/tratti/versatile)), **Danni** 1d8+3 taglienti
+**Mischia** :1: squartacavalli +8 \[+3/-2] ([portata](/tratti/portata) 3 metri,
+[sbilanciare](/tratti/sbilanciare), [versatile P](/tratti/versatile)), **Danni**
+1d8+3 taglienti
 
-**Distanza** :a: arco corto +8 \[+3/-2] (incremento di gittata 18 metri, [micidiale 1d10](/tratti/micidiale), ricarica 0), **Danni** 1d6 perforanti
+**Distanza** :1: arco corto +8 \[+3/-2] (incremento di gittata 18 metri,
+[micidiale 1d10](/tratti/micidiale), ricarica 0), **Danni** 1d6 perforanti

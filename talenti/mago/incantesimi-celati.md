@@ -5,7 +5,7 @@ original-name: Conceal Spell
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=640
 ---
 
-# Incantesimi Celati :a: - Talento 2
+# Incantesimi Celati :1: - Talento 2
 
 Dissimulando gesti e cantilene fra altre parole e movimenti, tenti di nascondere
 il fatto che stai Lanciando un Incantesimo. Se con la tua azione successiva

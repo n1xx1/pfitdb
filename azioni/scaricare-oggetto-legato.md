@@ -5,7 +5,7 @@ original-name: Drain Bonded Item
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=13
 ---
 
-# Scaricare Oggetto Legato :f:
+# Scaricare Oggetto Legato :G:
 
 **Frequenza** una volta al giorno
 

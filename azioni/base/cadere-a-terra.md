@@ -5,6 +5,6 @@ original-name: Drop Prone
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=78
 ---
 
-# Cadere a Terra :a:
+# Cadere a Terra :1:
 
 Cadi a terra [prono](/condizioni/prono).

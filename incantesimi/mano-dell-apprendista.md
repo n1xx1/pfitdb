@@ -7,7 +7,7 @@ original-srd: https://2e.aonprd.com/Spells.aspx?ID=530
 
 # Mano dell'Apprendista - Focalizzato 1
 
-**Lancio** :a: somatico
+**Lancio** :1: somatico
 
 **Raggio** 150 metri; **Bersagli** 1 creatura
 

@@ -5,7 +5,7 @@ original-name: Avert Gaze
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=92
 ---
 
-# Evitare lo Sguardo :a:
+# Evitare lo Sguardo :1:
 
 Distogli lo sguardo dal pericolo. Ottieni bonus di circostanza +2 ai tiri
 salvezza contro capacità visive che ti richiedono di guardare una creatura o

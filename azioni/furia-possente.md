@@ -5,7 +5,7 @@ original-name: Mighty Rage
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=4
 ---
 
-# Furia Possente :f:
+# Furia Possente :G:
 
 **Innesco** Utilizzi l'azione Infuriarsi nel tuo turno.
 

@@ -5,7 +5,7 @@ original-name: Terrifying Howl
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=161
 ---
 
-# Grido Terrificante :a: - Talento 10
+# Grido Terrificante :1: - Talento 10
 
 **Prerequisiti**
 [Sguardo Intimidatorio](/talenti/generici/sguardo-intimidatorio).

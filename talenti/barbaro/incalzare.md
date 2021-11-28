@@ -5,7 +5,7 @@ original-name: Cleave
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=147
 ---
 
-# Incalzare :r: - Talento 6
+# Incalzare :R: - Talento 6
 
 **Innesco** Il tuo Colpo in mischia uccide o rende
 [priva di sensi](/condizioni/privo-di-sensi) una creatura adiacente a un altro

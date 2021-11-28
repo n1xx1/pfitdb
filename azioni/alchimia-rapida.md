@@ -5,7 +5,7 @@ original-name: Quick Alchemy
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=2
 ---
 
-# Alchimia Rapida :a:
+# Alchimia Rapida :1:
 
 **Costo** 1 partita di reagenti infusi
 

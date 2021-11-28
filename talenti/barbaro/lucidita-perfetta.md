@@ -5,7 +5,7 @@ original-name: Perfect Clarity
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=175
 ---
 
-# Lucidità Perfetta :r: - Talento 18
+# Lucidità Perfetta :R: - Talento 18
 
 **Innesco** Ottieni un fallimento o fallimento critico in un tiro per colpire o
 un tiro salvezza su Volontà.

@@ -5,7 +5,7 @@ original-name: Delay
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=77
 ---
 
-# Ritardare :f:
+# Ritardare :G:
 
 **Innesco** Il tuo turno inizia.
 

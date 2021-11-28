@@ -5,7 +5,7 @@ original-name: Strike
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=89
 ---
 
-# Colpire :a:
+# Colpire :1:
 
 Attacchi con un'arma che impugni o con un attacco senz'armi, prendendo a
 bersaglio una singola creatura entro la tua portata (per un attacco in mischia)

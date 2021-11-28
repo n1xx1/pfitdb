@@ -5,7 +5,7 @@ original-name: Glimpse of Redemption
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=6
 ---
 
-# Barlume di Redenzione :r:
+# Barlume di Redenzione :R:
 
 **Innesco** Un nemico danneggia un tuo alleato ed entrambi si trovano entro 4,5
 metri da te.

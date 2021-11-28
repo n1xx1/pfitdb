@@ -5,7 +5,7 @@ original-name: Fly
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=94
 ---
 
-# Volare :a:
+# Volare :1:
 
 **Requisiti** Hai una Velocità di volare.
 

@@ -5,7 +5,7 @@ original-name: Escape
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=79
 ---
 
-# Sfuggire :a:
+# Sfuggire :1:
 
 Tenti di sfuggire mentre sei [afferrato](/condizioni/afferrato),
 [immobilizzato](/condizioni/immobilizzato) o

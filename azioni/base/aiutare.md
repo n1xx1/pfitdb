@@ -5,7 +5,7 @@ original-name: Aid
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=75
 ---
 
-# Aiutare :r:
+# Aiutare :R:
 
 **Innesco** Un alleato sta per usare un'azione che richiede una prova di abilità
 o un tiro per colpire.

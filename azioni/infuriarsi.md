@@ -5,7 +5,7 @@ original-name: Rage
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=3
 ---
 
-# Infuriarsi :a:
+# Infuriarsi :1:
 
 **Requisiti** Non sei affaticato o infuriato.
 

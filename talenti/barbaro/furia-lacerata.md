@@ -5,7 +5,7 @@ original-name: Wounded Rage
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=143
 ---
 
-# Furia Lacerata :r: - Talento 4
+# Furia Lacerata :R: - Talento 4
 
 **Innesco** Subisci danni e sei in grado di infuriarti.
 

@@ -5,7 +5,7 @@ original-name: Selfish Shield
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=553
 ---
 
-# Scudo Egoista :r:
+# Scudo Egoista :R:
 
 **Innesco** Un nemico entro 4,5 metri ti danneggia.
 

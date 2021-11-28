@@ -5,7 +5,7 @@ original-name: Craw;
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=86
 ---
 
-# Andare Carponi :a:
+# Andare Carponi :1:
 
 **Requisiti** Sei [prono](/condizioni/prono) e la tua Velocità è almeno 3 metri.
 

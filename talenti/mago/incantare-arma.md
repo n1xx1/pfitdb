@@ -5,7 +5,7 @@ original-name: Bespell Weapon
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=610
 ---
 
-# Incantare Arma :f: - Talento 4
+# Incantare Arma :G: - Talento 4
 
 **Frequenza** una volta per turno
 

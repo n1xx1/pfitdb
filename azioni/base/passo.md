@@ -5,7 +5,7 @@ original-name: Step
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=87
 ---
 
-# Passo :a:
+# Passo :1:
 
 **Requisiti** La tua Velocità è almeno 3 metri.
 

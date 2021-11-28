@@ -5,7 +5,7 @@ original-name: Renewed Vigor
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=153
 ---
 
-# Vigore Rinnovato :a: - Talento 8
+# Vigore Rinnovato :1: - Talento 8
 
 **Prerequisiti** maestro in [Atletica](/abilita/atletica).
 

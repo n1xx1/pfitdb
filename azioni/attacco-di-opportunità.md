@@ -4,7 +4,7 @@ original-name: Attack of Opportunity
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=8
 ---
 
-# Attacco di Opportunità :r:
+# Attacco di Opportunità :R:
 
 **Innesco** Una creatura entro la tua portata utilizza un'azione con il tratto
 maneggiare o un'azione di movimento, effettua un attacco a distanza o esce da un

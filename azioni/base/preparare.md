@@ -5,7 +5,7 @@ original-name: Ready
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=82
 ---
 
-# Preparare :aa:
+# Preparare :2:
 
 Ti prepari a usare un'azione che avverrà al di fuori del tuo turno. Scegli
 un'azione singola o gratuita che puoi usare e indica un innesco. Poi il tuo

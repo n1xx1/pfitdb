@@ -5,7 +5,7 @@ original-name: Liberating Step
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=7
 ---
 
-# Passo del Liberatore :r:
+# Passo del Liberatore :R:
 
 **Innesco** Un nemico danneggia, [Afferra](/azioni/afferrare) o
 [Lotta](/azioni/lottare) con un tuo alleato, ed entrambi si trovano entro 4,5

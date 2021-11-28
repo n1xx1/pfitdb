@@ -5,7 +5,7 @@ original-name: Retributive Strike
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=5
 ---
 
-# Colpo Punitivo :r:
+# Colpo Punitivo :R:
 
 **Innesco** Un nemico danneggia un tuo alleato ed entrambi si trovano entro 4,5
 metri da te.

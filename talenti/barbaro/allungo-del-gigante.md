@@ -5,7 +5,7 @@ original-name: Giant's Lunge
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=168
 ---
 
-# Allungo del Gigante :a: - Talento 14
+# Allungo del Gigante :1: - Talento 14
 
 **Prerequisiti**
 [istinto del gigante](/classi/barbaro/istinti/istinto-del-gigante)

@@ -5,7 +5,7 @@ original-name: Quickened Casting
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=199
 ---
 
-# Lancio Accelerato :f: - Talento 10
+# Lancio Accelerato :G: - Talento 10
 
 **Frequenza** una volta al giorno
 

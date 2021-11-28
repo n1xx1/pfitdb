@@ -5,7 +5,7 @@ original-name: Expeditious Inspection
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=548
 ---
 
-# Ispezione Rapida :f:
+# Ispezione Rapida :G:
 
 **Frequenza** una volta ogni 10 minuti
 

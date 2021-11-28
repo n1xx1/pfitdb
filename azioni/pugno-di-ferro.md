@@ -5,7 +5,7 @@ original-name: Iron Command
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=552
 ---
 
-# Pugno di Ferro :r:
+# Pugno di Ferro :R:
 
 **Innesco** Un nemico entro 4,5 metri ti danneggia.
 

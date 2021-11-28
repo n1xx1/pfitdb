@@ -5,7 +5,7 @@ original-name: Burrow
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=93
 ---
 
-# Scavare :a:
+# Scavare :1:
 
 **Requisiti** Hai una Velocità di scavare.
 

@@ -5,7 +5,7 @@ original-name: Master Strike
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=12
 ---
 
-# Colpo Magistrale :f:
+# Colpo Magistrale :G:
 
 **Innesco** Il tuo Colpo va a segno contra una creatura impreparata e infligge
 danni.

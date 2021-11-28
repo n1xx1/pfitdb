@@ -5,7 +5,7 @@ original-name: Raise a Shield
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=98
 ---
 
-# Alzare lo Scudo :a:
+# Alzare lo Scudo :1:
 
 **Requisiti** Impugni uno scudo.
 

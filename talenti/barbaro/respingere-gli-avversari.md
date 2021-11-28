@@ -5,7 +5,7 @@ original-name: Knockback
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=160
 ---
 
-# Respingere gli Avversari :a: - Talento 10
+# Respingere gli Avversari :1: - Talento 10
 
 **Requisiti** La tua ultima azione è stata un Colpo a segno.
 

@@ -5,7 +5,7 @@ original-name: Seek
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=84
 ---
 
-# Individuare :a:
+# Individuare :1:
 
 Cerchi segni di creature o oggetti in un'area. Se stai cercando creature, scegli
 un'area da perlustrare. Se è necessaria una certa precisione, il GM può farti

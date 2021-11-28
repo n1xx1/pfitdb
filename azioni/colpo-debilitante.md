@@ -5,7 +5,7 @@ original-name: Debilitating Strike
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=11
 ---
 
-# Colpo Debilitante :f:
+# Colpo Debilitante :G:
 
 **Innesco** Il tuo Colpo va a segno contra una creatura impreparata e infligge
 danni.

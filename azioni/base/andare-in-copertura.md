@@ -5,7 +5,7 @@ original-name: Take Cover
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=90
 ---
 
-# Andare in Copertura :a:
+# Andare in Copertura :1:
 
 **Requisiti** Benefici della copertura, o sei nei pressi di un elemento che ti
 consente di andare in copertura, o sei [prono](/condizioni/prono).

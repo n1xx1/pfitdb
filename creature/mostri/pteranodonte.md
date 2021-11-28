@@ -8,9 +8,13 @@ original-srd: TODO
 
 # Pteranodonte
 
-Gli pteranodonti sono rettili veloci e agili la cui apertura alare di 6 metri e passa consente loro di sfruttare le correnti ascensionali e di fluttuare per ore. Queste creature sono dotate di lunghi becchi e di creste altrettanto vistose, che si protendono dalla loro nuca.
+Gli pteranodonti sono rettili veloci e agili la cui apertura alare di 6 metri e
+passa consente loro di sfruttare le correnti ascensionali e di fluttuare per
+ore. Queste creature sono dotate di lunghi becchi e di creste altrettanto
+vistose, che si protendono dalla loro nuca.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD 16
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
+16
 
 ## Pteranodonte - Creatura 2
 
@@ -20,16 +24,18 @@ Gli pteranodonti sono rettili veloci e agili la cui apertura alare di 6 metri e 
 
 **For** +3, **Des** +4, **Cos** +1, **Int** -4, **Sag** +2, **Car** +1
 
-***
+---
 
 **CA** 18; **Temp** +7, **Rifl** +10, **Vol** +6
 
 **PF** 35
 
-***
+---
 
 **Velocità** 3 metri, volare 12 metri
 
-**Mischia** :a: becco +10 \[+5/+0], **Danni** 1d10+3 perforanti
+**Mischia** :1: becco +10 \[+5/+0], **Danni** 1d10+3 perforanti
 
-**Planata** :aa:  Lo pteranodonte [Vola](/azioni/volare) fino alla sua Velocità di volare ed effettua un [Colpo](/azioni/colpire) con il becco in un qualsiasi punto durante quel movimento.
+**Planata** :2: Lo pteranodonte [Vola](/azioni/volare) fino alla sua Velocità di
+volare ed effettua un [Colpo](/azioni/colpire) con il becco in un qualsiasi
+punto durante quel movimento.

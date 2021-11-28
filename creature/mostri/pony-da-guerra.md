@@ -8,9 +8,12 @@ original-srd: TODO
 
 # Pony da Guerra
 
-*(Nota dell'Archivio: questa creatura non ha una descrizione separata all'interno del manuale. Vedi a fondo pagina per informazioni sulla categoria rilevante.)*
+_(Nota dell'Archivio: questa creatura non ha una descrizione separata
+all'interno del manuale. Vedi a fondo pagina per informazioni sulla categoria
+rilevante.)_
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD 15
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
+15
 
 ## Pony da Guerra - Creatura 1
 
@@ -20,18 +23,19 @@ original-srd: TODO
 
 **For** +4, **Des** +4, **Cos** +3, **Int** -4, **Sag** +2, **Car** +0
 
-***
+---
 
 **CA** 16; **Temp** +8, **Rifl** +7, **Vol** +5
 
 **PF** 20
 
-**Disarcionare** :r: CD 16
+**Disarcionare** :R: CD 16
 
-***
+---
 
 **Velocità** 10,5 metri
 
-**Mischia** :a: zoccolo +7 \[+2/-3], **Danni** 1d4+4 contundenti
+**Mischia** :1: zoccolo +7 \[+2/-3], **Danni** 1d4+4 contundenti
 
-**Galoppo** :aa:  Il pony da guerra [Avanza](/azioni/avanzare) due volte. Ottiene bonus di circostanza +3 metri alla sua Velocità durante queste Avanzate.
+**Galoppo** :2: Il pony da guerra [Avanza](/azioni/avanzare) due volte. Ottiene
+bonus di circostanza +3 metri alla sua Velocità durante queste Avanzate.

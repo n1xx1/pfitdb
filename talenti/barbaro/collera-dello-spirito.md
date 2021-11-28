@@ -5,7 +5,7 @@ original-name: Spirit's Wrath
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=165
 ---
 
-# Collera dello Spirito :a: - Talento 12
+# Collera dello Spirito :1: - Talento 12
 
 **Prerequisiti**
 [istinto spirituale](/classi/barbaro/istinti/istinto-spirituale)

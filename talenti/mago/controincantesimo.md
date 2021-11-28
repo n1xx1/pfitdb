@@ -5,7 +5,7 @@ original-name: Counterspell
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=633
 ---
 
-# Controincantesimo :r: - Talento 1
+# Controincantesimo :R: - Talento 1
 
 **Innesco** Una creatura Lancia un Incantesimo che hai preparato.
 

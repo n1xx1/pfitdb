@@ -5,6 +5,6 @@ original-name: Stride
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=88
 ---
 
-# Avanzare :a:
+# Avanzare :1:
 
 Avanzi fino a un massimo della tua Velocità.

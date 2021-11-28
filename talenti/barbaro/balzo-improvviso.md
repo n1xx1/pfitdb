@@ -5,7 +5,7 @@ original-name: Sudden Leap
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=155
 ---
 
-# Balzo Improvviso :aa: - Talento 8
+# Balzo Improvviso :2: - Talento 8
 
 **Prerequisiti**
 [istinto del gigante](/classi/barbaro/istinti/istinto-del-gigante)

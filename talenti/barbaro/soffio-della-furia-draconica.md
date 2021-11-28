@@ -5,7 +5,7 @@ original-name: Dragon's Rage Breath
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=148
 ---
 
-# Soffio della Furia Draconica :aa: - Talento 6
+# Soffio della Furia Draconica :2: - Talento 6
 
 **Prerequisiti** [istinto draconico](/classi/barbaro/istinti/istinto-draconico)
 

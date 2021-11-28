@@ -5,7 +5,7 @@ original-name: Flurry of Blows
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=9
 ---
 
-# Cacciare la Preda :a:
+# Cacciare la Preda :1:
 
 ---
 

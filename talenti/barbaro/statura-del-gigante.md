@@ -5,7 +5,7 @@ original-name: Giant's Stature
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=149
 ---
 
-# Statura del Gigante :a: - Talento 6
+# Statura del Gigante :1: - Talento 6
 
 **Prerequisiti**
 [istinto del gigante](/classi/barbaro/istinti/istinto-del-gigante)

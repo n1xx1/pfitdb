@@ -5,7 +5,7 @@ original-name: Flurry of Blows
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=9
 ---
 
-# Raffica di Colpi :a:
+# Raffica di Colpi :1:
 
 ---
 

@@ -5,7 +5,7 @@ original-name: Predator's Pounce
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=164
 ---
 
-# Balzo del Predatore :a: - Talento 12
+# Balzo del Predatore :1: - Talento 12
 
 **Prerequisiti** [istinto animale](/classi/barbaro/istinti/istinto-animale)
 **Requisiti** Non indossi armatura o ne indossi una leggera.

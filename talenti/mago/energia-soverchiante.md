@@ -5,7 +5,7 @@ original-name: Overwhelming Energy
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=337
 ---
 
-# Energia Soverchiante :a: - Talento 10
+# Energia Soverchiante :1: - Talento 10
 
 Con un gesto elaborato, alteri l'energia sprigionata dal tuo incantesimo per
 superare le resistenze. Se con la tua azione successiva Lanci un Incantesimo,

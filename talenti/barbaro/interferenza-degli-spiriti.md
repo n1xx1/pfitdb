@@ -5,7 +5,7 @@ original-name: Spirits' Interference
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=150
 ---
 
-# Interferenza degli Spiriti :a: - Talento 6
+# Interferenza degli Spiriti :1: - Talento 6
 
 **Prerequisiti**
 [istinto spirituale](/classi/barbaro/istinti/istinto-spirituale)

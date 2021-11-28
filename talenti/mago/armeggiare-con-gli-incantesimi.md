@@ -5,7 +5,7 @@ original-name: Spell Tinker
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=659
 ---
 
-# Armeggiare con gli Incantesimi :aa: - Talento 16
+# Armeggiare con gli Incantesimi :2: - Talento 16
 
 ---
 

@@ -8,7 +8,7 @@ original-srd: https://2e.aonprd.com/Equipment.aspx?ID=76
 
 **Uso** tenuto con 1 mano; **Volume** L
 
-**Attivazione** :a: Colpire
+**Attivazione** :1: Colpire
 
 ---
 

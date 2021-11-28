@@ -5,7 +5,7 @@ original-name: Devise a Stratagem
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=546
 ---
 
-# Ideare uno Stratagemma :a:
+# Ideare uno Stratagemma :1:
 
 **Frequenza** una volta per round
 

@@ -5,7 +5,7 @@ original-name: Forcible Energy
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=1841
 ---
 
-# Energia Violenta :a: - Talento 12
+# Energia Violenta :1: - Talento 12
 
 Esegui complesse manipolazioni per rendere l'energia dei tuoi incantesimi cosi
 potente che i tuoi nemici rimangano poi vulnerabili d essa. Se la tua prossima

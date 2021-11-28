@@ -5,7 +5,7 @@ original-name: Sudden Charge
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=134
 ---
 
-# Carica Improvvisa :aa: - Talento 1
+# Carica Improvvisa :2: - Talento 1
 
 Con uno scatto rapido, ti scagli contro il nemico e attacchi. Avanzi due volte:
 se termini il movimento con almeno un nemico entro la tua portata in mischia,

@@ -5,7 +5,7 @@ original-name: Vicious Evisceration
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=176
 ---
 
-# Sventramento Feroce :aa: - Talento 18
+# Sventramento Feroce :2: - Talento 18
 
 Sferri un violento attacco che lascia il nemico menomato. Colpisci in mischia.
 Se il Colpo va a segno e infligge danni, il bersaglio diventa

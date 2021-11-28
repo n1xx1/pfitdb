@@ -5,7 +5,7 @@ original-name: Widen Spell
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=315
 ---
 
-# Incantesimi Ampliati :a: - Talento 1
+# Incantesimi Ampliati :1: - Talento 1
 
 Manipoli l'energia del tuo incantesimo affinché si diffonda e influenzi un'area
 maggiore. Se con la tua azione successiva Lanci un Incantesimo la cui area sia

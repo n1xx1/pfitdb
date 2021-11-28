@@ -5,7 +5,7 @@ original-name: Share Rage
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=154
 ---
 
-# Condividere la Furia :a: - Talento 8
+# Condividere la Furia :1: - Talento 8
 
 **Requisiti** Non hai utilizzato questa capacità dall'ultima volta che ti sei
 infuriato.

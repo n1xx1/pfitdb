@@ -5,7 +5,7 @@ original-name: Reckless Abandon
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=173
 ---
 
-# Sfrenato Abbandono :f: - Talento 16
+# Sfrenato Abbandono :G: - Talento 16
 
 **Innesco** Il tuo turno inizia e sei a metà dei tuoi Punti Ferita o meno.
 

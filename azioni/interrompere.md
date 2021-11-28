@@ -5,7 +5,7 @@ original-name: Dismiss
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=74
 ---
 
-# Interrompere :a:
+# Interrompere :1:
 
 Poni termine a un effetto di un incantesimo o di un oggetto magico. Deve
 trattarsi di un effetto che ti è consentito interrompere, come definito

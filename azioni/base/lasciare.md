@@ -5,7 +5,7 @@ original-name: Release
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=83
 ---
 
-# Lasciare :f:
+# Lasciare :G:
 
 Lasci qualcosa che stavi tenendo in una o entrambe le mani. Ciò può voler dire
 che lasci cadere un oggetto, togli una mano dall'arma mentre continui a tenerla

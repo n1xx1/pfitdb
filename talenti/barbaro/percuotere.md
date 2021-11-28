@@ -5,7 +5,7 @@ original-name: Thrash
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=156
 ---
 
-# Percuotere :a: - Talento 8
+# Percuotere :1: - Talento 8
 
 **Requisiti** Aver [afferrato](/condizioni/afferrato) un nemico.
 

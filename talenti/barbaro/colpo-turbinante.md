@@ -5,7 +5,7 @@ original-name: Whirlwind Strike
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=170
 ---
 
-# Colpo Terrificante :aaa: - Talento 14
+# Colpo Terrificante :3: - Talento 14
 
 Attacchi tutti gli avversari nelle vicinanze. Colpisci in mischia ogni nemico
 entro la tua portata in mischia. Ciascun attacco conta ai fini della penalità da

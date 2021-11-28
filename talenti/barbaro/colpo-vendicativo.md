@@ -5,7 +5,7 @@ original-name: Vengeful Strike
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=169
 ---
 
-# Colpo Vendicativo :r: - Talento 14
+# Colpo Vendicativo :R: - Talento 14
 
 **Prerequisiti** [Vieni a Prendermi](/talenti/barbaro/vieni-a-prendermi)
 

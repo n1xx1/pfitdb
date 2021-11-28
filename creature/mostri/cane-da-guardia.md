@@ -8,9 +8,19 @@ original-srd: TODO
 
 # Cane da Guardia
 
-I tipici cani da guardia sono animali fedeli e amati da molte comunità. Spesso sono adorati animali da compagnia, ma sono anche ottimi protettori e segugi, inoltre possono rivelarsi arditi quando devono difendere un padrone o un membro della famiglia a cui vogliono bene. Le statistiche presentate di seguito sono utilizzabili per qualsiasi razza canina che rientri tra i 10 e i 25 chilogrammi di peso. È possibile usare queste statistiche anche per i cani selvatici, ma la loro natura irrequieta li rende imprevedibili e minacciosi. I cani ferini sono ancora più pericolosi in quanto, a differenza dei loro cugini selvatici, sono spesso privi della paura istintiva dell'umanità che impedisce alle creature selvatiche di interagire con le persone.
+I tipici cani da guardia sono animali fedeli e amati da molte comunità. Spesso
+sono adorati animali da compagnia, ma sono anche ottimi protettori e segugi,
+inoltre possono rivelarsi arditi quando devono difendere un padrone o un membro
+della famiglia a cui vogliono bene. Le statistiche presentate di seguito sono
+utilizzabili per qualsiasi razza canina che rientri tra i 10 e i 25 chilogrammi
+di peso. È possibile usare queste statistiche anche per i cani selvatici, ma la
+loro natura irrequieta li rende imprevedibili e minacciosi. I cani ferini sono
+ancora più pericolosi in quanto, a differenza dei loro cugini selvatici, sono
+spesso privi della paura istintiva dell'umanità che impedisce alle creature
+selvatiche di interagire con le persone.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD 13
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
+13
 
 ## Cane da Guardia - Creatura -1
 
@@ -20,16 +30,17 @@ I tipici cani da guardia sono animali fedeli e amati da molte comunità. Spesso 
 
 **For** +1, **Des** +2, **Cos** +2, **Int** -4, **Sag** +1, **Car** +1
 
-***
+---
 
 **CA** 15; **Temp** +5, **Rifl** +7, **Vol** +4
 
 **PF** 8
 
-***
+---
 
 **Velocità** 9 metri
 
-**Mischia** :a: morso +6 \[+1/-4], **Danni** 1d4+1 perforanti
+**Mischia** :1: morso +6 \[+1/-4], **Danni** 1d4+1 perforanti
 
-**Attacco in Branco** I colpi del cane infliggono 1d4 danni extra alle creature entro la portata di almeno due alleati del cane.
+**Attacco in Branco** I colpi del cane infliggono 1d4 danni extra alle creature
+entro la portata di almeno due alleati del cane.

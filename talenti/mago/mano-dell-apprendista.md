@@ -5,7 +5,7 @@ original-name: Hand of the Apprentice
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=636
 ---
 
-# Mano dell'Apprendista :a: - Talento 1
+# Mano dell'Apprendista :1: - Talento 1
 
 **Prerequisiti** mago universale
 

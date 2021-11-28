@@ -5,7 +5,7 @@ original-name: Dragon's Rage Wings
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=162
 ---
 
-# Ali della Furia Draconica :a: - Talento 12
+# Ali della Furia Draconica :1: - Talento 12
 
 **Prerequisiti** [istinto draconico](/classi/barbaro/istinti/istinto-draconico)
 

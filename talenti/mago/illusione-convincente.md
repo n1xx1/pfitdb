@@ -5,7 +5,7 @@ original-name: Convincing Illusion
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=1837
 ---
 
-# Illusione Convincente :r: - Talento 6
+# Illusione Convincente :R: - Talento 6
 
 **Prerequisiti** esperto in Inganno
 
