@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 632
 original-name: Conjuration
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=33
+categories: [school]
 ---
 
 # Evocazione

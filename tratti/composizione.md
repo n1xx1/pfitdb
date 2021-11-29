@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 630
 original-name: Composition
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=31
+categories: [class-specific]
 ---
 
 # Composizione

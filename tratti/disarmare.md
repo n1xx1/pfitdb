@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 631
 original-name: Disarm
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=175
+categories: [weapon]
 ---
 
 # Disarmare

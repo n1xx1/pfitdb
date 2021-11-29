@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 633
 original-name: Haunt
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=88
+categories: [hazard]
 ---
 
 # Infestazione

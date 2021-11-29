@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 635
 original-name: Move
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=114
+categories: [generic]
 ---
 
 # Movimento

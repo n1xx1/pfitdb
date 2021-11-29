@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 640
 original-name: Versatile
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=200
+categories: [weapon]
 ---
 
 # Versatile

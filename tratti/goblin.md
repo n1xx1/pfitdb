@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 632
 original-name: Goblin
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=81
+categories: [ancestry, weapon]
 ---
 
 # Goblin

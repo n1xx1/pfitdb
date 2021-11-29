@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 633
 original-name: Forceful
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=180
+categories: [weapon]
 ---
 
 # Impeto

@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 635
 original-name: Half-Elf
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=85
+categories: [ancestry]
 ---
 
 # Mezzelfo

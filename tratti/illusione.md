@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 633
 original-name: Illusion
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=92
+categories: [monster, school]
 ---
 
 # Illusione

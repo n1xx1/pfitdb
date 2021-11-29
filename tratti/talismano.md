@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 639
 original-name: Talisman
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=155
+categories: [equipment]
 ---
 
 # Talismano

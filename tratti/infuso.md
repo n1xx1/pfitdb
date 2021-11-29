@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 633
 original-name: Infused
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=94
+categories: [class-specific]
 ---
 
 # Infuso

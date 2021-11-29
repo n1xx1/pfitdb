@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 638
 original-name: Minion
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=109
+categories: [generic]
 ---
 
 # Servitore

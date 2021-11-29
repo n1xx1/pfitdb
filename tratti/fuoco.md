@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 632
 original-name: Fire
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=72
+categories: [elemental, energy, monster, plane]
 ---
 
 # Fuoco

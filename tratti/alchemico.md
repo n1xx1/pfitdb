@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 628
 original-name: Alchemical
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=6
+categories: [equipment, monster]
 ---
 
 # Alchemico

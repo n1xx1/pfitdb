@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 638
 original-name: Splash
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=150
+categories: [generic]
 ---
 
 # Spargimento

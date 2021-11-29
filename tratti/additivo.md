@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 628
 original-name: Additive
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=4
+categories: [class-specific]
 ---
 
 # Additivo

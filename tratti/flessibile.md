@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 632
 original-name: Flexible
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=204
+categories: [armor]
 ---
 
 # Flessibile

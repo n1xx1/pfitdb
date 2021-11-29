@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 638
 original-name: Scrying
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=141
+categories: [generic]
 ---
 
 # Scrutare

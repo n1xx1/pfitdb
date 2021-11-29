@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 632
 original-name: Extradimensional
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=67
+categories: [generic]
 ---
 
 # Extradimensionale

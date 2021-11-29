@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 634
 original-name: Invested
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=98
+categories: [equipment]
 ---
 
 # Investito

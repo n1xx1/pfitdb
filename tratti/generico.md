@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 632
 original-name: General
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=78
+categories: [generic]
 ---
 
 # Generico

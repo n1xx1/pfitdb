@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 628
 original-name: Finesse
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=179
+categories: [weapon]
 ---
 
 # Accurata

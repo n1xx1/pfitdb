@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 634
 original-name: Evil
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=64
+categories: [alignment]
 ---
 
 # Male

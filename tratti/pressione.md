@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 637
 original-name: Press
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=133
+categories: [generic]
 ---
 
 # Pressione

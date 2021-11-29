@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 630
 original-name: Common
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=28
+categories: [rarity]
 ---
 
 # Comune

@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 630
 original-name: Consecration
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=34
+categories: [generic]
 ---
 
 # Consacrazione

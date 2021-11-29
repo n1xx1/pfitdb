@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 636
 original-name: Parry
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=190
+categories: [weapon]
 ---
 
 # Parata

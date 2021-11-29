@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 640
 original-name: Visual
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=163
+categories: [sense]
 ---
 
 # Visivo

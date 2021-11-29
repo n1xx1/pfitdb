@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 628
 original-name: Arcane
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=11
+categories: [monster, tradition]
 ---
 
 # Arcano

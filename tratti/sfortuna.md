@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 638
 original-name: Misfortune
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=110
+categories: [generic]
 ---
 
 # Sfortuna

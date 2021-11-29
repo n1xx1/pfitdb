@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 637
 original-name: Rare
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=137
+categories: [rarity]
 ---
 
 # Raro

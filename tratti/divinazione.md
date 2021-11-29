@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 631
 original-name: Divination
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=47
+categories: [school]
 ---
 
 # Divinazione

@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 630
 original-name: Chaotic
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=25
+categories: [alignment]
 ---
 
 # Caotico

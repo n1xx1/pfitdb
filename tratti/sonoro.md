@@ -4,6 +4,7 @@ original-name: Sonic
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=147
 638:
   - riga sulle creature sonore
+categories: [energy, monster]
 ---
 
 # Sonoro

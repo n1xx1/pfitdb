@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 631
 original-name: Divine
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=48
+categories: [tradition]
 ---
 
 # Divino

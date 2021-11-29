@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 636
 original-name: Fear
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=68
+categories: [generic]
 ---
 
 # Paura

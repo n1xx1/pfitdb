@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 636
 original-name: Orc
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=124
+categories: [ancestry, monster, weapon]
 ---
 
 # Orco

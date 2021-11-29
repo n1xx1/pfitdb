@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 628
 original-name: Animal
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=9
+categories: [creature-type]
 ---
 
 # Animale

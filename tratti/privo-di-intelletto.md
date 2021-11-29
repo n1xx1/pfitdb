@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 637
 original-name: Mindless
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=108
+categories: [monster]
 ---
 
 # Privo di Intelletto

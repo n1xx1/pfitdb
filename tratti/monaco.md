@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 635
 original-name: Monk
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=112
+categories: [class, weapon]
 ---
 
 # Monaco

@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 631
 original-name: Ethereal
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=63
+categories: [creature-type]
 ---
 
 # Etereo

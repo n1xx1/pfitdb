@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 628
 original-name: Apex
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=10
+categories: [equipment]
 ---
 
 # Apex

@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 635
 original-name: Morph
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=113
+categories: [generic]
 ---
 
 # Morfosi

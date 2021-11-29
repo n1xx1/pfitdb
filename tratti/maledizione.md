@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 634
 original-name: Curse
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=38
+categories: [generic]
 ---
 
 # Maledizione

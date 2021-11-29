@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 639
 original-name: Plant
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=125
+categories: [creature-type]
 ---
 
 # Vegetale

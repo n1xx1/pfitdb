@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 639
 original-name: Earth
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=55
+categories: [elemental, monster, plane]
 ---
 
 # Terra

@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 636
 original-name: Possession
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=129
+categories: [generic]
 ---
 
 # Possessione

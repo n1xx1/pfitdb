@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 635
 original-name: Half-Orc
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=86
+categories: [ancestry]
 ---
 
 # Mezzorco

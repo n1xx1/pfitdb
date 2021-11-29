@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 634
 original-name: Metamagic
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=107
+categories: [generic]
 ---
 
 # Metamagico

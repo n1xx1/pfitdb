@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 638
 original-name: Trip
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=196
+categories: [weapon]
 ---
 
 # Sbilanciare

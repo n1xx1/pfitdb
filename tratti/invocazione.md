@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 634
 original-name: Evocation
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=65
+categories: [school]
 ---
 
 # Invocazione

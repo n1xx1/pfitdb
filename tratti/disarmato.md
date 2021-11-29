@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 631
 original-name: Unarmed
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=199
+categories: [weapon]
 ---
 
 # Disarmato

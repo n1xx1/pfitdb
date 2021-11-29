@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 635
 original-name: Undead
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=160
+categories: [creature-type]
 ---
 
 # Non Morto

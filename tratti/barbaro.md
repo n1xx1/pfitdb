@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 629
 original-name: Barbarian
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=18
+categories: [class]
 ---
 
 # Barbaro

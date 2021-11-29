@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 638
 original-name: Secret
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=142
+categories: [generic]
 ---
 
 # Segreto

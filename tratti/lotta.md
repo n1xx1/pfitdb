@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 634
 original-name: Grapple
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=184
+categories: [weapon]
 ---
 
 # Lotta

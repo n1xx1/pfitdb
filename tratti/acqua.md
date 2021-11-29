@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 628
 original-name: Water
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=165
+categories: [elemental, monster, plane]
 ---
 
 # Acqua
