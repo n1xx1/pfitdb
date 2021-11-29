@@ -36,7 +36,7 @@ tratti solo di storie, poiché devastazione che uno shoggoth capace di
 ragionamenti complessi potrebbe seminare nel mondo è un pensiero a dir poco
 inquietante.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 43
 
 ## Shoggoth - Creatura 18

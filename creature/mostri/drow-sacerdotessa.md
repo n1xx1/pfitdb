@@ -10,7 +10,7 @@ original-srd: TODO
 
 Molte sacerdotesse drow venerano i signori dei demoni e altre orrende divinità.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Drow Sacerdotessa - Creatura 3

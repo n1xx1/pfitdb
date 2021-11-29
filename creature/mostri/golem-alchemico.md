@@ -17,7 +17,7 @@ di questo golem può conservare alcuni ricordi frammentari o perfino una
 personalità vera e propria. In questi casi il golem alchemico avrà una sua
 volontà e perseguirà i suoi scopi.
 
-**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/abilita/ricordare-conoscenze)**:
 CD 28
 
 ## Golem Alchemico - Creatura 9

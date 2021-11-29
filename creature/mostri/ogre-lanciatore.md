@@ -12,7 +12,7 @@ _Nota dell'Archivio: non è presente nessuna descrizione per questo mostro nel
 Blog Paizo. I dettagli di un possibile incontro con questo ogre possono essere
 trovati nel [Blog Paizo](https://paizo.com/community/blog/v5748dyo6shjd)._
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 21
 
 ## Ogre Lanciatore - Creatura 4

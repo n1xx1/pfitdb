@@ -11,7 +11,7 @@ original-srd: TODO
 Gli anadi cacciatori sono gli occhi e le orecchie del clan, che controllano
 l'area circostante alla ricerca di potenziali invasori.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Anadi Cacciatore - Creatura 2

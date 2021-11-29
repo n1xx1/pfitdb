@@ -18,8 +18,8 @@ spiritelli nutrono una curiosità sfrenata nei confronti di tutte le forme di
 magia e si radunano a capofitto attorno alle intersezioni di linee sincroniche o
 altri luoghi di potere.
 
-**[Ricordare Conoscenze - Fatato (Natura)](/azioni/ricordare-conoscenze)**: CD
-13
+**[Ricordare Conoscenze - Fatato (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 13
 
 ## Spiritello - Creatura -1
 

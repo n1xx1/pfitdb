@@ -10,7 +10,7 @@ original-srd: TODO
 Le ombre che trascorrono lunghi periodi di tempo sul Piano delle Ombre e ne
 assorbono la magia finiscono per diventare ombre superiori.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 23
 
 ## Ombra Superiore - Creatura 7

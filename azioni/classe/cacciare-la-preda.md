@@ -14,10 +14,11 @@ Devi essere in grado di vedere o sentire la preda, o devi essere impegnato a
 seguire le sue tracce durante l'esplorazione.
 
 Ottieni bonus di circostanza +2 alle prove di Percezione quando
-[Individui](/azioni/individuare) la tua preda e bonus di circostanza +2 alle
-prove di Sopravvivenza di [Seguire Tracce](/azioni/seguire-le-tracce) per
-rintracciarla. Inoltre, ignori la penalità agli attacchi a distanza effettuati
-contro la preda designata entro il tuo secondo incremento di gittata.
+[Individui](/azioni/base/individuare) la tua preda e bonus di circostanza +2
+alle prove di Sopravvivenza di
+[Seguire Tracce](/azioni/abilita/seguire-le-tracce) per rintracciarla. Inoltre,
+ignori la penalità agli attacchi a distanza effettuati contro la preda designata
+entro il tuo secondo incremento di gittata.
 
 Puoi designare come preda una sola creatura alla volta. Se utilizzi Cacciare la
 Preda contro una creatura mentre ne hai già una designata, la creatura

@@ -135,7 +135,7 @@ pelle in eccesso.
 contro il peccaminoso della progenie dell'accidia subisce penalità di status -3
 metri alla Velocità per 1 minuto.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Progenie del Peccato - Creatura 2

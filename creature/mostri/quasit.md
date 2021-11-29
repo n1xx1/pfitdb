@@ -17,7 +17,7 @@ Per questo molti quasit decidono invccc di rimancrc sul Piano Materiale a
 diffondere il male, nella speranza di avere un giorno l'opportunità e la fortuna
 di trovare il modo di raggiungere l'Abisso da soli.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Quasit - Creatura 1

@@ -12,7 +12,7 @@ Gli gnoll cacciatori servono il clan andando a caccia di prede nelle zone
 selvagge, conducendo razzie lungo le strade più frequentate e inseguendo gli
 schiavi in fuga,
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Gnoll Cacciatore - Creatura 2

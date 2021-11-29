@@ -19,7 +19,7 @@ divino. I balisse si formano spesso dalle anime di coloro che hanno compiuto
 atti malvagi ma sono stati redenti. Molti servono la dea Sarenrae, ma possono
 servire anche altre divinità e signori empirei buoni.
 
-**[Ricordare Conoscenze - Celestiale (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Celestiale (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 24
 
 ## Balisse (Angelo Confessore) - Creatura 8

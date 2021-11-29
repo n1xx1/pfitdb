@@ -21,7 +21,7 @@ alle armi da taglio; il suo tocco ha lo stesso effetto del ferro freddo e brucia
 la carne delle altre megere. Questo consente alle megere annis di farsi strada
 con prepotenza alla guida di una congrega.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 22
 
 ## Megera Annis - Creatura 6

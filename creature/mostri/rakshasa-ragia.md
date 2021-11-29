@@ -22,7 +22,7 @@ servitori o spie particolari. Anche se i suoi membri collaborano in nome di uno
 scopo comune, nelle famiglie di ragià il rischio di faide interne e tradimenti è
 costante.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 27
 
 ## Rakshasa Ragià - Creatura 10

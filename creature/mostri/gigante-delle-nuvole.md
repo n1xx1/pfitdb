@@ -28,7 +28,7 @@ grandi magie. La maggior parte dei giganti afferma chiaramente che si tratta di
 pura fantasia, ma alcuni tengono la bocca cucita o si dimostrano alquanto
 evasivi riguardo questo argomento.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 28
 
 ## Gigante delle Nuvole - Creatura 11

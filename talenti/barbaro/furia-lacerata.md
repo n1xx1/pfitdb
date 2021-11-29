@@ -12,4 +12,4 @@ original-srd: https://2e.aonprd.com/Feats.aspx?ID=143
 ---
 
 Ruggisci di dolore, risvegliando l'ira dentro di te. Ti
-[Infuri](/azioni/infuriarsi).
+[Infuri](/azioni/classe/infuriarsi).

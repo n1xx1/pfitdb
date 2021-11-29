@@ -10,7 +10,7 @@ original-srd: TODO
 
 Le cascate viventi sono colonne d'acqua turbinante dalla forma umanoide.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 20
 
 ## Cascata Vivente - Creatura 5

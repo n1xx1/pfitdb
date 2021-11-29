@@ -13,8 +13,8 @@ fulmineamente qualsiasi creatura le passi vicino. Normalmente gli
 acchiappamosche scattanti hanno possiedono due foglie dai bordi dentellati,
 ognuna larga 90 centimetri e situata sulla sommità di uno stelo lungo 3 metri.
 
-**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/ricordare-conoscenze)**: CD
-18
+**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 18
 
 ## Acchiappamosche Scattante - Creatura 3
 

@@ -12,7 +12,7 @@ Questi roditori troppo cresciuti sono fatti di tizzoni ardenti e di fuoco
 elementale. Dalla loro carne fiammeggiante si leva costantemente un flusso di
 esalazioni tossiche.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Ratto di Cenere - Creatura 3

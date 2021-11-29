@@ -10,7 +10,7 @@ original-srd: TODO
 Un'idra è una bestia serpentina dalle molte teste, dal carattere irascibile e
 dall'appetito vorace, temuta da tutti per le sue capacità di rigenerazione.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 22
 
 ## Idra - Creatura 6

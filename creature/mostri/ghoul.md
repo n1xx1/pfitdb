@@ -10,7 +10,7 @@ original-srd: TODO
 
 I ghoul sono voraci non morti che si nutrono di cadaveri e infestano i cimiteri.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Ghoul - Creatura 1

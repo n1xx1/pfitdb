@@ -12,8 +12,8 @@ festività gallesi, pubblicata sul
 [Blog Paizo](https://paizo.com/community/blog/v5748dyo6shj6) per celebrare il
 Capodanno 2021._
 
-**[Ricordare Conoscenze - Fatato (Natura)](/azioni/ricordare-conoscenze)**: CD
-30
+**[Ricordare Conoscenze - Fatato (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 30
 
 ## Mari Lwyd - Creatura 11
 

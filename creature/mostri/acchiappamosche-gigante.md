@@ -13,8 +13,8 @@ acchiappamosche giganti possono sfruttare l'elemento sorpresa per attaccare
 fulmineamente gli avventurieri e tutti quelli che attraversano la foresta ignari
 del pericolo che corrono.
 
-**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/ricordare-conoscenze)**: CD
-27
+**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 27
 
 ## Acchiappamosche Gigante - Creatura 10
 

@@ -16,7 +16,7 @@ presso questi crudeli rettili e chi adorna la sua armatura o le sue scaglie col
 maggior numero di questi trofei è il più rispettato (e probabilmente temuto) dai
 suoi simili.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Xulgath Combattente - Creatura 1

@@ -12,8 +12,8 @@ Il deinosuco è un parente primevo del coccodrillo ed è un predatore enorme, in
 grado di catturare e divorare perfino i dinosauri che si avvicinano troppo al
 suo dominio!
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-26
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 26
 
 ## Deinosuco - Creatura 9
 

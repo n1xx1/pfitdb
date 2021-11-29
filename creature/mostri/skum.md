@@ -21,7 +21,7 @@ esistono solo poche enclave nelle profondità della terra o lungo le coste più
 isolate. Pochi tra loro ricordano il nome della loro stessa specie e usano
 invece l'epiteto con cui li apostrofano i loro nemici: "skum" , ovvero "feccia".
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Skum (Ulat-Kini) - Creatura 2

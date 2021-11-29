@@ -21,7 +21,7 @@ libertà e difensore degli oppressi. Tra gli azata, i ghaele sono i primi a
 ricorrere alla violenza per risolvere i problemi, ma anche in questi casi
 cercano sempre di causare meno dolore e sofferenza possibile.
 
-**[Ricordare Conoscenze - Celestiale (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Celestiale (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 31
 
 ## Ghaele (Azata Crociato) - Creatura 13
@@ -100,13 +100,13 @@ Ogni arma diventa un'arma _sacra poderosa +2_ mentre il ghaele la impugna.
 **Scegliere Debolezza** :1: ([concentrazione](/tratti/concentrazione),
 [divinazione](/tratti/divinazione), [divino](/tratti/divino),
 [invocazione](/tratti/invocazione), [maneggiare](/tratti/maneggiare)) Un ghaele
-tenta di [Ricordare Conoscenze](/azioni/ricordare-conoscenze) su un avversario
-che sta affrontando. Se ha successo, può cambiare i danni elementali inflitti
-dal suo spadone e dal suo raggio di luce in acido, freddo, elettricità, fuoco o
-sonori, solitamente per abbinarli alla debolezza di quell'avversario. Può anche
-cambiare la sua resistenza all'energia a uno qualsiasi di questi tipi di energia
-(che può essere diverso dal tipo scelto per i suoi attacchi). La scelta permane
-fino al suo uso successivo di Scegliere Debolezza.
+tenta di [Ricordare Conoscenze](/azioni/abilita/ricordare-conoscenze) su un
+avversario che sta affrontando. Se ha successo, può cambiare i danni elementali
+inflitti dal suo spadone e dal suo raggio di luce in acido, freddo, elettricità,
+fuoco o sonori, solitamente per abbinarli alla debolezza di quell'avversario.
+Può anche cambiare la sua resistenza all'energia a uno qualsiasi di questi tipi
+di energia (che può essere diverso dal tipo scelto per i suoi attacchi). La
+scelta permane fino al suo uso successivo di Scegliere Debolezza.
 
 **Sguardo del Ghaele** :1: ([divino](/tratti/divino),
 [invocazione](/tratti/invocazione), [visivo](/tratti/visivo)) Quando il ghaele

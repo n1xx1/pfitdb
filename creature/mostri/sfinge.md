@@ -31,7 +31,7 @@ una sfinge qualcosa che già non conosca. Chi tenta di spacciarle informazioni d
 poco conto ed enigmi vecchi e risaputi rischia di provocare la collera della
 sfinge e di non vivere abbastanza a lungo da pentirsene.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 24
 
 ## Sfinge - Creatura 8
@@ -50,7 +50,7 @@ Diplomazia +16, Intimidazione +18, Occultismo +17
 **Sapienza dei Bardi** Le sfingi sono curiose per natura e la loro passione per
 i rompicapi e i misteri le spinge a raccogliere informazioni su una vasta gamma
 di argomenti. Le sfingi possiedono il talento da bardo Sapienza dei Bardi, che
-consente loro di [Ricordare Conoscenze](/azioni/ricordare-conoscenze) su
+consente loro di [Ricordare Conoscenze](/azioni/abilita/ricordare-conoscenze) su
 qualsiasi argomento.
 
 ---

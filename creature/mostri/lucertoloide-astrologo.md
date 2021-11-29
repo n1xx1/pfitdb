@@ -15,7 +15,7 @@ Anche l'astrologo più modesto, come quello presentato di seguito, può contare 
 diversi incantesimi primevi per aiutare i propri simili; gli astrologi degli
 insediamenti più grandi possono esercitare un potere perfino superiore.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Lucertoloide Astrologo - Creatura 2

@@ -16,7 +16,7 @@ clan più piccoli o nelle unità formate da singole famiglie, uno gnoll sergente
 assume il comando anche in altre occasioni, per esempio per risolvere le dispute
 familiari o negoziare con i clan di gnoll rivali.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 19
 
 ## Gnoll Sergente - Creatura 4

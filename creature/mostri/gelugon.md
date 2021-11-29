@@ -22,7 +22,7 @@ strategico come gli scacchi) per dirimere una disputa. Nell'improbabile
 eventualità che il diavolo perda una simile competizione, farà inevitabilmente
 di tutto per mettere quel mortale al suo servizio per i suoi fini infernali.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 31
 
 ## Gelugon (Diavolo del Ghiaccio) - Creatura 13

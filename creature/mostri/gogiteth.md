@@ -39,7 +39,7 @@ nido di gogiteth medio può ospitare anche due dozzine di questi mostri, le
 missioni di disinfestazione di una nidiata già consolidata possono diventare
 sono imprese estremamente pericolose.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 30
 
 ## Gogiteth - Creatura 12

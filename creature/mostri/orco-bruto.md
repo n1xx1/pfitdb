@@ -12,7 +12,7 @@ original-srd: TODO
 probabilmente dovuta ai bruti furiosi e indisciplinati che compongono il grosso
 di una banda da guerra orchesca.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 14
 
 ## Orco Bruto - Creatura 0

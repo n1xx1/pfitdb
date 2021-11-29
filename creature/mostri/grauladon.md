@@ -27,7 +27,8 @@ acque poco profonde, specie dove giunchi o altro fogliame li nascondano dalla
 vista di potenziali prede. I grauladon sono territoriali e non tollerano che
 altri predatori vivano a caccino in prossimità delle loro dimore.
 
-**[Ricordare Conoscenze - Drago (Arcano)](/azioni/ricordare-conoscenze)**: CD 18
+**[Ricordare Conoscenze - Drago (Arcano)](/azioni/abilita/ricordare-conoscenze)**:
+CD 18
 
 ## Grauladon - Creatura 2
 

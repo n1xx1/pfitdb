@@ -10,7 +10,7 @@ original-srd: TODO
 
 Questi tiratori scelti sono famosi per la loro pazienza e precisione.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Grippli Arciere - Creatura 3

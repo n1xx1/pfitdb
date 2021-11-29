@@ -19,7 +19,7 @@ l'anima delle loro vittime. I demoni schiavisti di maggior successo possiedono
 enormi fosse di schiavi nell'Abisso, dove tengono intere stalle di anime
 imprigionate.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 27
 
 ## Kalavakus (Demone Schiavista) - Creatura 10

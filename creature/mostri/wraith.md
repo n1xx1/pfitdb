@@ -42,7 +42,7 @@ villaggi. In altre parti del mondo i wraith tendono a non viaggiare e limitano
 la loro attività a pochi ambienti ristretti, generalmente la sola area del luogo
 che hanno scelto di infestare e le sue immediate vicinanze.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 22
 
 ## Wraith - Creatura 6

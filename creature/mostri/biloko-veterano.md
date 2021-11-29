@@ -10,8 +10,8 @@ original-srd: TODO
 Un biloko che riesce a portare a termine con successo un certo numero di
 cacciate ottiene il rispetto (e il timore) dei suoi simili.
 
-**[Ricordare Conoscenze - Fatato (Natura)](/azioni/ricordare-conoscenze)**: CD
-19
+**[Ricordare Conoscenze - Fatato (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 19
 
 ## Biloko Veterano - Creatura 4
 

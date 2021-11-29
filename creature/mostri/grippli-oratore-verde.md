@@ -11,7 +11,7 @@ original-srd: TODO
 I guaritori della razza dei grippli sono noti con il titolo informale di oratori
 verdi.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 20
 
 ## Grippli Oratore Verde - Creatura 5

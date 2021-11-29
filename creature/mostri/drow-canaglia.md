@@ -13,7 +13,7 @@ nessuno, e tanto meno dei loro colleghi assassini. Questi drow si affidano alla
 percezione e alle loro capacità di adattamento per sopravvivere nella loro
 società spietata.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Drow Canaglia - Creatura 2

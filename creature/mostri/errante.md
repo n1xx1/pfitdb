@@ -40,8 +40,8 @@ imbattersi in vegetali simili agli erranti chiamati grovigli spinosi; hanno
 l'aspetto di grossi cespugli rotolanti e cactus e i loro attacchi infliggono
 lacerazioni profonde sanguinose.
 
-**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/ricordare-conoscenze)**: CD
-22
+**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 22
 
 ## Errante - Creatura 6
 

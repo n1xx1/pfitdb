@@ -18,7 +18,7 @@ sparga e prevenga altre invasioni, ma non è un ingenuo. Gli iruxi conoscono ben
 la sete di vendetta e quando permettono a un nemico di fuggire, non se lo
 dimenticano.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Lucertoloide Difensore - Creatura 1

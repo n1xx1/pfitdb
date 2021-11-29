@@ -11,8 +11,8 @@ original-srd: TODO
 Le vespe giganti sono molto più pericolose ma meno comuni delle loro minuscole
 cugine e, con grande sollievo di chi le incontra, tendono ad aggirarsi da sole.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-18
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 18
 
 ## Vespa Gigante - Creatura 3
 

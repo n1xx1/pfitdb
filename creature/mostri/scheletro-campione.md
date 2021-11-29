@@ -10,7 +10,7 @@ original-srd: TODO
 
 Questi scheletri conservano l'astuzia che possedevano da vivi.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Scheletro Campione - Creatura 2

@@ -12,7 +12,7 @@ I drow guerrieri si allenano per padroneggiare tecniche che infliggono ferite
 Profonde e sanguinanti e usano da balestra dardi avvelenati per fiaccare i
 nemici.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Drow Guerriero - Creatura 1

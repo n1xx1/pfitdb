@@ -13,7 +13,7 @@ in tutto il multiverso e tradizionalmente vigilano sul caos e sui suoi agenti.
 Dopo l'annuncio della Convergenza, molti arbitri ora fungono da intermediari tra
 l'alleanza degli eoni e i suoi associati mortali.
 
-**[Ricordare Conoscenze - Osservatore (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Osservatore (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Arbitro - Creatura 1

@@ -29,7 +29,7 @@ sulla loro curiosa intelligenza, specialmente nel caso in cui questi animali da
 compagnia surclassino ripetutamente l'astuzia e la pazienza dei loro carcerieri.
 Un fustigatore è alto 2,7 metri e pesa 1.100 chilogrammi.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 29
 
 ## Fustigatore - Creatura 10

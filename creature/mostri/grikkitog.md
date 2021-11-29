@@ -17,7 +17,7 @@ tutt'intorno a sé. Queste creature sono particolarmente pericolose per i piccol
 esseri che si nascondono negli spazi vuoti e nei buchi tra le rocce, nonché
 degli scalatori che vanno in cerca dell'appiglio perfetto.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 32
 
 ## Grikkitog - Creatura 14

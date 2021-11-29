@@ -34,7 +34,7 @@ basilisco possa trasformare la comune pietra in un altro materiale, ma è
 probabile che i testimoni in realtà abbiano assistito al risanamento di creature
 o parti del corpo precedentemente pietrificate.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 20
 
 ## Basilisco - Creatura 5

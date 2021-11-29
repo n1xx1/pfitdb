@@ -15,7 +15,7 @@ forze sul campo di battaglia e considera questa opportunità di eccellere in
 combattimento a capo di un esercito come la vera ricompensa per una vita
 trascorsa ad affinare le proprie abilità in battaglia.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 22
 
 ## Hobgoblin Generale - Creatura 6

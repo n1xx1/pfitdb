@@ -26,8 +26,8 @@ società che vivono sottoterra o nei pressi delle scogliere, come i goblin e i
 coboldi. Grazie ai loro colori vividi sono anche animali da compagnia esotici di
 gran voga nell'alta società.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-15
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 15
 
 ## Geco Gigante - Creatura 1
 

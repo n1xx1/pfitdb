@@ -31,7 +31,7 @@ che alcuni ofalth mantengano in vita gli otyugh loro prigionieri per giorni, se
 non addirittura per settimane, costringendoli a sopportare il fetore dolciastro
 della loro stessa carne in decomposizione prima di divorarli.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 27
 
 ## Ofalth - Creatura 10

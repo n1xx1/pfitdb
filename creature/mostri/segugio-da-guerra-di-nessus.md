@@ -13,10 +13,10 @@ all'interno di vasti canili nel regno infernale di Nessus, sono le guardie
 preferite e i cani da caccia dei nefandi più potenti (e, in occasioni più rare,
 di quei mortali che li adorano e si sono guadagnati il loro favore).
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 26
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 26
 
 ## Segugio da Guerra di Nessus - Creatura 9

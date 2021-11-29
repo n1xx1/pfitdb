@@ -10,7 +10,7 @@ original-srd: TODO
 
 Questi orrori torreggianti vengono animati usando i cadaveri delle mostruosità.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 22
 
 ## Zombi Colosso - Creatura 6

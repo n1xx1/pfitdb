@@ -40,8 +40,8 @@ inferiore a quella Grande, ma nonostante questa statura ridotta, non sono meno
 feroci. Chi presume che un nanotiranno sia "più sicuro" da addestrare farà bene
 a ricredersi!
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-27
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 27
 
 ## Tirannosauro - Creatura 10
 

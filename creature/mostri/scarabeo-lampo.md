@@ -18,8 +18,8 @@ per utilizzarli come animali da compagnia o bestiame, oppure li rinchiudono
 all'interno di gabbie affinché fungano da fonti di luce organica e rendano
 praticabili certe aree ai visitatori non abituati all'oscurità.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-13
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 13
 
 ## Scarabeo Lampo - Creatura -1
 

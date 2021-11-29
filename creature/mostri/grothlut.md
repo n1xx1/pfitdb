@@ -25,7 +25,7 @@ carne da macello, per sfoltire i ranghi nemici prima dell'intervento dei
 guerrieri più importanti, che potranno abbattere i nemici già nauseati dalle
 esplosioni degli organi interni e dei tessuti causate dai grothlut uccisi.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Grothlut - Creatura 3

@@ -11,7 +11,7 @@ original-srd: TODO
 Il bugbear più comune è il predone, specializzato nell'arte di appostarsi
 nell'ombra.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Bugbear Predone - Creatura 2

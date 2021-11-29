@@ -20,7 +20,7 @@ creature malvagie. Poiché vagano nelle terre selvagge del Nirvana e
 dell'Elysium, gli arconti cornuti sono tra i più portati a comprendere i punti
 di vista degli altri celestiali.
 
-**[Ricordare Conoscenze - Celestiale (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Celestiale (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 19
 
 ## Arconte Cornuto - Creatura 4

@@ -11,7 +11,7 @@ original-srd: TODO
 Uno zombi malfermo è un orrore dai movimenti lenti che si rivela pericoloso
 soprattutto in grandi numeri.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 13
 
 ## Zombi Malfermo - Creatura -1

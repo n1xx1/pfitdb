@@ -11,7 +11,7 @@ original-srd: TODO
 Il lich è un mago il cui insaziabile desiderio per il potere arcano ha eclissato
 la sua stessa vita mortale, un incantatore decisamente infido e poliedrico.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 35
 
 ## Lich - Creatura 12

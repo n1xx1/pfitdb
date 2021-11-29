@@ -13,7 +13,7 @@ Sono formati dalle divinità della non morte o della guerra o, più raramente
 sorgono in modo spontaneo dalla devastazione di una battaglia particolarmente
 cruenta.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 37
 
 ## Irriducibile della Guerra - Creatura 16

@@ -12,7 +12,7 @@ I quatoidi sono misteriosi e bizzarri elementali originari del Piano dell'Acqua.
 Hanno l'aspetto di una piovra con quattro tentacoli e sul loro manto è visibile
 un inquietante volto umanoide.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 23
 
 ## Quatoide - Creatura 7

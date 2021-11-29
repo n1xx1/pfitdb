@@ -48,7 +48,7 @@ distrutta può perfino essere collocata nel corpo di una nuova bambola da
 qualcuno che sappia come realizzare le creature lega anima, ricostituendo a in
 toto la bambola andata distrutta.
 
-**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Bambola Lega Anima - Creatura 2

@@ -12,8 +12,8 @@ I leopardi sono fra i più piccoli dei grandi felini, ma restano delle creature
 pericolose da affrontare. Le statistiche del leopardo possono essere utilizzate
 anche per le pantere nere, i leopardi maculati delle nevi o i puma fulvi.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-16
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 16
 
 ## Leopardo - Creatura 2
 

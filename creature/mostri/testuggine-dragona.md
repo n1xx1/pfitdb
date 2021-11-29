@@ -34,7 +34,8 @@ fungono da isole in grado di sostenere degli interi ecosistemi e persino, a
 quanto si dice, di ospitare piccoli insediamenti i cui abitanti ignorano
 l'esistenza di terre che non galleggiano sul mare.
 
-**[Ricordare Conoscenze - Drago (Arcano)](/azioni/ricordare-conoscenze)**: CD 26
+**[Ricordare Conoscenze - Drago (Arcano)](/azioni/abilita/ricordare-conoscenze)**:
+CD 26
 
 ## Testuggine Dragona - Creatura 9
 

@@ -29,7 +29,7 @@ mutazioni dei barghest delineate nelle statistiche sottostanti rappresentano
 solo la proverbiale punta dell'iceberg. Il GM è libero di usarle come
 ispirazione per personalizzarle e inventarne di nuove.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 25
 
 ## Barghest Superiore - Creatura 7

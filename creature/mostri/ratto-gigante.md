@@ -21,8 +21,8 @@ fredde. Anche se il loro morso, da solo, non è in grado di uccidere una creatur
 mondo anche i ratti giganti sono portatori della febbre lurida, una malattia
 infettiva abbastanza potente da decimare intere comunità rurali.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-13
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 13
 
 ## Ratto Gigante - Creatura -1
 

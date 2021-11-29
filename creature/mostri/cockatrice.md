@@ -43,7 +43,7 @@ cockatrici si nutrono di parassiti o di rifiuti, ma il loro più grande piacere
 resta sempre consumare un pasto caldo composto di carne fresca appena
 pietrificata.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Cockatrice - Creatura 3

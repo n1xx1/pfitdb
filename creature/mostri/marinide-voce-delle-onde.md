@@ -11,7 +11,7 @@ original-srd: TODO
 I marinidi voci delle onde usano il loro potere primevo per chiamare a sé i loro
 alleati e per difendere il loro popolo tramite magie letali.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Marinide Voce delle Onde - Creatura 2

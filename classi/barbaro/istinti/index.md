@@ -13,21 +13,21 @@ convinzione, una maledizione, un retaggio o uno stato mentale. Ogni istinto
 conferisce una capacità di istinto e ulteriori capacità acquisibili con i
 talenti di istinto. Inoltre, determina i tipi di danno a cui resisti tramite
 resistenza furiosa e, ai livelli più alti, incrementa i danni aggiuntivi che
-infliggi [Infuriandoti](/azioni/infuriarsi).
+infliggi [Infuriandoti](/azioni/classe/infuriarsi).
 
 Per ciascun istinto vengono indicati degli atti che per esso rappresentano degli
 anatemi: se li compi, perdi le capacità di istinto e tutti i talenti di istinto
 finché non dedichi 1 giorno di pausa a riarmonizzare il tuo spirito, ma conservi
 tutte le altre capacità da barbaro.
 
-## [Istinto Animale](/classi/barbaro/istinti/istinto-animale)
+## @[Istinto Animale](/classi/barbaro/istinti/istinto-animale)
 
-## [Istinto del Gigante](/classi/barbaro/istinti/istinto-del-gigante)
+## @[Istinto del Gigante](/classi/barbaro/istinti/istinto-del-gigante)
 
-## [Istinto dell'Ira](/classi/barbaro/istinti/istinto-dell-ira)
+## @[Istinto dell'Ira](/classi/barbaro/istinti/istinto-dell-ira)
 
-## [Istinto Draconico](/classi/barbaro/istinti/istinto-draconico)
+## @[Istinto Draconico](/classi/barbaro/istinti/istinto-draconico)
 
-## [Istinto Spirituale](/classi/barbaro/istinti/istinto-spirituale)
+## @[Istinto Spirituale](/classi/barbaro/istinti/istinto-spirituale)
 
-## [Istinto Superstizioso](/classi/barbaro/istinti/istinto-superstizioso)
+## @[Istinto Superstizioso](/classi/barbaro/istinti/istinto-superstizioso)

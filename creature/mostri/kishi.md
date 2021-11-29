@@ -38,8 +38,8 @@ aiuto. I kishi divorano ogni parte del corpo delle loro vittime, non lasciando
 così traccia dell'omicidio commesso, arrivando a leccare il sangue versato e
 pulire la scena del delitto nel migliore modo che gli è possibile.
 
-**[Ricordare Conoscenze - Fatato (Natura)](/azioni/ricordare-conoscenze)**: CD
-24
+**[Ricordare Conoscenze - Fatato (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 24
 
 ## Kishi - Creatura 8
 

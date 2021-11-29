@@ -16,8 +16,8 @@ invertebrati. Non sono creature aggressive e si cibano volentieri anche di
 carcasse, ma quando si trovano di fronte una preda viva, attaccano senza
 esitazioni pressoché qualsiasi creatura di taglia inferiore alla loro.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-23
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 23
 
 ## Quetzalcoatlus - Creatura 7
 

@@ -27,10 +27,10 @@ basata sulla crudeltà e sul tradimento. Il semplice tocco di una banshee provoc
 dolore e genera un terrore primitivo. Inoltre, chi ode il suo grido di angoscia
 raramente sopravvive all'esperienza.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 38
 
-**[Ricordare Conoscenze - Spirito (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Spirito (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 38
 
 ## Banshee - Creatura 17

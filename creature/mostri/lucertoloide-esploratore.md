@@ -16,7 +16,7 @@ esploratori seguirli, osservarli e capire le loro abitudini e le loro debolezze
 per riferirle alla propria comunità, onde organizzare meglio le difese in caso
 di possibili rappresaglie.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Lucertoloide Esploratore - Creatura -1

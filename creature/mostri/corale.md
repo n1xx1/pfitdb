@@ -15,7 +15,7 @@ regno dei mortali per annunciare buoni presagi e messaggi di buon auspicio. Gli
 angeli corali spesso servono la dea Shelyn, ma è possibile incontrarli anche al
 servizio di altre divinità e signori empirei buoni.
 
-**[Ricordare Conoscenze - Celestiale (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Celestiale (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 22
 
 ## Corale (Angelo del Coro) - Creatura 6

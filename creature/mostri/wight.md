@@ -36,7 +36,7 @@ per secoli nei valichi d'alta montagna, nei passaggi sigillati o sul fondo delle
 torbiere o dei laghi, prima che il passaggio di un viaggiatore ignaro li desti
 dal loro riposo.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Wight - Creatura 3

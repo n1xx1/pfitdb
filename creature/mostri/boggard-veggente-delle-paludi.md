@@ -13,7 +13,7 @@ sua devozione al signore dei demoni [Gogunta](/divinità/gogunta) e utilizza il
 suo potere per guidare un villaggio boggard, tenendo sotto controllo il resto
 del villaggio e pianificando gli assalti contro le comunità circostanti.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Boggard Veggente delle Paludi - Creatura 3

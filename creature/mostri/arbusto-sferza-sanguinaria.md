@@ -16,8 +16,8 @@ provocando ferite sanguinanti per irrigare il terreno attorno a sé. I semi
 dell'arbusto sferza sanguinaria riescono a radicare solo in un suolo innaffiato
 di sangue.
 
-**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/ricordare-conoscenze)**: CD
-16
+**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 16
 
 ## Arbusto Sferza Sanguinaria - Creatura 2
 

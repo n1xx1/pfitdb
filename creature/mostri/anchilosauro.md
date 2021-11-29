@@ -29,8 +29,8 @@ grigie. Il proprietario di un anchilosauro prigioniero potrebbe dipingere le sue
 scaglie di colori più sgargianti per indicare agli altri che non si tratta di
 una creatura selvatica.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-22
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 22
 
 ## Anchilosauro - Creatura 6
 

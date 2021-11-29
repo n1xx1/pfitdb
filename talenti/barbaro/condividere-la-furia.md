@@ -14,5 +14,5 @@ infuriato.
 
 Alimenti la collera di un alleato. Mentre sei infuriato, una creatura
 consenziente entro 9 metri ottiene gli effetti dell'azione
-[Infuriarsi](/azioni/infuriarsi), ma può comunque utilizzare azioni con il
-tratto concentrazione.
+[Infuriarsi](/azioni/classe/infuriarsi), ma può comunque utilizzare azioni con
+il tratto concentrazione.

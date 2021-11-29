@@ -1,14 +1,14 @@
 ---
 source: Guida del Giocatore, pag. 116
 original-name: Tyrant
-original-srd: https://2e.aonprd.com/Tenets.aspx?ID=4
+original-srd: https://2e.aonprd.com/Causes.aspx?ID=4
 ---
 
 # Tiranno \[Legale Malvagio\]
 
 Tutto è lecito ai potenti, e tu soggioghi i deboli per tenerli al loro posto.
-Ottieni la reazione del campione [Pugno di Ferro](/azioni/pugno-di-ferro) e
-l'incantesimo di devozione
+Ottieni la reazione del campione [Pugno di Ferro](/azioni/classe/pugno-di-ferro)
+e l'incantesimo di devozione
 [tocco di corruzione](/incantesimi/tocco-di-corruzione). Dopo i precetti del
 male, aggiungi anche questi.
 
@@ -25,7 +25,7 @@ male, aggiungi anche questi.
 
 ## Reazione del Campione
 
-[Pugno di Ferro](/azioni/pugno-di-ferro)
+### @[Pugno di Ferro](/azioni/classe/pugno-di-ferro)
 
 ## Punizione Divina
 
@@ -34,12 +34,12 @@ nemico subisce danni da male persistenti pari al tuo modificatore di Carisma.
 
 ## Infervorare
 
-Quando usi [Pugno di Ferro](/azioni/pugno-di-ferro), ogni nemico entro 4,5 metri
-da te che non sia la creatura innescante deve anch'esso o cadere a terra o
-subire danni mentali (a sua scelta). Queste creature subiscono solo il minimo
-dei danni (in genere 3 al 11°, 4 al 12°, 5 al 16° e 6 al 19°), e gli effetti che
-subiscono non possono essere modificati da nulla che cambi il tuo Pugno di
-Ferro. Per esempio, il talento
+Quando usi [Pugno di Ferro](/azioni/classe/pugno-di-ferro), ogni nemico entro
+4,5 metri da te che non sia la creatura innescante deve anch'esso o cadere a
+terra o subire danni mentali (a sua scelta). Queste creature subiscono solo il
+minimo dei danni (in genere 3 al 11°, 4 al 12°, 5 al 16° e 6 al 19°), e gli
+effetti che subiscono non possono essere modificati da nulla che cambi il tuo
+Pugno di Ferro. Per esempio, il talento
 [Ripercussioni di Ferro](/talenti/campione/ripercussioni-di-ferro) non potrebbe
 trasformare il danno in danno mentale persistente per una creatura diversa da
 quella innescante.

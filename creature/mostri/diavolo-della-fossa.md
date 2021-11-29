@@ -48,7 +48,7 @@ fisica, alla loro natura manipolativa e alle potenti capacità da incantatore di
 cui dispongono, i duchi infernali sono ottimi antagonisti per le campagne a
 lungo termine.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 40
 
 ## Diavolo della Fossa (Diavolo della Tirannia) - Creatura 20

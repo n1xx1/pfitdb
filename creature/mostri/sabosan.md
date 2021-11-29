@@ -32,7 +32,7 @@ selezionare le prede: il loro rapido metabolismo li spinge a nutrirsi con quasi
 10 kg di carne e cibo per giorno (accompagnati, naturalmente, da una copiosa
 quantità di sangue).
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 20
 
 ## Sabosan - Creatura 5

@@ -13,8 +13,8 @@ visibilmente più muscolosi e possenti delle altre specie di grandi felini.
 Spesso uccidono le prede azzannandole fulmineamente alla gola o ad altri punti
 vulnerabili. Le zanne degli smilodonti sono trofei particolarmente ricercati.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-22
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 22
 
 ## Smilodonte - Creatura 6
 

@@ -11,7 +11,7 @@ original-srd: TODO
 I falchi zefiro solcano le correnti del Piano dell'Aria raggruppati in grandi
 stormi.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Falco Zefiro - Creatura -1

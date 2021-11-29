@@ -22,7 +22,7 @@ conseguenza i costruttori fanno tutto il possibile per mantenere sempre i loro
 golem in perfette condizioni... oppure li trasferiscono dall'interno all'esterno
 della stanza da proteggere.
 
-**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/abilita/ricordare-conoscenze)**:
 CD 29
 
 ## Golem di Argilla - Creatura 10

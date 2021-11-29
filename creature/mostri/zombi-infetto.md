@@ -10,7 +10,7 @@ original-srd: TODO
 
 Uno zombi infetto è contaminato da un'orrenda malattia contagiosa.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Zombi Infetto - Creatura 1

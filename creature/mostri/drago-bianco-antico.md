@@ -32,7 +32,8 @@ o i gioielli. Grazie alla loro capacità di plasmare il ghiaccio, i draghi
 bianchi possono modificare la tana in base alle loro esigenze e vanno molto
 orgogliosi delle decorazioni con cui anno dopo anno le impreziosiscono.
 
-**[Ricordare Conoscenze - Drago (Arcano)](/azioni/ricordare-conoscenze)**: CD 36
+**[Ricordare Conoscenze - Drago (Arcano)](/azioni/abilita/ricordare-conoscenze)**:
+CD 36
 
 ## Drago Bianco Antico - Creatura 15
 

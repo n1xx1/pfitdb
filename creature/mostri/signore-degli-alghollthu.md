@@ -20,7 +20,7 @@ tutte le altre vite come creature che hanno diritto di controllare, quindi
 l'idea che i loro potenziali schiavi possano avere fede in un potere superiore
 diverso dal loro li manda su tutte le furie.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 25
 
 ## Signore degli Alghollthu (Aboleth) - Creatura 7

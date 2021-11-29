@@ -15,8 +15,8 @@ spire per poi stritolarle con i suoi possenti muscoli. Nonostante questo, gli
 erpetologi più coraggiosi a volte tengono un pitone palla presso di loro come
 animale da compagnia.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-15
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 15
 
 ## Pitone Palla - Creatura 1
 

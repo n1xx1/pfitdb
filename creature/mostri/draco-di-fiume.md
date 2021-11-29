@@ -16,7 +16,8 @@ sul fiume e si sentono a casa loro sia sopra che sotto la superficie dell'acqua.
 Questa versatilità consente loro di catturare le prede piu disparate, dai pesci
 ai boggard, dai daini ai passeggeri delle navi.
 
-**[Ricordare Conoscenze - Drago (Arcano)](/azioni/ricordare-conoscenze)**: CD 18
+**[Ricordare Conoscenze - Drago (Arcano)](/azioni/abilita/ricordare-conoscenze)**:
+CD 18
 
 ## Drago di Fiume - Creatura 3
 

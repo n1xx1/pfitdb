@@ -13,8 +13,8 @@ retrattili che iniettano un potente veleno nelle sue prede. I vari tipi di
 vipera iniettano vari tipi di veleno, che possono indurre paralisi, dolore
 estremo, gonfiore, coagulazione del sangue o perfino un arresto cardiaco.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-13
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 13
 
 ## Vipera - Creatura -1
 

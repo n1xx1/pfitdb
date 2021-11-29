@@ -32,7 +32,7 @@ all'essere non morto, alcuni dei quali sono contraddistinti dalla presenza di
 vari uccelli, dal profumo di menta e tè e da sagome spettrali che indossano
 pesanti armature.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 32
 
 ## Vestigia di Barzillai - Creatura 10

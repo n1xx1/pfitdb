@@ -23,7 +23,7 @@ tentativi di fomentare la paura. La verità è probabilmente una via di mezzo,
 anche se non servono poi molti padroni velati che muovano i fili da dietro le
 quinte per devastare un'intera nazione!
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 37
 
 ## Padrone Velato - Creatura 14

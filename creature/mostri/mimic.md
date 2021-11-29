@@ -23,7 +23,7 @@ rimanendo travestito nella camera di un dungeon anche per decenni. Per quanto
 possa essere lunga l'attesa, il mimic rimane vigile e allerta, pronto a colpire
 in qualsiasi momento.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 19
 
 ## Mimic - Creatura 4

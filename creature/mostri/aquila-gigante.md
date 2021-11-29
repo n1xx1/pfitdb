@@ -24,8 +24,8 @@ fidato. Le aquile giganti sono molto longeve e prendono molto sul serio i debiti
 e i giuramenti; allo stesso modo ricordano per anni gli insulti ricevuti e sono
 lente a perdonare.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-13
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 13
 
 ## Aquila Gigante - Creatura 3
 

@@ -23,10 +23,10 @@ mannari. I ratti mannari sono molto simili ai [rattoidi](/tratti/rattoide)
 quando assumono forma ibrida, se si eccettuano le potenziali differenze di
 taglia, ma i rattoidi non nutrono alcun amore per questi mostri.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Ratto Mannaro - Creatura 2

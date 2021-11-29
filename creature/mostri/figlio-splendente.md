@@ -37,7 +37,7 @@ ingiustizia della loro nascita. I figli splendenti rifiutano l'uso dei nomi
 propri e si riferiscono gli uni agli altri sia al singolare che al plurale,
 un'abitudine che confonde la maggior parte delle altre creature.
 
-**[Ricordare Conoscenze - Astrale (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Astrale (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 30
 
 ## Figlio Splendente - Creatura 12

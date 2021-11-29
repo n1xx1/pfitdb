@@ -37,7 +37,8 @@ pepato. Alcune razze sotterranee fabbricano l'inchiostro bruciando le carcasse
 dei drakauthix, macinandone le ceneri e tenendole compresse a lungo finché non
 si solidificano in una sostanza argentata.
 
-**[Ricordare Conoscenze - Fungo (Natura)](/azioni/ricordare-conoscenze)**: CD 26
+**[Ricordare Conoscenze - Fungo (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 26
 
 ## Drakauthix - Creatura 9
 

@@ -29,7 +29,7 @@ nell'Abisso. A volte un signore dei balor può evolversi ulteriormente in una
 creatura unica dotata di una molti poteri diversificati, nel qual caso può
 ascendere perfino al ruolo di vero signore dei demoni.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 40
 
 ## Balor (Demone del Fuoco) - Creatura 19

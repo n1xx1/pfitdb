@@ -10,7 +10,7 @@ original-srd: TODO
 Anche dopo la caduta del Re Gorilla, alcuni charau-ka continuano ad adorare
 Angazhan.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Charau-Ka Accolito di Angazhan - Creatura 3

@@ -10,7 +10,7 @@ original-srd: TODO
 Se i charau-ka sono famigerati per la loro brutalità, alcuni spaventano persino
 i loro simili per le loro ossessioni violente.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 22
 
 ## Charau-Ka Macellaio - Creatura 6

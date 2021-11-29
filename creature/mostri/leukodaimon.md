@@ -17,7 +17,7 @@ dàimon e aiutano coloro che li evocano nei mondi mortali per diffondere malatti
 ed epidemie, rinunciando a ogni forma di gloria personale pur di ottenere i
 risultati desiderati.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 26
 
 ## Leukodàimon - Creatura 9

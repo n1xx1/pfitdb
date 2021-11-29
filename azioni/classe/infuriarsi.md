@@ -24,8 +24,8 @@ Mentre sei infuriato:
 - Subisci penalità -1 alla CA.
 - Non puoi effettuare azioni con il tratto
   [concentrazione](/tratti/concentrazione) a meno che non abbiano anche il
-  tratto [furia](/tratti/furia). Puoi [Individuare](/azioni/individuare) mentre
-  sei infuriato.
+  tratto [furia](/tratti/furia). Puoi [Individuare](/azioni/base/individuare)
+  mentre sei infuriato.
 
 Terminata la furia, perdi i punti ferita temporanei conferiti da Infuriarsi che
 ti restano e non puoi Infuriarti nuovamente per 1 minuto.

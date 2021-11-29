@@ -11,8 +11,8 @@ original-srd: TODO
 Queste gigantesche mantidi si annidano nel fitto delle giungle e delle foreste
 preistoriche, dove danno la caccia a prede enormi quanto loro per divorarle.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-28
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 28
 
 ## Mantide Letale - Creatura 11
 

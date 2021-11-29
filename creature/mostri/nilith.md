@@ -36,7 +36,7 @@ la compagnia dei propri simili, probabilmente perché questi araldi degli incubi
 non desiderano in alcun modo assaggiare gli orrori che solitamente infliggono
 agli altri.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 27
 
 ## Nilith - Creatura 10

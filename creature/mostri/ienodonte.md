@@ -15,8 +15,8 @@ per le sue possenti fauci. I clan degli [gnoll](/tratti/gnoll) considerano
 queste creature particolarmente utili sia come cavalcature che come animali da
 guardia.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-18
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 18
 
 ## Ienodonte - Creatura 3
 

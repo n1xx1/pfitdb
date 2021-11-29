@@ -15,7 +15,7 @@ giornate. I duergar tiratori scelti si specializzano anche in metodi di
 combattimento a distanza non letali, tattiche che spesso sono chiamati a usare
 quando è necessario sedare una rivolta di schiavi o catturare un fuggitivo.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 14
 
 ## Duergar Tiratore - Creatura 0

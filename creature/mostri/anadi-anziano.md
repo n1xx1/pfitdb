@@ -11,7 +11,7 @@ original-srd: TODO
 Gli anadi anziani devono prendere la difficile decisione di continuare a
 negoziare per risolvere una contesa o passare alle armi.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 24
 
 ## Anadi Anziano - Creatura 6

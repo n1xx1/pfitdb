@@ -13,7 +13,7 @@ furtivi della comunità. Questi xulgath sono specializzati nel muoversi di
 soppiatto, nel colpire fulmineamente dalle ombre e nel tendere imboscate ai
 nemici.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Xulgath Furtivo - Creatura 2

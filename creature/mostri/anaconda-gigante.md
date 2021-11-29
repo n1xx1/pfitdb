@@ -15,8 +15,8 @@ dai rami più alti della giungla, gli anaconda giganti sono diffusi soprattutto
 negli stagni e lungo i fiumi, dove si cibano di prede come i lamantini e i
 capibara.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-24
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 24
 
 ## Anaconda Gigante - Creatura 8
 

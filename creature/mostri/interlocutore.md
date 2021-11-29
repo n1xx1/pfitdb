@@ -19,7 +19,7 @@ gli interlocutori, sono poche le cose che hanno più valore delle gambe, degli
 occhi o persino del cervello di un potente nemico. Gli interlocutori arrivano
 mediamente a 2,70 metri di altezza e a 400 chili di peso.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 30
 
 ## Interlocutore - Creatura 12

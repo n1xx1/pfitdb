@@ -23,7 +23,7 @@ Le megere marine possono formare una congrega, ma la loro natura acquatica
 spesso impedisce loro di aderire a una congrega mista, composta da altri tipi di
 megere.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Megera Marina - Creatura 3

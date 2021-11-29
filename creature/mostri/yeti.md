@@ -34,7 +34,7 @@ provano nel vedere il terrore che infliggono ai loro simili. Questi yeti
 cannibali finiscono invariabilmente per attirare l'attenzione dei wendigo, cosa
 che peggiora ulteriormente la situazione.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 22
 
 ## Yeti - Creatura 5

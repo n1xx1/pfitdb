@@ -10,7 +10,7 @@ original-srd: TODO
 
 Le ossa rianimate dei giganti formano degli eccellenti schiavi necromantici.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Scheletro Gigante - Creatura 3

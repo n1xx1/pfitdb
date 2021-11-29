@@ -12,8 +12,8 @@ Questi giganteschi cugini delle normali mantidi religiose sono più alti di un
 umano medio. Vanno a caccia nelle foreste più fitte e assalgono le prede
 colpendole dagli alberi.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-18
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 18
 
 ## Mantide Gigante - Creatura 3
 

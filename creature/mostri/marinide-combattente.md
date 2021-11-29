@@ -12,7 +12,7 @@ I marinidi combattenti formano il grosso delle milizie dei vasti reami subacquei
 della razza e affrontano i potenziali aggressori a testa bassa, con energia e
 senza scendere a compromessi.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Marinide Combattente - Creatura 1

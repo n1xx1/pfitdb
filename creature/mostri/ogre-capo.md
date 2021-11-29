@@ -16,7 +16,7 @@ perfino dagli altri ogre, che fanno di tutto per non contrariarli. Quando un
 ogre capo sbraita i suoi ordini, gli altri membri della famiglia obbediscono
 all'istante.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 23
 
 ## Ogre Capo - Creatura 7

@@ -12,7 +12,7 @@ A differenza di molte altre culture, i diavoli marini di rango più alto non sol
 partecipano alla battaglia insieme ai loro fratelli, ma guidano attivamente le
 campagne militari.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 22
 
 ## Diavolo Marino Barone - Creatura 6

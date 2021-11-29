@@ -11,5 +11,5 @@ original-srd: https://2e.aonprd.com/Feats.aspx?ID=135
 
 ---
 
-Quando ti [Infuri](/azioni/infuriarsi), il tuo senso dell'olfatto si affina.
-Acquisisci olfatto impreciso con raggio 9 metri.
+Quando ti [Infuri](/azioni/classe/infuriarsi), il tuo senso dell'olfatto si
+affina. Acquisisci olfatto impreciso con raggio 9 metri.

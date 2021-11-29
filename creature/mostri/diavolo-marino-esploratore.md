@@ -13,7 +13,7 @@ marini, perlustrano le acque scure dell'oceano in cerca di prede acquatiche,
 costeggiano le rive per valutare le minacce terrestri o ingaggiano battaglia con
 le avanguardie nemiche prima del grosso delle truppe.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Diavolo Marino Esploratore - Creatura 2

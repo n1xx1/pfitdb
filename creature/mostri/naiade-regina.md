@@ -18,8 +18,8 @@ protezione, ma eliminano velocemente e ferocemente chiunque le minacci. Se
 costrette a combattere, l'accecante bellezza e l'ampia varietà di incantesimi
 offensivi posseduti dalle naiadi regine ne fa delle avversarie formidabili.
 
-**[Ricordare Conoscenze - Fatato (Natura)](/azioni/ricordare-conoscenze)**: CD
-25
+**[Ricordare Conoscenze - Fatato (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 25
 
 ## Naiade Regina - Creatura 7
 

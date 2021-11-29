@@ -13,7 +13,7 @@ e sono in contatto con le forze e le creature elementali delle Lande Tenebrose.
 Sanno che non tutto ciò che vive nel sottosuolo è sinistro e malvagio, ma sanno
 anche che tutti gli spiriti e le entità primeve meritano rispetto.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 20
 
 ## Gnomo delle Profondità Custode delle Rocce - Creatura 5

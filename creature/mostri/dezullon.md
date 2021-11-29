@@ -31,8 +31,8 @@ sanguisuga. Quest'ultima varietà è particolarmente pericolosa, in quanto le
 foglie possono anche sventrare le creature rimaste incastrate all'intero delle
 loro coppe.
 
-**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/ricordare-conoscenze)**: CD
-27
+**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 27
 
 ## Dezullon - Creatura 10
 

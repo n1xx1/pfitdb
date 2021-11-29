@@ -37,7 +37,7 @@ rimangono invariati a prescindere dalla tradizione magica abbracciata dalla
 creatura, ma chi utilizza incantesimi preparati di altro tipo userà una lista di
 incantesimi completamente diversa da quella presentata di seguito.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 22
 
 ## Drider - Creatura 6

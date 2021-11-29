@@ -28,10 +28,10 @@ gli incubi, con i quali condivide un legame speciale. Le megere notturne evitano
 di combattere soprattutto con i nemici che possono inseguirle sul Piano Etereo,
 scegliendo di affrontare solo le sfide dove hanno la certezza di poter fuggire.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 26
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 26
 
 ## Megera Notturna - Creatura 9

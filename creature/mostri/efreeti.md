@@ -20,7 +20,7 @@ dei geni e solo in certe occasioni tollerano un'alleanza con gli shaitan. Gli
 efreeti sono alti 3, 6 metri e pesano circa 1 tonnellata, dimostrandosi
 avversari formidabili e capaci di intimorire con una sola occhiata le prescelte.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 28
 
 ## Efreeti - Creatura 9

@@ -14,8 +14,8 @@ la carne degli umanoidi li spinge spesso ad abbandonare il fitto delle terre
 selvagge. Un agricoltore disperato i cui campi vengono infestati dagli ankhrav
 spesso non ha altra scelta che cercare l'aiuto di un gruppo di avventurieri.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-18
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 18
 
 ## Ankhrav - Creatura 3
 

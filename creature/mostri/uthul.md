@@ -13,7 +13,7 @@ di natura elementale, gli uthul si incontrano quasi sempre sul Piano Materiale,
 dove si nascondono tra le formazioni di nubi naturali, specialmente quelle
 temporalesche.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 32
 
 ## Uthul - Creatura 14

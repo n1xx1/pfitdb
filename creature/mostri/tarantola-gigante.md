@@ -11,8 +11,8 @@ original-srd: TODO
 Le tarantole sono predatori che preferiscono tendere imboscate ma possono anche
 attaccare le prede allo scoperto.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-22
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 22
 
 ## Tarantola - Creatura 6
 

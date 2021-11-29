@@ -10,7 +10,7 @@ original-srd: TODO
 I cavalieri tombali sono guerrieri non morti la cui esistenza blasfema è
 conferita da un'armatura maledetta.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 27
 
 ## Cavaliere Tombale - Creatura 10

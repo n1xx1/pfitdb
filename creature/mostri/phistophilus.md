@@ -21,7 +21,7 @@ tonalità che variano dal bronzo al cremisi e grandi corna ricurve che si
 estendono dal loro corpo, e su cui spesso drappeggiano i loro contratti
 preferiti o i più importanti.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 27
 
 ## Phistophilus (Diavolo dei Contratti) - Creatura 10

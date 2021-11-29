@@ -31,7 +31,7 @@ dell'equipaggiamento utile come delle fiale del gelo minore; i cacciatori di
 linfa vitale hanno imparato da tempo che il gelo è efficace contro queste
 creature e non danneggia neppure i reagenti da raccogliere.
 
-**[Ricordare Conoscenze - Melma (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Melma (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 24
 
 ## Linfa Vitale - Creatura 6

@@ -38,8 +38,8 @@ Sfortunatamente per gli elfi che si imbattono in un bulette, tuttavia, essi
 vengono generalmente uccisi come qualsiasi altro intruso; il loro corpo rimarrà
 poi lì dove è caduto, senza essere divorato.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-24
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 24
 
 ## Bulette - Creatura 8
 

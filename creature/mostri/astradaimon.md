@@ -23,7 +23,7 @@ astradàimon i loro scontri con questi bizzarri cacciatori di anime migranti son
 leggendari. Non tutti gli astradàimon si limitano a cacciare anime. I più famosi
 della loro razza prestano servizio come assassini per i Cavalieri in persona.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 35
 
 ## Astradàimon (Dàimon del Vuoto) - Creatura 16

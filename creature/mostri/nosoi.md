@@ -16,7 +16,7 @@ necessario al funzionamento dell'Ossario. Molti nosoi amano chiacchierare e sono
 sempre impazienti di spiegare quanto sia importante lo specifico incarico che
 svolgono al momento.
 
-**[Ricordare Conoscenze - Osservatore (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Osservatore (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Nosoi - Creatura 1

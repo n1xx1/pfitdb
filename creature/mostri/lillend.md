@@ -30,7 +30,7 @@ di condizioni, un lillend preferisce lasciare che i mortali determinino da soli
 il proprio destino, piuttosto che correre il rischio di mettere qualcuno su una
 via per cui il suo cuore non è pronto.
 
-**[Ricordare Conoscenze - Celestiale (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Celestiale (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 23
 
 ## Lillend (Azata Musa) - Creatura 7

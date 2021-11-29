@@ -22,7 +22,7 @@ giocano con le prede prima di ucciderle. Contro gli avversari di potenza
 superiore si limitano a volteggiare sopra le loro teste utilizzando la danza
 della rovina per bersagliarli con una tempesta di fulmini.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 26
 
 ## Vrock (Demone dell'Ira) - Creatura 9

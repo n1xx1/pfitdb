@@ -30,7 +30,7 @@ venerati a loro volta come tali; tuttavia, anche loro praticano strane forme di
 religione della loro specie e considerano le forze primordiali dello spazio
 profondo degne di essere adorate e temute.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 26
 
 ## Collezionista di Cervelli - Creatura 8

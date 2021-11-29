@@ -12,7 +12,8 @@ Il linnorm dei ghiacci vive tra gelidi crepacci, sulle cime montuose spazzate
 dai venti o all'interno di caverne scintillanti ricavate nel cuore degli iceberg
 più grandi.
 
-**[Ricordare Conoscenze - Drago (Arcano)](/azioni/ricordare-conoscenze)**: CD 38
+**[Ricordare Conoscenze - Drago (Arcano)](/azioni/abilita/ricordare-conoscenze)**:
+CD 38
 
 ## Linnorm dei Ghiacci - Creatura 17
 

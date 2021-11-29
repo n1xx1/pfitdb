@@ -12,7 +12,7 @@ Un tipico orco combattente è il nemico violento e bellicoso noto alla maggior
 parte degli avventurieri. Gli orchi combattenti combattono per il proprio clan,
 per la ricchezza e forse soprattutto per la gloria personale.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Orco Combattente - Creatura 1

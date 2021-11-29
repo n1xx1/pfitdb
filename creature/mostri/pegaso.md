@@ -35,7 +35,7 @@ le loro lunghe vite alla causa della giustizia. Sono dotati di potenti capacità
 magiche che li sostengono nei combattimenti, come la resistenza al fuoco e al
 veleno, l'immunità alla pietrificazione e zoccoli che sferrano attacchi sacri.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Pegaso - Creatura 3

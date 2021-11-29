@@ -36,7 +36,7 @@ segni sono in genere i primi indizi che annunciano la presenza di un
 senzafaccia, anche se a volte vengono trascurati e considerati segni
 appartenenti a un vampiro o a un chupacabra.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 19
 
 ## Senzafaccia Predatore - Creatura 4

@@ -20,7 +20,7 @@ avventuriero. Oltre alla loro incredibile forza, i golem di ferro dispongono
 anche di un potente soffio tossico, spesso più che sufficiente a eliminare
 intere squadre di avversari.
 
-**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/abilita/ricordare-conoscenze)**:
 CD 31
 
 ## Golem di Ferro - Creatura 13

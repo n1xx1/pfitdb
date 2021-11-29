@@ -21,7 +21,7 @@ alla morte. Queste creature hanno poco da offrire in cambio delle loro vite,
 anche se tesori fradici d'acqua rimasti nella loro raccolta di vittime possono
 attirare l'attenzione di chi sa cogliere l'occasione.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 17
 
 ## Testuggine Lapide - Creatura 1

@@ -21,8 +21,8 @@ nominati direttamente dagli dei o come demoniaci agenti del male, ma la verità 
 che quasi tutti i serpenti marini sono semplicemente delle bestie molto grandi,
 particolarmente dotate per sfuggire alle forme di individuazione magica.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-32
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 32
 
 ## Serpente Marino - Creatura 12
 

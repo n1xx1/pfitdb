@@ -10,8 +10,8 @@ original-srd: https://2e.aonprd.com/Actions.aspx?ID=2
 **Costo** 1 partita di reagenti infusi
 
 **Requisiti** Devi avere degli
-[strumenti da alchimista](/equipaggiamento/strumenti-da-alchimista), la formula
-dell'oggetto alchemico che stai creando e una mano libera.
+[strumenti da alchimista](/equipaggiamento/equipaggiamenti-da-avventura/strumenti-da-alchimista),
+la formula dell'oggetto alchemico che stai creando e una mano libera.
 
 ---
 

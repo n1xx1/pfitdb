@@ -20,7 +20,7 @@ centimetri, gli imp possono essere combattenti feroci, volando fuori portata e
 diventando invisibili per fuggire se le probabilità dovessero volgere a loro
 sfavore.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Imp - Creatura 1

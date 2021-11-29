@@ -20,7 +20,7 @@ combattere e vanno orgogliosi del fatto di agire velocemente e di colpire prima
 che qualche sgradevole distrazione come la diplomazia possa compromettere
 l'inizio di un combattimento.
 
-**[Ricordare Conoscenze - Osservatore (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Osservatore (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 23
 
 ## Naunet - Creatura 7

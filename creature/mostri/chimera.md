@@ -14,7 +14,7 @@ famelica, pronta a nutrirsi di qualunque creatura le capiti a vista. A volte
 pero un padrone dalla forte volontà è in grado di costringere una chimera a
 servirlo come guardiana o persino come cavalcatura.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 26
 
 ## Chimera - Creatura 8

@@ -31,7 +31,7 @@ restano avvolti singoli keketar possono giungere incredibilmente diverse
 riguardo alla loro volontà e ai loro intenti. I protean considerano però questa
 dissonanza intrinseca un punto di forza anziché una debolezza.
 
-**[Ricordare Conoscenze - Osservatore (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Osservatore (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 36
 
 ## Keketar - Creatura 17

@@ -13,8 +13,8 @@ agguati alle prede più pericolose per intrappolarle e ucciderle. I leoni maschi
 solitamente più grandi e dotati di lunghe criniere, tendono a cacciare
 individualmente.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-18
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 18
 
 ## Leone - Creatura 3
 

@@ -23,8 +23,8 @@ sono indubbiamente i dinosauri più noti tra i ceratopidi, ma esistono molti
 altri esemplari, come per esempio gli stiracosaufl, più piccoli e dotati di un
 solo corno, ma di varie protuberanze cornee sul loro collare.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-24
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 24
 
 ## Triceratopo - Creatura 8
 

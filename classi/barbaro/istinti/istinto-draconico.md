@@ -39,16 +39,16 @@ Mentre sei infuriato, puoi incrementare da 2 a 4 i danni aggiuntivi conferiti da
 Infuriarsi; inoltre, questi danni aggiuntivi ottengono il tipo di danno
 corrispondente al soffio del drago prescelto, anziché il tipo di danno inferto
 dall'arma o dall'attacco senz'armi. Così facendo, l'azione
-[Infuriarsi](/azioni/infuriarsi) acquisisce i tratti [arcano](/tratti/arcano) e
-[invocazione](/tratti/invocazione), oltre al tratto corrispondente al nuovo tipo
-di danno.
+[Infuriarsi](/azioni/classe/infuriarsi) acquisisce i tratti
+[arcano](/tratti/arcano) e [invocazione](/tratti/invocazione), oltre al tratto
+corrispondente al nuovo tipo di danno.
 
 ## Capacità di Specializzazione - 7°
 
 Quando utilizzi furia draconica, incrementi da 4 a 8 i danni aggiuntivi
-conferiti da [Infuriarsi](/azioni/infuriarsi). Se possiedi specializzazione con
-le armi superiore, incrementi invece da 8 a 16 i danni aggiuntivi conferiti da
-Infuriarsi quando utilizzi furia draconica.
+conferiti da [Infuriarsi](/azioni/classe/infuriarsi). Se possiedi
+specializzazione con le armi superiore, incrementi invece da 8 a 16 i danni
+aggiuntivi conferiti da Infuriarsi quando utilizzi furia draconica.
 
 ## Resistenza Furiosa - 9°
 

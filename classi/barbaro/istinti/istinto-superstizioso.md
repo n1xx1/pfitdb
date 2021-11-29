@@ -35,14 +35,14 @@ istinto.
 Mentre sei infuriato, ottieni bonus di status +2 a tutti i tiri salvezza contro
 la magia. Aumenti i danni dovuti a Infuriarsi da 2 a 4 contro le creature che
 possono lanciare incantesimi. Una volta ogni 10 minuti, quando ti
-[Infuri](/azioni/infuriarsi), riacquisti Punti Ferita pari ai Punti Ferita
-temporanei che ottieni da quell'azione di Infuriarsi.
+[Infuri](/azioni/classe/infuriarsi), riacquisti Punti Ferita pari ai Punti
+Ferita temporanei che ottieni da quell'azione di Infuriarsi.
 
 ## Capacità di Specializzazione - 7°
 
-Aumenti i danni dovuti a [Infuriarsi](/azioni/infuriarsi) da 4 a 8 contro le
-creature che possono lanciare incantesimi. Se possiedi specializzazione con le
-armi superiore, li aumenti invece a 12 contro creature con incantesimi e a 8
+Aumenti i danni dovuti a [Infuriarsi](/azioni/classe/infuriarsi) da 4 a 8 contro
+le creature che possono lanciare incantesimi. Se possiedi specializzazione con
+le armi superiore, li aumenti invece a 12 contro creature con incantesimi e a 8
 contro altre creature.
 
 ## Resistenza Furiosa - 9°

@@ -20,8 +20,8 @@ fastidio che di turbamento, specie per chi ne riconosce l'origine. i berretti
 rossi in genere sono alti 90 centimetri, hanno una postura ingobbita, orecchie a
 punta, denti marci e lunghi capelli bianchi aggrovigliati.
 
-**[Ricordare Conoscenze - Fatato (Natura)](/azioni/ricordare-conoscenze)**: CD
-20
+**[Ricordare Conoscenze - Fatato (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 20
 
 ## Berretto Rosso - Creatura 5
 

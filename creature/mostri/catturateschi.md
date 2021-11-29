@@ -13,7 +13,7 @@ manifestazione dell'agonia e della disperazione che gli scalatori precipitati e
 gli esploratori perduti hanno provato negli ultimi istanti che precedono la loro
 dipartita. In alcuni luoghi i catturateschi vengono chiamati anche saxra.
 
-**[Ricordare Conoscenze - N0n Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - N0n Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 40
 
 ## Catturateschi - Creatura 18
@@ -32,8 +32,8 @@ Scheletri +30, Furtività +32
 [divino](/tratti/divino)) Un catturateschi attinge ai ricordi delle creature le
 cui ossa compongono il suo corpo. Questo gli conferisce l'abilità Sapienza sugli
 Scheletri, che può usare per
-[Ricordare Conoscenze](/azioni/ricordare-conoscenze) di qualsiasi tipo. Il
-catturateschi può inoltre parlare e capire tutte le lingue conosciute dalle
+[Ricordare Conoscenze](/azioni/abilita/ricordare-conoscenze) di qualsiasi tipo.
+Il catturateschi può inoltre parlare e capire tutte le lingue conosciute dalle
 creature le cui ossa compongono il suo corpo (che solitamente includono il
 Comune e il linguaggio regionale della regione d'origine del catturateschi). Il
 catturateschi può usare la Sapienza sugli Scheletri come prova di abilità

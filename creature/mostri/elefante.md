@@ -14,8 +14,8 @@ elefante si imbizzarrisca. C'è ben poco che un singolo individuo possa fare
 anche contro un solo elefante imbizzarrito. Un branco intero di elefanti
 infuriati o terrorizzati può facilmente radere al suolo un intero villaggio.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-23
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 23
 
 ## Elefante - Creatura 7
 

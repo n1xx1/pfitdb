@@ -20,7 +20,7 @@ l'attuale Convergenza sia necessaria per conseguire questo equilibrio essenziale
 e agiscono per garantire che il grande disegno della Monade sia attuato fin nei
 minimi dettagli.
 
-**[Ricordare Conoscenze - Osservatore (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Osservatore (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 40
 
 ## Pleroma - Creatura 20

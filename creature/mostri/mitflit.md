@@ -20,8 +20,8 @@ li sottoponga a veri e propri atti di bullismo, è comunque qualcosa che riempie
 parzialmente il vuoto all'interno delle personalità dei mitflit, che raramente
 si ribellano o protestano a meno che la loro rabbia non oltrepassi il limite.
 
-**[Ricordare Conoscenze - Fatato (Natura)](/azioni/ricordare-conoscenze)**: CD
-13
+**[Ricordare Conoscenze - Fatato (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 13
 
 ## Mitflit - Creatura -1
 

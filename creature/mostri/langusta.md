@@ -45,7 +45,7 @@ unicamente al profitto sono più che disponibili a dare la caccia a queste
 pericolose creature, o meglio ancora, ad assoldare degli avventurieri ingenui
 che compiano l'impresa al posto loro.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Langusta - Creatura 1

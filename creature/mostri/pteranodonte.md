@@ -13,8 +13,8 @@ passa consente loro di sfruttare le correnti ascensionali e di fluttuare per
 ore. Queste creature sono dotate di lunghi becchi e di creste altrettanto
 vistose, che si protendono dalla loro nuca.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-16
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 16
 
 ## Pteranodonte - Creatura 2
 

@@ -15,7 +15,7 @@ gli indifesi, ma fuggono a gambe levate da chiunque sia più grosso, più forte 
 meglio organizzato di loro. Non esitano a usare i propri simili come scudi o a
 imbrogliarli per rallentare gli avversari o ottenere un bottino migliore.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 23
 
 ## Gigante delle Colline - Creatura 7

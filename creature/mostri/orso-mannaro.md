@@ -23,10 +23,10 @@ minacci lui o l'area naturale che protegge (tipicamente una foresta), un orso
 mannaro in forma animale normalmente si accontenta di nutrirsi e di dormire
 durante la notte.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 21
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 21
 
 ## Orso Mannaro - Creatura 4

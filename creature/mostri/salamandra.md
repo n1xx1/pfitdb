@@ -13,7 +13,7 @@ superiore è quella di un umanoide dal muso da rettile zannuto. Grazia alla loro
 indole crudele e violenta spesso stringono salde alleanze con i demoni
 dell'Abisso.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 23
 
 ## Salamandra - Creatura 7

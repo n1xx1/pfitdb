@@ -16,7 +16,7 @@ degli immondi e soprattutto contro gli immondi che incarnano il peccato
 dell'ira, gli arconti legione non esitano a entrare in battaglia e a lanciare
 offensive guidate da comandanti divini come Iomedae.
 
-**[Ricordare Conoscenze - Celestiale (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Celestiale (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 23
 
 ## Arconte Legione - Creatura 7

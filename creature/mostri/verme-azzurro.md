@@ -20,8 +20,8 @@ azzurro nei pressi di un insediamento delle Lande Tenebrose diventa evidente,
 gli abitanti organizzano rapidamente una battuta di caccia per affrontare la
 minaccia prima che la creatura provochi qualche disastro.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-36
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 36
 
 ## Verde Azzuro - Creatura 15
 

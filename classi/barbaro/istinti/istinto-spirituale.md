@@ -18,20 +18,20 @@ un anatema, ma puoi difenderti dalle creature non morte.
 ## Furia Spirituale (Capacità di Istinto)
 
 Mentre sei infuriato, puoi aumentare da 2 a 3 i danni conferiti da
-[Infuriarsi](/azioni/infuriarsi) e rendere questi danni aggiuntivi danni
+[Infuriarsi](/azioni/classe/infuriarsi) e rendere questi danni aggiuntivi danni
 positivi o danni negativi, anziché danni del tipo normalmente inferto dalla tua
 arma o dal tuo attacco senz'armi (scegli ogni volta che ti Infuri). Se scegli di
 infliggere danni negativi o danni positivi, la tua arma o il tuo attacco
 senz'armi ottengono gli effetti della runa di proprietà tocco fantasma, che li
 rende più efficaci contro le creature incorporee. L'azione
-[Infuriarsi](/azioni/infuriarsi) acquisisce i tratti divino e necromanzia, oltre
-al tratto negativo o positivo, a seconda dei casi.
+[Infuriarsi](/azioni/classe/infuriarsi) acquisisce i tratti divino e
+necromanzia, oltre al tratto negativo o positivo, a seconda dei casi.
 
 ## Capacità di Specializzazione - 7°
 
 Quando utilizzi furia spirituale, aumenti da 3 a 7 i danni conferiti da
-[Infuriarsi](/azioni/infuriarsi). Se possiedi specializzazione con le armi
-superiore, utilizzando furia spirituale aumenti i danni a 13.
+[Infuriarsi](/azioni/classe/infuriarsi). Se possiedi specializzazione con le
+armi superiore, utilizzando furia spirituale aumenti i danni a 13.
 
 ## Resistenza Furiosa - 9°
 

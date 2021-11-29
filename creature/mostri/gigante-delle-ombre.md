@@ -32,7 +32,7 @@ un'antica religione che, per quanto sia esclusiva del loro popolo, molti
 confondono con il culto di Zon-Kuthon per i dettagli che le accomunano, come i
 sacrifici e l'autolesionismo.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 31
 
 ## Gigante delle Ombre - Creatura 13

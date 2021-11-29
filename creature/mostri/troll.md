@@ -17,7 +17,7 @@ capacità rigeneranti. Un troll può misurare dai 3,6 ai 4,8 metri d'altezza,
 anche se preferisce stare curvo per comodità e per indurre gli avversari a
 sottovalutare la sua potenza.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 20
 
 ## Troll - Creatura 5

@@ -43,7 +43,7 @@ imminente di fronte a un mostro torreggiante. Di conseguenza, i fuochi fatui
 cercano di variare i modi in cui inducono terrore nelle loro prede, per essere
 sicuri di non stancarsi mai di certi sapori della paura.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 22
 
 ## Fuoco Fatuo - Creatura 6

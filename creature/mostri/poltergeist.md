@@ -13,10 +13,10 @@ come un poltergeist, uno spirito irrequieto invisibile ancora in grado di
 spostare gli oggetti fisici. Molti poltergeist sono morti a seguito di un trauma
 emotivo estremo, da loro subito o causato.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 20
 
-**[Ricordare Conoscenze - Spirito (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Spirito (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 20
 
 ## Poltergeist - Creatura 5

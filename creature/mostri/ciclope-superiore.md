@@ -29,7 +29,7 @@ li spingerebbe a distruggere praticamente tutto ciò che si muove, dai dinosauri
 ai mostri, fino agli occasionali esploratori o carovane destinate a una brutta
 fine.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 32
 
 ## Ciclope Superiore - Creatura 12

@@ -12,7 +12,7 @@ Gli gnomi delle profondità combattenti non esitano a lanciarsi in battaglia, ma
 se possono scegliere preferiscono tattiche finalizzate alla sicurezza dei
 concittadini e dell'insediamento, più che alla distruzione dell'avversario.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Gnomo delle Profondità Combattente - Creatura 2

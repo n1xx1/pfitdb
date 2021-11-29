@@ -11,7 +11,7 @@ original-srd: TODO
 Conflagrazioni ambulanti di un fuoco tanto caldo da essere inimmaginabile, gli
 inferni elementali sono incuranti portatori di distruzione e caos.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 28
 
 ## Inferno Elementale - Creatura 11

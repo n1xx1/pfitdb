@@ -13,7 +13,7 @@ possono intervenire per difendere una stanza dalle intrusioni, se necessario. È
 possibile trovare questi semplici oggetti animati con maggiore frequenza
 rispetto agli oggetti più complicati e costosi.
 
-**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/abilita/ricordare-conoscenze)**:
 CD 13
 
 ## Scopa Animata - Creatura -1

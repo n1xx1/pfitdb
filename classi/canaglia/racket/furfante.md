@@ -12,7 +12,7 @@ viaggio da un posto all'altro escogitando fandonie ed espedienti sempre nuovi.
 Questo racket si sposa bene anche con professioni rispettabili, come l'avvocato,
 il diplomatico o il politico.
 
-Se [Finti](/azioni/fintare) con successo, il bersaglio è
+Se [Finti](/azioni/abilita/fintare) con successo, il bersaglio è
 [impreparato](/condizioni/impreparato) contro gli attacchi in mischia che
 effettui contro di esso fino alla fine del tuo turno successivo. In caso di
 successo critico, il bersaglio e impreparato contro tutti gli attacchi in

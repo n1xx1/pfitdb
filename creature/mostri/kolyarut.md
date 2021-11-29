@@ -17,7 +17,7 @@ una cortesia innata, nonché una conoscenza enciclopedica dei costumi sociali,
 che utilizzano per aiutarsi nelle loro missioni di raccolta di informazioni sui
 loro obiettivi o per affrontare le sfide in modo legale.
 
-**[Ricordare Conoscenze - Osservatore (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Osservatore (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 30
 
 ## Kolyarut - Creatura 12

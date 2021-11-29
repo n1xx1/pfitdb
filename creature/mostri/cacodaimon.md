@@ -15,7 +15,7 @@ sofferenza. Sono sfere digrignanti irte di zanne, pinne e spuntoni e sono il
 tipo di dàimon più debole, un amalgama di meschini forme di morte, prive della
 forza conferita dalla concentrazione su una singola causa di decesso.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Cacodàimon (Dàimon Mietitore) - Creatura 1

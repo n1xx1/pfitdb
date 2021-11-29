@@ -25,7 +25,7 @@ taglia superiore alla tua. Hai accesso a quest'arma più grande, ricompresa fra 
 tipi disponibili all'atto della creazione del personaggio. Prezzo e Volume
 dell'arma sono quelli standard per esemplari della sua taglia. Quando impugni
 tale arma in combattimento, aumenti da 2 a 6 i danni aggiuntivi conferiti da
-[Infuriarsi](/azioni/infuriarsi), ma subisci la condizione
+[Infuriarsi](/azioni/classe/infuriarsi), ma subisci la condizione
 [maldestro](/condizioni/maldestro) 1 per la scarsa maneggevolezza dell'arma. Non
 puoi rimuovere in alcun modo la condizione maldestro o ignorarne le penalità
 finché impugni l'arma.
@@ -33,8 +33,8 @@ finché impugni l'arma.
 ## Capacità di Specializzazione - 7°
 
 Quando usi un'arma più grande aumenti da 6 a 10 i danni aggiuntivi conferiti da
-[Infuriarsi](/azioni/infuriarsi); se possiedi specializzazione con le armi
-superiore, li aumenti da 10 a 18.
+[Infuriarsi](/azioni/classe/infuriarsi); se possiedi specializzazione con le
+armi superiore, li aumenti da 10 a 18.
 
 ## Resistenza Furiosa - 9°
 

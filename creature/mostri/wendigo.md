@@ -10,7 +10,7 @@ original-srd: TODO
 I wendigo sono incarnazioni della paura di morire di fame, della solitudine e
 dell'esposizione fatale al gelo. Infestano le distese ghiacciate del mondo.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 38
 
 ## Wendigo - Creatura 17

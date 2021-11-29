@@ -29,7 +29,7 @@ anche un utile mezzo per tirare qualche scherzo ai danni di quanti, secondo
 loro, hanno bisogno di un po' di divertimento e di imprevisto nella loro
 esistenza.
 
-**[Ricordare Conoscenze - Celestiale (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Celestiale (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Lyrakien (Azata Girovago) - Creatura 1

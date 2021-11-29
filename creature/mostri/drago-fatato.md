@@ -47,7 +47,8 @@ volesse tormentare o infastidire un drago fatato farebbe bene a tenere ben
 presente tutto questo: è alquanto difficile valutare la vera potenza di questi
 minuscoli draghi con una semplice occhiata!
 
-**[Ricordare Conoscenze - Drago (Arcano)](/azioni/ricordare-conoscenze)**: CD 18
+**[Ricordare Conoscenze - Drago (Arcano)](/azioni/abilita/ricordare-conoscenze)**:
+CD 18
 
 ## Drago Fatato - Creatura 2
 

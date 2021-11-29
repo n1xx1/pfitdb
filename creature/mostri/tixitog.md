@@ -32,7 +32,7 @@ di un tixitog; nell'isteria di massa causata da un brulicante sciame di ragni
 diretto verso di loro, di regola gli sfortunati invasori non si rendono conto
 della ben più letale minaccia che segue.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 20
 
 ## Tixitog - Creatura 3

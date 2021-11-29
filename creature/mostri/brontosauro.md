@@ -24,8 +24,8 @@ immensa. Il brachiosauro è uno dei più alti di questi dinosauri e il diplodoco
 uno dei più lunghi, ma è possibile che esistano dei mastodonti ancora più
 grandi.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-27
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 27
 
 ## Brontosauro - Creatura 10
 

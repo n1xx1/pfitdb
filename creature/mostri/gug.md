@@ -43,7 +43,7 @@ possa variare, normalmente questi incantesimi garantiscono l'invisibilità,
 conferiscono il potere di manipolare e plasmare la roccia o scatenano terribili
 energie distruttive sulla carne dei viventi.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 27
 
 ## Gug - Creatura 10

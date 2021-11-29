@@ -12,10 +12,10 @@ L'enorme incubo superiore è una variante più pericolosa dell'incubo,
 particolarmente apprezzata per la sua capacità di invadere altre realtà insieme
 a chi lo cavalca.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 28
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 28
 
 ## Incubo Superiore - Creatura 11

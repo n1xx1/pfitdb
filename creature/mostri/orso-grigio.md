@@ -18,8 +18,8 @@ avversario con sorprendente ferocia. Continua il suo assalto finché il suo
 avversario non gli appare più una minaccia, ma se è affamato, non esiterà a
 cibarsene.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-18
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 18
 
 ## Orso Grigio - Creatura 3
 

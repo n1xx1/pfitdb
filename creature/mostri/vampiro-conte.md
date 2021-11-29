@@ -11,7 +11,7 @@ original-srd: TODO
 I vampiri conti governano sui loro territori tramite un misto di paura e
 crudeltà.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 22
 
 ## Vampiro Conte - Creatura 6

@@ -44,8 +44,8 @@ un procedimento lungo e costoso. Gli addestratori di grifoni addebitano somme
 ingenti per i loro servizi e un sovrano che può vantarsi di possedere una
 scuderia di grifoni è oggetto di grande rispetto e invidia.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-19
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 19
 
 ## Grifone - Creatura 4
 

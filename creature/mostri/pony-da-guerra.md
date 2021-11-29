@@ -12,8 +12,8 @@ _(Nota dell'Archivio: questa creatura non ha una descrizione separata
 all'interno del manuale. Vedi a fondo pagina per informazioni sulla categoria
 rilevante.)_
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-15
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 15
 
 ## Pony da Guerra - Creatura 1
 

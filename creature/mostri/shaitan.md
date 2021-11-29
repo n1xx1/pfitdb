@@ -14,7 +14,7 @@ lavorazione del metallo e della pietra. Il loro piano nativo è attraversato da
 enormi giacimenti di gemme e di metalli preziosi e gli industriosi shaitan hanno
 eretto un vasto impero commerciale grazie a queste abbondanti risorse naturali.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 25
 
 ## Shaitan - Creatura 7

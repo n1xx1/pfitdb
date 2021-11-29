@@ -12,7 +12,7 @@ I coboldi maghi draconici usano la magia per perseguire i loro obiettivi
 segreti. La presenza di un mago draconico in una tana di coboldi è una delle
 testimonianze più esplicite del retaggio draconico di cui vanno così fieri.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Coboldo Mago Draconico - Creatura 2

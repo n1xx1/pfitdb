@@ -12,7 +12,7 @@ Questi elementali tozzi e tondeggianti sono dotati di tre zampe, tre braccia, re
 occhi e di enormi fauci con cui si ingozzano di gemme e metalli che trovano
 deliziosi.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 23
 
 ## Xorn - Creatura 7

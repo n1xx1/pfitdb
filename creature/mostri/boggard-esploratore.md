@@ -12,7 +12,7 @@ I boggard esploratori hanno spesso il compito di pattugliare i confini dei loro
 territori, e a tale scopo imparano un altro linguaggio (normalmente il Comune)
 per minacciare e insultare più facilmente gli intrusi.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Boggard Esploratore - Creatura 1

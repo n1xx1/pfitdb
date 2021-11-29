@@ -11,7 +11,7 @@ original-srd: TODO
 I saggi delle comunità anadi comunicano con la natura e perfezionano la loro
 magia con la pratica.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 21
 
 ## Anadi Saggio - Creatura 4

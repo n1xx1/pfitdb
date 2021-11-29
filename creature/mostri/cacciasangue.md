@@ -48,8 +48,8 @@ quelle dei pipistrelli. Quando è sazia di sangue, la creatura diventa rigonfia 
 rosata e tende a svolazzare instabilmente in aria mentre si allontana per
 digerire il suo pasto.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-13
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 13
 
 ## Cacciasangue - Creatura -1
 

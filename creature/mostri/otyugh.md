@@ -25,7 +25,7 @@ imbatte in un otyugh potrebbe restare sorpreso nel sentirlo parlare per intimare
 agli sconosciuti di lasciare la sua putrida casa o esigere il pagamento di un
 pedaggio in forma di immondizia o altri beni di dubbia natura.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 19
 
 ## Otyugh - Creatura 4

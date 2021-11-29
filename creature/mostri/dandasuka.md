@@ -29,7 +29,7 @@ adorato benefattore che hanno preso alla lettera qualche frase pronunciata alla
 leggera da quest'ultimo, compiendo atti di indicibile violenza che nessuno aveva
 richiesto.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 20
 
 ## Dandasuka - Creatura 5

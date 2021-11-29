@@ -14,7 +14,7 @@ morrigne sono coperte da fluenti vesti di seta di ragno, e indossano maschere
 simili a ragnatele, in quanto considerano i ragni, creature vigili e pazienti, i
 loro fratelli spirituali.
 
-**[Ricordare Conoscenze - Osservatore (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Osservatore (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 34
 
 ## Morrigna - Creatura 15

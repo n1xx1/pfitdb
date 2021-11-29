@@ -16,7 +16,7 @@ questi vascelli contengono cibo saporito in abbondanza. Queste creature usano i
 devastanti spuntoni che hanno sul carapace per squarciare lo scafo delle
 imbarcazioni e poi divorano i marinai caduti in acqua.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 40
 
 ## Baomal - Creatura 20

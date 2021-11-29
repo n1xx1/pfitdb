@@ -18,7 +18,7 @@ di servire gli altri, riservano questo privilegio a creature più grandi e
 pericolose come i giganti del gelo, gli yeti rinnegati o persino i draghi
 bianchi.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 20
 
 ## Lupo Invernale - Creatura 5

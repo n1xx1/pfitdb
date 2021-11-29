@@ -17,8 +17,8 @@ brulicante di pipistrelli vampiro è molto più pericolosa della somma delle sue
 singole parti ed è in grado di infliggere una quantità soverchiante di ferite
 sanguinanti in un arco di tempo spaventosamente breve.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-15
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 15
 
 ## Sciame di Pipistrelli Vampiro - Creatura 1
 

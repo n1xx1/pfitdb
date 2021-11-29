@@ -34,7 +34,8 @@ per scatenare la sua spaventosa potenza contro i malfattori. Molti draghi di
 ottone preferiscono gli ambienti desertici, e pur mantenendo segrete le loro
 tane, in genere si stabiliscono nei pressi di qualche insediamento umanoide.
 
-**[Ricordare Conoscenze - Drago (Arcano)](/azioni/ricordare-conoscenze)**: CD 37
+**[Ricordare Conoscenze - Drago (Arcano)](/azioni/abilita/ricordare-conoscenze)**:
+CD 37
 
 ## Drago di Ottone Antico - Creatura 16
 

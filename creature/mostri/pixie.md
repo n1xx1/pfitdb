@@ -14,8 +14,8 @@ creare situazioni stravaganti di ogni genere e per difendersi. Le altre creature
 a volte hanno difficoltà a capire il modo di parlare rapido e farfugliante dei
 pixie.
 
-**[Ricordare Conoscenze - Fatato (Natura)](/azioni/ricordare-conoscenze)**: CD
-19
+**[Ricordare Conoscenze - Fatato (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 19
 
 ## Pixie - Creatura 4
 

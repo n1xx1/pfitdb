@@ -35,7 +35,7 @@ fortezze e nella forgiatura delle armi metalliche. I giganti impiegano i
 remorhaz anche come bestie da guerra, per scombinare le posizioni dei soldati
 nemici.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 25
 
 ## Remorhaz - Creatura 7

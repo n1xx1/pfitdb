@@ -38,8 +38,8 @@ segreti arcani. Gli incantatori che si trovano nelle Distese Mwangi sono
 disposti a pagare una bella somma per le piume intatte di queste magnifiche
 creature e ancor di più per un esemplare vivo.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-18
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 18
 
 ## Uccello Imperatore - Creatura 1
 

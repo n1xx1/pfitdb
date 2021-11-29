@@ -21,7 +21,7 @@ della loro specie, oppure con esseri più potenti che hanno rivendicato con le
 minacce i loro servigi. Tutte le altre creature sono poco più di semplici prede
 a cui dare la caccia.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 19
 
 ## Minotauro - Creatura 4

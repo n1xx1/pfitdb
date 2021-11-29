@@ -26,8 +26,8 @@ divinità minori della forgia. I gimmerling con un forte senso della disciplina
 lavorano come artigiani, guardie d'élite o spie per i semidei conosciuti come li
 Anziani che vivono nelle profondità del Primo Mondo.
 
-**[Ricordare Conoscenze - Fatato (Natura)](/azioni/ricordare-conoscenze)**: CD
-32
+**[Ricordare Conoscenze - Fatato (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 32
 
 ## Gimmerling - Creatura 12
 

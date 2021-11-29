@@ -32,7 +32,7 @@ persone, i naga guardiani sono anche creature pazienti e comprensive, che
 considerano l'incontro con queste società un'opportunità per educare e ampliare
 loro visione del mondo.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 29
 
 ## Naga Guardiano - Creatura 10

@@ -41,8 +41,8 @@ gioco godono di un notevole prestigio grazie alla potenza del loro apparato
 digerente: spesso diventano gli animali preferiti della tribù e vengono trattati
 meglio perfino della maggior parte dei goblin ordinari.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-15
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 15
 
 ## Cane Goblin - Creatura 1
 

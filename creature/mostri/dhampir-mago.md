@@ -10,7 +10,7 @@ original-srd: TODO
 
 Questo dhampir è uno svetocher, il figlio di un vampiro moroi.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Dhampir Mago - Creatura 2

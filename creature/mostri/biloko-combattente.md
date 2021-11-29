@@ -9,8 +9,8 @@ original-srd: TODO
 
 I biloki ordinari cacciano nella giungla in piccoli gruppi.
 
-**[Ricordare Conoscenze - Fatato (Natura)](/azioni/ricordare-conoscenze)**: CD
-15
+**[Ricordare Conoscenze - Fatato (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 15
 
 ## Biloko Combattente - Creatura 1
 

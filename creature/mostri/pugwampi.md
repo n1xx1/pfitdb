@@ -18,8 +18,8 @@ pugwampi venerano gli gnoll come divinità e sognano di diventare più simili
 possibile a loro; gli gnoll, dal canto loro, detestano i pugwampi ancora di più
 delle altre creature, a causa del loro viscido servilismo.
 
-**[Ricordare Conoscenze - Fatato (Natura)](/azioni/ricordare-conoscenze)**: CD
-14
+**[Ricordare Conoscenze - Fatato (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 14
 
 ## Pugwampi - Creatura 0
 

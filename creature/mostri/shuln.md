@@ -41,7 +41,7 @@ dispongono di un assortimento di incantesimi innati primevi collegati alla
 terra. Ma nonostante questo, anche loro continuano ad apprezzare il sapore dei
 vermi delle caverne.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 35
 
 ## Shuln - Creatura 12

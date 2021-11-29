@@ -21,8 +21,8 @@ perfino i giganti li usano invece come bestie da guerra: i giganti delle pietre
 in particolare hanno l'abitudine di addestrare gli orsi delle caverne per farne
 animali da compagnia o da guardia da tenere nelle loro dimore.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-22
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 22
 
 ## Orso delle Caverne - Creatura 6
 

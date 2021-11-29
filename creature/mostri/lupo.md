@@ -20,8 +20,8 @@ in altre situazioni in cui le prede tradizionali (alci e cervi, principalmente)
 scarseggiano. Alcuni potenti esseri come i vampiri possono invocare i lupi per
 aiutarli in combattimento.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-15
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 15
 
 ## Lupo - Creatura 1
 

@@ -15,7 +15,7 @@ l'equipaggiamento e le ossa delle vittime. Alcune antiche culture tumulavano i
 morti in sarcofaghi di pietra assieme alle gelatine ocra affinché l'acido
 sciogliesse la carne lasciando le ossa ripulite.
 
-**[Ricordare Conoscenze - Melma (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Melma (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 20
 
 ## Gelatina Ocra - Creatura 5

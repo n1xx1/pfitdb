@@ -13,7 +13,7 @@ gli angelici, nelle cui vene scorre il sangue degli angeli, sono una delle
 tipologie più comuni. Molti angelici si danno all'avventura per agire in nome
 del bene nel mondo.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 20
 
 ## Aasimar Redentore - Creatura 5

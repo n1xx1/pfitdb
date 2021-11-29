@@ -10,7 +10,7 @@ original-srd: TODO
 
 I vampiri usano le loro progenie in missioni di infiltrazione e ricognizione.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 19
 
 ## Progenie Vampirica Canaglia - Creatura 4

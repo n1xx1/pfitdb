@@ -21,7 +21,7 @@ loro personalità autoritaria, dalla capacità di prevedere i potenziali risulta
 di ogni azione possibile e da una sufficiente comprensione del flusso entropico
 che consente loro di prevedere gli esiti più probabili.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 36
 
 ## Marilith (Demone della Superbia) - Creatura 17

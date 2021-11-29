@@ -30,7 +30,8 @@ Fitànatos di tanto in tanto tentano di stringere contatti con un terotricus, ma
 tali tentativi si concludono quasi sempre con un una nuova serie di schiavi
 afflitti dalle spore e nulla più.
 
-**[Ricordare Conoscenze - Fungo (Natura)](/azioni/ricordare-conoscenze)**: CD 44
+**[Ricordare Conoscenze - Fungo (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 44
 
 ## Terotricus - Creatura 19
 

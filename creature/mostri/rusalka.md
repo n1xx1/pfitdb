@@ -11,8 +11,8 @@ Le rusalka sono fatati androgini abitanti dei fiumi, che si deliziano nel
 manipolare le emozioni di chiunque sia tanto sfortunato da cadere nelle loro
 grinfie.
 
-**[Ricordare Conoscenze - Fatato (Natura)](/azioni/ricordare-conoscenze)**: CD
-30
+**[Ricordare Conoscenze - Fatato (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 30
 
 ## Rusalka - Creatura 12
 

@@ -12,8 +12,8 @@ I leshy foglia sono minuscoli protettori delle foreste. Indossano armature fatta
 di pigne e cappelli di frutta, fiori o foglie. Trovano molto divertenti i
 combattimenti simulati, ma agiscono con grande prudenza in quelli veri.
 
-**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/ricordare-conoscenze)**: CD
-14
+**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 14
 
 ## Leshy Foglia - Creatura 0
 

@@ -11,7 +11,7 @@ original-srd: TODO
 Queste masse amorfe di liquami e detriti si aggirano tra le luride condutture
 che si snodano al di sotto delle città grandi e piccole.
 
-**[Ricordare Conoscenze - Melma (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Melma (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Melma di Fogna - Creatura 1

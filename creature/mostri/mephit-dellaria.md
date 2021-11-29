@@ -14,7 +14,7 @@ battaglia oppure mettersi a mugolare di terrore con voce stridula. Sono di
 colore celeste e quando volano, le loro ali sottili diffondono piccoli sbuffi di
 vapore nell'aria.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Mephit dell'Aria - Creatura 1

@@ -15,8 +15,8 @@ usando la loro magia e gli attacchi sonori a distanza mentre volteggiano e si
 alzano in volo, usando le loro ali e le possenti zampe da grillo della loro
 parte inferiore per restare fuori portata.
 
-**[Ricordare Conoscenze - Fatato (Natura)](/azioni/ricordare-conoscenze)**: CD
-15
+**[Ricordare Conoscenze - Fatato (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 15
 
 ## Grig - Creatura 1
 

@@ -29,7 +29,7 @@ fuoco è ricoperta di cicatrici e si rifiuta di nasconderle, perché ogni sfregi
 normalmente è alto tra i 3,6 e i 4,8 metri, pesa circa 3.500 chilogrammi e vive
 fino a 350 anni.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 27
 
 ## Gigante del Fuoco - Creatura 10

@@ -10,7 +10,7 @@ original-srd: TODO
 
 I caligni predatori hanno spesso il comando delle enclave dei caligni.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 19
 
 ## Caligni Inseguitore - Creatura 4

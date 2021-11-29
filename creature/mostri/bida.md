@@ -26,7 +26,8 @@ compagnia di piccoli schiavi appetitosi. In rari casi, una coppia di bida può
 unire le forze per conquistare un abitato particolarmente grande, richiedendo
 molto più oro e sangue dalla popolazione per soddisfare entrambe le creature.
 
-**[Ricordare Conoscenze - Drago (Arcano)](/azioni/ricordare-conoscenze)**: CD 26
+**[Ricordare Conoscenze - Drago (Arcano)](/azioni/abilita/ricordare-conoscenze)**:
+CD 26
 
 ## Bida - Creatura 8
 

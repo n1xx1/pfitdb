@@ -12,7 +12,7 @@ I viandanti crepuscolari sono pervasi dalle stesse energie degli psicopompi.
 Questi cinerei eredi planari rinascono sul Piano Materiale per fungere da
 guardiani del ciclo della vita e della morte.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 19
 
 ## Viandante Crepuscolare Cacciatore di Fantasmi - Creatura 4
@@ -63,8 +63,8 @@ suo secondo incremento di gittata contro la sua preda.
 
 Ottiene infine bonus di circostanza +2 alle prove di Furtività, Inganno e
 Intimidazione contro la sua preda e a qualsiasi prova per
-[Ricordare Conoscenze](/azioni/ricordare-conoscenze) sulla sua preda, nonché
-bonus di circostanza +1 alla CA contro gli attacchi della sua preda. Il
+[Ricordare Conoscenze](/azioni/abilita/ricordare-conoscenze) sulla sua preda,
+nonché bonus di circostanza +1 alla CA contro gli attacchi della sua preda. Il
 viandante del crepuscolo può avere soltanto una preda designata alla volta.
 
 **Cacciatore di Fantasmi** Le armi del viandante del crepuscolo possiedono i

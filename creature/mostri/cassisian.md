@@ -15,7 +15,7 @@ precisione, in particolare con le scritture. La maggior parte dei cassisian è
 costituita dalle anime dei mortali degni di fiducia, ma alcuni sono formati dai
 frammenti degli angeli maggiori distrutti al servizio dei regni celestiali.
 
-**[Ricordare Conoscenze - Celestiale (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Celestiale (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Cassisian (Angelo degli Archivi) - Creatura 1

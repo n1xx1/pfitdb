@@ -14,8 +14,8 @@ morso potente le rendono pericolose per i tuffatori e i pescatori. Le murene
 giganti sono dotte di una pelle gommosa che secerne uno strato di muco,
 rendendole difficili da danneggiare con certe armi.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-20
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 20
 
 ## Murena Gigante - Creatura 5
 

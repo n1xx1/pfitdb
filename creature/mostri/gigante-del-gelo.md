@@ -27,7 +27,7 @@ carne va dal blu pallido al grigio scuro e i capelli generalmente sono di colore
 giallo o bianco sporco. Un gigante del gelo normalmente è alto 4,5 metri e pesa
 circa 1.400 chilogrammi.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 26
 
 ## Gigante del Gelo - Creatura 9

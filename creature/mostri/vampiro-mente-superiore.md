@@ -11,7 +11,7 @@ original-srd: TODO
 I vampiri menti superiori sono maghi malvagi che controllano intere cabale di
 non morti e instillano paura nel cuore dei mortali in lungo e in largo.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 28
 
 ## Vampiro Mente Superiore - Creatura 9

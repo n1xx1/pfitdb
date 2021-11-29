@@ -33,7 +33,7 @@ tipica capacità dell'uccello di manipolare le menti e di fomentare i conflitti,
 una capacità che il cauthooj è astuto abbastanza da comprendere...e di cui
 avvalersi.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 30
 
 ## Cauthooj - Creatura 12

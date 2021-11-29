@@ -14,7 +14,7 @@ guerriglieri continuino a svolgere il loro compito. La maggior parte di essi
 tradisce il proprio mandato e si tuffa nella mischia, in cerca di approvazione
 da parte degli altri membri delle tribù di Golarion.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Goblin Guerrigliero - Creatura 1

@@ -20,7 +20,7 @@ potenti dell'Inferno. Le prime erinni erano tutte considerate figlie metaforiche
 di Eiseth, ma le erinni formati da quel momento non si limitano più a un solo
 genere.
 
-**[Ricordare Conoscenze - Nedando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nedando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 24
 
 ## Erinni (Diavolo della Furia) - Creatura 8

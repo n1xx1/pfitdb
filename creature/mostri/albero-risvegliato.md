@@ -17,8 +17,8 @@ la vegetazione animatasi tramite altri metodi, per esempio a seguito di
 un'influenza mistica da un'altra dimensione, di uno spirito fatato capriccioso e
 così via.
 
-**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/ricordare-conoscenze)**: CD
-22
+**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 22
 
 ## Albero Risvegliato - Creatura 6
 

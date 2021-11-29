@@ -23,7 +23,7 @@ suoi atti, il guthallath non può essere fatto ragionare, non è influenzato dal
 maggior parte delle magie e seleziona i suoi bersagli (e le creature che
 risparmia) in modo imprevedibile.
 
-**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/abilita/ricordare-conoscenze)**:
 CD 44
 
 ## Guthallath - Creatura 19

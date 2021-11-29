@@ -26,7 +26,7 @@ di essi e fanno buon uso del loro ingegno per garantirsi un seguito di sudditi
 decadenti, in modo da creare qualcosa di simile a un culto in cui la sua figura
 ingioiellata diventerà oggetto di venerazione.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 25
 
 ## Naga Oscuro - Creatura 7

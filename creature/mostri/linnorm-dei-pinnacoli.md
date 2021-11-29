@@ -12,7 +12,8 @@ I linnorm dei pinnacoli vivono sulle più alte vette vulcaniche, all'interno di
 grotte naturali o di crateri fusi. Il carattere di questi linnorm è spesso
 irascibile e distruttivo quanto il magma a cui queste creature somigliano.
 
-**[Ricordare Conoscenze - Drago (Arcano)](/azioni/ricordare-conoscenze)**: CD 44
+**[Ricordare Conoscenze - Drago (Arcano)](/azioni/abilita/ricordare-conoscenze)**:
+CD 44
 
 ## Linnorm dei Pinnacoli - Creatura 21
 

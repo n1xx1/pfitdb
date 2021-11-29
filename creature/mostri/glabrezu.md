@@ -26,7 +26,7 @@ sottovaIutarne le capacità magiche: queste creature possiedono in realtà
 incantesimi innati di grande potenza. I demoni del tradimento sorgono dalle
 anime dei mortali coinvolti nelle slealtà e negli inganni.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 31
 
 ## Glabrezu (Demone del Tradimento) - Creatura 13

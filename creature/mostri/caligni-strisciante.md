@@ -10,7 +10,7 @@ original-srd: TODO
 
 I caligni più diffusi sono i caligni striscianti, sempre pronti a fare dispetti.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Caligni Strisciante - Creatura 2

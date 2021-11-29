@@ -31,7 +31,7 @@ fustigano i loro accoliti e seguaci, trascinandoli in una frenesia di rituali
 oscuri e atti efferati. Questi culti, pur essendo corrotti e distruttivi,
 raramente sopravvivono più a lungo del loro fondatore.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 20
 
 ## Manto Assassino - Creatura 5

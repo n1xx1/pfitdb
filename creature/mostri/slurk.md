@@ -39,8 +39,8 @@ fattore sorpresa e incalzare gli avversari con attacchi a distanza. I cavalieri
 coboldi approfittano anche della capacità dello slurk di scalare e caricare i
 loro nemici dalle pareti di una caverna.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-16
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 16
 
 ## Slurk - Creatura 2
 

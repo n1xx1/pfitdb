@@ -10,14 +10,14 @@ TODO:
 # Atletica (For)
 
 Atletica indica la tua prodezza fisica. Quando compi l'azione base
-[Sfuggire](/azioni/sfuggire), puoi usare il tuo modificatore di Atletica anziché
-il tuo modificatore di attacco senz'armi.
+[Sfuggire](/azioni/abilita/sfuggire), puoi usare il tuo modificatore di Atletica
+anziché il tuo modificatore di attacco senz'armi.
 
-### [Forzare](/azioni/forzare])
+### @[Forzare](/azioni/abilita/forzare])
 
-### [Lottare](/azioni/lottare])
+### @[Lottare](/azioni/abilita/lottare])
 
-### [Nuotare](/azioni/nuotare])
+### @[Nuotare](/azioni/abilita/nuotare])
 
 <table>
     <thead>
@@ -66,7 +66,7 @@ il tuo modificatore di attacco senz'armi.
     </tbody>
 </table>
 
-### [Salto in Alto](/azioni/salto-in-alto])
+### @[Salto in Alto](/azioni/abilita/salto-in-alto])
 
 ## Saltare
 
@@ -79,11 +79,11 @@ Velocità è almeno 9 metri. Atterri nello spazio in cui termina il tuo Salto
 Salti in verticale puoi muoverti di fino a 0,9 metri in verticale e 1,5 metri in
 orizzontale su una superficie rialzata.
 
-### [Salto in Lungo](/azioni/salto-in-lungo])
+### @[Salto in Lungo](/azioni/abilita/salto-in-lungo])
 
-### [Sbilanciare](/azioni/sbilanciare])
+### @[Sbilanciare](/azioni/abilita/sbilanciare])
 
-### [Scalare](/azioni/scalare])
+### @[Scalare](/azioni/abilita/scalare])
 
 > ### Cadere
 >
@@ -97,10 +97,10 @@ orizzontale su una superficie rialzata.
 > La riduzione non può essere maggiore della profondità dell'acqua (quindi se
 > cadi in un punto dove l'acqua è profonda 3 metri, considera la caduta come se
 > fosse stata più breve di 3 metri). Puoi
-> [Afferrare un Bordo](/azioni/afferrare-un-bordo) come reazione per ridurre o
-> azzerare i danni di alcune cadute.
+> [Afferrare un Bordo](/azioni/abilita/afferrare-un-bordo) come reazione per
+> ridurre o azzerare i danni di alcune cadute.
 
-### [Spingere](/azioni/spingere])
+### @[Spingere](/azioni/abilita/spingere])
 
 > ### Movimento Forzato
 >
@@ -112,4 +112,4 @@ orizzontale su una superficie rialzata.
 
 ## Azione con Addestramento di Atletica
 
-### [Disarmare](/azioni/disarmare])
+### @[Disarmare](/azioni/abilita/disarmare])

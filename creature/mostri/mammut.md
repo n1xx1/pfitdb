@@ -14,8 +14,8 @@ nemici sotto le zampe, ma si servono con grande efficacia anche delle zanne, pi√
 grandi di quelle degli altri elefanti. Gli umanoidi che vivono in queste regioni
 inospitali e gelate si affidano anche alla forza dei mammut per sopravvivere.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-27
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 27
 
 ## Mammut - Creatura 10
 

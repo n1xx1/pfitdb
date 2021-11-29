@@ -20,7 +20,7 @@ a sconfiggere un ogre vorace al suo stesso gioco può spesso approfittare della
 furia o della frustrazione provocata dalla sconfitta per guadagnarsi un'ultima
 opportunità di sfuggire al cupo destino che lo attende.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 19
 
 ## Ogre Vorace - Creatura 4

@@ -18,8 +18,8 @@ dalle semplici fosse piene di queste creature alle versioni più complesse, che
 prevedono l'uso di uno scivolo per riversare le scolopendre sulle teste degli
 intrusi ignari.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-18
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 18
 
 ## Sciame di Scolopendre - Creatura 3
 

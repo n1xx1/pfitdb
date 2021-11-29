@@ -13,5 +13,5 @@ chiunque.
 
 Su queste creature si conoscono meno informazioni rispetto alle creature comuni.
 Solitamente non possono essere evocate. La CD delle prove di
-[Ricordare Conoscenze](/azioni/ricordare-conoscenze) relative a questa creatura
-aumenta di 2.
+[Ricordare Conoscenze](/azioni/abilita/ricordare-conoscenze) relative a questa
+creatura aumenta di 2.

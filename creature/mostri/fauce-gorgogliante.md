@@ -35,7 +35,7 @@ qualche motivo ignoto sono meno diffuse nella regione superiore di Nar-Voth,
 forse a causa della prevalenza di insediamenti che non tollerano la loro
 presenza.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 20
 
 ## Fauce Gorgogliante - Creatura 5

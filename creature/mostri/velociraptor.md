@@ -21,8 +21,8 @@ rivelare altri colori molto più normalmente coperti dalle piume più lunghe. Un
 tipico velociraptor è alto 45 centimetri, è lungo poco più di 2 metri e pesa
 circa 18 chilogrammi.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-15
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 15
 
 ## Velociraptor - Creatura 1
 

@@ -26,7 +26,7 @@ decomporsi di un cadavere o il periodico sfiato di vapore di un geyser)
 affascinano molto i vermivuoti. Un vermevuoto è lungo circa 60 centimetri e pesa
 1 chilogrammo.
 
-**[Ricordare Conoscenze - Osservatore (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Osservatore (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Vermevuoto - Creatura 1

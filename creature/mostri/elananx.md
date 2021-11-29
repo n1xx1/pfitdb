@@ -41,8 +41,8 @@ avere usato il loro morso infuocato per incendiare deliberatamente il
 sottobosco, per poi godersi semplicemente lo spettacolo delle fiamme e
 l'inevitabile dolore che tali catastrofi possono infliggere alle altre creature.
 
-**[Ricordare Conoscenze - Fatato (Natura)](/azioni/ricordare-conoscenze)**: CD
-22
+**[Ricordare Conoscenze - Fatato (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 22
 
 ## Elananx - Creatura 6
 

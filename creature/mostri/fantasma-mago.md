@@ -12,10 +12,10 @@ Un mago con un grande progetto lasciato incompleto potrebbe diventare un
 fantasma mago, cercando costantemente di terminare il suo proposito anche nella
 non morte.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 27
 
-**[Ricordare Conoscenze - Spirito (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Spirito (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 27
 
 ## Fantasma Mago - Creatura 10

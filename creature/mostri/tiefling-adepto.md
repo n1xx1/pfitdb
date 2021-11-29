@@ -14,7 +14,7 @@ mortale. Alcuni cercano di vivere al di sopra della reputazione nefanda dei loro
 antenati, ma altri, come questo tiefling adepto, accettano semplicemente la loro
 etichetta e si consegnano totalmente al male.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Tiefling - Creatura 3

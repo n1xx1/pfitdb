@@ -21,7 +21,7 @@ promesso loro il dominio sugli altri elementali. Quella venerazione si è
 gradualmente trasformata in servitù e ora molti zaramuun credono che se
 consegneranno abbastanza anime ai loro padroni, saranno liberati.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 35
 
 ## Zaramuun - Creatura 16

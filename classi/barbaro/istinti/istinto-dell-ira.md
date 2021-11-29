@@ -17,8 +17,8 @@ un talento da barbaro aggiuntivo di 1° livello.
 ## Capacità di Specializzazione - 7°
 
 Aumenti da 2 a 6 i danni aggiuntivi conferiti da
-[Infuriarsi](/azioni/infuriarsi). Se possiedi specializzazione con le armi
-superiore, li aumenti invece a 12.
+[Infuriarsi](/azioni/classe/infuriarsi). Se possiedi specializzazione con le
+armi superiore, li aumenti invece a 12.
 
 ## Resistenza Furiosa - 9°
 

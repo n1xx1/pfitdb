@@ -14,7 +14,7 @@ i domini sotterranei della tribù. I coboldi sono abili nell'assestare colpi
 furtivi contro i nemici ignari, ma sono altrettanto rapidi a scappare via per
 mettersi in salvo quando in gruppo non sono almeno il doppio degli avversari.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 13
 
 ## Coboldo Combattente - Creatura -1

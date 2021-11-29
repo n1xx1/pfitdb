@@ -57,7 +57,8 @@ fidati e alleati a guardia delle loro tane, ma molti di loro conducono una vita
 completamente solitaria e preferiscono proteggere le loro proprietà mediante
 trappole non letali e interdizioni magiche.
 
-**[Ricordare Conoscenze - Drago (Arcano)](/azioni/ricordare-conoscenze)**: CD 34
+**[Ricordare Conoscenze - Drago (Arcano)](/azioni/abilita/ricordare-conoscenze)**:
+CD 34
 
 ## Drago d'Oro Adulto - Creatura 15
 

@@ -19,8 +19,8 @@ ancora più pericolosi in quanto, a differenza dei loro cugini selvatici, sono
 spesso privi della paura istintiva dell'umanità che impedisce alle creature
 selvatiche di interagire con le persone.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-13
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 13
 
 ## Cane da Guardia - Creatura -1
 

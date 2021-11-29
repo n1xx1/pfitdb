@@ -12,8 +12,8 @@ L'abbondanza di cibo, l'improvvisa schiusa di una nidiata di uova o un'influenza
 magica possono indurre i ragni più piccoli a formare ammassi letali e
 terrificanti.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-14
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 14
 
 ## Sciame di Ragni - Creatura 0
 

@@ -35,7 +35,7 @@ a mangiare, a infliggere dolore psicologico alle creature senzienti, a decorare
 le loro tane con i ricordi dei loro pasti e delle loro vittorie preferite e a
 riprodursi.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 23
 
 ## Chuul - Creatura 7

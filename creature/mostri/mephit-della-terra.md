@@ -15,7 +15,7 @@ e sporcizia. Un mephit della terra è in grado di volare come tutti gli altri
 mephit, ma il volo gli risulta sgradevole e scomodo; difficilmente si alza da
 terra per più di un metro e mezzo, se può evitarlo.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Mephit della Terra - Creatura 1

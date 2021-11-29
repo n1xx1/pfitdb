@@ -29,8 +29,8 @@ più saggio addestrare le varianti più piccole' come il kentrosauro. In ogni
 caso, le placche dorsali fanno di questo dinosaur0 una cattiva scelta come
 cavalcatura.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-23
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 23
 
 ## Stegosauro - Creatura 7
 

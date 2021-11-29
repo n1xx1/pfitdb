@@ -21,7 +21,7 @@ regole molto severe relative all'ospitalità, e molte delle loro città includon
 interi quartieri sigillati magicamente e destinati agli stranieri, dove i marid
 Shahzada possono condurre affari con le creature che respirano aria.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 28
 
 ## Marid - Creatura 9

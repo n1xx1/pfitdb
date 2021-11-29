@@ -13,7 +13,7 @@ maestria nella tecnica vocale. Le loro ballate e i loro motivetti sono
 innegabilmente accattivanti, anche se la gradevolezza di questi brani resta una
 questione di gusto personale.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Goblin Cantore di Guerra - Creatura 1

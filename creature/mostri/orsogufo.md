@@ -32,7 +32,7 @@ non contengono oggetti di valore, ma a volte gli avventurieri trovano piccoli
 oggetti, monete e perfino gioielli rovistando tra i grandi cumuli di ossa non
 digerite che questi mostri lasciano a terra.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 19
 
 ## Orsogufo - Creatura 4

@@ -10,7 +10,7 @@ original-srd: TODO
 
 I servitori scheletrici più comuni fungono da semplici guardiani.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 13
 
 ## Scheletro Guardia - Creatura -1

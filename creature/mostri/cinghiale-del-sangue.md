@@ -33,8 +33,8 @@ halfling della Rete della Campanula si addestrano zelantemente nel disarmare e
 nelle tecniche di combattimento non letali, proprio per evitare qualsivoglia
 spargimento di sangue accidentale durante un'evasione.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-22
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 22
 
 ## Cinghiale del Sangue - Creatura 6
 

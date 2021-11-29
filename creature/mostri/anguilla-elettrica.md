@@ -13,8 +13,8 @@ sono particolarmente aggressive, ma la loro capacità di stordire predatori e
 prede allo stesso modo può risultare pericolosa per le creature più grandi in
 cerca del loro prossimo pasto.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-15
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 15
 
 ## Anguilla Elettrica - Creatura 1
 

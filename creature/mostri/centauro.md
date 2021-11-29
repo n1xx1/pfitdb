@@ -43,7 +43,7 @@ viaggiare lontano dal mondo civilizzato per preservare le tradizioni dei propri
 antenati, mentre un guerriero aggressivo potrebbe incoraggiare le schermaglie
 con gli insediamenti di umanoidi vicini o persino con gruppi di centauri rivali.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Centauro - Creatura 3

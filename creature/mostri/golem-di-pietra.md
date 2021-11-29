@@ -28,7 +28,7 @@ soffitti sui loro nemici. Oltre alle capacità riportate di seguito, questi
 giganteschi golem di pietra possono sferrare ampi colpi che spazzano un'intera
 area e abbattono più bersagli contemporaneamente.
 
-**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/abilita/ricordare-conoscenze)**:
 CD 30
 
 ## Golem di Pietra - Creatura 11

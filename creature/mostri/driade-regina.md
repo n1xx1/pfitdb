@@ -15,11 +15,11 @@ collaborano in modalità dualistica mettendo da parte le reciproche differenze:
 l'amadriade rappresenta la bellezza della natura, e l'altro fatato ne
 rappresenta la furia.
 
-**[Ricordare Conoscenze - Fatato (Natura)](/azioni/ricordare-conoscenze)**: CD
-33
+**[Ricordare Conoscenze - Fatato (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 33
 
-**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/ricordare-conoscenze)**: CD
-33
+**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 33
 
 ## Driade Regina (Amadriade) - Creatura 13
 

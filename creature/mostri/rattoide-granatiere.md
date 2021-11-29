@@ -10,8 +10,8 @@ original-srd: TODO
 I rattoidi granatieri utilizzano l'alchimia e la furtività per difendere le loro
 comunità.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-13
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 13
 
 ## Rattoide Granatiere - Creatura 4
 

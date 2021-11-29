@@ -39,7 +39,7 @@ sospiro nel vento del deserto o un mormorio proveniente dalle nere profondità
 siderali. Le lamie sono tradizionalmente matriarcali e rispettano le donne più
 anziane del gruppo come figure di comando, madri e sciamane.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 22
 
 ## Lamia - Creatura 6

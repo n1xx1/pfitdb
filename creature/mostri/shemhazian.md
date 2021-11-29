@@ -19,7 +19,7 @@ per raggiungere uno scopo comune. E perfino in quei casi, lo shemhazian terrà
 sempre gli occhi aperti in attesa di un'opportunità per infliggere dolore e
 sofferenza ai suoi alleati, oltre che ai suoi nemici.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 35
 
 ## Shemhazian (Demone della Mutilazione) - Creatura 16

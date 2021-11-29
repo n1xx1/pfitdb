@@ -33,8 +33,8 @@ vittime, tirandole giù dai moli e dalle piccole imbarcazioni. Questi bunyip
 fanno particolare attenzione a mantenere nascosta la loro vera forma, ma questo
 non basta ad attenuare le voci riguardo i mostri che infestano le acque.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-18
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 18
 
 ## Bunyip - Creatura 3
 

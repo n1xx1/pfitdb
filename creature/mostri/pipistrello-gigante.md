@@ -21,8 +21,8 @@ mammiferi sociali e intelligenti. A volte vengono usati come cavalcature dagli
 umanoidi più piccoli, in genere quelli che provengono dalle regioni montagnose o
 sotterranee o che vivono in quelle aree.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-16
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 16
 
 ## Pipistrello Gigante - Creatura 2
 

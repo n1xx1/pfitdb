@@ -17,7 +17,7 @@ alcuni rari casi, più morti inferiori uniscono le forze per abbattere una grand
 popolazione: le loro falci fendono la folla e lasciano intere città prive di
 vita, ispirando false (si spera) voci sull'esistenza di più mietitori.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 40
 
 ## Morte Inferiore - Creatura 16

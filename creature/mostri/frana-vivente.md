@@ -10,7 +10,7 @@ original-srd: TODO
 
 Le frane viventi assomigliano a umanoidi fatti di terra e ghiaia.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 20
 
 ## Frana Vivente - Creatura 5

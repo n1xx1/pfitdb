@@ -17,8 +17,8 @@ grossi segugi possono essere di indole selvaggia o feroce e in certi casi
 possono rivaleggiare con i branchi di lupi in termini di pericolo per gli
 abitanti delle aree rurali.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-15
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 15
 
 ## Cane da Galoppo - Creatura 1
 

@@ -17,7 +17,7 @@ tempo, trattando le due categorie quasi come se fossero intercambiabili. Di
 conseguenza i duergar sovrintendenti sono odiati sia dagli schiavi che dagli
 schiavisti.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Duergar Sovrintendente - Creatura 2

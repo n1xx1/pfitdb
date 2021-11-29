@@ -24,8 +24,8 @@ Sebbene siano in grado di muoversi velocemente per brevi tratti, le lucertole
 dal collare normalmente rimangono perfettamente immobili mentre vanno a caccia
 di prede, nel tentativo di coglierle di sorpresa.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-20
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 20
 
 ## Lucertola dal Collare - Creatura 5
 

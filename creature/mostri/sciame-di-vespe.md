@@ -16,8 +16,8 @@ il nido o se provocato in altri modi, sebbene i druidi e altri incantatori
 primevi possano piegare questi insetti velenosi alla loro volontà... con effetti
 letali.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-19
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 19
 
 ## Sciame di Vespe - Creatura 4
 

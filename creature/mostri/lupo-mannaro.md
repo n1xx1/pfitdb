@@ -23,10 +23,10 @@ genere forma un branco familiare dove il membro piu anziano o il più potente
 funge da capo; i nuovi compagni di branco vengono scelti di persona e inculcati
 nella famiglia man mano che la sua influenza cresce.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Lupo Mannaro - Creatura 3

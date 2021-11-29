@@ -14,7 +14,7 @@ acido è particolarmente pericoloso per le creature che attaccano il protoplasma
 in quanto esso è in grado di danneggiare e distruggere rapidamente
 l'equipaggiamento.
 
-**[Ricordare Conoscenze - Melma (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Melma (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 23
 
 ## Protoplasma Nero - Creatura 7

@@ -18,55 +18,55 @@ ma comunque disponibili a gran parte delle creature, sono chiamate azioni base
 specialistiche. Si tratta in genere di azioni con requisiti che non tutti i
 personaggi possiedono, come impugnare uno scudo o avere una Velocità di Scavare.
 
-### [Aiutare](/azioni/base/aiutare)
+### @[Aiutare](/azioni/base/aiutare)
 
-### [Alzarsi](/azioni/base/alzarsi)
+### @[Alzarsi](/azioni/base/alzarsi)
 
-### [Andare Carponi](/azioni/base/andare-carponi)
+### @[Andare Carponi](/azioni/base/andare-carponi)
 
-### [Andare in Copertura](/azioni/base/andare-in-copertura)
+### @[Andare in Copertura](/azioni/base/andare-in-copertura)
 
-### [Avanzare](/azioni/base/avanzare)
+### @[Avanzare](/azioni/base/avanzare)
 
-### [Cadere a Terra](/azioni/base/cadere-a-terra)
+### @[Cadere a Terra](/azioni/base/cadere-a-terra)
 
-### [Colpire](/azioni/base/colpire)
+### @[Colpire](/azioni/base/colpire)
 
-### [Individuare](/azioni/base/individuare)
+### @[Individuare](/azioni/base/individuare)
 
-### [Interagire](/azioni/base/interagire)
+### @[Interagire](/azioni/base/interagire)
 
-### [Intuire](/azioni/base/intuire)
+### @[Intuire](/azioni/base/intuire)
 
-### [Lasciare](/azioni/base/lasciare)
+### @[Lasciare](/azioni/base/lasciare)
 
-### [Passo](/azioni/base/passo)
+### @[Passo](/azioni/base/passo)
 
-### [Preparare](/azioni/base/preparare)
+### @[Preparare](/azioni/base/preparare)
 
-### [Ritardare](/azioni/base/ritardare)
+### @[Ritardare](/azioni/base/ritardare)
 
-### [Saltare](/azioni/base/saltare)
+### @[Saltare](/azioni/base/saltare)
 
-### [Sfuggire](/azioni/base/sfuggire)
+### @[Sfuggire](/azioni/base/sfuggire)
 
 ## Azioni Base Specialistiche
 
 Queste azioni sono utili in circostanze specifiche. Alcune richiedono che tu
 abbia un tipo di movimento speciale.
 
-### [Afferrare un Bordo](/azioni/base/afferrare-un-bordo)
+### @[Afferrare un Bordo](/azioni/base/afferrare-un-bordo)
 
-### [Alzare lo Scudo](/azioni/base/alzare-lo-scudo)
+### @[Alzare lo Scudo](/azioni/base/alzare-lo-scudo)
 
-### [Arrestare una Caduta](/azioni/base/arrestare-una-caduta)
+### @[Arrestare una Caduta](/azioni/base/arrestare-una-caduta)
 
-### [Evitare lo Sguardo](/azioni/base/evitare-lo-sguardo)
+### @[Evitare lo Sguardo](/azioni/base/evitare-lo-sguardo)
 
-### [Indicare](/azioni/base/indicare)
+### @[Indicare](/azioni/base/indicare)
 
-### [Montare](/azioni/base/montare)
+### @[Montare](/azioni/base/montare)
 
-### [Scavare](/azioni/base/scavare)
+### @[Scavare](/azioni/base/scavare)
 
-### [Volare](/azioni/base/volare)
+### @[Volare](/azioni/base/volare)

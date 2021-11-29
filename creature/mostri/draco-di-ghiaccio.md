@@ -32,7 +32,7 @@ quando la creatura inala a fondo, preparandosi a esalare il suo tipico soffio
 congelante, il sangue blu ghiaccio del mostro diventa visibile attraverso le
 scaglie.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 23
 
 ## Draco di Ghiaccio - Creatura 7

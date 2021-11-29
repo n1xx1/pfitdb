@@ -30,7 +30,7 @@ a intimidire una viverna e a tenerla in schiavitù per un periodo più lungo;
 molte delle viverne sono creature individualiste disposte a tutto pur di non
 aiutare gli altri.
 
-**[Ricordare Conoscenze - Drago (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Drago (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 22
 
 ## Viverna - Creatura 6

@@ -15,8 +15,8 @@ diffusione della febbre lurida è inevitabile. Questo rende il mestiere del
 cacciatore di ratti uno dei piu diffusi in tutto il mondo, in quanto sono molti
 i paesani disperati che attendono di essere salvati dal contagio.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-15
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 15
 
 ## Sciame di Ratti - Creatura 1
 

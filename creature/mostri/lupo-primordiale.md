@@ -14,8 +14,8 @@ grado di offrire territori di caccia proporzionali ai loro appetiti. Gli orchi
 amano usare i lupi primordiali come cavalcature e considerano il loro pessimo
 carattere perfetto per le battute di caccia e le azioni di guerra.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-18
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 18
 
 ## Lupo Primordiale - Creatura 3
 

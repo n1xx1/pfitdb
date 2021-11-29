@@ -28,7 +28,7 @@ capacità di infiltrarsi nelle società fa di loro ottimi assassini, spie e
 sabotatori politici. In ultima analisi, una succube si avvale di ogni mezzo a
 sua disposizione per corrompere le società dei mortali.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 23
 
 ## Succube (Demone della Lussuria) - Creatura 7

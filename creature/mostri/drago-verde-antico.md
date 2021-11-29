@@ -38,7 +38,8 @@ da ogni parte del mondo e più di un avventuriero è riuscito a sopravvivere
 all'incontro con un drago verde gratificando il suo ego e parlandogli di rari
 artefatti o di conoscenze perdute appartenenti ad antiche culture.
 
-**[Ricordare Conoscenze - Drago (Arcano)](/azioni/ricordare-conoscenze)**: CD 38
+**[Ricordare Conoscenze - Drago (Arcano)](/azioni/abilita/ricordare-conoscenze)**:
+CD 38
 
 ## Drago Verde Antico - Creatura 17
 

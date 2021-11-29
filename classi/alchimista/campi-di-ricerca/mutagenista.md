@@ -11,7 +11,9 @@ della morfologia fisica o psicologica di una creatura per potenziarne un altro.
 Inizi con le formule di due mutageni di l° livello nel tuo formulario, in
 aggiunta alle altre che possiedi.
 
-[Richiamo Mutagenico](/azioni/richiamo-mutagenico)
+Ottieni la seguente azione gratuita.
+
+### @[Richiamo Mutagenico](/azioni/classe/richiamo-mutagenico)
 
 ## Scoperta del Campo di Ricerca - 5°
 

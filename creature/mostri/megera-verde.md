@@ -18,7 +18,7 @@ complicati scandali messi in atto dalle megere verdi prevedono imposture, scambi
 di identità, seduzioni e atti di tradimento delle persone amate, spesso anche
 tutto in combinazione.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 19
 
 ## Megera Verde - Creatura 4

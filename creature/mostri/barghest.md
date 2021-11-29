@@ -19,7 +19,7 @@ non lavorano bene insieme: ogni barghest reclama tutte le prede solo e soltanto
 per sé e la tipica conseguenza di un'eccessiva concentrazione di barghest in
 un'area è il cannibalismo.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 19
 
 ## Barghest - Creatura 4

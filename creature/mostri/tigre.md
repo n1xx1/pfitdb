@@ -12,8 +12,8 @@ Le tigri sono cacciatori solitari e territo riali che usano i loro manti striati
 per mimetizzarsi nelle foreste e nelle giungle che considerano la loro dimora.
 Preferiscono attaccare cogliendo di sorpresa le loro prede.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-19
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 19
 
 ## Tigre - Creatura 4
 

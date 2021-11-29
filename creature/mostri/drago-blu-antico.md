@@ -37,7 +37,8 @@ dagli sguardi indiscreti. Il vero tesoro di un drago blu non consiste in un
 cumulo di monete o gemme, bensì nello sfarzoso arredamento della sua cittadella:
 oggetti d'arte, mobilia preziosa e meraviglie architettoniche.
 
-**[Ricordare Conoscenze - Drago (Arcano)](/azioni/ricordare-conoscenze)**: CD 40
+**[Ricordare Conoscenze - Drago (Arcano)](/azioni/abilita/ricordare-conoscenze)**:
+CD 40
 
 ## Drago Blu Antico - Creatura 18
 

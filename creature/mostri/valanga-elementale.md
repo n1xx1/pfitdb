@@ -11,7 +11,7 @@ original-srd: TODO
 Le valanghe elementali, creature testarde e ponderose, sono esseri massicci
 fatti di terra e roccia viva.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 28
 
 ## Valanga Elementale - Creatura 11

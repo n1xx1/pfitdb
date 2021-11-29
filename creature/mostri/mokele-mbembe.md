@@ -13,8 +13,8 @@ forza e della maestosità della natura e considerano l'avvistamento di una di
 queste rare creature come un segno del favore degli dei e un portento delle
 potenti forze del creato.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-28
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 28
 
 ## Mokele-Mbembe - Creatura 9
 

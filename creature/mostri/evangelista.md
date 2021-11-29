@@ -19,7 +19,7 @@ segreti con cui raggiungere il potere in cambio di anime o carni scelte di
 mortali. Gli evangelisti hanno le dimensioni di un umano, per quanto possano
 arrivare a pesare più di 175 chili per le ingombranti catene che indossano.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 22
 
 ## Evangelista - Creatura 6

@@ -40,7 +40,7 @@ gli individui vittime di intolleranza e pregiudizi, ricorrendo al combattimento
 solo per difendere se stessi o un mortale in pericolo, oppure quando sembra non
 esserci altra scelta (e anche in questi casi, combattono con rammarico).
 
-**[Ricordare Conoscenze - Celestiale (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Celestiale (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 19
 
 ## Gancanagh (Azata della Passione) - Creatura 4

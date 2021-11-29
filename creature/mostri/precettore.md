@@ -12,7 +12,7 @@ I cantastorie e gli storici dei velstrac sono noti come precettori. Accompagnati
 da cori disgustosi, i precettori si esibiscono alle corti dei demagoghi
 velstrac.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 37
 
 ## Precettore - Creatura 16

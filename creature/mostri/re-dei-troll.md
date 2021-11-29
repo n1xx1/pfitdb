@@ -20,7 +20,7 @@ giovani: sanno tenersi vicini i loro alleati e ancora più vicini i loro nemici.
 Se un re dei troll sospetta anche lontanamente che uno dei suoi seguaci trami
 per spodestarlo, il suo castigo sarà rapido e fatale.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 27
 
 ## Re dei Troll - Creatura 10

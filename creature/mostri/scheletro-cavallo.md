@@ -11,7 +11,7 @@ original-srd: TODO
 Gli scheletri cavalli vengono a volte utilizzati come cavalcature da altri non
 morti o mostri.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Scheletro Cavallo - Creatura 2

@@ -30,7 +30,8 @@ Il tesoro di un drago nero è composto principalmente da gemme e oggetti prezios
 in vetro finemente lavorato, in quanto gli oggetti preziosi di materiali meno
 resistenti spesso vengono consumati dalla presenza corrosiva del drago.
 
-**[Ricordare Conoscenze - Drago (Arcano)](/azioni/ricordare-conoscenze)**: CD 28
+**[Ricordare Conoscenze - Drago (Arcano)](/azioni/abilita/ricordare-conoscenze)**:
+CD 28
 
 ## Drago Nero Adulto - Creatura 11
 

@@ -36,8 +36,8 @@ specialmente se questi ultimi minacciano i loro piccoli, ma solitamente fanno
 attenzione a usare solo gli artigli e la coda, e a uccisione avvenuta si
 puliranno con attenzione.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-24
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 24
 
 ## Krooth - Creatura 8
 

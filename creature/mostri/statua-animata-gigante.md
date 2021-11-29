@@ -15,7 +15,7 @@ grandi cripte, nelle camere spaziose o nei luoghi aperti. Gli oggetti animati di
 questa forza e taglia sono ideali per svolgere compiti e incarichi normalmente
 affidati ai golem. Oggetti animati più grandi di questi sono pressoché inauditi.
 
-**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/abilita/ricordare-conoscenze)**:
 CD 23
 
 ## Statua Animata Gigante - Creatura 7

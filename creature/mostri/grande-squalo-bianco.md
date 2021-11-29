@@ -13,8 +13,8 @@ superficie delle zone costiere dove va a caccia. I grandi squali bianchi sono
 una delle specie più grandi di squali. Questi assassini silenziosi solcano
 elegantemente le acque oceaniche alla costante ricerca di cibo.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-19
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 19
 
 ## Grande Squalo Bianco - Creatura 4
 

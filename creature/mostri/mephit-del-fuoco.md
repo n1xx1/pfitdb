@@ -15,7 +15,7 @@ incendi li spinge verso quell'allineamento più degli altri mephit. La loro pell
 tizzoni fiammeggianti. La rivalità tra i mephit del fuoco e quelli dell'acqua è
 famosa: queste creature detestano lavorare insieme, anche per un breve periodo.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Mephit del Fuoco - Creatura 1

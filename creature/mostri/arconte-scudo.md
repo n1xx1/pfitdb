@@ -16,7 +16,7 @@ statura, gli arconti scudo sono i guardiani ideali dei miti e talvolta vengono
 evocati sul Piano sMateriale per contrastare gli attacchi di un grosso numero di
 malfattori.
 
-**[Ricordare Conoscenze - Celestiale (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Celestiale (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 27
 
 ## Arconte Scudo - Creatura 10

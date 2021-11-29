@@ -12,7 +12,7 @@ Le bande di hobgoblin soldati in genere contano almeno un arciere tra i loro
 ranghi. Nei gruppi più piccoli, un hobgoblin arciere funge anche da capitano di
 quella banda.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 19
 
 ## Hobgoblin Arciere - Creatura 4

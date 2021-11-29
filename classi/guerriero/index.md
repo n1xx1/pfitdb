@@ -146,7 +146,7 @@ richiesti per acquisirle.
 
 Sempre alla ricerca di un punto debole, attacchi rapidamente i nemici che
 lasciano varchi nelle loro difese. Ottieni la reazione
-[Attacco di Opportunità](/azioni/attacco-di-opportunità).
+[Attacco di Opportunità](/azioni/classe/attacco-di-opportunità).
 
 ### Competenze Iniziali
 

@@ -16,7 +16,7 @@ improvvisamente si animano e attaccano hanno indotto molti avventurieri senza
 scrupoli ad attaccare automaticamente qualsiasi statua incontrino, rovinando
 molte antiche e innocue reliquie.
 
-**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Statua Animata - Creatura 3

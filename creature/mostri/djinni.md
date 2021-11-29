@@ -21,7 +21,7 @@ combattenti formidabili, i djinn detestano la guerra e preferiscono evitare la
 violenza, cercando di contrattare con i loro nemici usando la magia o i
 sotterfugi (facendo un'eccezione, naturalmente, quando incontrano gli efreet).
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 22
 
 ## Djinni - Creatura 5

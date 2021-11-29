@@ -22,7 +22,7 @@ la creatura in aria, la loro capacità di volare è identica a quella di tutti g
 altri mephit. Quando è possibile, i mephit dell'acqua preferiscono nuotare e
 lasciano il loro elemento preferito solo quando è necessario.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Mephit dell'Acqua - Creatura 1

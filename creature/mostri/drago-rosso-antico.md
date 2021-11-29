@@ -37,7 +37,8 @@ di monete e altri tesori che custodiscono gelosamente. A volte capita però che
 questi metalli preziosi vengano fusi assieme dal calore interno emanato dai
 draghi.
 
-**[Ricordare Conoscenze - Drago (Arcano)](/azioni/ricordare-conoscenze)**: CD 41
+**[Ricordare Conoscenze - Drago (Arcano)](/azioni/abilita/ricordare-conoscenze)**:
+CD 41
 
 ## Drago Rosso Antico - Creatura 19
 

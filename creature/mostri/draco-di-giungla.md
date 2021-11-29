@@ -17,7 +17,8 @@ drachi di giungla preferiscono cogliere di sorpresa le prede, usando la tattica
 del mordi e fuggi: prendono di mira l'elemento più debole del gruppo e portano
 via con loro la vittima lontano per finire il pasto con comodo.
 
-**[Ricordare Conoscenze - Drago (Arcano)](/azioni/ricordare-conoscenze)**: CD 22
+**[Ricordare Conoscenze - Drago (Arcano)](/azioni/abilita/ricordare-conoscenze)**:
+CD 22
 
 ## Draco di Giungla - Creatura 6
 

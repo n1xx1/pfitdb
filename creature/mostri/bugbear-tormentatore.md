@@ -12,7 +12,7 @@ Il bugbear tormentatore cerca di torturare le proprie prede sfruttando sia
 l'intimidazione psicologica che il dolore fisico. Più a lungo riesce a mantenere
 le sue vittime vive e terrorizzate, più il bugbear tormentatore è soddisfatto.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Bugbear Tormentatore - Creatura 3

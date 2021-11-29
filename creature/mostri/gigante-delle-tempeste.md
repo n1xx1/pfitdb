@@ -25,7 +25,7 @@ una colorazione viola scuro, blu o nera, e i loro occhi brillano di una luce
 argentata. Un normale gigante delle tempeste è alto 6,3 metri, pesa 6.000
 chilogrammi e vive circa 600 anni.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 31
 
 ## Gigante delle Tempeste - Creatura 13

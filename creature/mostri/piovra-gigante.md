@@ -9,8 +9,8 @@ original-srd: TODO
 
 Le piovre giganti vivono negli abissi più scuri e profondi degli oceani.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-24
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 24
 
 ## Piovra Gigante - Creatura 8
 

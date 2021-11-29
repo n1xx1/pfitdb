@@ -14,8 +14,8 @@ fusto o alle scogliere da cui godono di una vista dominante sulla zona
 circostante. Evitano di nidificare troppo vicino alla civiltà, ma alcune culture
 remote addestrano le aquile come bestie da caccia.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-13
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 13
 
 ## Aquila - Creatura -1
 

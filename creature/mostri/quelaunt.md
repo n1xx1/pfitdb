@@ -30,7 +30,7 @@ appunti sono misteriosamente scomparsi. Qualunque sia il segreto da svelare
 sull'anatomia di questi strani mostri' è abbastanza importante da spingerli a
 difenderlo anche dopo la morte.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 34
 
 ## Quelaunt - Creatura 15

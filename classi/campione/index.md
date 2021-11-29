@@ -181,10 +181,7 @@ il tuo allineamento cambia, ma rientra comunque tra quelli ammessi dalla tua
 divinità, il GM può consentirti di riaddestrare la causa permettendoti di
 continuare a seguire la stessa divinità.
 
-I precetti possono essere trovati qua:
-
-- [Precetti del Bene](/classi/campione/precetti/bene)
-- [Precetti del Male](/classi/campione/precetti/male)
+I precetti possono essere trovati [qua](/classi/campione/precetti).
 
 ### Competenze Iniziali
 
@@ -204,12 +201,7 @@ Persegui una delle seguenti cause, che deve corrispondere esattamente al tuo
 allineamento. La causa determina le reazioni del tuo personaggio, ti conferisce
 un incantesimo di devozione e definisce in parte il tuo codice da campione.
 
-- [Paladino \[Legale Buono\]](/cause/paladino)
-- [Redentore \[Neutrale Buono\]](/cause/redentore)
-- [Liberatore \[Caotico Buono\]](/cause/liberatore)
-- [Tiranno \[Legale Malvagio\]](/cause/tiranno)
-- [Profanatore \[Neutrale Malvagio\]](/cause/profanatore)
-- [Antipaladino \[Caotico Malvagio\]](/cause/antipaladino)
+Le cause possono essere trovate [qua](/classi/campione/cause).
 
 ### Incantesimi di Devozione
 

@@ -33,7 +33,7 @@ infernale ricordi o meno della sua precedente vita, questa tenderà a rimanere
 nei pressi del luogo della morte, ricordando a tutti coloro che incontrerà gli
 spietati principi del suo ordine.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 17
 
 ## Corona Infernale - Creatura 1

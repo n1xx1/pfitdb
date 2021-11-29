@@ -11,7 +11,7 @@ original-srd: TODO
 Gli squali di salsedine sono letali elementali che vagano per gli sconfinati
 oceani del Piano dell'Acqua.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Squalo di Salsedine - Creatura 3

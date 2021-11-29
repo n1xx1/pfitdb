@@ -17,7 +17,7 @@ affermazione in tal senso. Sono un popolo orgoglioso che si sforza di difendere
 il proprio onore in ogni modo, riscattandolo anche in punta di spada se
 necessario.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 19
 
 ## Janni - Creatura 4

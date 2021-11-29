@@ -12,7 +12,8 @@ Nonostante sia considerato uno tra i più deboli, il linnorm delle rupi è un
 predatore devastante, in grado di carbonizzare in un istante i nemici con il suo
 soffio di magma.
 
-**[Ricordare Conoscenze - Drago (Arcano)](/azioni/ricordare-conoscenze)**: CD 34
+**[Ricordare Conoscenze - Drago (Arcano)](/azioni/abilita/ricordare-conoscenze)**:
+CD 34
 
 ## Linnorm delle Rupi - Creatura 14
 

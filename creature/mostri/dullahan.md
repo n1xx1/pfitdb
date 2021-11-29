@@ -40,7 +40,7 @@ loro empie azioni e di lasciare i resti delle loro vittime decapitate lungo la
 strada, sparpagliati in un bosco di alberi morti o gettati senza troppe
 cerimonie in un acquitrino.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 25
 
 ## Dullahan - Creatura 7

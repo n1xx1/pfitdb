@@ -22,7 +22,7 @@ oscuro e alcune di loro hanno persino elaborato un piano per spezzare la
 maledizione animalesca che le ha trasformate. Tuttavia, ogni tentativo
 effettuato finora ha condotto solamente alla caduta delle matriarche.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 24
 
 ## Lamia Matriarca - Creatura 8

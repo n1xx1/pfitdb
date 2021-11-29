@@ -14,7 +14,7 @@ cibo. L'acido presente nei loro corpi è abbastanza debole da permettere a cubi
 gelatinosi di conservare al loro interno l'equipaggiamento delle vittime che non
 sono stati in grado di dissolvere.
 
-**[Ricordare Conoscenze - Melme (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Melme (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Cubo Gelatinoso - Creatura 3

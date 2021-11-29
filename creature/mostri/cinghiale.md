@@ -18,8 +18,8 @@ per svolgere ruoli di bestie da guerra o di guardiani. Quando questi cinghiali
 fuggono e tornano nelle terre selvagge, possono diventare i veri terrori di una
 regione.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-16
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 16
 
 ## Cinghiale - Creatura 2
 

@@ -11,7 +11,7 @@ original-srd: TODO
 Quando gli orchi partono per le loro razzie, il più forte viene scelto come
 capo, sostenuto dai fratelli, dalle sorelle e dagli altri parenti più stretti.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Orco Capoguerra - Creatura 2

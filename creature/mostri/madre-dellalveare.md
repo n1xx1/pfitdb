@@ -13,8 +13,8 @@ dai tipici ankhrav non solo per la loro taglia maggiore, ma anche per la
 presenza di un paio di grosse braccia dalle chele affilate come lame, simili a
 quelle di una mantide.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-26
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 26
 
 ## Madre dell'Alveare - Creatura 8
 

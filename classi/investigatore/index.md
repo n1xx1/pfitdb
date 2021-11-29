@@ -147,9 +147,11 @@ per acquisirle.
 ### A Capo dell'Indagine
 
 In quanto investigatore, pensi alle tue avventure come a casi da risolvere.
-Ottieni un'attività e una reazione che puoi usare per indagare sui casi:
-[Seguire una Pista](/azioni/seguire-una-pista) e
-[Ragguagliare](/azioni/ragguagliare).
+Ottieni un'attività e una reazione che puoi usare per indagare sui casi.
+
+### @[Seguire una Pista](/azioni/classe/seguire-una-pista)
+
+### @[Ragguagliare](/azioni/classe/ragguagliare)
 
 ### Colpo Strategico
 
@@ -172,20 +174,14 @@ addestramento di base, indicate all'inizio della descrizione della classe.
 Puoi simulare una battaglia nella tua testa, usando il cervello piuttosto che i
 muscoli per eseguire un attacco.
 
-[Ideare uno Stratagemma](/azioni/ideare-uno-stratagemma)
+### @[Ideare uno Stratagemma](/azioni/classe/ideare-uno-stratagemma)
 
 ### Metodologia
 
 I tuoi studi di hanno reso esperto in molte aree, ma una in particolare ha
-attirato il tuo interesse.
+attirato il tuo interesse. Scegli una metodologia.
 
-Scegli una metodologia. Le metodologie presentate in questo libro sono le
-seguenti:
-
-- [Empirismo](/classi/investigatore/metodologie/empirismo)
-- [Interrogatorio](/classi/investigatore/metodologie/interrogatorio)
-- [Medicina Legale](/classi/investigatore/metodologie/medicina-legale)
-- [Scienze Alchemiche](/classi/investigatore/metodologie/scienze-alchemiche)
+Le metodologie possono essere trovate [qua](/classi/investigatore/metodologie).
 
 ### Stirpe e Background
 

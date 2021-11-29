@@ -24,7 +24,7 @@ potrebbe avere ali di farfalla invece di ali piumate. Non è raro che i deva
 astrali creati dalle divinità legali buone o caotiche buone condividano
 l'allineamento dei loro creatori.
 
-**[Ricordare Conoscenze - Celestiale (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Celestiale (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 32
 
 ## Deva Astrale (Emissario Angelico) - Creatura 14

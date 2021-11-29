@@ -41,7 +41,7 @@ ghetti e negli altri quartieri cittadini dimenticati. Fin dalla tenera età, i
 tengu imparano che il mondo non è un luogo amichevole e che devono badare a loro
 stessi.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Tengu Infiltrato - Creatura 2

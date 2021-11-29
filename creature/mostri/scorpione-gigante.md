@@ -17,8 +17,8 @@ o sotto uno strato superficiale di sabbia, per poi aspettare che una preda passi
 nei paraggi. Esistono anche degli esemplari lucidi e pallidi che vivono nel
 sottosuolo e altri di dimensioni ancora più grandi.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-18
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 18
 
 ## Scorpione Gigante - Creatura 3
 

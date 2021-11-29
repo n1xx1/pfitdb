@@ -11,7 +11,7 @@ original-srd: TODO
 I dero strangolatori sono specializzati nel catturare le vittime vive e spes,so
 prestano aiuto nell'esecuzione di un rapimento.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Dero Strangolatore - Creatura 3

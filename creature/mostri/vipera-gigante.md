@@ -13,8 +13,8 @@ iniettori lunghi quanto pugnali. La drastica quantità di veleno iniettata da un
 vipera gigante può provocare gravi coagulazioni del sangue e prosciugare
 completamente la vittima della sua energia vitale.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-16
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 16
 
 ## Vipera Gigante - Creatura 2
 

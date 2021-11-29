@@ -45,7 +45,7 @@ l'insegnamento di alcuni culti della morte, l'obiettivo finale del Tristo
 Mietitore è di porre fine all'intero ciclo della vita e della morte e di imporsi
 come silente signore di un universo vuoto.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 52
 
 ## Tristo Mietitore - Creatura 21

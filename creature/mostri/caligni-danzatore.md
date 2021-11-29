@@ -11,7 +11,7 @@ original-srd: TODO
 I danzatori caligni svolgono il ruolo di intermediari tra i vari clan dei
 caligni.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Caligni Danzatore - Creatura 1

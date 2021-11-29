@@ -21,4 +21,4 @@ compiti relativi alla fonte dei tuoi incantesimi focalizzati. Per esempio, un
 può di solito Rifocalizzare mentre cura le ferite dei suoi alleati, e un
 [mago](/classi/mago) della scuola illusionista potrebbe essere in grado di
 Rifocalizzare mentre compie l'azione
-[Identificare Magia](/azioni/identificare-magia) della scuola illusione.
+[Identificare Magia](/azioni/abilita/identificare-magia) della scuola illusione.

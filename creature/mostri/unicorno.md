@@ -27,11 +27,11 @@ un debole per i puri di cuore e di spirito. Nonostante certi racconti, gli
 unicorni tendono a riconoscere la purezza sia nei giovani uomini che nelle
 giovani donne.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
-**[Ricordare Conoscenze - Fatato (Natura)](/azioni/ricordare-conoscenze)**: CD
-18
+**[Ricordare Conoscenze - Fatato (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 18
 
 ## Unicorno - Creatura 3
 

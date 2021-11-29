@@ -9,7 +9,7 @@ original-srd: TODO
 
 I felinidi balzanti viaggiano per il mondo in cerca di nuove esperienze.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Felinide Balzante - Creatura 1

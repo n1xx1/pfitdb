@@ -25,7 +25,7 @@ se elfi, ma un guardiano del portale non può essere convinto a farsi da parte,
 dato che è legato alla porta dove è stato posto e la difenderà fino alla sua
 distruzione.
 
-**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/abilita/ricordare-conoscenze)**:
 CD 22
 
 ## Guardiano del Portale - Creatura 5

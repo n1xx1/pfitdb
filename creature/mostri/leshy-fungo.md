@@ -12,7 +12,8 @@ I leshy fungo proteggono le grotte, le paludi e i luoghi più umidi e bui. I lor
 giardini di funghi possono apparire bizzarri agli occhi della maggior parte
 degli osservatori, ma i leshy fungo vanno estremamente fieri dei loro lavori.
 
-**[Ricordare Conoscenze - Fungo (Natura)](/azioni/ricordare-conoscenze)**: CD 16
+**[Ricordare Conoscenze - Fungo (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 16
 
 ## Leshy Fungo - Creatura 2
 

@@ -10,7 +10,7 @@ original-srd: TODO
 
 Gli incendi viventi hanno un aspetto umanoide e sono fatti di fuoco vivente.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 20
 
 ## Incendio Vivente - Creatura 5

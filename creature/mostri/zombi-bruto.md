@@ -11,7 +11,7 @@ original-srd: TODO
 Alcuni potenziamenti necromantici hanno conferito a questo zombi una taglia e
 una potenza superiori.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Zombi Bruto - Creatura 2

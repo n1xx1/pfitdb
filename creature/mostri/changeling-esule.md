@@ -10,7 +10,7 @@ original-srd: TODO
 Questo changeling esule è il figlio di una megera notturna o di una megera ladra
 di sogni.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Changeling Esule - Creatura 3

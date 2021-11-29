@@ -40,18 +40,20 @@ anatema contro il tuo istinto, così come impugnare armi mentre sei infuriato.
 Quando ti Infuri, acquisisci l'attacco (o gli attacchi) senz'armi dell'animale
 prescelto. La tabella 3-3: Istinti Animali indica lo specifico attacco che
 acquisisci, i danni che infligge e i relativi tratti. Questi attacchi senz'armi
-appartengono al gruppo rissa. La tua azione [Infuriarsi](/azioni/infuriarsi)
-acquisisce i tratti morfosi, primevo e trasmutazione.
+appartengono al gruppo rissa. La tua azione
+[Infuriarsi](/azioni/classe/infuriarsi) acquisisce i tratti morfosi, primevo e
+trasmutazione.
 
 ## Capacità di Specializzazione - 7°
 
 Aumenti di un grado la categoria del dado di danno dell'attacco senz'armi
 conferito dall'animale prescelto, e incrementi da 2 a 5 i danni aggiuntivi
-applicati da [Infuriarsi](/azioni/infuriarsi) agli attacchi senz'armi
+applicati da [Infuriarsi](/azioni/classe/infuriarsi) agli attacchi senz'armi
 dell'animale prescelto. L'attacco lingua della rana e l'attacco palco del cervo
 acquisiscono portata 3 metri. Se possiedi specializzazione con le armi
 superiore, incrementi da 5 a 12 i danni aggiuntivi applicati da
-[Infuriarsi](/azioni/infuriarsi) agli attacchi senz'armi dell'animale prescelto.
+[Infuriarsi](/azioni/classe/infuriarsi) agli attacchi senz'armi dell'animale
+prescelto.
 
 ## Resistenza Furiosa - 9°
 

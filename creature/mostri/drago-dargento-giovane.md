@@ -42,7 +42,8 @@ un sostegno saldo e prezioso. Molti draghi d'argento sono dotati anche di un
 forte spirito religioso e venerano divinità come Iomedae, Sarenrae e altre
 divinità collegate alla giustizia, alla virtù e alla redenzione.
 
-**[Ricordare Conoscenze - Drago (Arcano)](/azioni/ricordare-conoscenze)**: CD 27
+**[Ricordare Conoscenze - Drago (Arcano)](/azioni/abilita/ricordare-conoscenze)**:
+CD 27
 
 ## Drago d'Argento Giovane - Creatura 10
 

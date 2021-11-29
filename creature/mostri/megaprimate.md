@@ -13,8 +13,8 @@ intrusione percepita nel suo dominio. Dalla sua altezza di 12 metri sovrasta
 anche la maggior parte dei giganti ed è abituato ad agire come il predatore
 supremo della regione.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-24
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 24
 
 ## Megaprimate - Creatura 8
 

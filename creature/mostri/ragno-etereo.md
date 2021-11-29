@@ -40,10 +40,10 @@ Materiale spinga i ragni eterei ad ancorare il nido a un'area specifica; così
 facendo creano una residenza semistabile che può essere visitata ripetutamente
 da chi ne conosca l'ubicazione.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 20
 
-**[Ricordare Conoscenze - Etereo (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Etereo (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 20
 
 ## Ragno Etereo - Creatura 5

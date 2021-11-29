@@ -33,8 +33,8 @@ dall'uovo, sfruttando l'imprinting della prima creatura che il pulcino vede. Per
 contro, procurarsi un uovo di roc è impresa tutt'altro che facile, che spesso si
 tramuta in una condanna a morte per colui che tenta di rubarlo dal nido.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-26
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 26
 
 ## Roc - Creatura 9
 

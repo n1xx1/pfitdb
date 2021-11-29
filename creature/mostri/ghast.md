@@ -11,7 +11,7 @@ original-srd: TODO
 I ghast, creature feroci, nauseanti e costantemente affamate, sono un tipo di
 ghoul più potente. Quando inseguono una preda sono instancabili.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Ghast - Creatura 2

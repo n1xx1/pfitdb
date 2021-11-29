@@ -14,8 +14,8 @@ Quello che a prima vista sembrerebbe essere un semplice arbusto, improvvisamente
 prende vita. La liana fustigatrice attacca in gruppo, tentando di immobilizzare
 la preda e di ridurre lentamente in pezzi la creatura.
 
-**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/ricordare-conoscenze)**: CD
-14
+**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 14
 
 ## Liana Fustigatrice - Creatura 0
 

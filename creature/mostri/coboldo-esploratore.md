@@ -12,7 +12,7 @@ Quasi tutti i coboldi che è possibile incontrare all'esterno di un dedalo di
 gallerie o di una tana ben difesa sono coboldi esploratori, creature addestrate
 per pedinare e braccare le prede.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Coboldo Esploratore - Creatura 1

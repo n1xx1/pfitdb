@@ -27,7 +27,7 @@ perfino obbligandola a servire come cavalcatura. Fintanto che la manticora è be
 nutrita di carne umana e il suo padrone la conduce alla vittoria, una manticora
 usata come cavalcatura può rivelarsi sorprendentemente fedele.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 22
 
 ## Manticora - Creatura 6

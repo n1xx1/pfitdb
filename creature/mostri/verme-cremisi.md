@@ -28,8 +28,8 @@ nutrimento. I territori di superficie rivendicati dai vermi cremisi sono famosi
 per i monticelli sopra le loro tane che queste creature si lasciano dietro
 mentre scavano.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-43
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 43
 
 ## Verme Cremisi - Creatura 18
 

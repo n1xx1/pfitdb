@@ -22,11 +22,11 @@ differenziarsi per aspetto e carattere, in sintonia con le caratteristiche del
 loro protetto. Per esempio, le kraneiai, o driadi dei ciliegi, hanno una
 piacevole colorazione rosa e meditano sulla fragile bellezza della vita.
 
-**[Ricordare Conoscenze - Fatato (Natura)](/azioni/ricordare-conoscenze)**: CD
-18
+**[Ricordare Conoscenze - Fatato (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 18
 
-**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/ricordare-conoscenze)**: CD
-18
+**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 18
 
 ## Driade - Creatura 3
 

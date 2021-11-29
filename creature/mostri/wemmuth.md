@@ -39,8 +39,8 @@ Mendev sono convinti che i wemmuth siano una piaga scatenata su Golarion da
 Deskari, che un tempo era il signore demoniaco delle locuste prima della sua
 sconfitta per mano di un gruppo di eroi mortali.
 
-**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/ricordare-conoscenze)**: CD
-34
+**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 34
 
 ## Wemmuth - Creatura 15
 

@@ -21,7 +21,7 @@ fabbricazione apparteneva a un individuo dalla personalità particolarmente
 potente, può capitare che un golem di carne mostri qualche traccia di volontà
 propria, ma si tratta di casi tragici e (fortunatamente) estremamente rari.
 
-**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/abilita/ricordare-conoscenze)**:
 CD 26
 
 ## Golem di Carne - Creatura 8

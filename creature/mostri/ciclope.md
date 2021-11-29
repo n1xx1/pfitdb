@@ -28,7 +28,7 @@ nebbie del tempo, quel poco che si sa di queste divinità suggerisce che fossero
 talmente vendicative e meschine da maledire i loro stessi simili quando si
 sentivano trascurate o servite in modo inadeguato.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 22
 
 ## Ciclope - Creatura 5

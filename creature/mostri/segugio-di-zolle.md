@@ -11,7 +11,7 @@ original-srd: TODO
 I segugi delle zolle sono canidi muscosi extraplanari composti da un misto di
 terriccio e pietrisco.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Segugio di Zolle - Creatura 3

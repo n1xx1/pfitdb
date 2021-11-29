@@ -11,7 +11,8 @@ original-srd: TODO
 Sebbene esistano altri linnorm più potenti, il linnorm dei laghi dalle molte
 teste è in grado di seminare devastazione su scala abbacinante.
 
-**[Ricordare Conoscenze - Drago (Arcano)](/azioni/ricordare-conoscenze)**: CD 42
+**[Ricordare Conoscenze - Drago (Arcano)](/azioni/abilita/ricordare-conoscenze)**:
+CD 42
 
 ## Linnorm dei Laghi - Creatura 20
 

@@ -18,8 +18,8 @@ comportarsi da spazzini. Le loro fauci sono incredibilmente potenti e consentono
 a queste creature di azzannare la vittima e trascinarla verso il resto del
 branco.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-15
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 15
 
 ## Iena - Creatura 1
 

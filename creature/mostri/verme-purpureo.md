@@ -17,8 +17,8 @@ Tuttavia, chi attraversa il labirinto e trova il nido del verme al suo centro,
 spesso può rinvenire straordinari tesori abbandonati dalle precedenti vittime
 della creatura.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-31
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 31
 
 ## Verme Purpureo - Creatura 13
 

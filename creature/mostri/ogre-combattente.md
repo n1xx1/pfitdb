@@ -15,7 +15,7 @@ tormentare non esitano a prendersela con i loro simili. Di conseguenza, chi li
 comanda deve continuamente fare del suo meglio per distrarli costantemente,
 fornendo loro nuove opportunità di razzie e aggressioni.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Ogre Combattente - Creatura 3

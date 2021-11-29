@@ -14,8 +14,8 @@ original-srd: https://2e.aonprd.com/Feats.aspx?ID=177
 Fomenti la rabbia negli alleati, conferendo loro vantaggi incredibili. Puoi
 ignorare i requisiti di
 [Condividere la Furia](/talenti/barbaro/condividere-la-furia) e utilizzarla più
-volte mentre sei [Infuriato](/azioni/infuriarsi). Gli alleati che ne sono
+volte mentre sei [Infuriato](/azioni/classe/infuriarsi). Gli alleati che ne sono
 influenzati, se accettano il tuo anatema per la durata dell'azione
-[Infuriarsi](/azioni/infuriarsi), acquisiscono la tua capacità di istinto e la
-capacità di specializzazione conferita da specializzazione con le armi, ma non
-gli ulteriori benefici dati da specializzazione con le armi superiore.
+[Infuriarsi](/azioni/classe/infuriarsi), acquisiscono la tua capacità di istinto
+e la capacità di specializzazione conferita da specializzazione con le armi, ma
+non gli ulteriori benefici dati da specializzazione con le armi superiore.

@@ -13,7 +13,7 @@ d'addestramento in quelle accademie marziali di alto livello in grado di
 permettersi tali stravaganze. Spesso sono presenti nei laboratori magici e nei
 dungeon più antichi.
 
-**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Armatura Animata - Creatura 2

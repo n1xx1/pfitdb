@@ -29,7 +29,7 @@ riprodursi dividendosi a metà. Effettua questa divisione solo se è diventata
 così grande da produrre con questa divisione una coppia di melme di sangue di
 dimensioni normali, come quella descritta sopra.
 
-**[Ricordare Conoscenze - Melma (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Melma (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 19
 
 ## Melma, Sangue - Creatura 4

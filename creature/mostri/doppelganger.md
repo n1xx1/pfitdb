@@ -43,7 +43,7 @@ antagonista, ma questo utilizzo del doppelganger nella campagna dovrà essere
 gestito con attenzione (per ulteriori informazioni vedi il riquadro Infiltrarsi
 in un Gruppo).
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 20
 
 ## Doppelganger - Creatura 3

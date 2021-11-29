@@ -18,7 +18,7 @@ Ti trasformi in un feroce drago Grande. Benefici degli effetti di un incantesimo
 _[forma di drago](/incantesimi/forma-di-drago)_ di 6° livello, salvo che
 utilizzi la tua CA e il tuo modificatore di attacco, e la CD del tuo soffio è
 pari alla tua CD di classe. Inoltre, applichi i danni aggiuntivi conferiti da
-[Infuriarsi](/azioni/infuriarsi). L'azione per
+[Infuriarsi](/azioni/classe/infuriarsi). L'azione per
 [Interrompere](/azioni/interrompere) la trasformazione acquisisce il tratto
 [furia](/tratti/furia).
 

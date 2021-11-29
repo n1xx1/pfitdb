@@ -268,7 +268,7 @@ a 3 se sei maestro e a 4 se sei leggendario.
 ### Colpo Debilitante - 9°
 
 Quando approfitti di un'apertura, ostacoli l'avversario oltre a ferirlo. Ottieni
-l'azione gratuita [Colpo Debilitante](/azioni/colpo-debilitante).
+l'azione gratuita [Colpo Debilitante](/azioni/classe/colpo-debilitante).
 
 ### Tempra Possente - 9°
 
@@ -328,7 +328,7 @@ consideri un successo critico.
 
 Ti basta un colpo per neutralizzare un nemico ignaro. Il tuo grado di competenza
 nella CD di classe della canaglia aumenta a maestro. Ottieni l'azione gratuita
-[Colpo Magistrale](/azioni/colpo-magistrale).
+[Colpo Magistrale](/azioni/classe/colpo-magistrale).
 
 ### Maestria con le Armature Leggere - 19°
 

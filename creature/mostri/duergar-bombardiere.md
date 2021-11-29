@@ -18,7 +18,7 @@ spiovente di ogni bomba rappresenta una nuova opportunità di osservare come
 reagiscono i loro obiettivi e di annotare i risultati ottenuti per modificare e
 migliorare le loro future misture alchemiche.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Duergar Bombardiere - Creatura 1

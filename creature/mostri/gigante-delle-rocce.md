@@ -22,7 +22,7 @@ druidica di cui dispongono per guidare le tribù verso la prosperità e l'armoni
 con la natura. Un tipico gigante delle rocce è alto 3,6 metri e pesa circa 750
 chilogrammi.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 24
 
 ## Gigante delle Rocce - Creatura 8

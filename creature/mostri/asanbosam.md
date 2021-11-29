@@ -24,7 +24,7 @@ bracconieri coraggiosi (o stupidi) si infiltrano nel territorio degli asanbosam
 per dare la caccia a questi mostri con la speranza di raccogliere i loro denti
 pregiati.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 22
 
 ## Asanbosam - Creatura 6

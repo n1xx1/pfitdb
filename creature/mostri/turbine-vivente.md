@@ -11,7 +11,7 @@ original-srd: TODO
 Un turbine vivente è simile a un diavolo di polvere dalla forma vagamente
 umanoide.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 20
 
 ## Turbine Vivente - Creatura 5

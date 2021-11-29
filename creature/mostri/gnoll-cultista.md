@@ -16,7 +16,7 @@ predilette dagli gnoll cultisti e molti gnoll credono che la loro stirpe sia
 nata proprio dal ventre della Madre dei Mostri. Alcuni clan venerano altri
 signori dei demoni meno conosciuti o interi panteon di sinistri patroni.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Gnoll Cultista - Creatura 3

@@ -21,7 +21,7 @@ in tutti gli strati dell'inferno: assecondano con voluttà ogni capriccio dei
 malvagi signori infernali ed esultano nel seminare morte, disperazione e
 angoscia a piacimento.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 20
 
 ## Barbazu (Diavolo Barbuto) - Creatura 5

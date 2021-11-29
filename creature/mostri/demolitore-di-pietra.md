@@ -11,7 +11,7 @@ original-srd: TODO
 Questi torreggianti cumuli di terra possono infliggere ingenti danni, sia in
 mischia che a distanza.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 26
 
 ## Demolitore di Pietra - Creatura 9

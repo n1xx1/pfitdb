@@ -11,8 +11,8 @@ original-srd: TODO
 I ragni cacciatori sono il tipo più comune di ragno gigante, anche se non il più
 grande.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-15
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 15
 
 ## Ragno Cacciatore - Creatura 1
 

@@ -17,8 +17,8 @@ coccodrilli tollerano anche le acque salate. Entrambi sono formidabili predatori
 pronti a divorare quegli avventurieri distratti che non prestano attenzione a
 dove mettono i piedi.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-16
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 16
 
 ## Coccodrillo - Creatura 2
 

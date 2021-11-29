@@ -13,7 +13,7 @@ loro insediamenti. Alcuni vanno in esplorazione da soli affidandosi alla
 furtività per commettere reati, mentre altri, per maggiore sicurezza,
 perlustrano i tunnel in gruppo.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Gnomo delle Profondità Esploratore - Creatura 1

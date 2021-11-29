@@ -37,7 +37,7 @@ prescindere. Questi mostri sono noti per avere poca pazienza e a dispetto della
 loro acuta percezione visiva, quando si tratta di mantenere in vita gli alleati
 si dimostrano alquanto miopi.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 22
 
 ## Ettin - Creatura 6

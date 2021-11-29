@@ -19,8 +19,8 @@ grande incontro che può durare anche mesi per pianificare e infine agire contro
 una minaccia. Un tipico reggente arboreo è alto 9 metri, ha un tronco di 60
 centimetri e pesa 2.250 chilogrammi.
 
-**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/ricordare-conoscenze)**: CD
-24
+**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 24
 
 ## Reggente Arboreo - Creatura 8
 

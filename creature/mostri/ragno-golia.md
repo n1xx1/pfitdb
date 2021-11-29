@@ -11,8 +11,8 @@ original-srd: TODO
 I ragni golia vivono nelle giungle più fitte, dove tessono ragnatele grandi
 quanto un tempio e si cibano di prede grandi quanto un ippopotamo.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-28
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 28
 
 ## Ragno Golia - Creatura 11
 

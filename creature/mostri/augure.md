@@ -14,7 +14,7 @@ unico occhio, con il quale può vedere gli orrori inflitti su di esso dagli altr
 velstrac, che addestrano i profeti ad accogliere e apprezzare il dolore. Gli
 auguri hanno un diametro di 30 centimetri e pesano circa 15 chili.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Augure - Creatura 1

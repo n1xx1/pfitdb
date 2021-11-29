@@ -150,8 +150,8 @@ addestramento di base, indicate all'inizio della descrizione della classe.
 
 ### Furia
 
-Acquisisci l'azione [Infuriarsi](/azioni/infuriarsi), con cui ti lasci pervadere
-da un'ira incontrollabile.
+Acquisisci l'azione [Infuriarsi](/azioni/classe/infuriarsi), con cui ti lasci
+pervadere da un'ira incontrollabile.
 
 ### Istinto
 
@@ -252,7 +252,7 @@ salvezza su Riflessi aumenta a esperto.
 
 La furia si intensifica, permettendoti di agire all'istante. Il tuo grado di
 competenza nella tua CD di classe da Barbaro aumenta a esperto. Acquisisci
-l'azione gratuita [Furia Possente](/azioni/furia-possente).
+l'azione gratuita [Furia Possente](/azioni/classe/furia-possente).
 
 ### Colosso Superiore - 13°
 

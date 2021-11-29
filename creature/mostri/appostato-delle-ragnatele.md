@@ -11,7 +11,7 @@ Gli appostati delle ragnatele, noti anche come ettercap, sono orrendi mostri che
 non solo vivono nelle tane dei ragni o tra i loro sciami, ma allevano e
 proteggono attivamente quei parassiti.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Appostato delle Ragnatele - Creatura 3

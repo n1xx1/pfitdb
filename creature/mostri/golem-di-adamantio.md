@@ -14,7 +14,7 @@ ottenere le ingenti quantità del prezioso metallo necessarie per la costruzione
 di questi golem è gene\_ ralmente necessario inviare una spedizione mineraria su
 un lontano pianeta, sul Piano della Terra o su uno dei Piani Esterni.
 
-**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/abilita/ricordare-conoscenze)**:
 CD 43
 
 ## Golem di Adamantio - Creatura 18

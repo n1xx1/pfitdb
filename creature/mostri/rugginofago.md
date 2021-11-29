@@ -29,7 +29,7 @@ raggiunti da altri loro simili. A furia di indebolire le gallerie, attaccare i
 minatori e divorare la fonte di sostentamento dei cercatori, queste aberrazioni
 sono responsabili della creazione di molte città fantasma sui pendii montani.
 
-**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Aberrazione (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Rugginofago - Creatura 3

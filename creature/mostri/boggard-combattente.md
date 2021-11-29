@@ -13,7 +13,7 @@ da soli affinché nessuno possa contendere le loro uccisioni. Sono noti per
 inseguire i nemici che fuggono dal combattimento con una determinazione quasi
 soprannaturale.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Boggard Combattente - Creatura 2

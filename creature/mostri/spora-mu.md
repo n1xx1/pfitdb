@@ -22,7 +22,8 @@ raccogliere questi ingredienti è pericoloso, in quanto le spore non restano
 utilizzabili a lungo una volta emesse, costringendo quegli alchimisti desiderosi
 di raccogliere ad agire pericolosamente in prossimità di questi abomini.
 
-**[Ricordare Conoscenze - Fungo (Natura)](/azioni/ricordare-conoscenze)**: CD 42
+**[Ricordare Conoscenze - Fungo (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 42
 
 ## Spora Mu - Creatura 21
 

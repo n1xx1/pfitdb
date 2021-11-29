@@ -11,7 +11,7 @@ original-srd: TODO
 I dragoni di fuoco vivono nei canali di lava fusa diffusi su tutto il Piano del
 Fuoco.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 26
 
 ## Dragone di Fuoco - Creatura 9

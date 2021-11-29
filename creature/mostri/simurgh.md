@@ -24,7 +24,7 @@ morti o il risveglio di un mostro di potenza epica. I simurgh sono icone di
 giustizia e gli eroi buoni non possono trovare alleato migliore nella loro lotta
 contro il male.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 43
 
 ## Simurgh - Creatura 18

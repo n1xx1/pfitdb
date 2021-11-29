@@ -11,7 +11,7 @@ original-srd: TODO
 I giganti Enormi e le altre creature smisurate possono essere usati per creare
 scheletri molto potenti.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 23
 
 ## Scheletro Colosso - Creatura 7

@@ -20,8 +20,8 @@ o bestie da guerra addestrate; un'unità di cavalleria di orchi in sella a
 deodonti è una forza temibile. Un tipico deodonte adulto è lungo 3 metri e alto
 poco più di 2 metri al garrese. Pesa circa una tonnellata.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-19
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 19
 
 ## Deodonte - Creatura 4
 

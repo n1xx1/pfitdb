@@ -34,9 +34,9 @@ _[antiepidemico moderato](/equipaggiamento/antiepidemico)_.
 
 ## Scoperta del Campo di Ricerca Superiore - 13°
 
-Quando utilizzi [Alchimia Rapida](/azioni/alchimia-rapida) per creare un tipo
-qualsiasi di elisir della vita, la creatura che lo beve recupera il massimo di
-Punti Ferita curabili dall'elisir, anziché tirare per stabilire il numero di
+Quando utilizzi [Alchimia Rapida](/azioni/classe/alchimia-rapida) per creare un
+tipo qualsiasi di elisir della vita, la creatura che lo beve recupera il massimo
+di Punti Ferita curabili dall'elisir, anziché tirare per stabilire il numero di
 Punti Ferita recuperati.
 
 ## Perfezione Perpetua - 17°

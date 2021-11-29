@@ -13,8 +13,8 @@ dai cacciatori o dalla presenza di mostri più pericolosi. Un gorilla usa le
 zanne e le possenti braccia per mordere e colpire gli intrusi con selvaggio
 abbandono.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-18
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 18
 
 ## Gorilla - Creatura 3
 

@@ -31,7 +31,7 @@ Tuttavia, una medusa può patteggiare per avere salva la vita quando è a corto 
 alternative e i segreti custoditi da questi potenti nemici spesso ripagano della
 scelta di salvare la vita al mostro.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 23
 
 ## Medusa - Creatura 7

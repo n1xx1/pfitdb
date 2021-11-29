@@ -29,7 +29,7 @@ guerra più complessi come le spade e le fionde. Quelle che padroneggiano l'uso
 dell'arco, in particolare, sono spesso viste come eroine dalle loro simili e
 come temibili nemici dalle loro vittime.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 20
 
 ## Arpia - Creatura 5

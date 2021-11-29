@@ -14,7 +14,7 @@ alghollthu, molti kraken hanno deciso di stabilirsi nelle città sommerse, dove
 possono setacciare a loro piacimento le antiche conoscenze custodite in quei
 luoghi alla ricerca di segreti arcani da tempo perduti.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 40
 
 ## Kraken - Creatura 18

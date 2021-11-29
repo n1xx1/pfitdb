@@ -13,8 +13,8 @@ nell'arco di una settimana. Questo fatato è conosciuto come eloko e, oltre per
 il suo incredibile appetito (anche per gli standard dei biloki), possiede la
 capacità sovrannaturale di aumentare notevolmente le sue dimensioni fisiche.
 
-**[Ricordare Conoscenze - Fatato (Natura)](/azioni/ricordare-conoscenze)**: CD
-23
+**[Ricordare Conoscenze - Fatato (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 23
 
 ## Eloko - Creatura 7
 

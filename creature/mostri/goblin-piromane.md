@@ -16,7 +16,7 @@ doppio taglio: nell'impeto del momento, a volte i goblin piromani perdono di
 vista gli obiettivi della loro tribù e appiccano indiscriminatamente il fuoco a
 tutto ciò che può bruciare... alleati inclusi.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Goblin Piromane - Creatura 1

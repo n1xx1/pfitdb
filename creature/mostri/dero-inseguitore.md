@@ -11,7 +11,7 @@ original-srd: TODO
 I dero inseguitori sono quelli che vengono incaricati di esplorare il mondo di
 superficie di notte e che vanno in cerca di nuove vittime da rapire.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Dero Inseguitore - Creatura 2

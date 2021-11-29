@@ -31,7 +31,7 @@ loro vita Passata dopo la transizione ad assiomiti, le abilità e le esperienze
 che avevano accumulato in vita fungono comunque da preziosa risorsa metafisica
 durante la loro formazione.
 
-**[Ricordare Conoscenze - Osservatore (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Osservatore (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 24
 
 ## Assiomita - Creatura 8

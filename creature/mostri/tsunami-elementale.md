@@ -10,7 +10,8 @@ original-srd: TODO
 
 Gli tsunami elementali sono creature enormi e distruttive.
 
-### [Ricordare Conoscenze - Elementale](/azioni/ricordare-conoscenze) ([Arcano](/tratti/arcano), Natura): CD 28
+**[Ricordare Conoscenze - Elementale](/azioni/abilita/ricordare-conoscenze)
+([Arcano](/tratti/arcano), [Natura](/tratti/natura))**: CD 28
 
 ## Tsunami Elementale - Creatura 11
 

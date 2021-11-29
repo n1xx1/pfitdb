@@ -11,5 +11,5 @@ nel mondo di gioco. Un talento, un incantesimo, un oggetto o simile raro è
 disponibile per i giocatori solo se il GM decide di includerlo, in genere
 attraverso la scoperta durante il gioco. Come suggerisce il nome, queste
 creature sono rare. Solitamente non possono essere evocate. La CD delle prove di
-[Ricordare Conoscenze](/azioni/ricordare-conoscenze) relative a questa creatura
-aumenta di 5.
+[Ricordare Conoscenze](/azioni/abilita/ricordare-conoscenze) relative a questa
+creatura aumenta di 5.

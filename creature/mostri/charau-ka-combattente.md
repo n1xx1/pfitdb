@@ -12,7 +12,7 @@ preoccupa molto di rimanere disarmato per aver terminato le sue armi da lancio
 quando può raccogliere rocce dal terreno e scagliarle, oggetti altrettanto
 letali nelle sue mani.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Charau-Ka Combattente - Creatura 1

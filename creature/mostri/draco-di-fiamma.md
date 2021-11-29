@@ -16,7 +16,8 @@ avventurarsi nelle aree limitrofe, come le foreste o le colline boscose. Le loro
 scaglie presentano varie sfumature di rosso, che diventano più scure fino a
 rasentare il grigio e il nerofumo sui bordi delle ali e sulla punta della coda.
 
-**[Ricordare Conoscenze - Drago (Arcano)](/azioni/ricordare-conoscenze)**: CD 20
+**[Ricordare Conoscenze - Drago (Arcano)](/azioni/abilita/ricordare-conoscenze)**:
+CD 20
 
 ## Draco di Fiamma - Creatura 5
 

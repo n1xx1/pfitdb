@@ -10,7 +10,7 @@ original-srd: TODO
 
 Gli uragani elementali incarnano la ferocia delle tempeste più violente.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 28
 
 ## Uragano Elementale - Creatura 11

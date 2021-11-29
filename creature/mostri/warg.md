@@ -18,7 +18,7 @@ in battaglia. Molti warg accettano di buon grado questi accordi, ma se il cibo
 dovesse scarseggiare, non si faranno troppi scrupoli a integrare la loro dieta
 con un po' di carne di goblinoide.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Warg - Creatura 2

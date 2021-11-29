@@ -30,7 +30,8 @@ livello dell'acqua. Oltre alle loro collezioni di trattati esoterici, i draghi
 di bronzo raccolgono tesori associati al mare, come ossa di balena intagliate,
 perle perfette ed equipaggiamento decorato in madreperla e gusci di abalone.
 
-**[Ricordare Conoscenze - Drago (Arcano)](/azioni/ricordare-conoscenze)**: CD 40
+**[Ricordare Conoscenze - Drago (Arcano)](/azioni/abilita/ricordare-conoscenze)**:
+CD 40
 
 ## Drago di Bronzo Antico - Creatura 18
 

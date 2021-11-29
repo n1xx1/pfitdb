@@ -31,7 +31,8 @@ scontri preferiscono schernire e imbrogliare l'avversario anziché ricorrere all
 forza bruta. Invecchiando, i draghi di rame perfezionano la loro arte comica al
 punto di neutralizzare gli avversari facendoli ridere a crepapelle.
 
-**[Ricordare Conoscenze - Drago (Arcano)](/azioni/ricordare-conoscenze)**: CD 30
+**[Ricordare Conoscenze - Drago (Arcano)](/azioni/abilita/ricordare-conoscenze)**:
+CD 30
 
 ## Drago di Rame Adulto - Creatura 12
 

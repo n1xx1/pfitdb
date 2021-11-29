@@ -14,8 +14,8 @@ e vanno perennemente alla ricerca di cibo per placare la loro fame smisurata. La
 presenza di un megalodonte in un ecosistema acquatico ne influenza
 inevitabilmente gli equilibri.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-28
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 28
 
 ## Megalodonte - Creatura 9
 

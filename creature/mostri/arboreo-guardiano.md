@@ -22,8 +22,8 @@ scoperto. I guardiani arborei non fingono di comprendere i motivi delle altre
 creature: come la maggior parte delle forze del mondo naturale, tendono a non
 immischiarsi negli affari dei mortali che non coinvolgono la loro foresta.
 
-**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/ricordare-conoscenze)**: CD
-19
+**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 19
 
 ## Arboreo Guardiano - Creatura 4
 

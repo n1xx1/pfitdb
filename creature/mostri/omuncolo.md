@@ -42,7 +42,7 @@ mandragora, acqua di sorgente e mezzo litro del sangue del creatore stesso. È
 possibile che sia un donatore separato a fornire il sangue, ma la procedura
 diventa più complessa.
 
-**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Costrutto (Arcano, Artigianato)](/azioni/abilita/ricordare-conoscenze)**:
 CD 14
 
 ## Omuncolo - Creatura 0

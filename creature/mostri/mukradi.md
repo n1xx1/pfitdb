@@ -13,7 +13,7 @@ versione delle Lande Tenebrose dei mukradi. Questa variante avrebbe le scaglie
 nere e tutte le sue teste sputerebbero una poltiglia acida nerastra che si
 animerebbe prima di essere riassorbita dallo stesso mukradi.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 34
 
 ## Mukradi - Creatura 15

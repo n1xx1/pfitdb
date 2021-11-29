@@ -28,7 +28,7 @@ che il sovrano aveva in vita possono significativamente cambiare o rafforzare la
 mummia faraone presentata di seguito (che rappresenta la variante meno potente
 di questo letale nemico non morto).
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 31
 
 ## Mummia Faraone - Creatura 9

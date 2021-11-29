@@ -11,7 +11,7 @@ original-srd: TODO
 I soldati costituiscono la spina dorsale della società degli hobgoblin, dai
 piccoli villaggi alle unità militari.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Hobgoblin Soldato - Creatura 1

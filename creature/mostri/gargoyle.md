@@ -45,7 +45,8 @@ presentate sotto, ma con le modifiche seguenti: possiedono il tratto
 quella di volare e la loro reazione Piedi Artigliati si innesca quando
 [Nuotano](/azioni/nuotare) anziché quando [Volano](/azioni/volare).
 
-### [Ricordare Conoscenze - Bestia](/azioni/ricordare-conoscenze) ([Arcano](/tratti/arcano), Natura): CD 19
+**[Ricordare Conoscenze - Bestia](/azioni/abilita/ricordare-conoscenze) (Arcano,
+Natura)**: CD 28
 
 ## Gargoyle - Creatura 4
 

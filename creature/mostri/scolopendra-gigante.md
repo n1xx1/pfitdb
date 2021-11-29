@@ -19,8 +19,8 @@ piccanti per farne una prelibatezza. Tuttavia è necessario fare attenzione
 durante la preparazione per evitare di contaminare la carne con il veleno della
 creatura.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-13
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 13
 
 ## Scolopendra Gigante - Creatura -1
 

@@ -12,8 +12,8 @@ I leshy zucca sono i guardiani dei campi, degli orti e delle fattorie. Molti
 villaggi beneficiano della protezione di un leshy zucca pur non essendone
 consapevoli.
 
-**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/ricordare-conoscenze)**: CD
-15
+**[Ricordare Conoscenze - Vegetale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 15
 
 ## Leshy Zucca - Creatura 1
 

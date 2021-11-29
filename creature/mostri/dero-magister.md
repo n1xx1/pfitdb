@@ -12,7 +12,7 @@ I dero magister sono i capi della società dei dero. Sono loro ad attuare buona
 parte delle crudeli operazioni e delle procedure di alterazione mentale che
 vengono inflitte alle vittime.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 22
 
 ## Dero Magister - Creatura 5

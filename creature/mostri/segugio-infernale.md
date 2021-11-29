@@ -13,10 +13,10 @@ la sua carne ha il colore del catrame ardente, i denti sono affilati come le
 punte del forcone di un diavolo e un sudario di fuoco infernale inestinguibile
 sono tutti tratti inconfondibili.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Segugio Infernale - Creatura 3

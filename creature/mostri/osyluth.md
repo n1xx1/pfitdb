@@ -18,7 +18,7 @@ eretici morti da tempo. Abbandonati a loro stessi, gli osyluth costruiscono
 enormi tane calcificate negli angoli più remoti dello Stigia, e danno la caccia
 a diavoli inferiori e supplicanti che popolano quell'infernale regione palustre.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 26
 
 ## Osyluth (Diavolo delle Ossa) - Creatura 9

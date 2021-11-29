@@ -13,8 +13,8 @@ possono rivelarsi totalmente devastanti. Queste brulicanti orde di morte
 abbattono rapidamente le loro prede per poi divorarle interamente, lasciando
 solo le ossa.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-19
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 19
 
 ## Sciame di Scorpioni - Creatura 4
 

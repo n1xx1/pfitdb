@@ -21,7 +21,8 @@ sottili come piume per scavare cunicoli con più facilità. Grazie al suo potent
 collo, per un draco di deserto serpeggiare sotto la sabbia o altri materiali
 friabili è semplice quanto camminare.
 
-**[Ricordare Conoscenze - Drago (Arcano)](/azioni/ricordare-conoscenze)**: CD 24
+**[Ricordare Conoscenze - Drago (Arcano)](/azioni/abilita/ricordare-conoscenze)**:
+CD 24
 
 ## Draco di Deserto - Creatura 8
 

@@ -25,7 +25,7 @@ potere, non solo per ottenere nuove informazioni, ma anche per bruciare i testi
 custoditi nella biblioteca, al fine di diventare le uniche depositarie di quel
 sapere.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 39
 
 ## Fenice - Creatura 15

@@ -21,8 +21,8 @@ di boscaioli hanno attirato gruppi di cervi volanti giganti e sono stati
 completamente evacuati, lasciando tutto il legname a soddisfare l'appetito di
 questi insetti giganteschi.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-19
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 19
 
 ## Cervo Volante Gigante - Creatura 4
 

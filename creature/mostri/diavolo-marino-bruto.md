@@ -12,8 +12,8 @@ I diavoli marini fisicamente più imponenti vengono equipaggiati con le migliori
 armi che la comunità riesca a trovare, anche se molti si accontentano di ferire
 i nemici usando i denti e le unghie.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-19
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 19
 
 ## Diavolo Marino Bruto - Creatura 4
 

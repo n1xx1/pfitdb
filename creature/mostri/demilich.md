@@ -39,7 +39,7 @@ breve, questa è una soluzione più che sufficiente, anche se un demilich potreb
 riapparire molti secoli dopo nella stessa regione dove abitava un tempo per
 attuare un nuovo piano, persino più insidioso del precedente.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 39
 
 ## Demilich - Creatura 15

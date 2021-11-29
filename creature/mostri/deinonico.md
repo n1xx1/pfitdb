@@ -19,8 +19,8 @@ colori sgargianti. Un deinonico è alto 1,8 metri e pesa circa 75 chilogrammi.
 Esistono tuttavia anche dei deinonici più grandi. Queste creature, più alte di
 un umano, sono chiamate megaraptor.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-16
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 16
 
 ## Deinonico - Creatura 2
 

@@ -16,7 +16,7 @@ singola forma a cui impartiscono una mente propria per farne un diavolo più
 potente (vedi la capacità Plasmare Diavoli del
 [diavolo della fossa](/creature/diavolo-della-fossa)).
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 14
 
 ## Lemure - Creatura 0

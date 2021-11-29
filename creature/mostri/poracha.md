@@ -45,7 +45,7 @@ simili. Sebbene in genere non viaggino in gruppo, sanno dove trovare altri
 membri della loro specie in caso di bisogno e un branco organizzato di poracha è
 una minaccia disorientante.
 
-**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Bestia (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 21
 
 ## Poracha - Creatura 4

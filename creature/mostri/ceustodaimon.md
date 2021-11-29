@@ -18,7 +18,7 @@ loro evocatori mortali. Gli evocatori peggiori richiamano i ceustodàimon al sol
 scopo di sguinzagliarli nel mondo, nella speranza di ingraziarsi i poteri di
 Abaddon.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 22
 
 ## Ceustodàimon (Dàimon Guardiano) - Creatura 6

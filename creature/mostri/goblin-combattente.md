@@ -12,7 +12,7 @@ I guerrieri che costituiscono la prima linea delle tribù goblin preferiscono
 combattere in gruppi numerosi, specialmente se sono almeno il triplo degli
 avversari.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 13
 
 ## Goblin Combattente - Creatura -1

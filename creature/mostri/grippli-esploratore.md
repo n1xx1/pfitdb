@@ -11,7 +11,7 @@ original-srd: TODO
 I migliori cacciatori grippli sono scelti per ricoprire il ruolo di prestigio
 dell'esploratore.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Grippli Esploratore - Creatura 1

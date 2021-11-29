@@ -25,7 +25,7 @@ decorata da dozzine di rune, che fungono da possenti manifestazioni dei loro
 poteri arcani. I giganti delle rune sono creature altissime, arrivando in media
 ai 12 metri di altezza, e pesano 12.500 chilogrammi.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 37
 
 ## Gigante delle Rune - Creatura 16

@@ -12,7 +12,7 @@ I cacciatori invisibili hanno una bassa opinione dei mortali a causa della
 natura sgradevole dei compiti violenti che gli evocatori di solito li chiamano a
 eseguire sul Piano Materiale.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 23
 
 ## Cacciatore Invisibile - Creatura 7

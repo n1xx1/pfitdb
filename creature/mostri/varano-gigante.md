@@ -23,8 +23,8 @@ singolo pasto una quantità di cibo pari al suo peso corporeo e le sue fauci
 disarticolate gli permettono di ingoiare prede di dimensioni sorprendentemente
 grosse.
 
-**[Ricordare Conoscenze - Animale (Natura)](/azioni/ricordare-conoscenze)**: CD
-16
+**[Ricordare Conoscenze - Animale (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 16
 
 ## Varano Gigante - Creatura 2
 

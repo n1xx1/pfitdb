@@ -11,10 +11,10 @@ original-srd: TODO
 Un fantasma popolano è un individuo ordinario, convinto di essere morto
 ingiustamente a causa di un'ingiustizia o di un tradimento.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 19
 
-**[Ricordare Conoscenze - Spirito (Occultismo)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Spirito (Occultismo)](/azioni/abilita/ricordare-conoscenze)**:
 CD 19
 
 ## Fantasma Popolano - Creatura 4

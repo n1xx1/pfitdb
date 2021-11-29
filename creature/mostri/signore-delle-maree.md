@@ -10,7 +10,7 @@ original-srd: TODO
 
 I signori delle maree usano il loro controllo sull'acqua per annegare i nemici.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 26
 
 ## Signore delle Maree - Creatura 9

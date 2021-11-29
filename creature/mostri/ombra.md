@@ -12,7 +12,7 @@ si nutrono di coloro che si allontanano troppo dalla luce. Chi riesce a
 negoziare con le ombre, generalmente tenendole a bada con un'arma luminosa, può
 scoprire molti segreti importanti, in quanto queste creature sono spie ideali.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 19
 
 ## Ombra - Creatura 4

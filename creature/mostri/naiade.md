@@ -21,8 +21,8 @@ diventare avventuriere, in particolare quando le forze oscure attentano
 all'integrità della natura o minacciano la regione, e unirsi ad altre creature
 contro un nemico comune.
 
-**[Ricordare Conoscenze - Fatato (Natura)](/azioni/ricordare-conoscenze)**: CD
-15
+**[Ricordare Conoscenze - Fatato (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 15
 
 ## Naiade - Creatura 1
 

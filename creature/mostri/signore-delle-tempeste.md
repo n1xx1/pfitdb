@@ -11,7 +11,7 @@ original-srd: TODO
 I signori delle tempeste scendono in battaglia per reclamare i territori più
 importanti all'interno del Piano dell'Aria.
 
-**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Elementale (Arcano, Natura)](/azioni/abilita/ricordare-conoscenze)**:
 CD 26
 
 ## Signore delle Tempeste - Creatura 9

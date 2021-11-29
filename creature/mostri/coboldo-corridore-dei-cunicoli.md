@@ -13,7 +13,7 @@ Blog Paizo. I dettagli di un possibile incontro con questo coboldo possono
 essere trovati nel
 [Blog Paizo](https://paizo.com/community/blog/v5748dyo6shjd)._
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 16
 
 ## Coboldo Corridore dei Cunicoli - Creatura 0

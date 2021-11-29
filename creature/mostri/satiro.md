@@ -34,8 +34,8 @@ imbarazzanti. Raramente agiscono ostilmente nei loro confronti, ma in genere li
 considerano insopportabili e consigliano ai mortali a cui tengono di stare alla
 larga dalle vallate dove vivono i satiri.
 
-**[Ricordare Conoscenze - Fatato (Natura)](/azioni/ricordare-conoscenze)**: CD
-19
+**[Ricordare Conoscenze - Fatato (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 19
 
 ## Satiro - Creatura 4
 

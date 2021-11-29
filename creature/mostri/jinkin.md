@@ -20,8 +20,8 @@ vittime che sopravvivono alla caduta sono destinate a morire lentamente di fame
 e di Jinkin piace affacciarsi ai margini della per deriderle, stuzzicarle e
 tormentarle.
 
-**[Ricordare Conoscenze - Fatato (Natura)](/azioni/ricordare-conoscenze)**: CD
-15
+**[Ricordare Conoscenze - Fatato (Natura)](/azioni/abilita/ricordare-conoscenze)**:
+CD 15
 
 ## Jinkin - Creatura 1
 

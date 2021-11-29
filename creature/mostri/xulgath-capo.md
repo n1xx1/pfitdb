@@ -13,7 +13,7 @@ comunità, anche se in certi casi, specialmente nei gruppi più numerosi, le tri
 di xulgath sono guidate da potenti cultisti demoniaci o altri mostri che
 ambiscono a usare gli xulgath come servitori o come schiavi.
 
-**[Ricordare Conoscenze - Umanoide (Società)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Umanoide (Società)](/azioni/abilita/ricordare-conoscenze)**:
 CD 18
 
 ## Xulgath Capo - Creatura 3

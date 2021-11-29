@@ -34,7 +34,7 @@ qualche saccheggiatore di tombe o avventuriero, quasi tutte le mummie guardiane
 non si fermano davanti a nulla pur di inseguire e massacrare le loro vittime con
 voluttà.
 
-**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Non Morto (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 22
 
 ## Mummia Guardiana - Creatura 6

@@ -22,7 +22,7 @@ guardiani e truppe di supporto mobili straordinariamente stoici in tempo di
 conflitto e sono in grado di fondersi per formare potenti guerrieri di luce
 chiamati unione.
 
-**[Ricordare Conoscenze - Celestiale (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Celestiale (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 15
 
 ## Arconte Lanterna - Creatura 1

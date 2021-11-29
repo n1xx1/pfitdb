@@ -24,7 +24,7 @@ corruzione della sua presenza. Tuttavia, il Signore del Lago Devastato è tanto
 scaltro e insidioso quanto letale e preferisce ordire le sue trame malvagie
 contro il mondo dalla protezione del suo reame da incubo.
 
-**[Ricordare Conoscenze - Nefando (Religione)](/azioni/ricordare-conoscenze)**:
+**[Ricordare Conoscenze - Nefando (Religione)](/azioni/abilita/ricordare-conoscenze)**:
 CD 60
 
 ## Fitànatos - Creatura 25
