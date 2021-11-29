@@ -1,6 +1,6 @@
 ---
 family: oggetto-animato
-traits: [n, media, costrutto, privo di intelletto]
+traits: [n, media, costrutto, privo-di-intelletto]
 source: Bestiario, pag. 257
 original-name: TODO
 original-srd: TODO

@@ -1,5 +1,5 @@
 ---
-traits: [unico, nm, media, non morto]
+traits: [unico, nm, media, non-morto]
 source: Bestiario, pag. 316
 original-name: TODO
 original-srd: TODO

@@ -1,6 +1,6 @@
 ---
 family: melma
-traits: [n, media, melma, privo di intelletto]
+traits: [n, media, melma, privo-di-intelletto]
 source: Bestiario, pag. 242
 original-name: TODO
 original-srd: TODO

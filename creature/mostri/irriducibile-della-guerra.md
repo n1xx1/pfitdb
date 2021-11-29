@@ -1,5 +1,5 @@
 ---
-traits: [non comune, nm, mastodontica, non morto]
+traits: [non comune, nm, mastodontica, non-morto]
 source: Bestiario, pag. 212
 original-name: TODO
 original-srd: TODO

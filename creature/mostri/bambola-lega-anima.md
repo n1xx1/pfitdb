@@ -1,5 +1,5 @@
 ---
-traits: [qualsiasi, minuscola, costrutto, lega anima]
+traits: [qualsiasi, minuscola, costrutto, lega-anima]
 source: Bestiario, pag. 32
 original-name: TODO
 original-srd: TODO

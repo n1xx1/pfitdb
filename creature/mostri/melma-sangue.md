@@ -1,6 +1,6 @@
 ---
 family: melma
-traits: [n, grande, melma, privo di intelletto]
+traits: [n, grande, melma, privo-di-intelletto]
 source: Caduta di Cuor della Piaga, pag. 63
 original-name: TODO
 original-srd: TODO

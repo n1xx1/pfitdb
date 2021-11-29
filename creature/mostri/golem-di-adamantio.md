@@ -1,6 +1,6 @@
 ---
 family: golem
-traits: [raro, n, enorme, costrutto, golem, privo di intelletto]
+traits: [raro, n, enorme, costrutto, golem, privo-di-intelletto]
 source: Bestiario, pag. 200
 original-name: TODO
 original-srd: TODO

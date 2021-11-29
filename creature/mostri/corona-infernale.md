@@ -1,5 +1,5 @@
 ---
-traits: [non comune, lm, minuscola, non morto]
+traits: [non comune, lm, minuscola, non-morto]
 source: Era delle Ceneri: La Collina dei Cavalieri Infernali, pag. 86
 original-name: TODO
 original-srd: TODO

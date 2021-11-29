@@ -1,6 +1,6 @@
 ---
 family: lich
-traits: [raro, nm, minuscola, non morto]
+traits: [raro, nm, minuscola, non-morto]
 source: Bestiario, pag. 222
 original-name: TODO
 original-srd: TODO

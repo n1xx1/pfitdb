@@ -1,5 +1,5 @@
 ---
-traits: [barbaro furia]
+traits: [barbaro, furia]
 source: Manuale di Gioco, pag. 93
 original-name: Collateral Thrash
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=171

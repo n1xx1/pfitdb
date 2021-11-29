@@ -1,6 +1,6 @@
 ---
 family: mummia
-traits: [lm, media, mummia, non morto]
+traits: [lm, media, mummia, non-morto]
 source: Bestiario, pag. 247
 original-name: TODO
 original-srd: TODO

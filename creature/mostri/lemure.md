@@ -1,6 +1,6 @@
 ---
 family: diavolo
-traits: [lm, media, diavolo, nefando, privo di intelletto]
+traits: [lm, media, diavolo, nefando, privo-di-intelletto]
 source: Bestiario, pag. 20
 original-name: TODO
 original-srd: TODO

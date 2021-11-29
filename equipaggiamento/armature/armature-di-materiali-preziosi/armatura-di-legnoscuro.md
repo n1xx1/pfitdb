@@ -1,5 +1,5 @@
 ---
-traits: [non comune]
+traits: [non-comune]
 source: Manuale di Gioco, pag. 543
 original-name: Silver Armor
 original-srd: https://2e.aonprd.com/Equipment.aspx?ID=146

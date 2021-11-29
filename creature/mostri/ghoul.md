@@ -1,6 +1,6 @@
 ---
 family: ghoul
-traits: [cm, media, ghoul, non morto]
+traits: [cm, media, ghoul, non-morto]
 source: Bestiario, pag. 180
 original-name: TODO
 original-srd: TODO

@@ -1,6 +1,6 @@
 ---
 family: erede-planare
-traits: [n, media, umano, umanoide, viandante del crepuscolo]
+traits: [n, media, umano, umanoide, viandante-del-crepuscolo]
 source: Bestiario, pag. 159
 original-name: TODO
 original-srd: TODO

@@ -1,5 +1,5 @@
 ---
-traits: [non comune, lm, media, non morto]
+traits: [non comune, lm, media, non-morto]
 source: Bestiario, pag. 141
 original-name: TODO
 original-srd: TODO

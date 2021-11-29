@@ -1,6 +1,6 @@
 ---
 family: carnideforme
-traits: [n, media, aberrazione, privo di intelletto]
+traits: [n, media, aberrazione, privo-di-intelletto]
 source: Bestiario, pag. 49
 original-name: TODO
 original-srd: TODO

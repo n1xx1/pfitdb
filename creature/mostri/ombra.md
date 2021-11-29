@@ -1,5 +1,5 @@
 ---
-traits: [cm, media, incorporeo, non morto]
+traits: [cm, media, incorporeo, non-morto]
 source: Bestiario, pag. 261
 original-name: TODO
 original-srd: TODO
