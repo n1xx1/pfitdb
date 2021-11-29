@@ -1,6 +1,6 @@
 ---
 family: drago-cromatico
-traits: [lm, enorme, drago, elettricità]
+traits: [lm, enorme, drago, elettricita]
 source: Bestiario, pag. 116
 original-name: TODO
 original-srd: TODO

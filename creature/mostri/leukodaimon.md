@@ -1,6 +1,6 @@
 ---
 family: dàimon
-traits: [nm, grande, dàimon, nefando]
+traits: [nm, grande, daimon, nefando]
 source: Bestiario, pag. 74
 original-name: TODO
 original-srd: TODO

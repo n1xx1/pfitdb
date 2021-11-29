@@ -1,6 +1,6 @@
 ---
 family: dàimon
-traits: [nm, minuscola, dàimon, nefando]
+traits: [nm, minuscola, daimon, nefando]
 source: Bestiario, pag. 72
 original-name: TODO
 original-srd: TODO

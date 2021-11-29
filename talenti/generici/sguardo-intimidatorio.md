@@ -1,5 +1,5 @@
 ---
-traits: [abilità, generico]
+traits: [abilita, generico]
 source: Manuale di Gioco, pag. TODO
 original-name: Intimidating Glare
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=
