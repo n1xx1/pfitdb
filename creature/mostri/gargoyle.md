@@ -43,7 +43,7 @@ periodi più lunghi. I kapoacinth possiedono le stesse capacità dei gargoyle
 presentate sotto, ma con le modifiche seguenti: possiedono il tratto
 [acquatico](/tratti/acquatico), una Velocità di nuotare di 12 metri al posto di
 quella di volare e la loro reazione Piedi Artigliati si innesca quando
-[Nuotano](/azioni/nuotare) anziché quando [Volano](/azioni/volare).
+[Nuotano](/azioni/abilita/nuotare) anziché quando [Volano](/azioni/base/volare).
 
 **[Ricordare Conoscenze - Bestia](/azioni/abilita/ricordare-conoscenze) (Arcano,
 Natura)**: CD 28
@@ -65,9 +65,9 @@ Natura)**: CD 28
 **PF** 40; **Resistenze** fisico 5 (tranne adamantio)
 
 **Piedi Artigliati** :R: ([attacco](/tratti/attacco)); **Innesco** Il gargoyle
-sta [Volando](/azioni/volare) e una creatura si muove ed entra in un quadretto
-adiacente sotto di lui. **Effetto** Il gargoyle effettua un
-[Colpo](/azioni/colpire) con l'artiglio contro la creatura innescante.
+sta [Volando](/azioni/base/volare) e una creatura si muove ed entra in un
+quadretto adiacente sotto di lui. **Effetto** Il gargoyle effettua un
+[Colpo](/azioni/base/colpire) con l'artiglio contro la creatura innescante.
 
 ---
 

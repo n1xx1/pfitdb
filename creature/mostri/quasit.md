@@ -31,10 +31,10 @@ Religione +5
 
 **For** -1, **Des** +4, **Cos** +0, **Int** +1, **Sag** +2, **Car** +2
 
-**Conoscenze Abissali** Quando un quasit si offre di [Aiutare](/azioni/aiutare)
-in una prova di Arcano o di Religione, ottiene il risultato di un successo
-critico con qualsiasi successo e il risultato di un fallimento critico con
-qualsiasi fallimento.
+**Conoscenze Abissali** Quando un quasit si offre di
+[Aiutare](/azioni/base/aiutare) in una prova di Arcano o di Religione, ottiene
+il risultato di un successo critico con qualsiasi successo e il risultato di un
+fallimento critico con qualsiasi fallimento.
 
 ---
 
@@ -46,7 +46,7 @@ qualsiasi fallimento.
 permesso di nascere, ma rappresenta una vulnerabilità. Una volta per round, una
 creatura può presentare un oggetto correlato a qualcosa di buono o di virtuoso
 nella vita del creatore del quasit (come per esempio la bambola di una figlia
-adorata) come azione di [Interagire](/azioni/interagire) per infliggere
+adorata) come azione di [Interagire](/azioni/base/interagire) per infliggere
 automaticamente al quasit 2d6 danni mentali.
 
 ---

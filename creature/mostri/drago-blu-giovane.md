@@ -67,8 +67,8 @@ per riuscirci.
 
 **Deviazione d'Ala** :R: **Innesco** Il drago è bersagliato da un attacco.
 **Effetto** Il drago alza la sua ala e ottiene bonus di circostanza +2 a CA
-contro l'attacco innescante. Se il drago sta [Volando](/azioni/volare), scende
-di 3 metri dopo che l'attacco è stato completato.
+contro l'attacco innescante. Se il drago sta [Volando](/azioni/base/volare),
+scende di 3 metri dopo che l'attacco è stato completato.
 
 ---
 
@@ -91,8 +91,8 @@ elettricità
 _[creare acqua](/incantesimi/creare-acqua)_ (a volontà; vedi sete del deserto);
 **Trucchetti (4°)** _[suono fantasma](/incantesimi/suono-fantasma)_
 
-**Frenesia Draconica** :2: Il drago effettua due [Colpi](/azioni/colpire) con
-l'artiglio e un Colpo con il corno in qualsiasi ordine.
+**Frenesia Draconica** :2: Il drago effettua due [Colpi](/azioni/base/colpire)
+con l'artiglio e un Colpo con il corno in qualsiasi ordine.
 
 **Impeto Draconico** Il drago ricarica il suo Soffio ogni volta che mette a
 segno un colpo critico con un Colpo.

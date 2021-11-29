@@ -21,8 +21,8 @@ CD 18
 **Lingue** Anadi, Comune
 
 **Abilità** Acrobazia +8, Artigianato +6 (+10 tessere), Atletica +6 (+8 a
-[Scalare](/azioni/scalare) nella vera forma o in forma di ragno), Furtività +8,
-Natura +5
+[Scalare](/azioni/abilita/scalare) nella vera forma o in forma di ragno),
+Furtività +8, Natura +5
 
 **For** +2, **Des** +4, **Cos** +2, **Int** +0, **Sag** +1, **Car** +0
 

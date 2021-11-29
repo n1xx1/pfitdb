@@ -82,9 +82,9 @@ mani. Quando una creatura viene colpita dalla corda dell'erinni, un segmento
 della corda si stacca e si avviluppa attorno alla creatura, imponendole penalità
 di circostanza di 3 metri alla Velocità. Il pezzo che si stacca è di 3 metri per
 una creatura Media o più piccola e raddoppia di lunghezza per ogni taglia
-superiore alla Media. Quando una creatura [Sfugge](/azioni/sfuggire) all'effetto
-(CD 26) il segmento staccato della corda avvizzisce e si sfalda in un'inutile
-poltiglia grigia.
+superiore alla Media. Quando una creatura [Sfugge](/azioni/base/sfuggire)
+all'effetto (CD 26) il segmento staccato della corda avvizzisce e si sfalda in
+un'inutile poltiglia grigia.
 
 **Fiamme della Furia** Qualsiasi arma impugnata da un'erinni ottiene gli effetti
 di una runa _infuocata_ mentre l'erinni la impugna.

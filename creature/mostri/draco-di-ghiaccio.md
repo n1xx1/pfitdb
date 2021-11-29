@@ -59,8 +59,8 @@ nevicate.
 
 **Colpo di Ritorsione** :R: **Innesco** Una creatura entro portata dalla coda
 del draco danneggia con successo il draco di ghiaccio con un
-[Colpo](/azioni/colpire). **Effetto** Il draco di ghiaccio tenta di Colpire con
-la sua coda. Se il Colpo va a segno, infligge 1d6 danni aggiuntivi.
+[Colpo](/azioni/base/colpire). **Effetto** Il draco di ghiaccio tenta di Colpire
+con la sua coda. Se il Colpo va a segno, infligge 1d6 danni aggiuntivi.
 
 ---
 

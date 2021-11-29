@@ -87,9 +87,9 @@ superiore possiede una mutazione, solitamente scelta tra le opzioni seguenti.
 - **Ali** Il barghest possiede un paio di ali malformi che spuntano dalla sua
   schiena. Ottiene una Velocità di volare di 7,5 metri.
 - **Colpo di Braccio Vestigiale** :G: **Frequenza** una volta per round;
-  **Innesco** Il barghest completa un [Colpo](/azioni/colpire). **Effetto** Il
-  barghest effettua un Colpo con l'artiglio con un terzo braccio avvizzito che
-  penzola dal suo torace. Questo attacco non conta al fine di determinare la
+  **Innesco** Il barghest completa un [Colpo](/azioni/base/colpire). **Effetto**
+  Il barghest effettua un Colpo con l'artiglio con un terzo braccio avvizzito
+  che penzola dal suo torace. Questo attacco non conta al fine di determinare la
   penalità da attacchi multipli del barghest e quella penalità non si applica
   all'attacco.
 - **Soffio Tossico** :2: ([divino](/tratti/divino),

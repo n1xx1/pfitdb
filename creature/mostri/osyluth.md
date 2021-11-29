@@ -92,5 +92,5 @@ Tempra; **Durata Massima** 6 round; **Fase 1** 2d6 danni da veleno e
 e indebolito 1 (1 round); **Fase 3** 3d6 danni da veleno, indebolito 2 (1
 round). Una volta che la creatura raggiunge la fase 3, la creatura subisce
 penalità di status -4 ai TS su Volontà contro i tentativi di
-[Costringerla](/azioni/costringere) per 1 ora (questo è un effetto
+[Costringerla](/azioni/abilita/costringere) per 1 ora (questo è un effetto
 [mentale](/tratti/mentale)).

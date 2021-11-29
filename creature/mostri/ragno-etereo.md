@@ -88,7 +88,7 @@ azione gratuita.
 
 **Trappola di Ragnatela Eterea** Una creatura colpita dall'attacco di ragnatela
 del ragno etereo è [immobilizzata](/condizioni/immobilizzato) e bloccata alla
-superficie più vicina ([Sfuggire](/azioni/sfuggire) CD 22).
+superficie più vicina ([Sfuggire](/azioni/base/sfuggire) CD 22).
 
 **Veleno di Ragno Etereo** ([veleno](/tratti/veleno)); **Tiro Salvezza** CD 22
 Tempra; **Durata Massima** 6 round; **Fase 1** 1d6 danni da veleno e

@@ -103,6 +103,6 @@ _[vedere invisibilità](/incantesimi/vedere-invisibilita)_
 
 **Assalto Infuocato** :1: ([fuoco](/tratti/fuoco),
 [invocazione](/tratti/invocazione), [primevo](/tratti/primevo)) La fenice si
-avvolge di un manto di fiamme roventi e [Vola](/azioni/volare) fino alla sua
-Velocità. Infligge 6d6 danni da fuoco a ogni creatura entro 6 metri da ogni
+avvolge di un manto di fiamme roventi e [Vola](/azioni/base/volare) fino alla
+sua Velocità. Infligge 6d6 danni da fuoco a ogni creatura entro 6 metri da ogni
 quadretto attraverso cui si muove (TS base su Riflessi con CD 37).

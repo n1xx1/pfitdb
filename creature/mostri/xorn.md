@@ -44,13 +44,13 @@ freddo 5 fuoco 5; **Debolezze** contundenti 5
 **Mischia** :1: artiglio +18 \[+14/+10] ([agile](/tratti/agile)), **Danni**
 2d6+8 taglienti
 
-**Frenesia di Artigli** :2: Lo xorn effettua tre [Colpi](/azioni/colpire) con
-l'artiglio; non più di due possono essere effettuati contro lo stesso bersaglio.
-Questi attacchi contano al fine di determinare la penalità da attacchi multipli
-dello xorn, ma la penalità aumenta soltanto dopo che tutti gli attacchi sono
-stati effettuati.
+**Frenesia di Artigli** :2: Lo xorn effettua tre [Colpi](/azioni/base/colpire)
+con l'artiglio; non più di due possono essere effettuati contro lo stesso
+bersaglio. Questi attacchi contano al fine di determinare la penalità da
+attacchi multipli dello xorn, ma la penalità aumenta soltanto dopo che tutti gli
+attacchi sono stati effettuati.
 
-**Scivolare nella Terra** Lo xorn può [Scavare](/azioni/scavare) attraverso
+**Scivolare nella Terra** Lo xorn può [Scavare](/azioni/base/scavare) attraverso
 qualsiasi materia di terra, inclusa la roccia. Quando lo fa, lo xorn si muove
 alla sua Velocità di scavare completa, senza lasciare tunnel o segni del suo
 passaggio.

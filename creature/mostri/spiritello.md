@@ -36,8 +36,8 @@ CD 13
 quella di una torcia. Lo spiritello può spegnere, riaccendere o cambiare il
 colore della sua luce usando un'azione singola che possiede il tratto
 [concentrazione](/tratti/concentrazione). Mentre questa luce è spenta, i
-[Colpi](/azioni/colpire) dello spiritello non infliggono danni da fuoco e lo
-spiritello non può usare il suo Colpo con la scintilla luminosa.
+[Colpi](/azioni/base/colpire) dello spiritello non infliggono danni da fuoco e
+lo spiritello non può usare il suo Colpo con la scintilla luminosa.
 
 ---
 

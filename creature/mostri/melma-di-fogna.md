@@ -46,5 +46,5 @@ un'emanazione di 6 metri. Ogni creatura nell'area deve superare un TS su
 Riflessi con CD 17, altrimenti subisce 1d4 danni da acido e penalità -3 metri
 alle sue Velocità per 1 minuto (in caso di fallimento critico, la creatura cade
 anche [prona](/condizioni/prono)). Una creatura può spendere un'azione di
-[Interagire](/azioni/interagire) per ripulire qualcuno, riducendo la penalità
-alla Velocità di 1,5 metri con ogni azione.
+[Interagire](/azioni/base/interagire) per ripulire qualcuno, riducendo la
+penalità alla Velocità di 1,5 metri con ogni azione.

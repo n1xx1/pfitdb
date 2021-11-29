@@ -30,8 +30,8 @@ CD 35
 
 **Lingue** Abissale, Terran
 
-**Abilità** Atletica +31 (+35 per [Disarmare](/azioni/disarmare) oggetti di
-pietra o di metallo), Furtività +27 (+30 su terreno sabbioso), Religione +26
+**Abilità** Atletica +31 (+35 per [Disarmare](/azioni/abilita/disarmare) oggetti
+di pietra o di metallo), Furtività +27 (+30 su terreno sabbioso), Religione +26
 
 **For** +9, **Des** +5, **Cos** +6, **Int** +0, **Sag** +5, **Car** -1
 
@@ -64,7 +64,7 @@ _[ancora dimensionale](/incantesimi/ancora-dimensionale)_
 
 **Avviluppare** :2: CD 35, 4d12 danni contundenti e
 _[ancora dimensionale](/incantesimi/ancora-dimensionale)_,
-[Sfuggire](/azioni/sfuggire) CD 32, Rottura 28
+[Sfuggire](/azioni/base/sfuggire) CD 32, Rottura 28
 
 **Duna** **:1:** ([concentrazione](/tratti/concentrazione)); Fino alla volta
 successiva in cui agisce, lo zaramuun sembra essere una duna di sabbia. Ottiene
@@ -74,7 +74,7 @@ cammini sullo zaramuun si muove nel suo corpo ed è Avviluppata.
 
 **Sabbia Dilaniante** :1: **Requisiti** Lo zaramuun ha messo a segno un Colpo in
 mischia con la sua ultima azione o ha Avviluppato una creatura. **Effetto** Lo
-zaramuun tenta di [Disarmare](/azioni/disarmare) un oggetto composto
+zaramuun tenta di [Disarmare](/azioni/abilita/disarmare) un oggetto composto
 primariamente di pietra o di metallo dalla creatura Colpita o Avviluppata e
 lancia il suo _[ancora dimensionale](/incantesimi/ancora-dimensionale)_ sulla
 creatura bersaglio.
@@ -93,8 +93,8 @@ per 1d4 round.
 &emsp;**Fallimento Critico** Danni pieni e [accecato](/condizioni/accecato) per
 1 round.
 
-**Scivolare sulla Sabbia** Lo zaramuun può [Scavare](/azioni/scavare) attraverso
-la sabbia e il terriccio (ma non la pietra) alla sua Velocità di scavare
-completa, senza lasciare tunnel o altri segni del suo passaggio. Ogni creatura
-Avviluppata viene lasciata indietro quando lo zaramuun Scava. La pietra smossa e
-la ghiaia non sono terreno difficile per uno zaramuun.
+**Scivolare sulla Sabbia** Lo zaramuun può [Scavare](/azioni/base/scavare)
+attraverso la sabbia e il terriccio (ma non la pietra) alla sua Velocità di
+scavare completa, senza lasciare tunnel o altri segni del suo passaggio. Ogni
+creatura Avviluppata viene lasciata indietro quando lo zaramuun Scava. La pietra
+smossa e la ghiaia non sono terreno difficile per uno zaramuun.

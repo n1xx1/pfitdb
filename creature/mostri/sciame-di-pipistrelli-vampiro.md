@@ -24,8 +24,8 @@ CD 15
 
 **Percezione** +10; ecolocalizzazione (precisa) 6 metri, visione crepuscolare
 
-**Abilità** Acrobazia +7, Atletica +4 (+7 per [Scalare](/azioni/scalare)),
-Furtività +7
+**Abilità** Acrobazia +7, Atletica +4 (+7 per
+[Scalare](/azioni/abilita/scalare)), Furtività +7
 
 **For** +1, **Des** +4, **Cos** +1, **Int** -4, **Sag** +3, **Car** -3
 

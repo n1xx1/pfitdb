@@ -30,7 +30,7 @@ lancia, scudo d'acciaio (Durezza 5, PF 20, SR 10)
 
 ---
 
-**CA** 18 (20 con lo scudo [alzato](/azioni/alzare-lo-scudo)); **Temp** +9,
+**CA** 18 (20 con lo scudo [alzato](/azioni/base/alzare-lo-scudo)); **Temp** +9,
 **Rifl** +8, **Vol** +5
 
 **PF** 34

@@ -51,7 +51,7 @@ CD 15
 **Attacco in Branco** Il velociraptor infligge 1d4 danni extra a qualsiasi
 creatura si trovi entro portata di almeno due alleati del velociraptor.
 
-**Carica con Balzo** :1: Il velociraptor [Avanza](/azioni/avanzare) fino a 3
-metri ignorando il terreno difficile e balzando oltre gli ostacoli. Poi effettua
-un [Colpo](/azioni/colpire) con le grinfie, ottenendo bonus di circostanza +1 al
-suo tiro per colpire.
+**Carica con Balzo** :1: Il velociraptor [Avanza](/azioni/base/avanzare) fino a
+3 metri ignorando il terreno difficile e balzando oltre gli ostacoli. Poi
+effettua un [Colpo](/azioni/base/colpire) con le grinfie, ottenendo bonus di
+circostanza +1 al suo tiro per colpire.

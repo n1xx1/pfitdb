@@ -47,11 +47,11 @@ non può usare reazioni.
 **Distanza** :1: cadavere +17 \[+12/+7] ([brutale](/tratti/brutale), incremento
 di gittata 9 metri), **Danni** 2d6+9 contundenti
 
-**Ampio Fendente** :1: Lo zombi colosso effettua un [Colpo](/azioni/colpire) con
-il pezzo di carne e confronta il risultato dell'attacco con la CA di un massimo
-di due avversari, ognuno dei quali deve trovarsi entro la portata del Colpo.
-Questo attacco conta come due attacchi al fine di determinare la penalità da
-attacchi multipli dello zombi colosso.
+**Ampio Fendente** :1: Lo zombi colosso effettua un
+[Colpo](/azioni/base/colpire) con il pezzo di carne e confronta il risultato
+dell'attacco con la CA di un massimo di due avversari, ognuno dei quali deve
+trovarsi entro la portata del Colpo. Questo attacco conta come due attacchi al
+fine di determinare la penalità da attacchi multipli dello zombi colosso.
 
 **Lancio del Cadavere** Uno zombi colosso può lanciare i cadaveri contro gli
 avversari. Sebbene qualsiasi cadavere Medio possa andare bene, a volta lancia

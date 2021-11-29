@@ -18,12 +18,12 @@ puoi effettuare una prova di [Atletica](/abilita/atletica) contro la CD di
 Tempra del bersaglio.
 
 **Successo Critico** Contro il bersaglio ottieni l'effetto di un successo
-critico nell'azione [Spingere](/azioni/spingere), seguito dall'effetto di un
-successo critico nell'azione [Sbilanciare](/azioni/sbilanciare).
+critico nell'azione [Spingere](/azioni/abilita/spingere), seguito dall'effetto
+di un successo critico nell'azione [Sbilanciare](/azioni/abilita/sbilanciare).
 
 **Successo** Contro il bersaglio ottieni l'effetto di un successo nell'azione
-[Spingere](/azioni/spingere), seguito dall'effetto di un successo nell'azione
-[Sbilanciare](/azioni/sbilanciare).
+[Spingere](/azioni/abilita/spingere), seguito dall'effetto di un successo
+nell'azione [Sbilanciare](/azioni/abilita/sbilanciare).
 
 **Fallimento** Ottieni l'effetto normale di
 [Respingere gli Avversari](/talenti/barbaro/respingere-gli-avversari).

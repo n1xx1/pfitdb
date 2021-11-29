@@ -74,5 +74,6 @@ inferiore, fuoco dell'alchimista inferiore
 **Lanciatore da Lontano** Il duergar bombardiere possiede un incremento di
 gittata di 9 metri con le sue bombe anziché di 6 metri.
 
-**Lanciatore Rapido** :1: Il duergar può usare [Interagire](/azioni/interagire)
-per estrarre una bomba e [Colpire](/azioni/colpire) con quella bomba.
+**Lanciatore Rapido** :1: Il duergar può usare
+[Interagire](/azioni/base/interagire) per estrarre una bomba e
+[Colpire](/azioni/base/colpire) con quella bomba.

@@ -18,8 +18,9 @@ agli studenti della tua scuola arcana. Gli incantesimi di scuola sono un tipo di
 incantesimi focalizzati. Lanciarne uno costa 1 Punto Focalizzazione, e inizi con
 una riserva di focalizzazione di 1 punto. Ripristini tale riserva durante i
 preparativi giornalieri, ma puoi recuperare 1 Punto Focalizzazione trascorrendo
-10 minuti a effettuare l'attività [Rifocalizzare](/azioni/rifocalizzare) per
-studiare il tuo libro degli incantesimi o svolgere ricerche arcane.
+10 minuti a effettuare l'attività
+[Rifocalizzare](/azioni/esplorazione/rifocalizzare) per studiare il tuo libro
+degli incantesimi o svolgere ricerche arcane.
 
 Gli incantesimi focalizzati vengono automaticamente intensificati alla metà del
 tuo livello arrotondata per eccesso. Non richiedono slot incantesimo e non puoi

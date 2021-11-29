@@ -58,7 +58,7 @@ incantesimo.
 vinto il Pwnco, non le è stato detto di fare la brava e non le sono stati
 offerti alcol o formaggio; **Effetto** La Mari Lwyd entra in una furia
 celebratoria distruttiva. Finché la Mari Lwyd resta nell'edificio, ottiene
-resistenza 10 a tutti i danni e i suoi [Colpi](/azioni/colpire) ignorano 10
+resistenza 10 a tutti i danni e i suoi [Colpi](/azioni/base/colpire) ignorano 10
 punti di Durezza. La Mari Lwyd perde i benefici di questa abilità se attacca una
 creatura vivente e generalmente preferisce spaccare il mobilio.
 

@@ -91,8 +91,8 @@ _[risata incontenibile](/incantesimi/risata-incontenibile)_ (a volontà); **4°*
 _[scolpire pietra](/incantesimi/scolpire-pietra)_; **1°**
 _[unto](/incantesimi/unto)_ (a volontà)
 
-**Frenesia Draconica** :2: Il drago effettua due [Colpi](/azioni/colpire) con
-l'artiglio e un Colpo con la coda in qualsiasi ordine.
+**Frenesia Draconica** :2: Il drago effettua due [Colpi](/azioni/base/colpire)
+con l'artiglio e un Colpo con la coda in qualsiasi ordine.
 
 **Impeto Draconico** Il drago ricarica il suo Soffio ogni volta che mette a
 segno un colpo critico con un Colpo.

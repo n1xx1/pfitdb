@@ -84,6 +84,6 @@ di fallimento, il bersaglio cade [prono](/condizioni/prono); se il bersaglio era
 in volo, cade fino a 36 metri, subendo danni da caduta e atterrando prono se la
 discesa lo porta fino a terra. ln caso di fallimento critico, il bersaglio è
 anche sepolto sotto un cumulo di rottami (CD 37 per
-[Sfuggire](/azioni/sfuggire)).
+[Sfuggire](/azioni/base/sfuggire)).
 
 **Travolgere** :3: Enorme o inferiore, onda di cadaveri, CD 37

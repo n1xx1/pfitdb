@@ -88,9 +88,9 @@ l'area durante questo intervallo di tempo deve tentare un TS contro l'effetto.
 Una creatura non può essere influenzata più di una volta dallo stesso Grido. La
 banshee non può lanciare un altro Grido per 1d4 round.
 
-**Riverbero Spettrale** Quando una banshee [Avanza](/azioni/avanzare) di almeno
-3 metri, è [occultata](/condizioni/occultato) fino all'inizio del suo turno
-successivo.
+**Riverbero Spettrale** Quando una banshee [Avanza](/azioni/base/avanzare) di
+almeno 3 metri, è [occultata](/condizioni/occultato) fino all'inizio del suo
+turno successivo.
 
 **Tocco Terrificante** ([ammaliamento](/tratti/ammaliamento),
 [emozione](/tratti/emozione), [occulto](/tratti/occulto),

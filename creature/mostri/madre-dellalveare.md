@@ -46,9 +46,9 @@ metri), **Danni** 5d6 da acido
 rende tutti gli altri ankhrav entro un'emanazione di 30 metri
 [accelerati](/condizioni/accelerato) 1 fino all'inizio del turno successivo
 della madre dell'alveare e possono usare l'azione extra solo per le azioni di
-[Avanzare](/azioni/avanzare), [Colpire](/azioni/colpire) o
-[Scavare](/azioni/scavare). La madre dell'alveare non può diffondere di nuovo il
-feromone per 1d4 round.
+[Avanzare](/azioni/base/avanzare), [Colpire](/azioni/base/colpire) o
+[Scavare](/azioni/base/scavare). La madre dell'alveare non può diffondere di
+nuovo il feromone per 1d4 round.
 
 **Morso Squarcia-Armatura** :2: La madre dell'alveare effettua un Colpo con le
 mandibole; se il Colpo va a segno, l'armatura del bersaglio subisce i danni e i

@@ -55,7 +55,7 @@ ultimo turno, il demone subisce 3d6 danni mentali.
 
 **Frustata di Coda** :R: **Innesco** Una creatura entro portata della coda dello
 shemhazian esce da un quadretto durante un'azione di movimento che sta usando.
-**Effetto** Lo shemhazian tenta di [Sbilanciare](/azioni/sbilanciare) la
+**Effetto** Lo shemhazian tenta di [Sbilanciare](/azioni/abilita/sbilanciare) la
 creatura innescante. In caso di successo, la creatura subisce anche danni come
 se lo shemhazian la avesse colpita con un Colpo con la coda e se la creatura
 stava volando cade di 9 metri.

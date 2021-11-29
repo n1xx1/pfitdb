@@ -36,7 +36,7 @@ CD 15
 
 **Scatto Goblin :R: Innesco** Un goblin alleato termina un'azione di
 [movimento](/tratti/movimento) adiacente al cantore di guerra. **Effetto** Il
-goblin cantore di guerra fa un [Passo](/azioni/passo).
+goblin cantore di guerra fa un [Passo](/azioni/base/passo).
 
 ---
 

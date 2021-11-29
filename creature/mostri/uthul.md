@@ -36,7 +36,7 @@ CD 32
 
 **Venti d'Alta Quota** ([aria](/tratti/aura), [aura](/tratti/aura)) 12 metri.
 L'aria nell'aura è considerata terreno difficile per le creature
-[Volanti](/azioni/volare) senza il tratto [aria](/tratti/aura).
+[Volanti](/azioni/base/volare) senza il tratto [aria](/tratti/aura).
 
 ---
 
@@ -61,9 +61,9 @@ TS su Riflessi con CD 32, altrimenti viene prelevata e mantenuta sospesa
 all'interno del vortice. Le creature sospese si muovono assieme all'uthul. Una
 creatura può tentare di sfuggire spendendo un'azione per tentare un TS su
 Riflessi con CD 32 (o una prova di Acrobazia per
-[Manovrare in Volo](/azioni/manovrare-in-volo) se possiede una Velocità di
-volare). Una volta sfuggita, o quando l'uthul si ritrasforma nella sua forma di
-nube tempestosa, una creatura sospesa viene scagliata di 1d4 x 3 metri in una
+[Manovrare in Volo](/azioni/abilita/manovrare-in-volo) se possiede una Velocità
+di volare). Una volta sfuggita, o quando l'uthul si ritrasforma nella sua forma
+di nube tempestosa, una creatura sospesa viene scagliata di 1d4 x 3 metri in una
 direzione casuale e poi cade, a meno che non possa volare o non possa rimanere
 in aria in altri modi. Una volta tornato alla sua forma normale, l'uthul deve
 aspettare 1 minuto prima di poter usare di nuovo Forma di Turbine.

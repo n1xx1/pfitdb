@@ -45,8 +45,8 @@ CD 16
 **Distanza** :1: giavellotto +8 \[+3/-2] ([lancio 9 metri](/tratti/lancio)),
 **Danni** 1d6+4 perforanti
 
-**Agguato** :1: Il bugbear predone [Avanza](/azioni/avanzare) fino a 3 metri e
-tenta di Afferrare una creatura per la quale sia
+**Agguato** :1: Il bugbear predone [Avanza](/azioni/base/avanzare) fino a 3
+metri e tenta di Afferrare una creatura per la quale sia
 [non individuato](/condizioni/non-individuato). Se ha successo, infligge anche i
 danni del pugno a quella creatura.
 

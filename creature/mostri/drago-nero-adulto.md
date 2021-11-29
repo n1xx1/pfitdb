@@ -56,8 +56,8 @@ contro magia
 [paura](/tratti/paura), [mentale](/tratti/mentale)) 27 metri, CD 28
 
 **Sferzata di Coda** :R: **Innesco** Una creatura entro la portata della coda
-del drago usa un'azione per [Colpire](/azioni/colpire) o effettua una prova di
-abilità; **Effetto** Il drago effettua un Colpo con la sua coda contro la
+del drago usa un'azione per [Colpire](/azioni/base/colpire) o effettua una prova
+di abilità; **Effetto** Il drago effettua un Colpo con la sua coda contro la
 creatura innescante con penalità -2. Se colpisce, la creatura subisce penalità
 -2 al tiro innescante.
 
@@ -91,8 +91,8 @@ del drago (una creatura può tentare un TS su Volontà con CD 28 per proteggere 
 liquidi in suo possesso). Questo non influenza i liquidi nel corpo di una
 creatura.
 
-**Frenesia Draconica** :2: Il drago effettua due [Colpi](/azioni/colpire) con
-gli artiglio e un Colpo con il corno in qualsiasi ordine.
+**Frenesia Draconica** :2: Il drago effettua due [Colpi](/azioni/base/colpire)
+con gli artiglio e un Colpo con il corno in qualsiasi ordine.
 
 **Impeto Draconico** Il drago ricarica il suo Soffio ogni volta che mette a
 segno un colpo critico con un Colpo.

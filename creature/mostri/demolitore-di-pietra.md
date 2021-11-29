@@ -48,9 +48,9 @@ un'azione singola, che possiede il tratto
 
 **Sbriciolarsi** :R: **Innesco** Il demolitore di pietra subisce danni da una
 fonte ostile mente si trova sulla roccia o sulla terra. **Effetto** Il
-demolitore di pietra si sbriciola nel terreno, [Scavando](/azioni/scavare) per
-4,5 metri verso il basso. Questo Scavare non innesca reazioni. Il demolitore di
-pietra non può Sbriciolarsi di nuovo per 1d4 round.
+demolitore di pietra si sbriciola nel terreno, [Scavando](/azioni/base/scavare)
+per 4,5 metri verso il basso. Questo Scavare non innesca reazioni. Il demolitore
+di pietra non può Sbriciolarsi di nuovo per 1d4 round.
 
 ---
 
@@ -62,7 +62,7 @@ pietra non può Sbriciolarsi di nuovo per 1d4 round.
 **Distanza** :1: roccia +21 \[+16/+11] ([brutale](/tratti/brutale), incremento
 di gittata 24 metri), **Danni** 2d12+6 contundenti
 
-**Scivolare nella Terra** Il demolitore di pietra può [Scavare](/azioni/scavare)
-attraverso qualsiasi materia di terra, inclusa la roccia. Quando lo fa, il
-demolitore di pietra si muove alla sua Velocità di scavare completa, senza
-lasciare tunnel o segni del suo passaggio.
+**Scivolare nella Terra** Il demolitore di pietra può
+[Scavare](/azioni/base/scavare) attraverso qualsiasi materia di terra, inclusa
+la roccia. Quando lo fa, il demolitore di pietra si muove alla sua Velocità di
+scavare completa, senza lasciare tunnel o segni del suo passaggio.

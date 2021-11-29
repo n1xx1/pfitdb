@@ -74,10 +74,11 @@ perforanti
 **Mischia** :1: ala +14 \[+9/+4] ([portata](/tratti/portata) 3 metri), **Danni**
 2d6+4 contundenti
 
-**Assalto in Volo** :2: Il grifone [Vola](/azioni/volare) fino alla sua Velocità
-di volare ed effettua due [Colpi](/azioni/colpire) con la grinfia in un
-qualsiasi punto durante quel movimento. Ogni Colpo deve bersagliare una creatura
-diversa. Gli attacchi subiscono la normale penalità da attacchi multipli.
+**Assalto in Volo** :2: Il grifone [Vola](/azioni/base/volare) fino alla sua
+Velocità di volare ed effettua due [Colpi](/azioni/base/colpire) con la grinfia
+in un qualsiasi punto durante quel movimento. Ogni Colpo deve bersagliare una
+creatura diversa. Gli attacchi subiscono la normale penalità da attacchi
+multipli.
 
 **Balzo** :1: Il grifone Avanza ed effettua un Colpo con la grinfia alla fine di
 quel movimento. Se il grifone ha iniziato questa azione

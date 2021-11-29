@@ -79,7 +79,7 @@ con quella creatura anziché tenerla ferma sul posto. Il cacciasangue è
 [impreparato](/condizioni/impreparato) mentre è agganciato. Se il cacciasangue è
 ucciso o spinto via mentre è agganciato a una creatura a cui ha risucchiato il
 sangue, quella creatura subisce 1 danno da sanguinamento
-[persistente](/condizioni/danno-persistente). [Sfuggire](/azioni/sfuggire)
+[persistente](/condizioni/danno-persistente). [Sfuggire](/azioni/base/sfuggire)
 all'agganciamento o rimuovere il cacciasangue in altri modi non provoca danni da
 sanguinamento.
 

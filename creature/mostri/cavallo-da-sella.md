@@ -37,5 +37,5 @@ CD 15
 
 **Mischia** :1: zoccolo +7 \[+2/-3], **Danni** 1d6+4 contundenti
 
-**Galoppo** :2: Il cavallo da sella [Avanza](/azioni/avanzare) due volte.
+**Galoppo** :2: Il cavallo da sella [Avanza](/azioni/base/avanzare) due volte.
 Ottiene bonus di circostanza +3 metri alla sua Velocità durante queste Avanzate.

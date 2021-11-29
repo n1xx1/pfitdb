@@ -69,8 +69,8 @@ CD 34
 **Distanza** :1: macigno +27 \[+22/+17] ([fatale d12](/tratti/fatale),
 incremento di gittata 18 metri), **Danni** 4d10+10 contundenti
 
-**Avviluppare** **:2:** CD 37, 4d8 contundenti, [Sfuggire](/azioni/sfuggire) CD
-35, Rottura 36
+**Avviluppare** **:2:** CD 37, 4d8 contundenti,
+[Sfuggire](/azioni/base/sfuggire) CD 35, Rottura 36
 
 **Sanguisuga** :R: **Innesco** Il wemmuth infligge danni a una creatura con
 Stritolare. **Effetto** Il wemmuth si cura di un ammontare di Punti Ferita pari
@@ -80,5 +80,5 @@ alla metà dei danni totali inflitti da Stritolare.
 
 **Massa Spinosa** Ogni volta che una creatura entro 3 metri effettua un attacco
 in mischia contro un wemmuth o usa Acrobazia per
-[Destreggiarsi](/azioni/destreggiarsi) nel suo spazio, quella creatura subisce
-1d12+10 danni perforanti.
+[Destreggiarsi](/azioni/abilita/destreggiarsi) nel suo spazio, quella creatura
+subisce 1d12+10 danni perforanti.

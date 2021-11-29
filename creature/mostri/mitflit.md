@@ -37,9 +37,10 @@ Furto +5, Natura +3
 **Autocommiserazione** ([emozione](/tratti/emozione),
 [mentale](/tratti/mentale)) A causa del suo disprezzo di sé stesso, un mitflit è
 facile da influenzare. Subisce penalità -4 alla sua CD di Volontà contro le
-prove per [Costringere](/azioni/costringere),
-[Demoralizzare](/azioni/demoralizzare), [Impressionare](/azioni/impressionare) e
-[Richiedere](/azioni/richiedere).
+prove per [Costringere](/azioni/abilita/costringere),
+[Demoralizzare](/azioni/abilita/demoralizzare),
+[Impressionare](/azioni/abilita/impressionare) e
+[Richiedere](/azioni/abilita/richiedere).
 
 **Empatia con i Parassiti** I mitflit possono usare Diplomazia per Impressionare
 o Richiedere qualcosa agli artropodi (insetti, ragni, scorpioni, granchi e altri

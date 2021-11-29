@@ -62,7 +62,7 @@ spada d'arme
 
 ---
 
-**CA** 20 (22 con lo scudo [alzato](/azioni/alzare-lo-scudo)); **Temp** +8,
+**CA** 20 (22 con lo scudo [alzato](/azioni/base/alzare-lo-scudo)); **Temp** +8,
 **Rifl** +9, **Vol** +9
 
 **PF** 40

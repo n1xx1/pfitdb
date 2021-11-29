@@ -34,7 +34,7 @@ CD 15
 
 **Avvolgere le Spire** :R: **Innesco** Una creatura
 [afferrata](/condizioni/afferrato) o [trattenuta](/condizioni/trattenuto) dal
-pitone palla tenta di [Sfuggire](/azioni/sfuggire). **Effetto** La CD della
+pitone palla tenta di [Sfuggire](/azioni/base/sfuggire). **Effetto** La CD della
 prova di Sfuggire aumenta di 2.
 
 ---

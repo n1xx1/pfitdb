@@ -34,8 +34,8 @@ CD 24
 
 **Avvolgere le Spire** :R: **Innesco** Una creatura
 [afferrata](/condizioni/afferrato) o [trattenuta](/condizioni/trattenuto)
-dall'anaconda gigante tenta di [Sfuggire](/azioni/sfuggire). **Effetto** La CD
-della prova di Sfuggire aumenta di 2.
+dall'anaconda gigante tenta di [Sfuggire](/azioni/base/sfuggire). **Effetto** La
+CD della prova di Sfuggire aumenta di 2.
 
 ---
 
@@ -51,9 +51,10 @@ Spintonare 3 metri
 **Inghiottire** :1: ([attacco](/tratti/attacco)) Grande, 1d1o+7 contundenti,
 Rottura 21
 
-**Serpeggiare** :1: L'anaconda gigante [Avanza](/azioni/avanzare),
-[Scala](/azioni/scalare) o [Nuota](/azioni/nuotare) fino a metà della sua
-Velocità, tirando con sé le creature [afferrate](/condizioni/afferrato).
+**Serpeggiare** :1: L'anaconda gigante [Avanza](/azioni/base/avanzare),
+[Scala](/azioni/abilita/scalare) o [Nuota](/azioni/abilita/nuotare) fino a metà
+della sua Velocità, tirando con sé le creature
+[afferrate](/condizioni/afferrato).
 
 **Spire Avvolgenti** :1: ([attacco](/tratti/attacco)); **Requisito** Una
 creatura Grande o inferiore è [afferrata](/condizioni/afferrato) o

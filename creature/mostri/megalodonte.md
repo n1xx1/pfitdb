@@ -45,12 +45,12 @@ chilometri di distanza.
 [portata 4,5 metri](/tratti/portata)), **Danni** 2d8+10 perforanti più
 Spintonare 4,5 metri
 
-**Erompere** :2: Il megalodonte [Nuota](/azioni/nuotare) fino alla sua Velocità
-di nuotare, poi Salta verticalmente fuori dall'acqua fino a 7,5 metri d'altezza,
-effettuando un Colpo contro una creatura in un qualsiasi punto durante il salto
-(questo gli permette di attaccare una creatura entro 10,5 metri dalla superficie
-dell'acqua o fino a 12 metri con la coda). Dopo il Colpo, il megalodonte ricade
-in acqua.
+**Erompere** :2: Il megalodonte [Nuota](/azioni/abilita/nuotare) fino alla sua
+Velocità di nuotare, poi Salta verticalmente fuori dall'acqua fino a 7,5 metri
+d'altezza, effettuando un Colpo contro una creatura in un qualsiasi punto
+durante il salto (questo gli permette di attaccare una creatura entro 10,5 metri
+dalla superficie dell'acqua o fino a 12 metri con la coda). Dopo il Colpo, il
+megalodonte ricade in acqua.
 
 **Inghiottire** **:1:** ([attacco](/tratti/attacco)) Enorme, 2d8+5 contundenti,
 Rottura 20

@@ -92,8 +92,8 @@ _[intralciare](/incantesimi/intralciare)_; **1°** [charme](/incantesimi/charme)
 **Andatura nel Bosco** Il drago verde ignora il terreno difficile e il terreno
 difficile superiore dovuto al fogliame non magico.
 
-**Frenesia Draconica** :2: Il drago effettua due [Colpi](/azioni/colpire) con
-l'artiglio e un Colpo con il corno in qualsiasi ordine.
+**Frenesia Draconica** :2: Il drago effettua due [Colpi](/azioni/base/colpire)
+con l'artiglio e un Colpo con il corno in qualsiasi ordine.
 
 **Impeto Draconico** Il drago ricarica il suo Soffio ogni volta che mette a
 segno un colpo critico con un Colpo.

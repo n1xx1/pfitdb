@@ -36,8 +36,8 @@ ragnatela.
 L'iniziativa non è ancora stata tirata. **Innesco** Una creatura tocca la
 ragnatela del ragno cacciatore mentre il ragno si trova su di essa. **Effetto**
 Il ragno cacciatore nota automaticamente la creatura e
-[Avanza](/azioni/avanzare), [Scala](/azioni/scalare) o Scende su una Ragnatela
-prima di tirare per l'iniziativa.
+[Avanza](/azioni/base/avanzare), [Scala](/azioni/abilita/scalare) o Scende su
+una Ragnatela prima di tirare per l'iniziativa.
 
 ---
 
@@ -53,12 +53,12 @@ prima di tirare per l'iniziativa.
 cacciatore si muove scendendo verticalmente fino a 12 metri, appeso a un filo di
 ragnatela. Può rimanere appeso alla ragnatela o lasciarsi cadere. La distanza di
 cui Scende su una Ragnatela non conta al fine di determinare i danni da caduta.
-Una creatura che mette a segno un [Colpo](/azioni/colpire) sulla ragnatela (CA
-20, Durezza 3, PF 5) la recide e fa cadere il ragno.
+Una creatura che mette a segno un [Colpo](/azioni/base/colpire) sulla ragnatela
+(CA 20, Durezza 3, PF 5) la recide e fa cadere il ragno.
 
 **Trappola della Ragnatela** Una creatura colpita dall'attacco di ragnatela del
 ragno cacciatore è [immobilizzata](/condizioni/immobilizzato) e bloccata alla
-superficie più vicina finché non [Sfugge](/azioni/sfuggire) (CD 17).
+superficie più vicina finché non [Sfugge](/azioni/base/sfuggire) (CD 17).
 
 **Veleno di Ragno Cacciatore** ([veleno](/tratti/veleno)); **Tiro Salvezza**
 Tempra CD 16; **Durata Massima** 6 round; **Fase 1** 1d10 da veleno e

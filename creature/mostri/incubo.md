@@ -58,8 +58,8 @@ _[spostamento planare](/incantesimi/spostamento-planare)_ (solo se stesso e chi
 lo cavalca)
 
 **Galoppo Fiammeggiante** :2: ([fuoco](/tratti/fuoco)) L'incubo
-[Avanza](/azioni/avanzare) o [Vola](/azioni/volare) fino al triplo della sua
-Velocità. Dai suoi zoccoli si sprigionano fiamme intense che infliggono 3d6
-danni da fuoco (TS base su Riflessi con CD 24) una volta a ogni creatura che non
-sia chi cavalca l'incubo e a cui l'incubo diventi adiacente muovendosi durante
-il suo galoppo.
+[Avanza](/azioni/base/avanzare) o [Vola](/azioni/base/volare) fino al triplo
+della sua Velocità. Dai suoi zoccoli si sprigionano fiamme intense che
+infliggono 3d6 danni da fuoco (TS base su Riflessi con CD 24) una volta a ogni
+creatura che non sia chi cavalca l'incubo e a cui l'incubo diventi adiacente
+muovendosi durante il suo galoppo.

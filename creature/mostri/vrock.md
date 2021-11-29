@@ -100,7 +100,7 @@ rampicanti smettono di crescere dopo 10 round e avvizziscono nel giro di 1d4
 giorni se non vengono rimossi prima di allora. I rampicanti possono essere
 distrutti se la creatura è influenzata da un incantesimo buono o se dell'_acqua
 santa_ viene applicata sui rampicanti (con un'azione di
-[Interagire](/azioni/interagire)). Una volta che il vrock ha usato Nube di
+[Interagire](/azioni/base/interagire)). Una volta che il vrock ha usato Nube di
 Spore, la capacità non può più essere usata per 1d6 round.
 
 **Stridio Stordente** **:1:** ([divino](/tratti/divino),

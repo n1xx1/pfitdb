@@ -60,9 +60,9 @@ perforanti più Afferrare
 
 **Avanzata Stridente** :2: ([emozione](/tratti/emozione),
 [mentale](/tratti/mentale), [paura](/tratti/paura), [uditivo](/tratti/uditivo))
-L'orsogufo effettua uno Stridio Agghiacciante e [Avanza](/azioni/avanzare) due
-volte. Tutte le creature entro 24 metri dall'orsogufo in qualsiasi punto durante
-questo movimento sono soggette agli effetti dello Stridio Agghiacciante.
+L'orsogufo effettua uno Stridio Agghiacciante e [Avanza](/azioni/base/avanzare)
+due volte. Tutte le creature entro 24 metri dall'orsogufo in qualsiasi punto
+durante questo movimento sono soggette agli effetti dello Stridio Agghiacciante.
 
 **Rosicchiare** :1: **Requisiti** L'orsogufo ha
 [afferrato](/condizioni/afferrato) una creatura con le sue grinfie. **Effetto**

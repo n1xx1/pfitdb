@@ -77,12 +77,12 @@ piano; **Tiro Salvezza** CD 17 Tempra; **Fase 1** portatore (1 giorno); **Fase
 ingerire l'anima di una creatura senziente entro 9 metri che sia morta da meno
 di un minuto. Quando lo fa, il cacodàimon genera una gemma grande quanto un
 pugno (**Durezza** 2, PF 8) nelle sue interiora e può rigurgitarla in qualsiasi
-momento con un'azione di [Interagire](/azioni/interagire). La distruzione della
-gemma libera l'anima all'interno ma non riporta in vita la creatura deceduta.
-Chi lancia l'incantesimo per riportare in vita una creatura la cui anima sia
-intrappolata in una gemma dell'anima deve effettuare con successo una prova di
-Religione con CD 30. ln caso di successo, la gemma dell'anima si frantuma e la
-creatura torna in vita come normalmente previsto dall'incantesimo.
+momento con un'azione di [Interagire](/azioni/base/interagire). La distruzione
+della gemma libera l'anima all'interno ma non riporta in vita la creatura
+deceduta. Chi lancia l'incantesimo per riportare in vita una creatura la cui
+anima sia intrappolata in una gemma dell'anima deve effettuare con successo una
+prova di Religione con CD 30. ln caso di successo, la gemma dell'anima si
+frantuma e la creatura torna in vita come normalmente previsto dall'incantesimo.
 
 Usando un'azione di Interagire, un [nefando](/tratti/nefando) può ingerire una
 gemma dell'anima che impugna, condannando l'anima al piano d'origine del

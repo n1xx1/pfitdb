@@ -63,5 +63,5 @@ _[luci danzanti](/incantesimi/luci-danzanti)_
 creature [impreparate](/condizioni/impreparato).
 
 **Estrazione Rapida** :1: Il drow canaglia sfodera un'arma usando l'azione di
-[Interagire](/azioni/interagire), poi [Colpisce](/azioni/colpire) con
+[Interagire](/azioni/base/interagire), poi [Colpisce](/azioni/base/colpire) con
 quell'arma.

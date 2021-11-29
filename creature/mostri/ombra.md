@@ -65,6 +65,7 @@ questo porta il valore di indebolito della creatura a 3 o più, l'ombra del
 bersaglio viene separata dal suo corpo (vedi progenie d'ombra). L'indebolimento
 dovuto a Rubare Ombra si riduce di 1 ogni ora.
 
-**Sgusciare nelle Ombre** L'ombra può [Nascondersi](/azioni/nascondersi) o
-terminare il suo [Muoversi Furtivamente](/azioni/muoversi-furtivamente)
-nell'ombra di un oggetto o di una creatura.
+**Sgusciare nelle Ombre** L'ombra può [Nascondersi](/azioni/abilita/nascondersi)
+o terminare il suo
+[Muoversi Furtivamente](/azioni/abilita/muoversi-furtivamente) nell'ombra di un
+oggetto o di una creatura.

@@ -46,8 +46,8 @@ contro magia
 [malattia](/tratti/malattia); **Resistenze** [negativo](/tratti/negativo) 15,
 [veleno](/tratti/veleno) 15\[br] **Brandelli Sferzanti** :R: **Innesco** Una
 creatura entro portata dei brandelli di ragnatela della morrigna usa un'azione
-per [Colpire](/azioni/colpire) o tentare una prova di abilità. **Effetto** La
-morrigna effettua un Colpo con i brandelli di ragnatela contro la creatura
+per [Colpire](/azioni/base/colpire) o tentare una prova di abilità. **Effetto**
+La morrigna effettua un Colpo con i brandelli di ragnatela contro la creatura
 innescante. Se il colpo è un colpo critico, l'azione innescante è interrotta.
 
 ---

@@ -87,6 +87,6 @@ contrastare con CD 29, altrimenti la guarigione non ha effetto. Il livello di
 contrastare del golem è pari al suo livello di creatura.
 
 **Schianto Berserk** :1: **Requisito** Il golem di argilla è in berserk.
-**Effetto** Il golem di carne [Colpisce](/azioni/colpire) con il pugno con
+**Effetto** Il golem di carne [Colpisce](/azioni/base/colpire) con il pugno con
 penalità di circostanza -1. Se colpisce, infligge 1d6 danni aggiuntivi e butta
 il bersaglio a terra [prono](/condizioni/prono).

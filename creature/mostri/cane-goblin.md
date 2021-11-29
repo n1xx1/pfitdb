@@ -64,8 +64,8 @@ armi, tenta di Afferrarlo o lo tocca in altri modo è esposto alla peste goblin.
 **Disarcionare** :R: CD 17
 
 **Scartare** :R: **Requisito** Una creatura deve essere in sella al cane goblin.
-**Effetto** Il cane goblin fa un [Passo](/azioni/passo) prima di eseguire il
-comando.
+**Effetto** Il cane goblin fa un [Passo](/azioni/base/passo) prima di eseguire
+il comando.
 
 ---
 

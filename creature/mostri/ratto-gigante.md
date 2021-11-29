@@ -28,8 +28,8 @@ CD 13
 
 **Percezione** +5; fiuto (impreciso) 9 metri, visione crepuscolare
 
-**Abilità** Acrobazia +6, Atletica +2 (+4 per [Scalare](/azioni/scalare) o
-[Nuotare](/azioni/nuotare)), Furtività +5
+**Abilità** Acrobazia +6, Atletica +2 (+4 per [Scalare](/azioni/abilita/scalare)
+o [Nuotare](/azioni/abilita/nuotare)), Furtività +5
 
 **For** +1, **Des** +3, **Cos** +2, **Int** -4, **Sag** +1, **Car** -3
 

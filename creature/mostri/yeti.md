@@ -47,7 +47,7 @@ CD 22
 
 **For** +5, **Des** +2, **Cos** +4, **Int** -1, **Sag** +4, **Car** -1
 
-**Neve Accecante** Quando si [Nasconde](/azioni/nascondersi), lo yeti è
+**Neve Accecante** Quando si [Nasconde](/azioni/abilita/nascondersi), lo yeti è
 [occultato](/condizioni/occultato) da qualsiasi precipitazione nevosa, anche
 quelle non abbastanza spesse da occultare le altre creature.
 
@@ -66,11 +66,11 @@ colpire e ai tiri per i danni e penalità di status -1 alla CA.
 
 **Svanire** :R: **Innesco** Lo yeti è [nascosto](/condizioni/nascosto) o
 [non individuato](/condizioni/non-individuato) mentre non è in combattimento e
-una creatura lo osserverebbe. **Effetto** Lo yeti [Avanza](/azioni/avanzare) o
-[Scala](/azioni/scalare) fino a metà della sua Velocità fino a un luogo dove può
-Nascondersi, poi si Nasconde. Se il risultato della sua nuova prova di Furtività
-è pari o superiore alla CD di Percezione della creatura innescante, lo yeti
-rimane nascosto.
+una creatura lo osserverebbe. **Effetto** Lo yeti
+[Avanza](/azioni/base/avanzare) o [Scala](/azioni/abilita/scalare) fino a metà
+della sua Velocità fino a un luogo dove può Nascondersi, poi si Nasconde. Se il
+risultato della sua nuova prova di Furtività è pari o superiore alla CD di
+Percezione della creatura innescante, lo yeti rimane nascosto.
 
 ---
 

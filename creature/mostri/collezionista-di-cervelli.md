@@ -92,7 +92,7 @@ _[dissolvi magie](/incantesimi/dissolvi-magie),
 
 **Raccogliere Cervello** :1: ([maneggiare](/tratti/maneggiare)) Il collezionista
 di cervelli raccoglie il cervello di una creatura morta da non più di 1 minuto.
-Può quindi usare un'azione [Interagire](/azioni/interagire) per riporre il
+Può quindi usare un'azione [Interagire](/azioni/base/interagire) per riporre il
 cervello in una delle sue bolle cerebrali vuote.
 
 **Veleno del Collezionista di Cervelli** ([veleno](/tratti/veleno)); **Tiro

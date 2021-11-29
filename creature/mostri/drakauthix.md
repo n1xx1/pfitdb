@@ -80,8 +80,8 @@ base su Riflessi con CD 27 per ridurre questi danni, ma una creatura
 circostanza -4 a questo TS.
 
 **Turbine di Uncini** :2: Il drakauthix inizia a turbinare, sferzando le
-creature attorno a sé. Effettua un [Colpo](/azioni/colpire) con il tentacolo
-contro ogni creatura entro la sua portata.
+creature attorno a sé. Effettua un [Colpo](/azioni/base/colpire) con il
+tentacolo contro ogni creatura entro la sua portata.
 
 **Issare** :1: Il drakauthix tira tutte le creature che ha afferrato verso di sé
 di 4,5 metri.

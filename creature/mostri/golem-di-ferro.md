@@ -64,9 +64,9 @@ normalmente.
 **Mischia** :1: pugno +28 \[+23/+18] ([magico](/tratti/magico),
 [portata 3 metri](/tratti/portata)), **Danni** 3d10+12 contundenti
 
-**Marcia Inesorabile** :1: Il golem di ferro [Avanza](/azioni/avanzare) fino
-alla sua Velocità, spingendo indietro ogni creatura nel cui spazio esso si muove
-e danneggiandola se tale creatura tenta di fermare il suo movimento. Una
+**Marcia Inesorabile** :1: Il golem di ferro [Avanza](/azioni/base/avanzare)
+fino alla sua Velocità, spingendo indietro ogni creatura nel cui spazio esso si
+muove e danneggiandola se tale creatura tenta di fermare il suo movimento. Una
 creatura può tentare di sbarrare la strada al golem superando un TS su Tempra
 con CD 37. ln caso di successo critico, la creatura resistente non subisce
 danni; altrimenti è danneggiata come se fosse colpita dal pugno del golem.

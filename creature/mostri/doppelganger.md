@@ -64,7 +64,7 @@ CD 20
 doppelganger si trasforma con Cambiare Forma e un'altra creatura si muove
 adiacente ad esso o effettua un'azione ostile contro di lui. **Effetto** Il
 doppelganger torna alla sua forma attuale e può effettuare un
-[Colpo](/azioni/colpire) contro la creatura innescante. Se la creatura era
+[Colpo](/azioni/base/colpire) contro la creatura innescante. Se la creatura era
 inconsapevole della falsa identità del doppelganger, quella creatura è
 [impreparata](/condizioni/impreparato) contro questo attacco.
 

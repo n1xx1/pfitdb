@@ -76,7 +76,7 @@ per 24 ore.
 **Mischia** :1: pseudopode +35 \[+30/+25] ([magico](/tratti/magico),
 [portata 9 metri](/tratti/portata)), **Danni** 4d10+18 contundenti più Afferrare
 
-**Avviluppare** :2: CD 40, 6d6 acido, [Sfuggire](/azioni/sfuggire) CD 40,
+**Avviluppare** :2: CD 40, 6d6 acido, [Sfuggire](/azioni/base/sfuggire) CD 40,
 Rottura 40
 
 **Digestione** Una creatura che inizia il suo turno all'interno dello shoggoth

@@ -39,8 +39,8 @@ CD 16
 **Mischia** :1: zoccolo +9 \[+4/-1], **Danni** 1d8+5 contundenti
 
 **Destriero Non Morto** I [non morti](/tratti/non-morto) e le creature loro
-alleati possono [Comandare](/azioni/comandare-un-animale) uno scheletro cavallo
-senza bisogno di effettuare una prova di abilità.
+alleati possono [Comandare](/azioni/abilita/comandare-un-animale) uno scheletro
+cavallo senza bisogno di effettuare una prova di abilità.
 
-**Galoppo** :2: Il cavallo [Avanza](/azioni/avanzare) due volte e la sua
+**Galoppo** :2: Il cavallo [Avanza](/azioni/base/avanzare) due volte e la sua
 Velocità aumenta di 3 metri.

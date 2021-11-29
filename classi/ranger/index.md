@@ -145,7 +145,7 @@ richiesti per acquisirle.
 
 Quando concentri la tua attenzione su un singolo nemico, il tuo inseguimento
 diventa inarrestabile. Ottieni l'azione
-[Cacciare la Preda](/azioni/cacciare-la-preda).
+[Cacciare la Preda](/azioni/classe/cacciare-la-preda).
 
 ### Competenze Iniziali
 

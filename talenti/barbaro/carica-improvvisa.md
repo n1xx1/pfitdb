@@ -10,6 +10,7 @@ original-srd: https://2e.aonprd.com/Feats.aspx?ID=134
 Con uno scatto rapido, ti scagli contro il nemico e attacchi. Avanzi due volte:
 se termini il movimento con almeno un nemico entro la tua portata in mischia,
 puoi Colpire in mischia quel nemico. Puoi utilizzare Carica Improvvisa mentre ti
-sposti con [Scavare](/azioni/scavare), [Scalare](/azioni/scalare),
-[Volare](/azioni/volare) o [Nuotare](/azioni/nuotare) anziché con
-[Avanzare](/azioni/avanzare), se disponi del corrispondente tipo di movimento.
+sposti con [Scavare](/azioni/base/scavare), [Scalare](/azioni/abilita/scalare),
+[Volare](/azioni/base/volare) o [Nuotare](/azioni/abilita/nuotare) anziché con
+[Avanzare](/azioni/base/avanzare), se disponi del corrispondente tipo di
+movimento.

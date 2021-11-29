@@ -58,7 +58,7 @@ CD 18
 [privo di sensi](/condizioni/privo-di-sensi), [veleno](/tratti/veleno)
 
 **Rancore Finale** :R: **Innesco** Il wight è ridotto a 0 Punti Ferita.
-**Effetto** Il wight effettua un [Colpo](/azioni/colpire) prima di essere
+**Effetto** Il wight effettua un [Colpo](/azioni/base/colpire) prima di essere
 distrutto. Non ottiene alcun PF temporaneo da risucchiare vita con questo Colpo.
 
 ---

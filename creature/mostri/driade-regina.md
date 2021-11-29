@@ -35,9 +35,9 @@ Natura +24, Sopravvivenza +24
 **For** +2, **Des** +6, **Cos** +6, **Int** +4, **Sag** +4, **Car** +8
 
 **Empatia con la Natura** La driade può usare Diplomazia per
-[Impressionare](/azioni/impressionare) e fare [Richieste](/azioni/richiedere)
-molto semplici agli [animali](/tratti/animale) e ai
-[vegetali](/tratti/vegetale).
+[Impressionare](/azioni/abilita/impressionare) e fare
+[Richieste](/azioni/abilita/richiedere) molto semplici agli
+[animali](/tratti/animale) e ai [vegetali](/tratti/vegetale).
 
 **Legata alla Terra** Una ninfa regina è intrinsecamente legata a una regione
 specifica, come una foresta nel caso di una driade regina. Fintanto che la

@@ -49,7 +49,7 @@ CD 30
 **Lingue** Sottocomune (non può parlare)
 
 **Abilità** Acrobazia +19, Atletica +24, Furtività +21, Sopravvivenza +17 (+24
-per [Seguire Tracce](/azioni/seguire-tracce))
+per [Seguire Tracce](/azioni/abilita/seguire-tracce))
 
 **For** +6, **Des** +3, **Cos** +4, **Int** -2, **Sag** +1, **Car** +0
 
@@ -74,12 +74,13 @@ Migliorato
 **Mischia** :1: zampa +26 \[+22/+18] ([agile](/tratti/agile),
 [portata 3 metri](/tratti/portata)), **Danni** 3d6+12 perforanti
 
-**Assalto Zampettante** :2: Il gogiteth [Avanza](/azioni/avanzare) tre volte.
-Ogni volta che Avanza può tentare un Colpo con la zampa contro una creatura
-nella sua portata in un qualsiasi punto della sua Avanzata; deve effettuare ogni
-attacco contro una creatura diversa, ma la sua penalità da attacchi multipli si
-applica solo dopo avere effettuato tutti i Colpi. Se uno qualsiasi dei suoi
-Colpi risulta in un fallimento critico, l'Assalto Zampettante termina.
+**Assalto Zampettante** :2: Il gogiteth [Avanza](/azioni/base/avanzare) tre
+volte. Ogni volta che Avanza può tentare un Colpo con la zampa contro una
+creatura nella sua portata in un qualsiasi punto della sua Avanzata; deve
+effettuare ogni attacco contro una creatura diversa, ma la sua penalità da
+attacchi multipli si applica solo dopo avere effettuato tutti i Colpi. Se uno
+qualsiasi dei suoi Colpi risulta in un fallimento critico, l'Assalto Zampettante
+termina.
 
 **Stritolare** **:1:** 3d6+12 contundenti, CD 32
 

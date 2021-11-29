@@ -102,7 +102,7 @@ _[raggio di indebolimento](/incantesimi/raggio-di-indebolimento)_; **Trucchetti
 
 **Trappola di Ragnatela** Una creatura colpita da un attacco di ragnatela del
 drider è [immobilizzata](/condizioni/immobilizzato) e bloccata alla superficie
-più vicina ([Sfuggire](/azioni/sfuggire) CD 21).
+più vicina ([Sfuggire](/azioni/base/sfuggire) CD 21).
 
 **Veleno di Drider** ([veleno](/tratti/veleno)); **Tiro Salvezza** CD 23 Tempra;
 **Durata Massima** 6 round; **Fase 1** 1d8 danni da veleno e indebolito 1 (1

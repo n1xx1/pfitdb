@@ -55,7 +55,7 @@ CD 22
 
 **Cumulo** Quando non è in pericolo, l'errante trascorre 1 minuto per assestarsi
 in un cumulo che sembra un ammasso di vegetazione assortita. Mentre è in questa
-forma, le creature devono [Individuare](/azioni/individuare) attivamente e
+forma, le creature devono [Individuare](/azioni/base/individuare) attivamente e
 superare una prova di Percezione con CD 22 (CD 28 nelle foreste o nelle paludi)
 per individuare la vera natura dell'errante.
 
@@ -69,8 +69,8 @@ fuoco 5
 **Impulso Elettrico** Ogni volta che l'errante subirebbe danni da elettricità o
 sarebbe bersagliato da un effetto di elettricità, ottiene 12 PF temporanei ed è
 [accelerato](/condizioni/accelerato) fino alla fine del suo turno successivo.
-Può usare la sua azione addizionale per [Avanzare](/azioni/avanzare),
-[Colpire](/azioni/colpire) o [Nuotare](/azioni/nuotare).
+Può usare la sua azione addizionale per [Avanzare](/azioni/base/avanzare),
+[Colpire](/azioni/base/colpire) o [Nuotare](/azioni/abilita/nuotare).
 
 **Errare** :R: **Requisiti** L'errante è in forma di cumulo. **Innesco** Una
 creatura inconsapevole della vera natura dell'errante giunge entro 3 metri.

@@ -43,6 +43,7 @@ CD 16
 
 **Mischia** :1: zanna +10 \[+5/+0], **Danni** 2d6+4 perforanti
 
-**Carica del Cinghiale** :2: Il cinghiale [Avanza](/azioni/avanzare) due volte e
-poi effettua un [Colpo](/azioni/colpire) con la zanna. Purché si sia mosso di
-almeno 6 metri, ottiene bonus di circostanza +2 al suo tiro per colpire.
+**Carica del Cinghiale** :2: Il cinghiale [Avanza](/azioni/base/avanzare) due
+volte e poi effettua un [Colpo](/azioni/base/colpire) con la zanna. Purché si
+sia mosso di almeno 6 metri, ottiene bonus di circostanza +2 al suo tiro per
+colpire.

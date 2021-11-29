@@ -51,7 +51,7 @@ CD 22
 **Lingue** Silvano (non può parlare nessun linguaggio)
 
 **Abilità** Acrobazia +14, Atletica +14, Sopravvivenza +14 (+17 per
-[Seguire Tracce](/azioni/seguire-tracce))
+[Seguire Tracce](/azioni/abilita/seguire-tracce))
 
 **For** +4, **Des** +4, **Cos** +2, **Int** -3, **Sag** +2, **Car** -2
 
@@ -71,8 +71,8 @@ Ogni cosa che si trova in questa nube è [occultata](/condizioni/occultato) e
 ogni creatura che termina il proprio turno al suo interno subisce 2d6 danni da
 fuoco. All'inizio del proprio turno, l'elananx torna alla sua forma normale in
 un qualsiasi quadretto coperto dalla nube, Se l'elananx
-[Colpisce](/azioni/colpire) una creatura usando la sua prima azione dopo essere
-tornata alla sua forma normale, il bersaglio è
+[Colpisce](/azioni/base/colpire) una creatura usando la sua prima azione dopo
+essere tornata alla sua forma normale, il bersaglio è
 [impreparato](/condizioni/impreparato) e il Colpo infligge 1d6 danni da fuoco
 extra.
 

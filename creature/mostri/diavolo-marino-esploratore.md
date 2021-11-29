@@ -22,8 +22,8 @@ CD 16
 
 **Lingue** Aquan; comunione con gli squali 45 metri
 
-**Abilità** Atletica +9 (+11 per [Nuotare](/azioni/nuotare)), Furtività +8,
-Intimidazione +5, Sopravvivenza +7
+**Abilità** Atletica +9 (+11 per [Nuotare](/azioni/abilita/nuotare)), Furtività
++8, Intimidazione +5, Sopravvivenza +7
 
 **For** +3, **Des** +4, **Cos** +1, **Int** +0, **Sag** +3, **Car** +1
 

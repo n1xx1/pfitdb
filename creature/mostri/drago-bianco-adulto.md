@@ -109,10 +109,10 @@ terreno difficile superiore dovuto al ghiaccio e alla neve e non rischia di
 cadere quando attraversa il ghiaccio.
 
 **Schianto a Terra** :1: Il drago si schianta a terra. Può farlo se si trova a
-terra o se [Vola](/azioni/volare) entro 3 metri dal terreno. Ogni creatura sul
-terreno entro 3 metri deve superare un TS su Riflessi con CD 29, altrimenti cade
-[prona](/condizioni/prono) e subisce 3d6 danni contundenti. Poi il drago può
-effettuare un [Passo](/azioni/passo).
+terra o se [Vola](/azioni/base/volare) entro 3 metri dal terreno. Ogni creatura
+sul terreno entro 3 metri deve superare un TS su Riflessi con CD 29, altrimenti
+cade [prona](/condizioni/prono) e subisce 3d6 danni contundenti. Poi il drago
+può effettuare un [Passo](/azioni/base/passo).
 
 **Soffio** :2: ([arcano](/tratti/arcano), [freddo](/tratti/freddo),
 [invocazione](/tratti/invocazione)) Il drago esala una nube di gelo che infligge

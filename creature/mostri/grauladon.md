@@ -62,9 +62,9 @@ contundenti
 
 **Gettare in Aria** :1: **Requisiti** Più nemici si trovano adiacenti al
 grauladon. **Effetto** Il grauladon sbatte la coda contro ogni nemico adiacente
-e prova a [Sbilanciare](/azioni/sbilanciare) ogni creatura adiacente. Effettua
-una singola prova di Atletica e la confronta con il risultato della CD di Tempra
-di ogni bersaglio
+e prova a [Sbilanciare](/azioni/abilita/sbilanciare) ogni creatura adiacente.
+Effettua una singola prova di Atletica e la confronta con il risultato della CD
+di Tempra di ogni bersaglio
 
 **Respiro Profondo** Un grauladon può trattenere il respiro per 225 round
 (22-1/2 minuti).

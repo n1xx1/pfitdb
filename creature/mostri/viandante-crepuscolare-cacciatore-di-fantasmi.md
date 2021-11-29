@@ -55,11 +55,11 @@ taglienti
 
 **Cacciare la Preda** :1: Il viandante del crepuscolo designa come sua preda una
 singola creatura che sia in grado di vedere o di sentire e di cui
-[Segua le Tracce](/azioni/seguire-tracce). Ottiene bonus di circostanza +2 alle
-prove di Percezione quando [Individua](/azioni/individuare) la sua preda e bonus
-di circostanza +2 alle prove di Sopravvivenza quando Segue le Tracce della sua
-preda. Ignora inoltre la penalità per effettuare attacchi a distanza entro il
-suo secondo incremento di gittata contro la sua preda.
+[Segua le Tracce](/azioni/abilita/seguire-tracce). Ottiene bonus di circostanza
++2 alle prove di Percezione quando [Individua](/azioni/base/individuare) la sua
+preda e bonus di circostanza +2 alle prove di Sopravvivenza quando Segue le
+Tracce della sua preda. Ignora inoltre la penalità per effettuare attacchi a
+distanza entro il suo secondo incremento di gittata contro la sua preda.
 
 Ottiene infine bonus di circostanza +2 alle prove di Furtività, Inganno e
 Intimidazione contro la sua preda e a qualsiasi prova per

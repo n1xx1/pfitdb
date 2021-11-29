@@ -15,5 +15,6 @@ original-srd: https://2e.aonprd.com/Feats.aspx?ID=643
 
 Hai connesso il tuo oggetto legato alla fonte d'energia che alimenta i tuoi
 incantesimi di scuola. Quando
-[Scarichi il tuo Oggetto Legato](/azioni/scaricare-oggetto-legato) per lanciare
-un incantesimo della tua scuola arcana, recuperi anche 1 Punto Focalizzazione.
+[Scarichi il tuo Oggetto Legato](/azioni/classe/scaricare-oggetto-legato) per
+lanciare un incantesimo della tua scuola arcana, recuperi anche 1 Punto
+Focalizzazione.

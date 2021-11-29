@@ -52,10 +52,11 @@ CD 23
 [paura](/tratti/paura), [uditivo](/tratti/uditivo)) L'ogre capo impartisce un
 comando per spronare i suoi compagni. Ogni ogre alleato che sente e capisce
 questo comando diventa accelerato fino alla fine del proprio turno successivo,
-ma può usare l'azione extra solo per fare un [Passo](/azioni/passo) o
-[Avanzare](/azioni/avanzare).
+ma può usare l'azione extra solo per fare un [Passo](/azioni/base/passo) o
+[Avanzare](/azioni/base/avanzare).
 
 **Spazzata di Uncino** :R: **Innesco** L'ogre capo
-[Sbilancia](/azioni/sbilanciare) con successo una creatura usando un uncino
-dell'ogre. **Effetto** L'ogre capo effettua un [Colpo](/azioni/colpire) con
-l'uncino dell'ogre contro la creatura che ha sbilanciato.
+[Sbilancia](/azioni/abilita/sbilanciare) con successo una creatura usando un
+uncino dell'ogre. **Effetto** L'ogre capo effettua un
+[Colpo](/azioni/base/colpire) con l'uncino dell'ogre contro la creatura che ha
+sbilanciato.

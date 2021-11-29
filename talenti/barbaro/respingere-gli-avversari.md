@@ -13,5 +13,5 @@ original-srd: https://2e.aonprd.com/Feats.aspx?ID=160
 
 Il peso del tuo fendente respinge l'avversario. Spingi il nemico indietro di 1,5
 metri, con effetti analoghi a un tentativo riuscito di
-[Spingerlo](/azioni/spingere), compresa la possibilità di seguirlo come
+[Spingerlo](/azioni/abilita/spingere), compresa la possibilità di seguirlo come
 normalmente permesso da Spingere in caso di successo.

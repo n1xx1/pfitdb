@@ -83,9 +83,9 @@ metri deve superare un TS su Tempra con CD 30, altrimenti è
 [rallentata](/condizioni/rallentato) 1 per 1 minuto. Il golem non può usare di
 nuovo l'Impulso Rallentante per 1d4 round.
 
-**Marcia Inesorabile** :1: Il golem di pietra [Avanza](/azioni/avanzare) fino
-alla sua Velocità, spingendo indietro ogni creatura nel cui spazio esso si muove
-e danneggiandola se tale creatura tenta di fermare il suo movimento. Una
+**Marcia Inesorabile** :1: Il golem di pietra [Avanza](/azioni/base/avanzare)
+fino alla sua Velocità, spingendo indietro ogni creatura nel cui spazio esso si
+muove e danneggiandola se tale creatura tenta di fermare il suo movimento. Una
 creatura può tentare di sbarrare la strada al golem superando un TS su Tempra
 con CD 34. ln caso di successo critico, la creatura resistente non subisce
 danni; altrimenti è danneggiata come se fosse colpita dal pugno del golem.

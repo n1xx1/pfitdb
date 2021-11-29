@@ -96,4 +96,4 @@ per _[dominare](/incantesimi/dominare)_; 5d8 giorni); **Fase 4** morto.
 superare un TS su Riflessi con CD 40, altrimenti subisce penalità di stato -3
 metri a tutte le sue Velocità per 1 minuto. ln caso di fallimento critico, la
 creatura è [immobilizzata](/condizioni/immobilizzato) finché non
-[Sfugge](/azioni/sfuggire) (CD 40).
+[Sfugge](/azioni/base/sfuggire) (CD 40).

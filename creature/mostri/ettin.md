@@ -52,8 +52,8 @@ CD 22
 
 **Cervelli Indipendenti** Ogni testa di un ettin tira per l'iniziativa
 separatamente e svolge un suo turno. Nessuna testa può
-[Ritardare](/azioni/ritardare). All'inizio del proprio turno, una testa ottiene
-2 azioni e 1 reazione. Ogni cervello controlla un braccio dell'ettin, ma
+[Ritardare](/azioni/base/ritardare). All'inizio del proprio turno, una testa
+ottiene 2 azioni e 1 reazione. Ogni cervello controlla un braccio dell'ettin, ma
 entrambi possono muovere le gambe. Qualsiasi capacità che reciderebbe la testa
 di un ettin (come per esempio la proprietà delle armi _vorpal_) non uccide
 l'ettin se esso possiede ancora l'altra testa, ma lo priva dei turni, delle

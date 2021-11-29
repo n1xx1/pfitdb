@@ -10,4 +10,5 @@ Questa condizione riflette l'atteggiamento di una creatura nei confronti di un
 personaggio in particolare; solo gli effetti sovrannaturali (come gli
 incantesimi) possono imporla ai personaggi giocanti. Una creatura ostile verso
 un personaggio cerca attivamente di danneggiarlo. Non lo attacca
-necessariamente, ma non accetta azioni [Richiedere](/azioni/richiedere) da esso.
+necessariamente, ma non accetta azioni [Richiedere](/azioni/abilita/richiedere)
+da esso.

@@ -69,13 +69,14 @@ fini della penalità da attacchi multipli del baomal e la penalità aumenta solo
 dopo entrambi gli attacchi.
 
 **Guscio Impalante** :1: ([movimento](/tratti/movimento)) Il baomal
-[Nuota](/azioni/nuotare) o [Avanza](/azioni/avanzare) lungo una creatura o lo
-scafo di un vascello, infliggendo danni con i robusti aculei del suo guscio.
-Ogni creatura o nave a cui il baomal è adiacente in un qualsiasi punto durante
-il suo movimento subisce 6d6+10 taglienti e perforanti (TS base su Riflessi con
-CD 42). Contro i vascelli, il Guscio Impalante ignora i primi 5 punti di Durezza
-e genera un'esplosione di schegge che infligge 3d6+5 danni a ogni creatura entro
-3 metri dal bordo della nave (TS base su Riflessi con CD 42).
+[Nuota](/azioni/abilita/nuotare) o [Avanza](/azioni/base/avanzare) lungo una
+creatura o lo scafo di un vascello, infliggendo danni con i robusti aculei del
+suo guscio. Ogni creatura o nave a cui il baomal è adiacente in un qualsiasi
+punto durante il suo movimento subisce 6d6+10 taglienti e perforanti (TS base su
+Riflessi con CD 42). Contro i vascelli, il Guscio Impalante ignora i primi 5
+punti di Durezza e genera un'esplosione di schegge che infligge 3d6+5 danni a
+ogni creatura entro 3 metri dal bordo della nave (TS base su Riflessi con CD
+42).
 
 **Respiro del Mare** :1: ([attacco](/tratti/attacco)) Un baomal può inalare
 un'incredibile quantità d'acqua, attirando tutto ciò che si trova in mare verso

@@ -130,9 +130,9 @@ diavolo della fossa è lanciare un incantesimo innato di livello pari o inferior
 all'8°, il numero di azioni per lanciarlo è ridotto di 1 (fino a un minimo di 1
 azione).
 
-**Planata Rapida** :1: Il diavolo della fossa [Vola](/azioni/volare) ed effettua
-un [Colpo](/azioni/colpire) d'ala in un qualsiasi punto durante il suo
-movimento.
+**Planata Rapida** :1: Il diavolo della fossa [Vola](/azioni/base/volare) ed
+effettua un [Colpo](/azioni/base/colpire) d'ala in un qualsiasi punto durante il
+suo movimento.
 
 **Plasmare Diavoli** ([divino](/tratti/divino), [pausa](/tratti/pausa),
 [trasmutazione](/tratti/trasmutazione)) Il diavolo della fossa rimodella un

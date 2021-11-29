@@ -69,10 +69,10 @@ danni da freddo (Riflessi base con CD 34)
 [freddo](/tratti/freddo)); 15 metri. Dopo che il drago ha usato il suo Soffio,
 una feroce tormenta di neve accecante circonda il suo corpo per 1 round. Ogni
 cosa entro l'aura è terreno difficile per le altre creature che si trovano sul
-terreno, [Scalano](/azioni/scalare) o [Volano](/azioni/volare). La neve che cade
-rende inoltre [occultate](/condizioni/occultato) tutte le creature nell'area.
-Mentre la tormenta infuria, il gelo draconico della creatura si estende in tutta
-l'area della tormenta.
+terreno, [Scalano](/azioni/abilita/scalare) o [Volano](/azioni/base/volare). La
+neve che cade rende inoltre [occultate](/condizioni/occultato) tutte le creature
+nell'area. Mentre la tormenta infuria, il gelo draconico della creatura si
+estende in tutta l'area della tormenta.
 
 **Sangue Congelante** :R: ([arcano](/tratti/arcano), [freddo](/tratti/freddo));
 **Innesco** Una creatura adiacente infligge danni perforanti o taglienti al
@@ -120,10 +120,10 @@ terreno difficile superiore dovuto al ghiaccio e alla neve e non rischia di
 cadere quando attraversa il ghiaccio.
 
 **Schianto a Terra** :1: Il drago si schianta a terra. Può farlo se si trova a
-terra o se [Vola](/azioni/volare) entro 3 metri dal terreno. Ogni creatura sul
-terreno entro 3 metri deve superare un TS su Riflessi con CD 37, altrimenti cade
-[prona](/condizioni/prono) e subisce 5d6 danni contundenti. Poi il drago può
-effettuare un [Passo](/azioni/passo).
+terra o se [Vola](/azioni/base/volare) entro 3 metri dal terreno. Ogni creatura
+sul terreno entro 3 metri deve superare un TS su Riflessi con CD 37, altrimenti
+cade [prona](/condizioni/prono) e subisce 5d6 danni contundenti. Poi il drago
+può effettuare un [Passo](/azioni/base/passo).
 
 **Soffio** :2: ([arcano](/tratti/arcano), [freddo](/tratti/freddo),
 [invocazione](/tratti/invocazione)) Il drago esala una nube di gelo che infligge

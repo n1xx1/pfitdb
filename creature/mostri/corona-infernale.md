@@ -70,8 +70,8 @@ chiodo si conficca nella creatura, rendendola
 chiodo aggiuntivo conficcato nella creatura fa crescere il valore di indebolito
 di 1 (fino a un massimo di indebolito 4) e il danno da sanguinamento di 1. Una
 creatura può rimuovere un chiodo con un'azione di
-[Interagire](/azioni/interagire) per ridurre l'ammontare di indebolimento e di
-sanguinamento. Estrarre l'ultimo chiodo pone fine ad entrambe le condizioni.
+[Interagire](/azioni/base/interagire) per ridurre l'ammontare di indebolimento e
+di sanguinamento. Estrarre l'ultimo chiodo pone fine ad entrambe le condizioni.
 
 **Sguardo Terrificante** :1: ([mentale](/tratti/mentale),
 [paura](/tratti/paura), [visivo](/tratti/visivo)) Tutte le creature che possono

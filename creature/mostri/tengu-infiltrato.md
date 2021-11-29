@@ -85,9 +85,9 @@ tengu.
 creature impreparate.
 
 **Mira agli Occhi** :R: ([incapacitazione](/tratti/incapacitazione)) **Innesco**
-Il tengu mette a segno in modo critico un [Colpo](/azioni/colpire) con il becco.
-**Effetto** Il tengu tenta di cavare gli occhi alla vittima. Il bersaglio deve
-tentare un TS su Tempra con CD 17.
+Il tengu mette a segno in modo critico un [Colpo](/azioni/base/colpire) con il
+becco. **Effetto** Il tengu tenta di cavare gli occhi alla vittima. Il bersaglio
+deve tentare un TS su Tempra con CD 17.
 
 **Successo** Nessun effetto.
 

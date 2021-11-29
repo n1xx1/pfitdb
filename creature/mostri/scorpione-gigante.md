@@ -63,4 +63,4 @@ e utilizzarlo come materia prima per creare del veleno di scorpione gigante o un
 antiepidemico inferiore. Per determinare il valore degli ingredienti che il
 personaggio ottiene ogni giorno e la CD della prova appropriata di Medicina o di
 Sapienza si consulta la voce di livello 3 nella
-[Tabella 4-2: Guadagni](/azioni/guadagnare) (_Manuale di Gioco_ 236).
+[Tabella 4-2: Guadagni](/azioni/abilita/guadagnare) (_Manuale di Gioco_ 236).

@@ -26,7 +26,7 @@ CD 26
 **Lingue** Infernale (non può parlare nessun linguaggio)
 
 **Abilità** Acrobazia +18, Atletica +19, Furtività +18, Sopravvivenza +20 (+22
-per [Seguire Tracce](/azioni/seguire-tracce))
+per [Seguire Tracce](/azioni/abilita/seguire-tracce))
 
 **For** +6, **Des** +5, **Cos** +5, **Int** -2, **Sag** +4, **Car** -2
 

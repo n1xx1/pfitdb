@@ -55,12 +55,12 @@ extra alle creature [impreparate](/condizioni/impreparato).
 
 **Comando di Accerchiamento** :1: ([uditivo](/tratti/uditivo)) Ogni caligni
 strisciante entro 9 metri dall'inseguitore può effettuare un
-[Passo](/azioni/passo). Ogni strisciante può beneficiare di Comando Circondante
-soltanto una volta per round.
+[Passo](/azioni/base/passo). Ogni strisciante può beneficiare di Comando
+Circondante soltanto una volta per round.
 
 **Doppio Taglio** :2: Il caligni inseguitore effettua due
-[Colpi](/azioni/colpire) contro lo stesso bersaglio, uno con ognuna delle sue
-spade corte. L'inseguitore combina i danni degli attacchi che colpiscono e
+[Colpi](/azioni/base/colpire) contro lo stesso bersaglio, uno con ognuna delle
+sue spade corte. L'inseguitore combina i danni degli attacchi che colpiscono e
 applica i danni di precisione, le resistenze e le debolezze soltanto una volta.
 Entrambi gli attacchi contano al fine di determinare la penalità da attacchi
 multipli dell'inseguitore, ma la penalità aumenta solo dopo entrambi gli

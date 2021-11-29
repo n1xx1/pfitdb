@@ -48,8 +48,9 @@ scurovisione
 **Turbine** ([arcano](/tratti/arcano), [aria](/tratti/aria),
 [aura](/tratti/aura), [invocazione](/tratti/invocazione)) 6 metri. Tutti i
 quadretti nell'aura del djinni sono considerati terreno difficile per le
-creature che [Avanzano](/azioni/avanzare) e quelle [Volanti](/azioni/volare). Le
-creature con il tratto [aria](/tratti/aria) sono immuni.
+creature che [Avanzano](/azioni/base/avanzare) e quelle
+[Volanti](/azioni/base/volare). Le creature con il tratto [aria](/tratti/aria)
+sono immuni.
 
 ---
 

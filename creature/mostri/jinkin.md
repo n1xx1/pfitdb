@@ -58,9 +58,9 @@ creature [impreparate](/condizioni/impreparato).
 [trasmutazione](/tratti/trasmutazione)) Un gruppo di sei jinkin può lavorare
 insieme per un'ora al fine di infondere una maledizione in un oggetto entro una
 gittata di 18 metri. Sebbene questo processo sia laborioso, è anche discreto e
-può essere effettuato da [Nascosti](/azioni/nascondersi). I jinkin preferiscono
-usare questa capacità sugli oggetti magici. La maledizione rende l'oggetto
-inaffidabile (prova semplice con CD 5, altrimenti ogni azione per
-[Interagire](/azioni/interagire) con l'oggetto o Attivarlo è sprecata), aggiunge
-un requisito insolito per utilizzarlo o impartisce qualche altra maledizione di
-calibro simile.
+può essere effettuato da [Nascosti](/azioni/abilita/nascondersi). I jinkin
+preferiscono usare questa capacità sugli oggetti magici. La maledizione rende
+l'oggetto inaffidabile (prova semplice con CD 5, altrimenti ogni azione per
+[Interagire](/azioni/base/interagire) con l'oggetto o Attivarlo è sprecata),
+aggiunge un requisito insolito per utilizzarlo o impartisce qualche altra
+maledizione di calibro simile.

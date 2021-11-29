@@ -75,8 +75,8 @@ cauterizzati, nel qual caso muore.
 
 **Assalto Focalizzato** :2: L'idra attacca un singolo bersaglio con le sue
 teste, soverchiando il bersaglio con molteplici attacchi e lasciandogli poco
-spazio per schivare. L'idra effettua un [Colpo](/azioni/colpire) con le zanne.
-ln caso di successo, infligge i danni di un Colpo con le zanne, più 1d6
+spazio per schivare. L'idra effettua un [Colpo](/azioni/base/colpire) con le
+zanne. ln caso di successo, infligge i danni di un Colpo con le zanne, più 1d6
 addizionale per ogni testa che possiede oltre alla prima. Anche in caso di
 fallimento, infligge comunque i danni di un Colpo con le zanne; manca
 completamente in caso di fallimento critico. Al fine di determinare la penalità

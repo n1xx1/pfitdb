@@ -44,7 +44,7 @@ della creatura di 1 e cambia le sue statistiche come segue:
 - La sua CA, i bonus di attacco, le CD, i tiri salvezza e i modificatori delle
   abilità aumentano di 1.
 
-- Aumenta i danni dei suoi [Colpi](/azioni/colpire) e delle altre capacità
+- Aumenta i danni dei suoi [Colpi](/azioni/base/colpire) e delle altre capacità
   offensive di 1. Se una capacità può essere usata solo un numero limitato di
   volte (come per esempio un soffio), aumenta invece i danni di 2.
 
@@ -67,7 +67,7 @@ ottiene tutti i sensi dell'animale.
 [primevo](/tratti/primevo)) Una creatura mannara pub comunicare con gli animali
 dello stesso tipo generico d'appartenenza.
 
-**Artigli** La creatura mannara ottiene un [Colpo](/azioni/colpire) con
+**Artigli** La creatura mannara ottiene un [Colpo](/azioni/base/colpire) con
 l'artiglio (un attacco senz'armi con il tratto [agile](/tratti/agile) che
 infligge danni taglienti). Se era in possesso di attacchi con il tratto agile, i
 danni inflitti dai suoi artigli dovrebbero essere all'incirca equivalenti a

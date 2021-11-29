@@ -67,8 +67,8 @@ un successo critico) al tiro invece di tirare.
 ricarica 2), **Danni** 1d10+4 perforanti
 
 **Fendente Poderoso** :2: ([ostentazione](/tratti/ostentazione)) Il ciclope
-[Colpisce](/azioni/colpire) in mischia una volta e confronta il risultato del
-tiro per colpire con la CA di un massimo di due nemici, entrambi entro la sua
-portata e adiacenti fra loro. Tira i danni una sola volta e applicali a ogni
+[Colpisce](/azioni/base/colpire) in mischia una volta e confronta il risultato
+del tiro per colpire con la CA di un massimo di due nemici, entrambi entro la
+sua portata e adiacenti fra loro. Tira i danni una sola volta e applicali a ogni
 creatura colpita. Per la penalità da attacchi multipli un Fendente Poderoso
 conta come due attacchi.

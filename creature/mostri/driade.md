@@ -38,9 +38,9 @@ Diplomazia +9, Furtività +9, Natura +13, Sopravvivenza +12
 **For** +0, **Des** +4, **Cos** +1, **Int** +2, **Sag** +3, **Car** +4
 
 **Empatia con la Natura** La driade può usare Diplomazia per
-[Impressionare](/azioni/impressionare) e fare [Richieste](/azioni/richiedere)
-molto semplici agli [animali](/tratti/animale) e ai
-[vegetali](/tratti/vegetale).
+[Impressionare](/azioni/abilita/impressionare) e fare
+[Richieste](/azioni/abilita/richiedere) molto semplici agli
+[animali](/tratti/animale) e ai [vegetali](/tratti/vegetale).
 
 ---
 

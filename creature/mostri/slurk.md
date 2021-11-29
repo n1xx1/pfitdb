@@ -48,15 +48,15 @@ CD 16
 
 **Lingue** Draconico (non può parlare nessun linguaggio)
 
-**Abilità** Acrobazia +6 (+8 per [Sfuggire](/azioni/sfuggire)), Atletica +8,
-Furtività +5
+**Abilità** Acrobazia +6 (+8 per [Sfuggire](/azioni/base/sfuggire)), Atletica
++8, Furtività +5
 
 **For** +4, **Des** +2, **Cos** +4, **Int** -4, **Sag** +0, **Car** +0
 
 ---
 
-**CA** 17; **Temp** +10 (+12 contro Lottare o [Spingere](/azioni/spingere)),
-**Rifl** +6, **Vol** +2
+**CA** 17; **Temp** +10 (+12 contro Lottare o
+[Spingere](/azioni/abilita/spingere)), **Rifl** +6, **Vol** +2
 
 **PF** 35
 
@@ -74,15 +74,15 @@ metri), **Effetto** fanghiglia intralciante
 dello slurk diventa [maldestra](/condizioni/maldestro) 1 e subisce penalità -1,5
 metri alla Velocità per 1 ora o finché la fanghiglia non viene rimossa. La
 fanghiglia può essere rimossa con un totale di tre azioni di
-[Interagire](/azioni/interagire) effettuate dalla creatura intralciata o dalle
-creature adiacenti alla creatura. Non è necessario che queste azioni siano
+[Interagire](/azioni/base/interagire) effettuate dalla creatura intralciata o
+dalle creature adiacenti alla creatura. Non è necessario che queste azioni siano
 consecutive o effettuate dalla stessa creatura.
 
 **Grasso Ventrale** :3: Lo slurk trasuda una sostanza unta e viscida dalle sue
 ghiandole ventrali per rivestire il terreno sotto di sé e in un'emanazione di
 1,5 metri, trasformando l'area in terreno accidentato per 10 minuti, al termine
 dei quali la sostanza si essicca fino a diventare una crosta putrida. La CD per
-[Bilanciarsi](/azioni/bilanciarsi) sulla fanghiglia è pari a 18.
+[Bilanciarsi](/azioni/abilita/bilanciarsi) sulla fanghiglia è pari a 18.
 
 ## **Cavalcare gli Slurk**
 

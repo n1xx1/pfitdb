@@ -11,7 +11,7 @@ original-srd: https://2e.aonprd.com/Feats.aspx?ID=206
 
 ---
 
-Riesci a [Mantenere un Incantesimo](/azioni/mantenere-un-incantesimo) quasi
-senza pensare. Ottieni immediatamente gli effetti di un'azione
-[Mantenere un Incantesimo](/azioni/mantenere-un-incantesimo), che ti permette di
-estendere la durata di uno dei tuoi incantesimi da mago attivi.
+Riesci a [Mantenere un Incantesimo](/azioni/speciale/mantenere-un-incantesimo)
+quasi senza pensare. Ottieni immediatamente gli effetti di un'azione
+[Mantenere un Incantesimo](/azioni/speciale/mantenere-un-incantesimo), che ti
+permette di estendere la durata di uno dei tuoi incantesimi da mago attivi.

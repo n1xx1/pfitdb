@@ -12,7 +12,7 @@ TODO: source
 
 ---
 
-Puoi [Demoralizzare](/azioni/demoralizzare) con un semplice sguardo. Quando lo
-fai, Demoralizzare perde il tratto [uditivo](/tratti/uditivo) e guadagna il
-tratto [visivo](/tratti/visivo). Non subisci penalità se la creatura è incapace
-di comprendere il tuo linguaggio.
+Puoi [Demoralizzare](/azioni/abilita/demoralizzare) con un semplice sguardo.
+Quando lo fai, Demoralizzare perde il tratto [uditivo](/tratti/uditivo) e
+guadagna il tratto [visivo](/tratti/visivo). Non subisci penalità se la creatura
+è incapace di comprendere il tuo linguaggio.

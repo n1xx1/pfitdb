@@ -30,8 +30,9 @@ CD 22
 
 **Lingue** Aklo, Comune, Jotun
 
-**Abilità** Acrobazia +10, Atletica +14 (+16 per [Lottare](/azioni/lottare)),
-Diplomazia +9, Furtività +14, Inganno +11, Intimidazione +11
+**Abilità** Acrobazia +10, Atletica +14 (+16 per
+[Lottare](/azioni/abilita/lottare)), Diplomazia +9, Furtività +14, Inganno +11,
+Intimidazione +11
 
 **For** +6, **Des** +4, **Cos** +4, **Int** +1, **Sag** +4, **Car** +3
 
@@ -69,12 +70,12 @@ suoi Colpi infliggono (solitamente in contundenti).
 [evocazione](/tratti/evocazione), [occulto](/tratti/occulto)) Una volta al
 giorno, una megera annis può fare comparire dal nulla una gabbia fatta di unghie
 di ferro freddo entro una gittata di 9 metri, effettuando una prova di Atletica
-per [Lottare](/azioni/lottare) contro la CD di Tempra del bersaglio; se il
-bersaglio possiede una debolezza al ferro freddo, la megera annis ottiene bonus
-di circostanza +2 a questa prova. A differenza di un normale Lottare, non è
-necessario che la megera annis si trovi entro portata e può muoversi come
+per [Lottare](/azioni/abilita/lottare) contro la CD di Tempra del bersaglio; se
+il bersaglio possiede una debolezza al ferro freddo, la megera annis ottiene
+bonus di circostanza +2 a questa prova. A differenza di un normale Lottare, non
+è necessario che la megera annis si trovi entro portata e può muoversi come
 preferisce; inoltre, un tentativo superato dura finché la creatura non
-[Sfugge](/azioni/sfuggire) (CD 24), nel qual caso la gabbia si sbriciola in
+[Sfugge](/azioni/base/sfuggire) (CD 24), nel qual caso la gabbia si sbriciola in
 polvere. Ogni creatura può tentare di distruggere la gabbia attaccandola.
 Possiede CA 19, Durezza 10 e 40 Punti Ferita.
 

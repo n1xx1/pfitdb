@@ -36,7 +36,7 @@ SR 6)
 
 ---
 
-**CA** 16 (18 con lo scudo [alzato](/azioni/alzare-lo-scudo)); **Temp** +8,
+**CA** 16 (18 con lo scudo [alzato](/azioni/base/alzare-lo-scudo)); **Temp** +8,
 **Rifl** +7, **Vol** +5
 
 **PF** 21

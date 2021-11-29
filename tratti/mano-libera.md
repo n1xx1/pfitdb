@@ -7,8 +7,8 @@ original-srd: https://2e.aonprd.com/Traits.aspx?ID=181
 # Mano Libera
 
 Quest'arma non occupa la tua mano, di solito perché è integrata nell'armatura.
-Un'arma con mano libera non può essere [Disarmata](/azioni/disarmare). Puoi
-usare la mano coperta dalla tua arma con mano libera per impugnare altri
+Un'arma con mano libera non può essere [Disarmata](/azioni/abilita/disarmare).
+Puoi usare la mano coperta dalla tua arma con mano libera per impugnare altri
 oggetti, effettuare azioni di manipolazione e così via. Non puoi attaccare con
 un'arma con mano libera se stai impugnando in quella mano qualcos'altro o se
 stai usando in qualche altro modo quella mano. Quando non stai impugnando nulla

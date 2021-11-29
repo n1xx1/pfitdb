@@ -21,8 +21,8 @@ CD 21
 **Lingue** Anadi, Comune
 
 **Abilità** Artigianato +9 (+13 tessere), Atletica +6 (+8 a
-[Scalare](/azioni/scalare) nella vera forma o in forma di ragno), Diplomazia
-+10, Inganno +8, Natura +12, Sopravvivenza +10
+[Scalare](/azioni/abilita/scalare) nella vera forma o in forma di ragno),
+Diplomazia +10, Inganno +8, Natura +12, Sopravvivenza +10
 
 **For** +0, **Des** +2, **Cos** +0, **Int** +1 **Sag** +4, **Car** +2
 

@@ -55,10 +55,10 @@ divino
 **Repulsione per il Divino** ([emozione](/tratti/emozione),
 [mentale](/tratti/mentale), [paura](/tratti/paura)) Se un berretto roso vede una
 creatura brandire un simbolo religioso di una [divinità](/divinità/) buona (cosa
-che richiede un'azione di [Interagire](/azioni/interagire) da parte di quella
-creatura) o usarne uno per lanciare un incantesimo divino, il berretto rosso
-deve tentare un TS su Volontà con CD 19. Diventa poi temporaneamente immune ai
-tutti i simboli religiosi branditi per 10 minuti.
+che richiede un'azione di [Interagire](/azioni/base/interagire) da parte di
+quella creatura) o usarne uno per lanciare un incantesimo divino, il berretto
+rosso deve tentare un TS su Volontà con CD 19. Diventa poi temporaneamente
+immune ai tutti i simboli religiosi branditi per 10 minuti.
 
 **Successo Critico** ll berretto rosso non è influenzato.
 
@@ -77,7 +77,7 @@ tutti i simboli religiosi branditi per 10 minuti.
 **Mischia** :1: stivale +13 \[+9/+5] ([agile](/tratti/agile),
 [versatile C](/tratti/versatile)), **Danni** 1d6+8 perforanti
 
-**Calpestare** :1: Il berretto rosso [Avanza](/azioni/avanzare) fino a metà
+**Calpestare** :1: Il berretto rosso [Avanza](/azioni/base/avanzare) fino a metà
 della sua Velocità ed effettua un Colpo con lo stivale in un qualsiasi punto
 durante quel movimento. Se il Colpo con lo stivale va a segno su una creatura
 [prona](/condizioni/prono), infligge 2d6 danni da sanguinamento

@@ -52,8 +52,8 @@ CD 27
 
 **Lingue** Sottocomune
 
-**Abilità** Acrobazia +19 (+23 per [Stringersi](/azioni/stringersi)), Atletica
-+23, Furtività +19, Sopravvivenza +17
+**Abilità** Acrobazia +19 (+23 per [Stringersi](/azioni/abilita/stringersi)),
+Atletica +23, Furtività +19, Sopravvivenza +17
 
 **For** +7, **Des** +3, **Cos** +6, **Int** +0, **Sag** +3, **Car** +0
 
@@ -82,7 +82,7 @@ soltanto dopo che il gug ha effettuato tutti i suoi attacchi.
 
 **Flessibilità Inquietante** Nonostante la sua taglia, il gug può attraversare
 gli spazi stretti come se fosse una creatura Media grazie alle sue giunture
-multiple. Mentre si [Stringe](/azioni/stringersi), può muoversi alla sua
+multiple. Mentre si [Stringe](/azioni/abilita/stringersi), può muoversi alla sua
 velocità completa.
 
 **Squartare** :1: artiglio

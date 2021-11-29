@@ -63,9 +63,9 @@ il golem normalmente.
 **Riflessi Elettrici** :R: **Innesco** Il golem subisce danni da elettricità e
 una creatura gli è adiacente. **Effetto** Con un guizzo, il golem tenta di
 afferrare una creatura vicina. Il golem tenta una prova di Atletica per
-[Lottare](/azioni/lottare) con una creatura adiacente. ln caso di successo la
-creatura subisce anche 3d6 danni da elettricità, 0 6d6 danni da elettricità in
-caso di successo critico.
+[Lottare](/azioni/abilita/lottare) con una creatura adiacente. ln caso di
+successo la creatura subisce anche 3d6 danni da elettricità, 0 6d6 danni da
+elettricità in caso di successo critico.
 
 ---
 
@@ -75,6 +75,6 @@ caso di successo critico.
 [portata 3 metri](/tratti/portata)), **Danni** 2d10+7 contundenti
 
 **Schianto Berserk** :1: **Requisito** Il golem di carne è in berserk.
-**Effetto** Il golem di carne [Colpisce](/azioni/colpire) con il pugno con
+**Effetto** Il golem di carne [Colpisce](/azioni/base/colpire) con il pugno con
 penalità di circostanza -1. Se colpisce, infligge 1d6 danni aggiuntivi e butta
 il bersaglio a terra [prono](/condizioni/prono).

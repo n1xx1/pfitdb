@@ -95,6 +95,7 @@ logica di un diavolo del ghiaccio è in grado di delineare tattiche geniali
 attingendo alla sua memoria perfetta. Può trasmettere telepaticamente un ordine
 di riposizionamento tattico ai suoi alleati, consentendo a tutte le creature
 malvagie alleate o comandate entro la gittata della sua telepatia di
-[Avanzare](/azioni/avanzare) immediatamente (o di [Nuotare](/azioni/nuotare),
-[Scavare](/azioni/scavare), [Scalare](/azioni/scalare) o
-[Volare](/azioni/volare) se la creatura possiede la Velocità corrispondente).
+[Avanzare](/azioni/base/avanzare) immediatamente (o di
+[Nuotare](/azioni/abilita/nuotare), [Scavare](/azioni/base/scavare),
+[Scalare](/azioni/abilita/scalare) o [Volare](/azioni/base/volare) se la
+creatura possiede la Velocità corrispondente).

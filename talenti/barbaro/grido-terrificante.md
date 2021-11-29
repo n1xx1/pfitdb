@@ -14,6 +14,6 @@ original-srd: https://2e.aonprd.com/Feats.aspx?ID=161
 
 Emetti un ululato spaventoso. Effettui delle prove di
 [Intimidazione](/abilita/intimidazione) per
-[Demoralizzare](/azioni/demoralizzare) ogni nemico entro 9 metri. A prescindere
-dai risultati delle prove, ogni nemico diventa temporaneamente immune a Grido
-Terrificante per 1 minuto.
+[Demoralizzare](/azioni/abilita/demoralizzare) ogni nemico entro 9 metri. A
+prescindere dai risultati delle prove, ogni nemico diventa temporaneamente
+immune a Grido Terrificante per 1 minuto.

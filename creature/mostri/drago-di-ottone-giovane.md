@@ -62,8 +62,8 @@ _[parlare con gli animali](/incantesimi/parlare-con-gli-animali)_
 
 **Deviazione d'Ala** :R: **Innesco** Il drago è bersagliato da un attacco.
 **Effetto** Il drago alza la sua ala e ottiene bonus di circostanza +2 a CA
-contro l'attacco innescante. Se il drago sta [Volando](/azioni/volare), scende
-di 3 metri dopo che l'attacco è stato completato.
+contro l'attacco innescante. Se il drago sta [Volando](/azioni/base/volare),
+scende di 3 metri dopo che l'attacco è stato completato.
 
 ---
 
@@ -81,8 +81,8 @@ di 3 metri dopo che l'attacco è stato completato.
 **Incantesimi Innati Arcani** CD 25; **Costanti (2°)**
 _[parlare con gli animali](/incantesimi/parlare-con-gli-animali)_
 
-**Frenesia Draconica** :2: Il drago effettua due [Colpi](/azioni/colpire) con
-gli artiglio e un Colpo con le fauci in qualsiasi ordine.
+**Frenesia Draconica** :2: Il drago effettua due [Colpi](/azioni/base/colpire)
+con gli artiglio e un Colpo con le fauci in qualsiasi ordine.
 
 **Impeto Draconico** Il drago ricarica il suo Soffio ogni volta che mette a
 segno un colpo critico con un Colpo.

@@ -107,7 +107,7 @@ minuto.
 
 **Tocco Risucchiante** :2: Con un tocco, il fantasma tenta di risucchiare
 l'energia vitale di una creatura vivente. II fantasma effettua un
-[Colpo](/azioni/colpire) con la mano spettrale ma non infligge danni se
+[Colpo](/azioni/base/colpire) con la mano spettrale ma non infligge danni se
 colpisce. Il bersaglio diventa invece [risucchiato](/condizioni/risucchiato) 1
 per 1 giorno e il fantasma recupera un ammontare di PF pari alla metà del
 proprio livello.

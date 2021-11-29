@@ -15,6 +15,6 @@ solo se stai impugnando lo scudo stesso. Un'arma unita è, di solito, fissata o
 assemblata assieme all'oggetto a cui è unita e un oggetto può, generalmente,
 essere unito a una sola arma. Un'arma unita può essere applicata a un oggetto
 con 10 minuti di lavoro e un successo in una prova di
-[Fabbricare](/azioni/fabbricare) con CD 10; questo include il tempo necessario a
-rimuovere l'arma da un oggetto precedente, se necessario. Se un oggetto viene
-distrutto, l'arma unita ad esso può di solito essere recuperata.
+[Fabbricare](/azioni/abilita/fabbricare) con CD 10; questo include il tempo
+necessario a rimuovere l'arma da un oggetto precedente, se necessario. Se un
+oggetto viene distrutto, l'arma unita ad esso può di solito essere recuperata.

@@ -66,6 +66,6 @@ Tempra con CD 16, altrimenti subisce 1 danno da veleno
 continuano, la vista della creatura è ridotta e arriva solo entro 6 metri (o
 entro 3 metri in caso di fallimento critico).
 
-**Spore** Una creatura che subisce danni dal [Colpo](/azioni/colpire) con il
-guscio di spore di un leshy fungo deve tentare un tiro salvezza con la stessa CD
-e lo stesso effetto della sua capacità Nube di Spore.
+**Spore** Una creatura che subisce danni dal [Colpo](/azioni/base/colpire) con
+il guscio di spore di un leshy fungo deve tentare un tiro salvezza con la stessa
+CD e lo stesso effetto della sua capacità Nube di Spore.

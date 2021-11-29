@@ -39,12 +39,12 @@ CD 23
 **Mischia** :1: artiglio +18 \[+14/+10] ([agile](/tratti/agile),
 [portata 3 metri](/tratti/portata)), **Danni** 2d6+11 taglienti
 
-**Ampia Spazzata** :2: Il colosso effettua due [Colpi](/azioni/colpire) con
+**Ampia Spazzata** :2: Il colosso effettua due [Colpi](/azioni/base/colpire) con
 l'artiglio contro due avversari adiacenti che devono trovarsi entrambi entro la
 sua portata. La penalità da attacchi multipli aumenta soltanto dopo che entrambi
 gli attacchi sono stati risolti.
 
-**Impeto Massiccio** :2: Il colosso [Avanza](/azioni/avanzare) ed effettua un
-[Colpo](/azioni/colpire) con l'artiglio con bonus di circostanza +4 ai danni. Se
-il colpo va a segno, il colosso [Spinge](/azioni/spingere) automaticamente il
-bersaglio di 3 metri.
+**Impeto Massiccio** :2: Il colosso [Avanza](/azioni/base/avanzare) ed effettua
+un [Colpo](/azioni/base/colpire) con l'artiglio con bonus di circostanza +4 ai
+danni. Se il colpo va a segno, il colosso [Spinge](/azioni/abilita/spingere)
+automaticamente il bersaglio di 3 metri.

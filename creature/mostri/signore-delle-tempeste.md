@@ -33,7 +33,8 @@ CD 26
 
 **Venti Forti** ([aria](/tratti/aria), [aura](/tratti/aura)) 6 metri. L'aria
 entro l'emanazione è considerata terreno difficile per le creature
-[Volanti](/azioni/volare) che non possiedono il tratto [aria](/tratti/aria).
+[Volanti](/azioni/base/volare) che non possiedono il tratto
+[aria](/tratti/aria).
 
 **Disperdere** :R: **Innesco** Il signore delle tempeste subisce danni da
 un'azione ostile. **Effetto** Il signore delle tempeste si disperde. Fino alla

@@ -35,7 +35,7 @@ CD 13
 
 **Scatto Goblin :R: Innesco** Un goblin alleato termina un'azione di
 [movimento](/tratti/movimento) adiacente al combattente. **Effetto** Il goblin
-combattente fa un [Passo](/azioni/passo).
+combattente fa un [Passo](/azioni/base/passo).
 
 ---
 

@@ -53,10 +53,10 @@ CD 20
 
 **Sfoggio Intimidatorio** :2: ([emozione](/tratti/emozione),
 [mentale](/tratti/mentale), [paura](/tratti/paura), [uditivo](/tratti/uditivo),
-[visivo](/tratti/visivo)) La lucertola dal collare [Avanza](/azioni/avanzare).
-Se termina quell'Avanzata adiacente ad almeno un'altra creatura, sfoggia
-improvvisamente il suo collare sgargiante ed emette un sibilo terrificante. Ogni
-creatura adiacente deve superare un TS su Volontà con CD 21, altrimenti diventa
-[spaventata](/condizioni/spaventato) 2 (o spaventata 3 in caso di fallimento
-critico) La creatura è poi temporaneamente immune allo Sfoggio Intimidatorio per
-1 minuto.
+[visivo](/tratti/visivo)) La lucertola dal collare
+[Avanza](/azioni/base/avanzare). Se termina quell'Avanzata adiacente ad almeno
+un'altra creatura, sfoggia improvvisamente il suo collare sgargiante ed emette
+un sibilo terrificante. Ogni creatura adiacente deve superare un TS su Volontà
+con CD 21, altrimenti diventa [spaventata](/condizioni/spaventato) 2 (o
+spaventata 3 in caso di fallimento critico) La creatura è poi temporaneamente
+immune allo Sfoggio Intimidatorio per 1 minuto.

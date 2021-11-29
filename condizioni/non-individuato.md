@@ -19,5 +19,5 @@ ciò funziona come quando si prende di mira una creatura
 dal GM, che non rivela se l'attacco ha mancato a causa della scelta del
 quadretto errato o di un fallimento nella prova o nel tiro per colpire.
 
-Una creatura può usare l'azione [Individuare](/azioni/individuare) per cercare
-di trovarti.
+Una creatura può usare l'azione [Individuare](/azioni/base/individuare) per
+cercare di trovarti.

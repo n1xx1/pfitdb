@@ -22,8 +22,8 @@ CD 15
 
 **Percezione** +5; visione crepuscolare, fiuto (impreciso) 9 metri
 
-**Abilità** Acrobazia +8, Atletica +4 (+6 per [Scalare](/azioni/scalare) o
-[Nuotare](/azioni/nuotare)), Furtività +6
+**Abilità** Acrobazia +8, Atletica +4 (+6 per [Scalare](/azioni/abilita/scalare)
+o [Nuotare](/azioni/abilita/nuotare)), Furtività +6
 
 **For** -2, **Des** +3, **Cos** +1, **Int** -4, **Sag** +1, **Car** -3
 

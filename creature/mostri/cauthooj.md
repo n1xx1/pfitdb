@@ -60,7 +60,7 @@ l'essenza mentale delle creature entro la gittata indicata.
 cauthooj è il bersaglio di un Colpo in mischia ed è adiacente a un altro nemico
 a sua volta entro portata del Colpo in mischia. **Effetto** Il cauthooj balza
 agilmente di lato e direziona il Colpo innescante contro il nemico adiacente. Il
-cauthooj [Avanza](/azioni/avanzare) fino a metà della sua Velocità e questo
+cauthooj [Avanza](/azioni/base/avanzare) fino a metà della sua Velocità e questo
 movimento non innesca reazioni.
 
 ---
@@ -93,8 +93,8 @@ per riprendersi dalla confusione.
 **Colpo Staccato** :1: ([mentale](/tratti/mentale), [primevo](/tratti/primevo),
 [sonoro](/tratti/sonoro)) Con alcune sottili alterazioni nell'intensità e nel
 tono del suo canto, il cauthooj ordina a una creatura confusa dal suo Canto
-Gorgogliante di effettuare un [Colpo](/azioni/colpire). Questo funziona come gli
-altri Colpi effettuati dalle creature confuse, con la differenza che è il
-cauthooj a scegliere il bersaglio. Se non c'è nessun bersaglio entro portata o
-gittata, o se la creatura non è in grado di effettuare il Colpo per qualsiasi
+Gorgogliante di effettuare un [Colpo](/azioni/base/colpire). Questo funziona
+come gli altri Colpi effettuati dalle creature confuse, con la differenza che è
+il cauthooj a scegliere il bersaglio. Se non c'è nessun bersaglio entro portata
+o gittata, o se la creatura non è in grado di effettuare il Colpo per qualsiasi
 altro motivo, questa capacità non ha effetto.

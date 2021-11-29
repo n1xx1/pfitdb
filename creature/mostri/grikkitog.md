@@ -36,7 +36,7 @@ vista molteplice
 il suo nucleo in una sezione adiacente di terra o di pietra, fondendosi
 impeccabilmente e alterando il suo aspetto visivo per adattarlo a quello della
 roccia circostante. È immobilizzato ma supera automaticamente la sua prova di
-Inganno per [Impersonare](/azioni/impersonare) la pietra attorno a sé le
+Inganno per [Impersonare](/azioni/abilita/impersonare) la pietra attorno a sé le
 creature che lo cercano attivamente possono comunque tentare prove di Percezione
 contro la sua CD di Inganno normalmente. Un grikkitog può liberare il suo nucleo
 con un'azione gratuita che possiede il tratto [maneggiare](/tratti/maneggiare).
@@ -80,9 +80,9 @@ quest'ultimo non superi un TS su Riflessi con CD 34. Mentre è
 sanguinamento [persistenti](/condizioni/danno-persistente) e il grikkitog si
 ciba della sua carne. La creatura è immobilizzata finché il grikkitog non
 termina l'effetto con un'azione gratuita o finché il bersaglio non supera una
-prova con CD 38 per [Sfuggire](/azioni/sfuggire). Il grikkitog può immobilizzare
-un qualsiasi numero di creature con queste fauci.
+prova con CD 38 per [Sfuggire](/azioni/base/sfuggire). Il grikkitog può
+immobilizzare un qualsiasi numero di creature con queste fauci.
 
-**Scivolare nella Terra** Il grikkitog può [Scavare](/azioni/scavare) attraverso
-la terra e la pietra alla sua Velocità di scavare completa, senza lasciare
-tunnel o segni del suo passaggio.
+**Scivolare nella Terra** Il grikkitog può [Scavare](/azioni/base/scavare)
+attraverso la terra e la pietra alla sua Velocità di scavare completa, senza
+lasciare tunnel o segni del suo passaggio.

@@ -13,7 +13,7 @@ creatura di 1 e cambia le sue caratteristiche come segue.
   solitamente diventa malvagio.
 - Aumenta la sua CA, i bonus di attacco, le CD, i tiri salvezza e i modificatori
   delle abilità di 1.
-- Aumenta i danni dei suoi [Colpi](/azioni/colpire) e delle altre capacità
+- Aumenta i danni dei suoi [Colpi](/azioni/base/colpire) e delle altre capacità
   offensive di 1. Se una capacità può essere usata solo un numero limitato di
   volte (come per esempio il soffio di un drago), aumenta invece i danni di 2.
 - Riduci i PF dell'ammontare indicato dalla tabella.
@@ -70,8 +70,8 @@ ricomincia a funzionare normalmente.
   metri da una treccia d'aglio o da un simbolo religioso di una
   [divinità](/divinità/) non malvagia che vengono branditi contro di lui. Per
   brandire l'aglio o il simbolo religioso, una creatura deve
-  [Interagire](/azioni/interagire) per 1 round (in modo analogo ad
-  [Alzare uno Scudo](/azioni/alzare-lo-scudo)). Se il vampiro giunge
+  [Interagire](/azioni/base/interagire) per 1 round (in modo analogo ad
+  [Alzare uno Scudo](/azioni/base/alzare-lo-scudo)). Se il vampiro giunge
   involontariamente a meno di 3 metri dall'oggetto della sua repulsione, ottiene
   la condizione [in fuga](/condizioni/in-fuga) e scappa dall'oggetto della sua
   repulsione finché non termina un'azione oltre i 3 metri. Dopo 1 round di

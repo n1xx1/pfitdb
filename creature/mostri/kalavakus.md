@@ -50,8 +50,8 @@ dalla schiavitù mentale, il demone subisce 3d6 danni mentali.
 
 **Corno a Calappio** :R: **Innesco** Una creatura manca il demone schiavista con
 un Colpo di un'arma da mischia. **Effetto** Il demone schiavista tenta di
-[Disarmare](/azioni/disarmare) l'arma utilizzata nel Colpo innescante con
-penalità -2. Se il tiro ha successo, ottiene invece un successo critico. Il
+[Disarmare](/azioni/abilita/disarmare) l'arma utilizzata nel Colpo innescante
+con penalità -2. Se il tiro ha successo, ottiene invece un successo critico. Il
 demone non ha bisogno di una mano libera per usare questa capacità.
 
 ---

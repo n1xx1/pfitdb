@@ -54,7 +54,7 @@ banchetto vorace
 **Banchetto Vorace** Se l'ogre vorace danneggia una creatura vivente con il suo
 Colpo con le fauci, ottiene 1d4 Punti Ferita temporanei per 1 minuto.
 
-**Impeto Vorace** :2: L'ogre vorace [Avanza](/azioni/avanzare) due volte ed
+**Impeto Vorace** :2: L'ogre vorace [Avanza](/azioni/base/avanzare) due volte ed
 effettua un Colpo con le fauci. Se danneggia una creatura vivente con questo
 Colpo, i Punti Ferita temporanei che riceve dal banchetto vorace aumentano a
 2d4.

@@ -31,8 +31,8 @@ CD 20
 
 ---
 
-**CA** 23 (25 con lo scudo [alzato](/azioni/alzare-lo-scudo)); **Temp** +12,
-**Rifl** +8, **Vol** +11; status +1 a tutti i TS contro
+**CA** 23 (25 con lo scudo [alzato](/azioni/base/alzare-lo-scudo)); **Temp**
++12, **Rifl** +8, **Vol** +11; status +1 a tutti i TS contro
 [malattia](/tratti/malattia) (contro le malattie, i fallimenti critici diventano
 fallimenti)
 

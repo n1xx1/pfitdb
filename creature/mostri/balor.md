@@ -128,11 +128,11 @@ un'_arma vorpal poderosa maggiore +2_ fatta di ferro freddo e d'argento finché
 il demone la impugna. Un'arma che non sia compatibile con la runa _vorpal_ non
 ottiene i suoi effetti. Il balor può cambiare i suoi danni da male in caotici
 ogni volta che attacca. Il demone può evocare una frusta fatta di fiamme con
-un'azione di [Interagire](/azioni/interagire). Questa frusta ottiene gli stessi
-benefici delle altre armi impugnate dal balor.
+un'azione di [Interagire](/azioni/base/interagire). Questa frusta ottiene gli
+stessi benefici delle altre armi impugnate dal balor.
 
 **Riposizionamento di Frusta** Quando un balor afferra una creatura con un Colpo
 con la frusta, può muovere la creatura fino a un qualsiasi spazio entro la
 portata della frusta. Il balor può muovere la creatura senza smettere di
 afferrarla, fintanto che essa rimane entro la portata della frusta con un'azione
-di [Interagire](/azioni/interagire).
+di [Interagire](/azioni/base/interagire).

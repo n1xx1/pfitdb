@@ -59,13 +59,13 @@ volontà); **2°** _[polvere luccicante](/incantesimi/polvere-luccicante)_ (x2);
 **Costanti (4°)**
 _[individuazione del magico](/incantesimi/individuazione-del-magico)_
 
-**Scivolare nella Terra** Lo Shaitan può [Scavare](/azioni/scavare) attraverso
-la terra e la pietra alla sua Velocità di scavare completa, senza lasciare
-tunnel o segni del suo passaggio.
+**Scivolare nella Terra** Lo Shaitan può [Scavare](/azioni/base/scavare)
+attraverso la terra e la pietra alla sua Velocità di scavare completa, senza
+lasciare tunnel o segni del suo passaggio.
 
 **Spingere nella Pietra** ([arcano](/tratti/arcano), [terra](/tratti/terra),
 [trasmutazione](/tratti/trasmutazione)) Quando lo shaitan Spintona una creatura
 in una barriera di pietra, il bersaglio deve superare un TS su Riflessi con CD
 22, altrimenti si fonde nella barriera (come in
 _[fondersi nella pietra](/incantesimi/fondersi-nella-pietra)_). La vittima può
-tentare di [Sfuggire](/azioni/sfuggire) (CD 28).
+tentare di [Sfuggire](/azioni/base/sfuggire) (CD 28).

@@ -44,7 +44,8 @@ CD 24
 **Percezione** +16; fiuto (impreciso) 18 metri, visione crepuscolare
 
 **Abilità** Atletica +18, Furtività +18 (+20 in acqua), Sopravvivenza +17 (+20
-per [Seguire Tracce](/azioni/seguire-tracce) di una creatura sanguinante)
+per [Seguire Tracce](/azioni/abilita/seguire-tracce) di una creatura
+sanguinante)
 
 **For** +6, **Des** +3, **Cos** +6, **Int** -4, **Sag** +2, **Car** +0
 
@@ -85,8 +86,8 @@ creatura che ha colpito. La creatura subisce 1d6 danni da sanguinamento
 curato finché il dente rimane.
 
 Per rimuovere il dente senza rischi è necessario superare una prova per
-[Prestare Primo Soccorso](/azioni/prestare-primo-soccorso) con CD 26. Invece di
-terminare il sanguinamento o stabilizzare, questa prova rimuove la condizione
-risucchiato, ma non termina automaticamente i danni da sanguinamento.
+[Prestare Primo Soccorso](/azioni/abilita/prestare-primo-soccorso) con CD 26.
+Invece di terminare il sanguinamento o stabilizzare, questa prova rimuove la
+condizione risucchiato, ma non termina automaticamente i danni da sanguinamento.
 
 **Imboscata Acquatica** **:1:**

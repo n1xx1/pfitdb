@@ -28,8 +28,8 @@ CD 32
 
 **Percezione** +22; scurovisione
 
-**Abilità** Acrobazia +18, Atletica +26 (+28 per [Nuotare](/azioni/nuotare)),
-Furtività +28
+**Abilità** Acrobazia +18, Atletica +26 (+28 per
+[Nuotare](/azioni/abilita/nuotare)), Furtività +28
 
 **For** +8, **Des** +4, **Cos** +6, **Int** -4, **Sag** +2, **Car** +0
 
@@ -75,9 +75,9 @@ Nautica del pilota, scegliendo il valore più alto.
 
 **Cresta Dorsale** :2: ([attacco](/tratti/attacco),
 [movimento](/tratti/movimento)) Il serpente marino estende le spine lungo il suo
-dorso e [Nuota](/azioni/nuotare) o [Avanza](/azioni/avanzare). Ogni creatura a
-cui il serpente è adiacente in qualsiasi punto durante questo movimento subisce
-4d6+8 danni taglienti (TS base su Riflessi con CD 32).
+dorso e [Nuota](/azioni/abilita/nuotare) o [Avanza](/azioni/base/avanzare). Ogni
+creatura a cui il serpente è adiacente in qualsiasi punto durante questo
+movimento subisce 4d6+8 danni taglienti (TS base su Riflessi con CD 32).
 
 **Inghiottire** **:1:** ([attacco](/tratti/attacco)) Enorme, 2d10+6 contundenti,
 Rottura 20

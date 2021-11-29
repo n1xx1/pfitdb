@@ -40,8 +40,9 @@ _[parlare con gli animali](/incantesimi/parlare-con-gli-animali)_.
 **Avventarsi sulla Preda** :R: **Innesco** Una creatura tocca la ragnatela
 dell'appostato delle ragnatele mentre quest'ultimo si trova su di essa.
 **Requisito** L'iniziativa non è ancora stata tirata. **Effetto** L'appostato
-delle ragnatele nota automaticamente la creatura e [Avanza](/azioni/avanzare) o
-[Scala](/azioni/scalare) prima di tirare per l'iniziativa.
+delle ragnatele nota automaticamente la creatura e
+[Avanza](/azioni/base/avanzare) o [Scala](/azioni/abilita/scalare) prima di
+tirare per l'iniziativa.
 
 ---
 
@@ -58,7 +59,7 @@ taglienti
 **Trappola della Ragnatela** Una creatura colpita dall'attacco con la ragnatela
 dell'appostato delle ragnatele è [immobilizzata](/condizioni/immobilizzato) e
 fissata alla superficie più vicina finché non supera una prova di Acrobazia con
-CD 20 per [Sfuggire](/azioni/sfuggire).
+CD 20 per [Sfuggire](/azioni/base/sfuggire).
 
 **Veleno dell'Appostato delle Ragnatele** ([veleno](/tratti/veleno)) **Tiro
 Salvezza** Tempra CD 19; **Durata Massima** 10 round; **Fase 1** 1d6 da veleno e

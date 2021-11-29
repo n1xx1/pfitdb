@@ -65,14 +65,15 @@ CD 24
 2d8+10 taglienti
 
 **Carica con Balzo** :2: Il bulette tenta un
-[Salto in Alto](/azioni/salto-in-alto) o un
-[Salto in Lungo](/azioni/salto-in-lungo). Se è adiacente a un nemico all'apice
-del suo Salto in Alto o alla fine del suo Salto in Lungo, può effettuare un
-[Colpo](/azioni/colpire) con l'artiglio contro il nemico in quel momento. Se il
-bulette salta di almeno 1,5 metri verticalmente o di almeno 6 metri
-orizzontalmente, può tentare due Colpi con l'artiglio invece di uno. La penalità
-da attacchi multipli del bulette non aumenta finché il bulette non ha effettuato
-tutti gli attacchi con l'artiglio che fanno parte della sua Carica con Balzo.
+[Salto in Alto](/azioni/abilita/salto-in-alto) o un
+[Salto in Lungo](/azioni/abilita/salto-in-lungo). Se è adiacente a un nemico
+all'apice del suo Salto in Alto o alla fine del suo Salto in Lungo, può
+effettuare un [Colpo](/azioni/base/colpire) con l'artiglio contro il nemico in
+quel momento. Se il bulette salta di almeno 1,5 metri verticalmente o di almeno
+6 metri orizzontalmente, può tentare due Colpi con l'artiglio invece di uno. La
+penalità da attacchi multipli del bulette non aumenta finché il bulette non ha
+effettuato tutti gli attacchi con l'artiglio che fanno parte della sua Carica
+con Balzo.
 
 **Preda Prescelta** Un bulette ottiene bonus di circostanza +1 ai tiri per
 colpire e ai tiri per i danni con le fauci contro un tipo specifico di creatura

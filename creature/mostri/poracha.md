@@ -83,8 +83,8 @@ lentamente e il poracha ha solo una percezione limitata del mondo esterno. Il
 poracha può percepire cosa succede all'esterno dell'oggetto soltanto usando
 percezione tellurica. Il poracha può usare soltanto azioni mentali o
 Transizione; se usa Transizione, lascia l'oggetto e compare dove preferisce. Se
-una creatura [Colpisce](/azioni/colpire) l'oggetto, il poracha viene espulso
-illeso.
+una creatura [Colpisce](/azioni/base/colpire) l'oggetto, il poracha viene
+espulso illeso.
 
 **Transizione** :1: ([evocazione](/tratti/evocazione),
 [movimento](/tratti/movimento), [primevo](/tratti/primevo),

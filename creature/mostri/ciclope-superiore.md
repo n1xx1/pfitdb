@@ -77,7 +77,7 @@ L'attacco diventa un successo critico.
 **Distanza** :1: roccia +23 \[+18/+13] ([brutale](/tratti/brutale), incremento
 di gittata 36 metri), **Danni** 4d6+7 contundenti
 
-**Carica Possente** :2: Il ciclope superiore [Avanza](/azioni/avanzare) due
+**Carica Possente** :2: Il ciclope superiore [Avanza](/azioni/base/avanzare) due
 volte ed effettua un Colpo con il corno. Se si è mosso allontanandosi di almeno
 6 metri dalla posizione di partenza, i danni del Colpo aumentano a 3d10+20.
 

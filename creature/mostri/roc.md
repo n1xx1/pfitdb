@@ -51,9 +51,9 @@ CD 26
 **PF** 180
 
 **Ala Respingente** :R: **Innesco** Una creatura entra nella portata dell'ala
-del roc. **Effetto** Il roc effettua un [Colpo](/azioni/colpire) d'ala contro la
-creatura innescante. Se il roc Spintona la creatura, interrompe l'azione di
-[movimento](/tratti/movimento) innescante.
+del roc. **Effetto** Il roc effettua un [Colpo](/azioni/base/colpire) d'ala
+contro la creatura innescante. Se il roc Spintona la creatura, interrompe
+l'azione di [movimento](/tratti/movimento) innescante.
 
 ---
 
@@ -70,10 +70,10 @@ Migliorato
 [portata 9 metri](/tratti/portata)), **Danni** 2d6+10 contundenti più Spintonare
 Migliorato 3 metri
 
-**Assalto ln Volo** :2: Il roc [Vola](/azioni/volare) fino alla sua Velocità ed
-effettua due Colpi con la grinfia in un qualsiasi punto durante quel movimento.
-Ogni colpo deve bersagliare una creatura diversa. Ogni attacco subisce la
-normale penalità da attacchi multipli.
+**Assalto ln Volo** :2: Il roc [Vola](/azioni/base/volare) fino alla sua
+Velocità ed effettua due Colpi con la grinfia in un qualsiasi punto durante quel
+movimento. Ogni colpo deve bersagliare una creatura diversa. Ogni attacco
+subisce la normale penalità da attacchi multipli.
 
 **Ghermire** :1: Un roc può Volare a metà Velocità mentre
 [afferra](/condizioni/afferrare) o [trattiene](/condizioni/trattenuto) una

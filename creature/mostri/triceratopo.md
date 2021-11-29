@@ -55,8 +55,8 @@ cavalca ottiene bonus di circostanza +2 alla sua CA contro l'attacco innescante.
 **Mischia** :1: piede +19 \[+14/+9] ([portata 3 metri](/tratti/portata)),
 **Danni** 2d6+9 contundenti
 
-**Carica Massiccia** **:1:** Il triceratopo [Avanza](/azioni/avanzare) fino a 3
-metri e poi effettua un [Colpo](/azioni/colpire).
+**Carica Massiccia** **:1:** Il triceratopo [Avanza](/azioni/base/avanzare) fino
+a 3 metri e poi effettua un [Colpo](/azioni/base/colpire).
 
 **Travolgere** :3: Grande o inferiore, piede, CD 26
 

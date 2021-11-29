@@ -55,8 +55,8 @@ boggard. A differenza di un normale afferrare, la creatura non è
 [immobilizzata](/condizioni/immobilizzato), ma non può muoversi oltre la portata
 della lingua del boggard. Una creatura può recidere la lingua colpendo CA 15 e
 infliggendo almeno 3 danni taglienti. Anche se questo non infligge danni al
-boggard, gli impedisce di usare il suo [Colpo](/azioni/colpire) con la lingua
-finché la lingua non gli ricresce, cosa che richiede una settimana.
+boggard, gli impedisce di usare il suo [Colpo](/azioni/base/colpire) con la
+lingua finché la lingua non gli ricresce, cosa che richiede una settimana.
 
 **Andatura nella Palude** Un boggard combattente ignora il terreno difficile
 causato dalle caratteristiche del terreno paludoso.

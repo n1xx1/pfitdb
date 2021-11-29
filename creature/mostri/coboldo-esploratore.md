@@ -50,7 +50,8 @@ perforanti
 creature [impreparate](/condizioni/impreparato).
 
 **Battere in Ritirata :1: Requisiti** Il coboldo esploratore è adiacente ad
-almeno un nemico. **Effetto** Il coboldo esploratore [Avanza](/azioni/avanzare)
-fino alla sua Velocità più 1,5 metri e ottiene bonus di circostanza +2 alla CA
-contro le reazioni innescate da questo movimento. Deve terminare questo
-movimento in una casella che non sia adiacente a nessun nemico.
+almeno un nemico. **Effetto** Il coboldo esploratore
+[Avanza](/azioni/base/avanzare) fino alla sua Velocità più 1,5 metri e ottiene
+bonus di circostanza +2 alla CA contro le reazioni innescate da questo
+movimento. Deve terminare questo movimento in una casella che non sia adiacente
+a nessun nemico.

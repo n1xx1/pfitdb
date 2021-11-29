@@ -43,9 +43,9 @@ perforanti più Afferrare
 creature [impreparate](/condizioni/impreparato).
 
 **Balzo** :1: Il leopardo [Avanza](/azioni/) ed effettua un
-[Colpo](/azioni/colpire) alla fine di quel movimento. Se il leopardo ha iniziato
-questa azione [nascosto](/condizioni/nascosto), rimane nascosto fin dopo il
-Colpo con questa capacità.
+[Colpo](/azioni/base/colpire) alla fine di quel movimento. Se il leopardo ha
+iniziato questa azione [nascosto](/condizioni/nascosto), rimane nascosto fin
+dopo il Colpo con questa capacità.
 
 **Lacerare** :1: Il leopardo effettua due Colpi con l'artiglio contro una
 creatura che ha [afferrato](/condizioni/afferrato). Entrambi contano al fine di

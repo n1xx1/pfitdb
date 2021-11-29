@@ -40,7 +40,7 @@ CD 16
 
 **Morso Vendicatore** :R: **Innesco** Una creatura entro la portata delle fauci
 del warg attacca un alleato del warg. **Effetto** Il warg effettua un
-[Colpo](/azioni/colpire) con le fauci contro la creatura innescante.
+[Colpo](/azioni/base/colpire) con le fauci contro la creatura innescante.
 
 ---
 

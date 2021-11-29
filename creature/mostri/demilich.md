@@ -163,5 +163,5 @@ di 200 mo l'una. Il demilich può Divorare un'Anima che ha intrappolato.
 
 **Magia Mentale** Un demilich può sostituire tutte le componenti materiali e
 somatiche per lanciare incantesimi con le componenti verbali e può sostituire
-tutte le componenti di [Interagire](/azioni/interagire) per attivare gli oggetti
-magici con componenti di visualizzare.
+tutte le componenti di [Interagire](/azioni/base/interagire) per attivare gli
+oggetti magici con componenti di visualizzare.

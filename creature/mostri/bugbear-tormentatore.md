@@ -54,7 +54,7 @@ extra alle creature [impreparate](/condizioni/impreparato).
 **Doppia Finta** :2: Il bugbear tormentatore effettua un'impressionante serie di
 attacchi con due armi, usando il primo attacco per fare abbassare la guardia
 contro un secondo attacco a un'angolazione diversa. Effettua un
-[Colpo](/azioni/colpire) con ognuna delle sue armi da mischia, entrambi contro
-lo stesso bersaglio. Il bersaglio è automaticamente
+[Colpo](/azioni/base/colpire) con ognuna delle sue armi da mischia, entrambi
+contro lo stesso bersaglio. Il bersaglio è automaticamente
 [impreparato](/condizioni/impreparato) contro il secondo attacco. La penalità da
 attacchi multipli si applica normalmente ai Colpi del bugbear tormentatore

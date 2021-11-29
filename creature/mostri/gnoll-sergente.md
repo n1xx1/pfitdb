@@ -59,8 +59,8 @@ qualsiasi creatura entro portata di almeno due alleati dello gnoll sergente.
 **Latrare Ordini** :1: ([linguistico](/tratti/linguistico),
 [uditivo](/tratti/uditivo)) Lo gnoll sergente comanda ai suoi alleati di
 riposizionarsi. Ogni alleato che sente questo ordine e lo capisce può usare una
-reazione per fare un [Passo](/azioni/passo).
+reazione per fare un [Passo](/azioni/base/passo).
 
 **Spostamento Accidentato** Un gnoll ignora il primo quadretto di terreno
-difficile in cui si muove ogni volta che fa un [Passo](/azioni/passo) o
-[Avanza](/azioni/avanzare).
+difficile in cui si muove ogni volta che fa un [Passo](/azioni/base/passo) o
+[Avanza](/azioni/base/avanzare).

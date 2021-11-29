@@ -146,7 +146,7 @@ della creatura di 1 e cambia le sue statistiche come segue:
 - La sua CA, i bonus di attacco, le CD, i tiri salvezza e i modificatori delle
   abilità aumentano di 1.
 
-- Aumenta i danni dei suoi [Colpi](/azioni/colpire) e delle altre capacità
+- Aumenta i danni dei suoi [Colpi](/azioni/base/colpire) e delle altre capacità
   offensive di 1. Se una capacità può essere usata solo un numero limitato di
   volte (come per esempio un soffio), aumenta invece i danni di 2.
 
@@ -169,7 +169,7 @@ ottiene tutti i sensi dell'animale.
 [primevo](/tratti/primevo)) Una creatura mannara pub comunicare con gli animali
 dello stesso tipo generico d'appartenenza.
 
-**Artigli** La creatura mannara ottiene un [Colpo](/azioni/colpire) con
+**Artigli** La creatura mannara ottiene un [Colpo](/azioni/base/colpire) con
 l'artiglio (un attacco senz'armi con il tratto [agile](/tratti/agile) che
 infligge danni taglienti). Se era in possesso di attacchi con il tratto agile, i
 danni inflitti dai suoi artigli dovrebbero essere all'incirca equivalenti a
@@ -315,7 +315,7 @@ minuto.
 
 **Tocco Risucchiante** :2: Con un tocco, il fantasma tenta di risucchiare
 l'energia vitale di una creatura vivente. II fantasma effettua un
-[Colpo](/azioni/colpire) con la mano spettrale ma non infligge danni se
+[Colpo](/azioni/base/colpire) con la mano spettrale ma non infligge danni se
 colpisce. Il bersaglio diventa invece [risucchiato](/condizioni/risucchiato) 1
 per 1 giorno e il fantasma recupera un ammontare di PF pari alla metà del
 proprio livello.
@@ -334,10 +334,10 @@ creatura aumenta di 1 e le sue statistiche cambiano come segue.
 
 - La sua CA, i bonus di attacco, le CD, i tiri salvezza e i modificatori di
   abilità aumentano tutti di 1.
-- I danni dei [Colpi](/azioni/colpire) e di tutte le altre capacità offensive
-  aumentano di 1. Se la creatura dispone di capacità utilizzabili un numero
-  limitato di volte (come per esempio un'arma a soffio), i danni di quelle
-  capacità aumentano invece di 2.
+- I danni dei [Colpi](/azioni/base/colpire) e di tutte le altre capacità
+  offensive aumentano di 1. Se la creatura dispone di capacità utilizzabili un
+  numero limitato di volte (come per esempio un'arma a soffio), i danni di
+  quelle capacità aumentano invece di 2.
 
 ##### CAPACITÀ DEI GHOUL
 
@@ -355,13 +355,13 @@ utilizza la CD del livello del ghoul (_Manuale di Gioco_ 503).
 - **Immunità** effetti di [morte](/tratti/morte), [malattia](/tratti/malattia),
   [paralizzato](/condizioni/paralizzato), [veleno](/tratti/veleno),
   [privo di sensi](/condizioni/privo-di-sensi)
-- **Artigli** Se la creatura aveva le mani, ottiene un [Colpo](/azioni/colpire)
-  con l'artiglio (un tipo di attacco senz'armi [agile](/tratti/agile) che
-  infligge danni taglienti più paralisi). Se la creatura possedeva già un
-  attacco agile, i danni inflitti dagli artigli dovrebbero essere più o meno
-  equivalenti a quelli inflitti da quell'attacco. Se invece possedeva soltanto
-  attacchi non agili, i suoi artigli infliggeranno danni pari a tre quarti di
-  quegli attacchi
+- **Artigli** Se la creatura aveva le mani, ottiene un
+  [Colpo](/azioni/base/colpire) con l'artiglio (un tipo di attacco senz'armi
+  [agile](/tratti/agile) che infligge danni taglienti più paralisi). Se la
+  creatura possedeva già un attacco agile, i danni inflitti dagli artigli
+  dovrebbero essere più o meno equivalenti a quelli inflitti da quell'attacco.
+  Se invece possedeva soltanto attacchi non agili, i suoi artigli infliggeranno
+  danni pari a tre quarti di quegli attacchi
 - **Fauci** Se la creatura aveva la bocca, ottiene un Colpo con le fauci (un
   attacco senz'armi che infligge danni taglienti più febbre del ghoul e
   paralisi). I danni inflitti sono gli stessi degli attacchi non agili della
@@ -519,7 +519,7 @@ creatura di 1 e cambia le sue caratteristiche come segue.
   solitamente diventa malvagio.
 - Aumenta la sua CA, i bonus di attacco, le CD, i tiri salvezza e i modificatori
   delle abilità di 1.
-- Aumenta i danni dei suoi [Colpi](/azioni/colpire) e delle altre capacità
+- Aumenta i danni dei suoi [Colpi](/azioni/base/colpire) e delle altre capacità
   offensive di 1. Se una capacità può essere usata solo un numero limitato di
   volte (come per esempio il soffio di un drago), aumenta invece i danni di 2.
 - Riduci i PF dell'ammontare indicato dalla tabella.
@@ -576,8 +576,8 @@ ricomincia a funzionare normalmente.
   metri da una treccia d'aglio o da un simbolo religioso di una
   [divinità](/divinità/) non malvagia che vengono branditi contro di lui. Per
   brandire l'aglio o il simbolo religioso, una creatura deve
-  [Interagire](/azioni/interagire) per 1 round (in modo analogo ad
-  [Alzare uno Scudo](/azioni/alzare-lo-scudo)). Se il vampiro giunge
+  [Interagire](/azioni/base/interagire) per 1 round (in modo analogo ad
+  [Alzare uno Scudo](/azioni/base/alzare-lo-scudo)). Se il vampiro giunge
   involontariamente a meno di 3 metri dall'oggetto della sua repulsione, ottiene
   la condizione [in fuga](/condizioni/in-fuga) e scappa dall'oggetto della sua
   repulsione finché non termina un'azione oltre i 3 metri. Dopo 1 round di

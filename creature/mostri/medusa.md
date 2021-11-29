@@ -61,8 +61,8 @@ attivare quest'aura usando un'azione singola che possiede il tratto
 [concentrazione](/tratti/concentrazione).
 
 **Serpenti Mordaci :R: Innesco** Una creatura termina il suo turno adiacente
-alla medusa. **Effetto** La medusa effettua un [Colpo](/azioni/colpire) con le
-zanne di serpente contro la creatura.
+alla medusa. **Effetto** La medusa effettua un [Colpo](/azioni/base/colpire) con
+le zanne di serpente contro la creatura.
 
 ---
 

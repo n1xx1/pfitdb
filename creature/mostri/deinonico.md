@@ -26,7 +26,7 @@ CD 16
 
 **Percezione** +7; visione crepuscolare, fiuto (impreciso) 9 metri
 
-**Abilità** Acrobazia +7, Atletica +9 (+12 [Saltare](/azioni/saltare)),
+**Abilità** Acrobazia +7, Atletica +9 (+12 [Saltare](/azioni/base/saltare)),
 Furtività +7
 
 **For** +3, **Des** +3, **Cos** +4, **Int** -4, **Sag** +1, **Car** +2
@@ -46,9 +46,9 @@ Furtività +7
 **Mischia** :1: grinfia +9 \[+5/+1] ([agile](/tratti/agile)), **Danni** 1d6+3
 taglienti più 1d4 [sanguinamento](/condizioni/danno-persistente)
 
-**Attacco Sfrecciante** :1: Il deinonico [Avanza](/azioni/avanzare) fino a 3
-metri e poi effettua un [Colpo](/azioni/colpire), oppure effettua un Colpo e poi
-Avanza fino a 3 metri.
+**Attacco Sfrecciante** :1: Il deinonico [Avanza](/azioni/base/avanzare) fino a
+3 metri e poi effettua un [Colpo](/azioni/base/colpire), oppure effettua un
+Colpo e poi Avanza fino a 3 metri.
 
 **Vantaggio del Predatore** Le creature sanguinanti sono
 [impreparate](/condizioni/impreparato) nei confronti del deinonico.

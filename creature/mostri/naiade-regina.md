@@ -29,9 +29,9 @@ crepuscolare
 
 **Lingue** Comune, Elfico, Silvano
 
-**Abilità** Acrobazia +16, Atletica +9 (+13 per [Nuotare](/azioni/nuotare)),
-Diplomazia +20, Esibizione +20, Furtività +14, Medicina +15, Natura +15,
-Sopravvivenza +15
+**Abilità** Acrobazia +16, Atletica +9 (+13 per
+[Nuotare](/azioni/abilita/nuotare)), Diplomazia +20, Esibizione +20, Furtività
++14, Medicina +15, Natura +15, Sopravvivenza +15
 
 **For** +0, **Des** +5, **Cos** +4, **Int** +3, **Sag** +4, **Car** +7
 
@@ -47,8 +47,9 @@ protetta diventa a sua volta compromessa o instabile. ln quel caso, risanando la
 ninfa regina, anche l'intera regione sarà rapidamente guarita.
 
 **Empatia Selvatica** La naiade può usare Diplomazia per
-[Impressionare](/azioni/impressionare) e fare [Richieste](/azioni/richiedere)
-molto semplici agli [animali](/tratti/animale).
+[Impressionare](/azioni/abilita/impressionare) e fare
+[Richieste](/azioni/abilita/richiedere) molto semplici agli
+[animali](/tratti/animale).
 
 ---
 

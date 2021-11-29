@@ -19,8 +19,8 @@ CD 24
 **Percezione** +15
 
 **Abilità** Artigianato +13 (+17 tessere), Atletica +12 (+14 a
-[Scalare](/azioni/scalare) nella vera forma o in forma di ragno), Diplomazia
-+10, Inganno +12, Natura +14, Società +9, Sopravvivenza +12
+[Scalare](/azioni/abilita/scalare) nella vera forma o in forma di ragno),
+Diplomazia +10, Inganno +12, Natura +14, Società +9, Sopravvivenza +12
 
 **For** +0, **Des** +3, **Cos** +1, **Int** -4, **Sag** +1, **Car** +1
 

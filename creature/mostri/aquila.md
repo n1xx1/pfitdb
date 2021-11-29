@@ -41,6 +41,6 @@ perforanti
 **Mischia** :1: grinfie +6 \[+2/-2] ([accurata](/tratti/accurata),
 [agile](/tratti/agile)), **Danni** 1d6 perforanti
 
-**Picchiata dell'Aquila** :2: L'aquila [Vola](/azioni/volare) fino al doppio
-della sua Velocità di volare in linea retta, scende di almeno 3 metri e poi
-effettua un [Colpo](/azioni/colpire) di grinfie.
+**Picchiata dell'Aquila** :2: L'aquila [Vola](/azioni/base/volare) fino al
+doppio della sua Velocità di volare in linea retta, scende di almeno 3 metri e
+poi effettua un [Colpo](/azioni/base/colpire) di grinfie.

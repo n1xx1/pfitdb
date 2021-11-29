@@ -33,8 +33,9 @@ percezione delle onde (impreciso) 18 metri, scurovisione
 
 **Lingue** Aquan, Comune
 
-**Abilità** Artigianato +16, Atletica +20 (+24 per [Nuotare](/azioni/nuotare)),
-Diplomazia +19, Esibizione +16, Furtività +18, Natura +18, Società +14
+**Abilità** Artigianato +16, Atletica +20 (+24 per
+[Nuotare](/azioni/abilita/nuotare)), Diplomazia +19, Esibizione +16, Furtività
++18, Natura +18, Società +14
 
 **For** +5, **Des** +5, **Cos** +4, **Int** +1, **Sag** +3, **Car** +3
 
@@ -48,8 +49,9 @@ Diplomazia +19, Esibizione +16, Furtività +18, Natura +18, Società +14
 
 **Vortice** ([aura](/tratti/aura), [acqua](/tratti/acqua)); 12 metri. L'acqua
 entro l'aura che fa parte della stessa massa d'acqua in cui si trova il marid è
-considerata terreno difficile per le creature che [Nuotano](/azioni/nuotare) e
-non possiedono il tratto [acqua](/tratti/acqua).
+considerata terreno difficile per le creature che
+[Nuotano](/azioni/abilita/nuotare) e non possiedono il tratto
+[acqua](/tratti/acqua).
 
 ---
 

@@ -22,7 +22,7 @@ CD 23
 **Lingue** Auran
 
 **Abilità** Acrobazia +16, Furtività +18, Sopravvivenza +15 (+19 per
-[Seguire Tracce](/azioni/seguire-tracce))
+[Seguire Tracce](/azioni/abilita/seguire-tracce))
 
 **For** +3, **Des** +6, **Cos** +3, **Int** -2, **Sag** +2, **Car** +0
 
@@ -51,4 +51,4 @@ visibile per un breve periodo di tempo.
 precisione alle creature [impreparate](/condizioni/impreparato).
 
 **Segugio Rapido** Il cacciatore invisibile si muove a Velocità completa mentre
-[Segue le Tracce](/azioni/seguire-tracce).
+[Segue le Tracce](/azioni/abilita/seguire-tracce).

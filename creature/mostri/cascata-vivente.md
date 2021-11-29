@@ -37,7 +37,8 @@ CD 20
 **Vortice** ([acqua](/tratti/acqua), [aura](/tratti/aura)) 9 metri. L'acqua
 entro l'aura che fa parte della stessa massa d'acqua in cui si trova la cascata
 vivente è considerata terreno difficile per le creature che
-[Nuotano](/azioni/nuotare) e non possiedono il tratto [acqua](/tratti/acqua).
+[Nuotano](/azioni/abilita/nuotare) e non possiedono il tratto
+[acqua](/tratti/acqua).
 
 ---
 

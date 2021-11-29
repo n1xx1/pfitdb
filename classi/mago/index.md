@@ -254,7 +254,7 @@ quando prepari gli incantesimi, puoi designare un singolo oggetto che possiedi
 come oggetto legato. In genere si tratta di un oggetto associato al lancio di
 incantesimi, come una bacchetta, un anello o un bastone, ma a tua scelta puoi
 designare un'arma o qualcos'altro. Ottieni l'azione gratuita
-[Scaricare Oggetto Legato](/azioni/scaricare-oggetto-legato).
+[Scaricare Oggetto Legato](/azioni/classe/scaricare-oggetto-legato).
 
 ### Scuola Arcana
 

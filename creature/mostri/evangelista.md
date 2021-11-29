@@ -71,7 +71,7 @@ caso di fallimento critico).
 Colpo con la catena, il bersaglio è impalato e ancorato sul posto, diventando
 [afferrato](/condizioni/afferrato) dalla catena. Non può recuperare dal
 [danno persistente](/condizioni/danno-persistente) da sanguinamento finché non
-si libera ([Sfuggire](/azioni/sfuggire) CD 25).
+si libera ([Sfuggire](/azioni/base/sfuggire) CD 25).
 
 **Catene Animate** ([divino](/tratti/divino),
 [trasmutazione](/tratti/trasmutazione)) Le catene presenti nei pressi

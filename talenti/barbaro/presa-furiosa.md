@@ -14,4 +14,4 @@ o il tuo Colpo ha impiegato un'arma con il tratto [lotta](/tratti/lotta).
 
 Abbranchi il nemico distratto dal tuo attacco. L'avversario colpito diventa
 [afferrato](/condizioni/afferrato), come se avessi superato una prova di
-[Atletica](/abilita/atletica) per [Lottare](/azioni/lottare) con lui.
+[Atletica](/abilita/atletica) per [Lottare](/azioni/abilita/lottare) con lui.

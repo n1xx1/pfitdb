@@ -44,11 +44,12 @@ taglienti
 **Mischia** :1: corna +12 \[+8/+4] ([agile](/tratti/agile)), **Danni** 1d10+5
 perforanti
 
-**Ampia Spazzata** :2: Il gigante effettua due [Colpi](/azioni/colpire) con il
-falcione contro due avversari adiacenti che devono trovarsi entrambi entro la
+**Ampia Spazzata** :2: Il gigante effettua due [Colpi](/azioni/base/colpire) con
+il falcione contro due avversari adiacenti che devono trovarsi entrambi entro la
 sua portata. La penalità da attacchi multipli aumenta soltanto dopo che entrambi
 gli attacchi sono stati risolti.
 
-**Carica Terrificante** :2: Il gigante [Avanza](/azioni/avanzare) ed effettua un
-Colpo con le corna con bonus di circostanza +4 ai danni. Se il Colpo va a segno,
-il gigante tenta di [Demoralizzare](/azioni/demoralizzare) il bersaglio.
+**Carica Terrificante** :2: Il gigante [Avanza](/azioni/base/avanzare) ed
+effettua un Colpo con le corna con bonus di circostanza +4 ai danni. Se il Colpo
+va a segno, il gigante tenta di [Demoralizzare](/azioni/abilita/demoralizzare)
+il bersaglio.

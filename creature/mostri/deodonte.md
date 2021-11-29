@@ -45,9 +45,9 @@ CD 19
 
 **Mischia** :1: zanna +14, **Danni** 2d8+6 perforanti
 
-**Carica del Deodonte** :2: Il deodonte [Avanza](/azioni/avanzare) due volte e
-poi effettua un [Colpo](/azioni/colpire) con la zanna. Purché si sia mosso di
-almeno 6 metri, ottiene bonus di circostanza +2 al suo tiro per colpire. Una
-creatura di taglia Media o inferiore colpita da questo attacco deve superare un
-TS su Riflessi con CD 19, altrimenti viene gettata a terra
+**Carica del Deodonte** :2: Il deodonte [Avanza](/azioni/base/avanzare) due
+volte e poi effettua un [Colpo](/azioni/base/colpire) con la zanna. Purché si
+sia mosso di almeno 6 metri, ottiene bonus di circostanza +2 al suo tiro per
+colpire. Una creatura di taglia Media o inferiore colpita da questo attacco deve
+superare un TS su Riflessi con CD 19, altrimenti viene gettata a terra
 [prona](/condizioni/prono) dalla forza dell'impatto.

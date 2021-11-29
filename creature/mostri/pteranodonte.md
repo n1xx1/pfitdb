@@ -36,6 +36,6 @@ CD 16
 
 **Mischia** :1: becco +10 \[+5/+0], **Danni** 1d10+3 perforanti
 
-**Planata** :2: Lo pteranodonte [Vola](/azioni/volare) fino alla sua Velocità di
-volare ed effettua un [Colpo](/azioni/colpire) con il becco in un qualsiasi
-punto durante quel movimento.
+**Planata** :2: Lo pteranodonte [Vola](/azioni/base/volare) fino alla sua
+Velocità di volare ed effettua un [Colpo](/azioni/base/colpire) con il becco in
+un qualsiasi punto durante quel movimento.

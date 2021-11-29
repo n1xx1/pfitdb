@@ -42,9 +42,9 @@ CD 16
 
 **Morsa Digrignante** :R: **Innesco** Una creatura
 [afferrata](/condizioni/afferrato) dalle fauci del varano gigante fallisce una
-prova per [Sfuggire](/azioni/sfuggire). **Effetto** Le fauci del varano gigante
-infliggono 1d6 danni perforanti e la creatura innescante è esposta al veleno del
-varano gigante.
+prova per [Sfuggire](/azioni/base/sfuggire). **Effetto** Le fauci del varano
+gigante infliggono 1d6 danni perforanti e la creatura innescante è esposta al
+veleno del varano gigante.
 
 ---
 
@@ -53,9 +53,9 @@ varano gigante.
 **Mischia** :1: fauci +11 \[+6/+1] , **Danni** 1d10+3 perforanti più Afferrare e
 veleno del varano gigante
 
-**Carica Ondeggiante** :2: Il varano gigante [Avanza](/azioni/avanzare) due
-volte e poi effettua un [Colpo](/azioni/colpire) con le fauci. Se il varano si è
-mosso almeno di 6 metri dalla sua posizione di partenza, ottiene bonus di
+**Carica Ondeggiante** :2: Il varano gigante [Avanza](/azioni/base/avanzare) due
+volte e poi effettua un [Colpo](/azioni/base/colpire) con le fauci. Se il varano
+si è mosso almeno di 6 metri dalla sua posizione di partenza, ottiene bonus di
 circostanza +2 a questo tiro per colpire.
 
 **Veleno del Varano Gigante** ([veleno](/tratti/veleno)); **Tiro Salvezza** CD

@@ -42,10 +42,10 @@ taglienti più Afferrare
 **Attacco Furtivo** Lo smilodonte infligge 1d6 danni da precisione extra alle
 creature [impreparate](/condizioni/impreparato).
 
-**Balzo** :1: Lo smilodonte [Avanza](/azioni/avanzare) ed effettua un
-[Colpo](/azioni/colpire) alla fine di quel movimento. Se lo smilodonte questa
-azione [nascosto](/condizioni/nascosto), rimane nascosto fin dopo il Colpo con
-questa capacità.
+**Balzo** :1: Lo smilodonte [Avanza](/azioni/base/avanzare) ed effettua un
+[Colpo](/azioni/base/colpire) alla fine di quel movimento. Se lo smilodonte
+questa azione [nascosto](/condizioni/nascosto), rimane nascosto fin dopo il
+Colpo con questa capacità.
 
 **Perforare Armatura** :1: Lo smilodonte effettua un Colpo con le zanne contro
 una creatura che sta afferrando. Se l'attacco colpisce, la creatura è buttata a

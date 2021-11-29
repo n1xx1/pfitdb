@@ -51,5 +51,5 @@ perforanti
 qualsiasi creatura entro portata di almeno due alleati dello gnoll cacciatore.
 
 **Spostamento Accidentato** Un gnoll ignora il primo quadretto di terreno
-difficile in cui si muove ogni volta che fa un [Passo](/azioni/passo) o
-[Avanza](/azioni/avanzare).
+difficile in cui si muove ogni volta che fa un [Passo](/azioni/base/passo) o
+[Avanza](/azioni/base/avanzare).

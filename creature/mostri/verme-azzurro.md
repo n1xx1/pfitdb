@@ -66,12 +66,12 @@ Afferrare Migliorato
 **Mischia** :1: corpo +29 \[+24/+19] ([portata 4,5 metri](/tratti/portata)),
 **Danni** 2d8+14 contundenti
 
-**Erompere** :2: Il verme azzurro [Nuota](/azioni/nuotare) fino alla sua
-Velocità di nuotare, poi [Salta](/azioni/saltare) verticalmente fuori dall'acqua
-fino a 9 metri, effettuando un Colpo contro una creatura all'apice del salto
-(questo gli permette di attaccare una creatura entro 13,5 metri dalla superficie
-dell'acqua). Dopo il Colpo, il verme ricade in acqua. Può usare Afferrare
-Migliorato con questo Colpo e farlo seguire da Inghiottire Rapido.
+**Erompere** :2: Il verme azzurro [Nuota](/azioni/abilita/nuotare) fino alla sua
+Velocità di nuotare, poi [Salta](/azioni/base/saltare) verticalmente fuori
+dall'acqua fino a 9 metri, effettuando un Colpo contro una creatura all'apice
+del salto (questo gli permette di attaccare una creatura entro 13,5 metri dalla
+superficie dell'acqua). Dopo il Colpo, il verme ricade in acqua. Può usare
+Afferrare Migliorato con questo Colpo e farlo seguire da Inghiottire Rapido.
 
 **Inghiottire** **:1:** Enorme, 3d8+10 contundenti, Rottura 27
 

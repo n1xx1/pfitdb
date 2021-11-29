@@ -11,8 +11,9 @@ quanto avviene attorno a te. Subisci penalità di status -2 alle prove di
 Percezione e alle prove di Abilità, e non puoi usare azioni con il tratto
 [concentrazione](/tratti/concentrazione) a meno che esse o le loro conseguenze
 previste non siano correlate al soggetto della tua fascinazione (a discrezione
-del GM). Per esempio, puoi essere in grado di [Individuare](/azioni/individuare)
-e [Ricordare Conoscenze](/azioni/abilita/ricordare-conoscenze) circa il soggetto
+del GM). Per esempio, puoi essere in grado di
+[Individuare](/azioni/abilita/individuare) e
+[Ricordare Conoscenze](/azioni/abilita/ricordare-conoscenze) circa il soggetto
 ma, probabilmente, non potrai lanciare un incantesimo su una creatura
 differente. Questa condizione termina se una creatura usa azioni ostili contro
 di te o contro qualsiasi tuo alleato.

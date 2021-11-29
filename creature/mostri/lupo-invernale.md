@@ -43,8 +43,8 @@ CD 20
 
 **Morso Vendicatore** :R: **Innesco** Una creatura entro la portata delle fauci
 del lupo invernale attacca un alleato del lupo invernale. **Effetto** Il lupo
-invernale effettua un [Colpo](/azioni/colpire) con le fauci contro la creatura
-innescante.
+invernale effettua un [Colpo](/azioni/base/colpire) con le fauci contro la
+creatura innescante.
 
 ---
 

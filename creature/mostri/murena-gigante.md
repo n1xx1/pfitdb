@@ -34,9 +34,10 @@ CD 20
 **Imboscata :R: Innesco** Una creatura passa entro 6 metri dal nascondiglio
 della murena gigante e [non ha individuato](/condizioni/non-individuato) la
 murena gigante. **Effetto** La murena gigante si tuffa fuori dal suo
-nascondiglio, [Nuota](/azioni/nuotare) direttamente verso la creatura innescante
-ed effettua un [Colpo](/azioni/colpire) di fauci contro di essa. La creatura
-bersaglio è [impreparata](/condizioni/impreparato) contro questo attacco.
+nascondiglio, [Nuota](/azioni/abilita/nuotare) direttamente verso la creatura
+innescante ed effettua un [Colpo](/azioni/base/colpire) di fauci contro di essa.
+La creatura bersaglio è [impreparata](/condizioni/impreparato) contro questo
+attacco.
 
 ---
 
@@ -50,7 +51,7 @@ bersaglio è [impreparata](/condizioni/impreparato) contro questo attacco.
 murena gigante usa la sua seconda coppia di fauci per tirare la preda nel suo
 gozzo. La murena infligge 1d6+4 danni perforanti alla creatura afferrata e
 ottiene bonus di circostanza +2 ai suoi tentativi di Inghiottire e alla CD per
-[Sfuggire](/azioni/sfuggire) della creatura. Questo effetto termina se il
+[Sfuggire](/azioni/base/sfuggire) della creatura. Questo effetto termina se il
 bersaglio Sfugge o se la murena gigante lo Inghiotte.
 
 **Inghiottire** **:1:** ([attacco](/tratti/attacco)) Piccola, 1d6+6 contundenti,

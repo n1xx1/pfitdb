@@ -61,8 +61,9 @@ può scegliere di non influenzare gli alleati entro di essa.
 
 **Vortice** ([acqua](/tratti/acqua), [aura](/tratti/aura)); 12 metri. L'acqua
 entro l'aura che fa parte della stessa massa d'acqua in cui si trova il drago è
-considerata terreno difficile per le creature che [Nuotano](/azioni/nuotare) e
-non possiedono il tratto [acqua](/tratti/acqua).
+considerata terreno difficile per le creature che
+[Nuotano](/azioni/abilita/nuotare) e non possiedono il tratto
+[acqua](/tratti/acqua).
 
 **Presenza Terrificante** ([aura](/tratti/aura), [emozione](/tratti/emozione),
 [paura](/tratti/paura), [mentale](/tratti/mentale)) 27 metri, CD 38
@@ -70,12 +71,12 @@ non possiedono il tratto [acqua](/tratti/acqua).
 **Attacco di Opportunità** :R: Solo fauci.
 
 **Attrazione del Vortice** ([acqua](/tratti/acqua)); **:R:** **Innesco** Una
-creatura nel vortice del drago usa un'azione di [Nuotare](/azioni/nuotare).
-**Effetto** Il drago crea una corrente d'acqua e obbliga la creatura innescante
-a tentare una prova di Atletica con CD 40 per Nuotare. Se la creatura fallisce,
-viene tirata di 9 metri verso il drago e l'azione innescante viene persa. Se la
-creatura ha successo, può Nuotare normalmente (usando quel tiro se non possiede
-una Velocità di nuotare).
+creatura nel vortice del drago usa un'azione di
+[Nuotare](/azioni/abilita/nuotare). **Effetto** Il drago crea una corrente
+d'acqua e obbliga la creatura innescante a tentare una prova di Atletica con CD
+40 per Nuotare. Se la creatura fallisce, viene tirata di 9 metri verso il drago
+e l'azione innescante viene persa. Se la creatura ha successo, può Nuotare
+normalmente (usando quel tiro se non possiede una Velocità di nuotare).
 
 ---
 
@@ -97,8 +98,8 @@ _[controllare acqua](/incantesimi/controllare-acqua)_ (a volontà); **2°**
 _[foschia occultante](/incantesimi/foschia-occultante)_ (a volontà); **Costanti
 (2°)** _[parlare con gli animali](/incantesimi/parlare-con-gli-animali)_
 
-**Frenesia Draconica** :2: Il drago effettua due [Colpi](/azioni/colpire) con
-l'artiglio e un Colpo con la coda in qualsiasi ordine.
+**Frenesia Draconica** :2: Il drago effettua due [Colpi](/azioni/base/colpire)
+con l'artiglio e un Colpo con la coda in qualsiasi ordine.
 
 **Impeto Draconico** Il drago ricarica il suo Soffio ogni volta che mette a
 segno un colpo critico con un Colpo.

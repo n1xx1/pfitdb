@@ -35,8 +35,8 @@ CD 16
 
 **Lingue** Comune; empatia con i topi
 
-**Abilità** Acrobazia +8 Atletica +6 (+8 per [Scalare](/azioni/scalare) o
-[Nuotare](/azioni/nuotare)), Furtività +8, Inganno +5, Società +4
+**Abilità** Acrobazia +8 Atletica +6 (+8 per [Scalare](/azioni/abilita/scalare)
+o [Nuotare](/azioni/abilita/nuotare)), Furtività +8, Inganno +5, Società +4
 
 **For** +2, **Des** +4, **Cos** +2, **Int** +0, **Sag** +2, **Car** +1
 

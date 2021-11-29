@@ -53,9 +53,9 @@ CD 23
 gittata 36 metri), **Danni** 1d8+14 contundenti
 
 **Ampio Fendente** :1: Il gigante delle colline effettua un singolo
-[Colpo](/azioni/colpire) con il randello pesante e confronta il risultato del
-tiro per colpire alle CA di un massimo di due avversari entro la sua portata.
-Questo conta come due attacchi al fine di determinare la penalità da attacchi
-multipli del gigante delle colline.
+[Colpo](/azioni/base/colpire) con il randello pesante e confronta il risultato
+del tiro per colpire alle CA di un massimo di due avversari entro la sua
+portata. Questo conta come due attacchi al fine di determinare la penalità da
+attacchi multipli del gigante delle colline.
 
 **Lanciare Roccia** :1:

@@ -39,8 +39,9 @@ CD 15
 
 **Scalatore Prodigioso** Grazie alle sue zampe, un geco gigante può scalare
 praticamente qualsiasi superficie, per quanto viscida o ripida possa essere. Se
-un geco gigante tenta una prova di Atletica per [Scalare](/azioni/scalare) e
-fallisce in modo critico, ottiene invece un fallimento.
+un geco gigante tenta una prova di Atletica per
+[Scalare](/azioni/abilita/scalare) e fallisce in modo critico, ottiene invece un
+fallimento.
 
 ---
 

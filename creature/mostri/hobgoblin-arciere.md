@@ -55,6 +55,7 @@ contro l'attacco dell'hobgoblin arciere.
 **Precisione da Balestriere** La prima volta che l'arciere colpisce con un
 attacco di balestra in un round, infligge 1d8 danni da precisione extra.
 
-**Ricarica in Corsa** :1: L'arciere [Avanza](/azioni/avanzare), fa un
-[Passo](/azioni/passo) o si [Muove Furtivamente](/azioni/muoversi-furtivamente),
-poi [Interagisce](/azioni/interagire) per ricaricare.
+**Ricarica in Corsa** :1: L'arciere [Avanza](/azioni/base/avanzare), fa un
+[Passo](/azioni/base/passo) o si
+[Muove Furtivamente](/azioni/abilita/muoversi-furtivamente), poi
+[Interagisce](/azioni/base/interagire) per ricaricare.

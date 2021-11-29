@@ -31,7 +31,7 @@ CD 19
 _[linguaggi](/incantesimi/linguaggi)_
 
 **Abilità** Acrobazia +12, Furtività +10, Natura +11, Religione +9,
-Sopravvivenza +11 (+15 per [Seguire Tracce](/azioni/seguire-tracce))
+Sopravvivenza +11 (+15 per [Seguire Tracce](/azioni/abilita/seguire-tracce))
 
 **For** +3, **Des** +4, **Cos** +3, **Int** +1, **Sag** +3, **Car** +1
 

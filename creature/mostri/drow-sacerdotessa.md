@@ -31,7 +31,7 @@ CD 18
 
 ---
 
-**CA** 20 (22 con lo scudo [alzato](/azioni/alzare-lo-scudo)); **Temp** +8,
+**CA** 20 (22 con lo scudo [alzato](/azioni/base/alzare-lo-scudo)); **Temp** +8,
 **Rifl** +7, **Vol** +11; status +1 a tutti i TS contro magia, status +2 a tutti
 i TS contro [mentale](/tratti/mentale)
 

@@ -52,12 +52,12 @@ Migliorato
 **Mischia** :1: piede +23 \[+18/+13] ([portata 4,5 metri](/tratti/portata)),
 **Danni** 2d8+13 contundenti
 
-**Spazzata di Coda** :2: Il brontosauro effettua un [Colpo](/azioni/colpire) con
-la coda e confronta il tiro per colpire con la CA di un massimo di tre
-avversari, ognuno dei quali deve trovarsi entro la portata in mischia della coda
-e adiacente ad almeno un altro bersaglio. Il brontosauro tira per i danni solo
-una volta e li applica a ogni creatura colpita. Una Spazzata di Coda conta come
-due attacchi al fine di determinare la penalità da attacchi multipli del
-brontosauro.
+**Spazzata di Coda** :2: Il brontosauro effettua un
+[Colpo](/azioni/base/colpire) con la coda e confronta il tiro per colpire con la
+CA di un massimo di tre avversari, ognuno dei quali deve trovarsi entro la
+portata in mischia della coda e adiacente ad almeno un altro bersaglio. Il
+brontosauro tira per i danni solo una volta e li applica a ogni creatura
+colpita. Una Spazzata di Coda conta come due attacchi al fine di determinare la
+penalità da attacchi multipli del brontosauro.
 
 **Travolgere** :3: Enorme o inferiore, piede, CD 29

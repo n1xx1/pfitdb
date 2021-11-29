@@ -11,4 +11,4 @@ Il tuo corpo completamente bloccato. Hai la condizione
 [Ricordare Conoscenze](/azioni/abilita/ricordare-conoscenze) e altre azioni che
 richiedono solo l'uso della mente (a discrezione del GM). I tuoi sensi
 funzionano ancora, ma solo verso zone che puoi percepire senza muovere il corpo,
-dunque non puoi [Individuare](/azioni/individuare) da paralizzato.
+dunque non puoi [Individuare](/azioni/base/individuare) da paralizzato.

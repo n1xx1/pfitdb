@@ -38,10 +38,11 @@ CD 28
 **Mischia** :1: zampa +24 \[+20/+16] ([agile](/tratti/agile),
 [portata 6 metri](/tratti/portata)), **Danni** 2d10+14 perforanti più Afferrare
 
-**Afferrare con Balzo** :2: La mantide [Salta](/azioni/saltare) fino a 12 metri
-verticalmente e 6 metri orizzontalmente. In un qualsiasi punto durante il salto,
-può effettuare un Colpo con la zampa. Se va a segno, Afferra automaticamente il
-bersaglio e porta la creatura con sé fino alla fine del salto.
+**Afferrare con Balzo** :2: La mantide [Salta](/azioni/base/saltare) fino a 12
+metri verticalmente e 6 metri orizzontalmente. In un qualsiasi punto durante il
+salto, può effettuare un Colpo con la zampa. Se va a segno, Afferra
+automaticamente il bersaglio e porta la creatura con sé fino alla fine del
+salto.
 
 **Colpo Improvviso** Nel primo round di combattimento, le creature che non hanno
 agito sono [impreparate](/condizioni/impreparato) nei confronti della mantide

@@ -52,8 +52,8 @@ ricarica 1), **Danni** 1d6 perforanti
 [spargimento](/tratti/spargimento)), **Danni** variabili in base alla bomba
 
 **Lanciatore Rapido** Il rattoide estrae una bomba alchemica con un'azione di
-[Interagire](/azioni/interagire) e la lancia come [Colpo](/azioni/colpire) a
-distanza.
+[Interagire](/azioni/base/interagire) e la lancia come
+[Colpo](/azioni/base/colpire) a distanza.
 
 **Riporre Rapido** :G: **Frequenza** una volta per round. **Effetto** Il
 rattoide granatiere rimette un oggetto impugnato di Volume leggero o
@@ -62,8 +62,8 @@ trascurabile nelle sue sacche delle guance.
 **Sacche delle Guance** Un rattoide granatiere è dotato di sacche delle guance
 elastiche che possono contenere oggetti fino a un cubo del lato di 30 centimetri
 (ma non più di 4 oggetti leggeri). Il rattoide può rimuovere o riporre un
-oggetto usando l'azione di [Interagire](/azioni/interagire). Fintanto che il
-rattoide possiede almeno un oggetto nelle sue sacche delle guance, la sua
+oggetto usando l'azione di [Interagire](/azioni/base/interagire). Fintanto che
+il rattoide possiede almeno un oggetto nelle sue sacche delle guance, la sua
 parlata è molto difficile da capire.
 
 **Sciamante** Un rattoide granatiere può terminare il suo movimento nello stesso

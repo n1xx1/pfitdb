@@ -20,8 +20,8 @@ CD 16
 
 **Lingue** Aquan, Comune
 
-**Abilità** Atletica +7 (+9 per [Nuotare](/azioni/nuotare)), Inganno +6, Natura
-+8, Religione +8
+**Abilità** Atletica +7 (+9 per [Nuotare](/azioni/abilita/nuotare)), Inganno +6,
+Natura +8, Religione +8
 
 **For** +3, **Des** +2, **Cos** +1, **Int** +0, **Sag** +4, **Car** +2
 

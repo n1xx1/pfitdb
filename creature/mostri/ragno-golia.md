@@ -34,8 +34,8 @@ per individuare le vibrazioni delle creature che toccano la sua ragnatela.
 **Avventarsi sulla Preda** :R: ([attacco](/tratti/attacco)); **Requisito**
 L'iniziativa non è ancora stata tirata. **Innesco** Una creatura tocca la
 ragnatela del ragno golia mentre il ragno si trova su di essa. **Effetto** Il
-ragno golia nota automaticamente la creatura e [Avanza](/azioni/avanzare),
-[Scala](/azioni/scalare) o Scende su una Ragnatela prima di tirare per
+ragno golia nota automaticamente la creatura e [Avanza](/azioni/base/avanzare),
+[Scala](/azioni/abilita/scalare) o Scende su una Ragnatela prima di tirare per
 l'iniziativa.
 
 ---
@@ -51,17 +51,17 @@ l'iniziativa.
 **Legato alla Ragnatela** Se il Colpo dalla ragnatela del ragno va a segno su
 una creatura, questa è [trattenuta](/condizioni/trattenuto) e legata al ragno
 con un filamento, cosa che le impedisce di allontanarsi dal ragno. Il ragno può
-legare solo una creatura alla volta. La CD per [Sfuggire](/azioni/sfuggire) o
-[Forzare](/azioni/forzare) la ragnatela è 30. Il filamento di ragnatela può
-essere reciso con un Colpo (CA 20, Durezza 5, PF 20), che però non libera la
-creatura trattenuta.
+legare solo una creatura alla volta. La CD per [Sfuggire](/azioni/base/sfuggire)
+o [Forzare](/azioni/abilita/forzare) la ragnatela è 30. Il filamento di
+ragnatela può essere reciso con un Colpo (CA 20, Durezza 5, PF 20), che però non
+libera la creatura trattenuta.
 
 **Scendere su una Ragnatela** :1: ([movimento](/tratti/movimento)) Il ragno
 golia si muove scendendo verticalmente fino a 36 metri, appeso a un filo di
 ragnatela. Può rimanere appeso alla ragnatela o lasciarsi cadere. La distanza di
 cui Scende su una Ragnatela non conta al fine di determinare i danni da caduta.
-Una creatura che mette a segno un [Colpo](/azioni/colpire) sulla ragnatela (CA
-20, Durezza 5, PF 20) la recide e fa cadere il ragno.
+Una creatura che mette a segno un [Colpo](/azioni/base/colpire) sulla ragnatela
+(CA 20, Durezza 5, PF 20) la recide e fa cadere il ragno.
 
 **Veleno di Ragno Golia** ([incapacitazione](/tratti/incapacitazione),
 [veleno](/tratti/veleno)); **Tiro Salvezza** Tempra CD 30; **Durata Massima** 6

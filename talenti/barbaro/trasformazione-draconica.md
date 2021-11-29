@@ -19,8 +19,8 @@ _[forma di drago](/incantesimi/forma-di-drago)_ di 6° livello, salvo che
 utilizzi la tua CA e il tuo modificatore di attacco, e la CD del tuo soffio è
 pari alla tua CD di classe. Inoltre, applichi i danni aggiuntivi conferiti da
 [Infuriarsi](/azioni/classe/infuriarsi). L'azione per
-[Interrompere](/azioni/interrompere) la trasformazione acquisisce il tratto
-[furia](/tratti/furia).
+[Interrompere](/azioni/speciale/interrompere) la trasformazione acquisisce il
+tratto [furia](/tratti/furia).
 
 Al 18° livello, ottieni bonus +6 metri alla tua Velocità di volare, il bonus al
 danno dei Colpi del drago aumenta a +12, e ottieni bonus di status +14 ai danni

@@ -37,5 +37,5 @@ CD 14
 
 **Mischia** :1: zoccolo +5 \[+0/-5], **Danni** 1d4+3 contundenti
 
-**Galoppo** :2: Il pony da sella [Avanza](/azioni/avanzare) due volte. Ottiene
-bonus di circostanza +3 metri alla sua Velocità durante queste Avanzate.
+**Galoppo** :2: Il pony da sella [Avanza](/azioni/base/avanzare) due volte.
+Ottiene bonus di circostanza +3 metri alla sua Velocità durante queste Avanzate.

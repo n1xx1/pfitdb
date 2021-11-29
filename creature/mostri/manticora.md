@@ -61,9 +61,9 @@ taglienti
 **Raffica di Aculei** :1: La manticora scaglia fino a due aculei dalla sua coda,
 bersagliando due creature diverse o una singola creatura. Se la manticora
 bersaglia due creature diverse, queste creature devono trovarsi entro 6 metri
-l'una dall'altra e la manticora effettua un [Colpo](/azioni/colpire) separato
-contro ciascuna; questo conta come un solo Colpo al fine di determinare la
-penalità da attacchi multipli della manticora e la penalità aumenta soltanto
+l'una dall'altra e la manticora effettua un [Colpo](/azioni/base/colpire)
+separato contro ciascuna; questo conta come un solo Colpo al fine di determinare
+la penalità da attacchi multipli della manticora e la penalità aumenta soltanto
 dopo entrambi gli attacchi. Se la manticora scaglia entrambi gli aculei alla
 stessa creatura, effettua un singolo Colpo. Se l'attacco colpisce, infligge i
 danni di un singolo aculeo, ma il bersaglio è bloccato posto e diventa

@@ -53,7 +53,7 @@ paralisi
 **Acido Debole** L'acido di un cubo gelatinoso danneggia solo il materiale
 organico e non il metallo, la pietra o altre sostanze inorganiche.
 
-**Avviluppare** :2: CD 19, 2d6 acido, [Sfuggire](/azioni/sfuggire) CD 19,
+**Avviluppare** :2: CD 19, 2d6 acido, [Sfuggire](/azioni/base/sfuggire) CD 19,
 Rottura 7. Una creatura Avviluppata dal cubo gelatinoso deve anche tentare un
 tiro salvezza contro paralisi.
 

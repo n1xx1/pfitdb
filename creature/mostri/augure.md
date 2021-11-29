@@ -72,8 +72,9 @@ in grado di vedere. Il bersaglio deve tentare subito un tiro salvezza su Volont�
 contro Sentire le Lame. Dopo avere tentato questo tiro salvezza, la creatura è
 temporaneamente immune fino all'inizio del turno successivo dell'augure.
 
-**Taglio Turbinante** :2: L'augure [Avanza](/azioni/avanzare) o
-[Vola](/azioni/volare), ruotando su se stesso. L'augure infligge i danni del suo
-Colpo con la lama a tutte le creature con cui viene a contatto entrando nel loro
-spazio (TS base su Riflessi con CD 16). Ogni creatura può subire l'effetto solo
-una volta, anche se l'augure si muove attraverso il suo quadretto più volte.
+**Taglio Turbinante** :2: L'augure [Avanza](/azioni/base/avanzare) o
+[Vola](/azioni/base/volare), ruotando su se stesso. L'augure infligge i danni
+del suo Colpo con la lama a tutte le creature con cui viene a contatto entrando
+nel loro spazio (TS base su Riflessi con CD 16). Ogni creatura può subire
+l'effetto solo una volta, anche se l'augure si muove attraverso il suo quadretto
+più volte.

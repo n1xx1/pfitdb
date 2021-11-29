@@ -15,4 +15,4 @@ Se la tua azione di pressione ha successo, puoi scegliere di applicare al suo
 posto l'effetto di fallimento (per esempio, potresti voler fare questo quando un
 attacco non infligge danni a causa della resistenza). Poiché un'azione di
 pressione richiede una penalità da attacchi multipli, non puoi usarne una quando
-non è il tuo turno, anche se usi l'attività [Preparare](/azioni/preparare).
+non è il tuo turno, anche se usi l'attività [Preparare](/azioni/base/preparare).

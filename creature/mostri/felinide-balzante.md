@@ -50,9 +50,9 @@ perforanti
 [lancio](/tratti/lancio) 3 metri, [versatile T](/tratti/versatile)), **Danni**
 1d4+3 perforanti
 
-**Carica Improvvisa** :2: Il felinide balzante [Avanza](/azioni/avanzare) fino
-al doppio della sua Velocità. Se termina il suo movimento entro portata in
-mischia di almeno un nemico, può effettuare un [Colpo](/azioni/colpire) in
+**Carica Improvvisa** :2: Il felinide balzante [Avanza](/azioni/base/avanzare)
+fino al doppio della sua Velocità. Se termina il suo movimento entro portata in
+mischia di almeno un nemico, può effettuare un [Colpo](/azioni/base/colpire) in
 mischia contro quel nemico.
 
 ## **Felinide**

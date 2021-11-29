@@ -14,12 +14,13 @@ original-srd: https://2e.aonprd.com/Feats.aspx?ID=155
 
 ---
 
-Attacchi un nemico mentre stai saltando. Puoi [Saltare](/azioni/Saltare),
-[Saltare in Alto](/azioni/saltare-in-alto) o
-[Saltare in Lungo](/azioni/saltare-in-lungo) e Colpire in mischia in qualsiasi
-punto del tuo movimento. Subito dopo aver Colpito, se sei in aria cadi a terra
-anche se non hai coperto la distanza massima permessa dal salto. Se la distanza
-di caduta non eccede l'altezza del salto, non subisci danni e atterri in piedi.
+Attacchi un nemico mentre stai saltando. Puoi [Saltare](/azioni/base/saltare),
+[Saltare in Alto](/azioni/base/saltare-in-alto) o
+[Saltare in Lungo](/azioni/base/saltare-in-lungo) e Colpire in mischia in
+qualsiasi punto del tuo movimento. Subito dopo aver Colpito, se sei in aria cadi
+a terra anche se non hai coperto la distanza massima permessa dal salto. Se la
+distanza di caduta non eccede l'altezza del salto, non subisci danni e atterri
+in piedi.
 
 Quando tenti di Saltare in Alto o Saltare in Lungo durante un Balzo Improvviso,
 stabilisci la CD utilizzando le CD di Salto in Lungo e incrementi la distanza

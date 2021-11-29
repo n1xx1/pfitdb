@@ -47,9 +47,10 @@ CD 22
 **Mischia** :1: artiglio +16 \[+12/+8] ([agile](/tratti/agile)), **Danni** 2d8+6
 taglienti più Afferrare
 
-**Avventarsi** :2: L'orso delle caverne [Avanza](/azioni/avanzare) ed effettua
-un [Colpo](/azioni/colpire) alla fine di tale movimento. Mentre Avanza, l'orso
-delle caverne ottiene bonus di circostanza di +3 metri alla sua Velocità.
+**Avventarsi** :2: L'orso delle caverne [Avanza](/azioni/base/avanzare) ed
+effettua un [Colpo](/azioni/base/colpire) alla fine di tale movimento. Mentre
+Avanza, l'orso delle caverne ottiene bonus di circostanza di +3 metri alla sua
+Velocità.
 
 **Laceratore** L'orso ottiene bonus di circostanza +4 ai tiri per i danni contro
 le creature che ha [afferrato](/condizioni/afferrato).

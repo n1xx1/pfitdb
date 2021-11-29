@@ -43,7 +43,7 @@ _[vedere invisibilità](/incantesimi/vedere-invisibilita)_
 
 ---
 
-**CA** 22 (24 con scudo [alzato](/azioni/alzare-lo-scudo)); **Temp** +12,
+**CA** 22 (24 con scudo [alzato](/azioni/base/alzare-lo-scudo)); **Temp** +12,
 **Rifl** +7, **Vol** +10
 
 **PF** 60; **Immunità** [affaticato](/condizioni/affaticato), attacchi
@@ -62,11 +62,11 @@ Scudo contro un attacco in mischia di una creatura entro 1,5 metri, può anche
 spingere la creatura di 1,5 metri.
 
 **Reagire con lo Scudo** :R: **Innesco** Un nemico mette a segno un
-[Colpo](/azioni/colpire) in mischia contro il guardiano del portale. **Effetto**
-Il guardiano del portale utilizza immediatamente l'azione
-[Alzare lo Scudo](/azioni/alzare-lo-scudo) e applica il bonus dello scudo alla
-CA. Tale bonus di circostanza si applica alla CA al momento di stabilire l'esito
-dell'attacco che ha provocato l'innesco.
+[Colpo](/azioni/base/colpire) in mischia contro il guardiano del portale.
+**Effetto** Il guardiano del portale utilizza immediatamente l'azione
+[Alzare lo Scudo](/azioni/base/alzare-lo-scudo) e applica il bonus dello scudo
+alla CA. Tale bonus di circostanza si applica alla CA al momento di stabilire
+l'esito dell'attacco che ha provocato l'innesco.
 
 ---
 

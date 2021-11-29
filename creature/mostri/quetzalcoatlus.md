@@ -47,6 +47,6 @@ sanguinamento [persistenti](/condizioni/persistenti)
 [afferra](/condizioni/afferrare) o [trattiene](/condizioni/trattenuto) una
 singola creatura. Entrambe le sue grinfie sono occupate mentre lo fa.
 
-**Planata** :2: Il quetzacoaltus [Vola](/azioni/volare) fino alla sua Velocità
-ed effettua un [Colpo](/azioni/colpire) con il becco o con la grinfia in un
-qualsiasi punto durante quel movimento.
+**Planata** :2: Il quetzacoaltus [Vola](/azioni/base/volare) fino alla sua
+Velocità ed effettua un [Colpo](/azioni/base/colpire) con il becco o con la
+grinfia in un qualsiasi punto durante quel movimento.

@@ -39,10 +39,10 @@ Sopravvivenza +7
 [acido](/tratti/acido) 10
 
 **Sferzata di Coda** :R: **Innesco** Una creatura entro la portata della coda
-del draco di fiume effettua un [Colpo](/azioni/colpire) o tenta una prova di
-abilità: **Effetto** Il draco di fiume effettua un Colpo con la sua coda contro
-la creatura innescante. Se colpisce, la creatura subisce penalità di circostanza
--2 al tiro innescante.
+del draco di fiume effettua un [Colpo](/azioni/base/colpire) o tenta una prova
+di abilità: **Effetto** Il draco di fiume effettua un Colpo con la sua coda
+contro la creatura innescante. Se colpisce, la creatura subisce penalità di
+circostanza -2 al tiro innescante.
 
 ---
 
@@ -53,7 +53,7 @@ la creatura innescante. Se colpisce, la creatura subisce penalità di circostanz
 **Mischia** :1: coda +12 \[+7/+2] (portata 3 metri), **Danni** 2d6+3 contundenti
 
 **Frenesia Draconica** :2: Il draco di fiume effettua un
-[Colpo](/azioni/colpire) con le zanne e due Colpi con la coda in qualsiasi
+[Colpo](/azioni/base/colpire) con le zanne e due Colpi con la coda in qualsiasi
 ordine.
 
 **Impeto di Velocità** :1: ([movimento](/tratti/movimento)) Il draco di fiume si

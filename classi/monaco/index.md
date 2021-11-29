@@ -152,7 +152,7 @@ i tuoi pugni o altri attacchi senz'armi.
 
 Puoi colpire rapidamente con pugni, calci, gomitate, ginocchiate e altri
 attacchi senz'armi. Ottieni l'azione
-[Raffica di Colpi](/azioni/raffica-di-colpi).
+[Raffica di Colpi](/azioni/classe/raffica-di-colpi).
 
 ### Incantesimi Ki
 
@@ -164,8 +164,8 @@ tipo specifico di incantesimo focalizzato. Lanciarne uno costa 1 Punto
 Focalizzazione e, quando ottieni il tuo primo incantesimo ki, ottieni una
 riserva di focalizzazione di 1 punto. Ripristini tale riserva durante i
 preparativi giornalieri, ma puoi recuperare 1 Punto Focalizzazione effettuando
-per 10 minuti l'attività [Rifocalizzare](/azioni/rifocalizzare) mentre mediti
-per raggiungere la pace interiore.
+per 10 minuti l'attività [Rifocalizzare](/azioni/esplorazione/rifocalizzare)
+mentre mediti per raggiungere la pace interiore.
 
 Quando ottieni per la prima volta un incantesimo ki, stabilisci se i tuoi
 incantesimi ki siano divini od occulti. Diventi addestrato nei tiri per colpire

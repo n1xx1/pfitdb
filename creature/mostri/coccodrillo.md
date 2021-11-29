@@ -50,7 +50,7 @@ contundenti
 **Rotolata Mortale** :1: ([attacco](/tratti/attacco)) **Requisito** Il
 coccodrillo deve avere [afferrato](/condizioni/afferrato) una creatura.
 **Effetto** Il coccodrillo punta le zampe e rotola rapidamente su se stesso,
-torcendo la vittima. Il coccodrillo effettua un [Colpo](/azioni/colpire) con le
-fauci con bonus di circostanza +2 al tiro per colpire contro la creatura
+torcendo la vittima. Il coccodrillo effettua un [Colpo](/azioni/base/colpire)
+con le fauci con bonus di circostanza +2 al tiro per colpire contro la creatura
 afferrata. Se colpisce, butta anche la creatura a terra
 [prona](/condizioni/prono). Se fallisce, libera la creatura.

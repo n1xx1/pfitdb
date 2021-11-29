@@ -10,7 +10,7 @@ original-srd: https://2e.aonprd.com/Feats.aspx?ID=648
 **Prerequisiti** legame arcano
 
 **Requisiti** L'ultima azione che hai utilizzato è stata
-[Scaricare Oggetto Legato](/azioni/scaricare-oggetto-legato).
+[Scaricare Oggetto Legato](/azioni/classe/scaricare-oggetto-legato).
 
 ---
 

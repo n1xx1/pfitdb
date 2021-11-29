@@ -44,8 +44,9 @@ Sopravvivenza +15
 
 **Deviazione d'Ala** :R: **Innesco** Il draco di deserto è bersagliato da un
 attacco. **Effetto** Il drago alza la sua ala e ottiene bonus di circostanza +2
-a CA contro l'attacco innescante. Se il drago sta [Volando](/azioni/volare),
-scende di 3 metri dopo che l'attacco è stato completato.
+a CA contro l'attacco innescante. Se il drago sta
+[Volando](/azioni/base/volare), scende di 3 metri dopo che l'attacco è stato
+completato.
 
 ---
 

@@ -65,11 +65,12 @@ CD 18
 **Mischia** :1: ala +10 \[+6/+2] ([agile](/tratti/agile)), **Danni** 1d6+5
 contundenti
 
-**Cavalcatura Assistita** :1: **Requisito** Il pegaso [Vola](/azioni/volare)
-senza un nessun cavaliere. **Effetto** II pegaso Vola. ln un qualsiasi punto
-durante il movimento, può consentire a una creatura adiacente consenziente di
-[Montarlo](/azioni/montare). Quella creatura deve usare una reazione per farlo.
+**Cavalcatura Assistita** :1: **Requisito** Il pegaso
+[Vola](/azioni/base/volare) senza un nessun cavaliere. **Effetto** II pegaso
+Vola. ln un qualsiasi punto durante il movimento, può consentire a una creatura
+adiacente consenziente di [Montarlo](/azioni/base/montare). Quella creatura deve
+usare una reazione per farlo.
 
 **Galoppo** :2: Il pegaso usa 2 azioni di movimento, ognuna delle quali può
-essere [Avanzare](/azioni/avanzare) o [Volare](/azioni/volare). Ottiene bonus di
-circostanza +6 metri alle sue Velocità durante un Galoppo.
+essere [Avanzare](/azioni/base/avanzare) o [Volare](/azioni/base/volare).
+Ottiene bonus di circostanza +6 metri alle sue Velocità durante un Galoppo.

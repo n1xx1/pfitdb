@@ -59,12 +59,12 @@ mentali e alle prove di Inganno e Diplomazia della succube.
 **Vulnerabilità al Rifiuto** Essendo le succubi creature di pura lussuria, le
 creature che rifiutano tale lussuria possono ferirle fisicamente. Quando una
 succube fallisce una prova di Diplomazia per Abbracciare o
-[Richiedere](/azioni/richiedere), o quando una creatura supera il suo TS contro
-una capacità [mentale](/tratti/mentale) o un incantesimo della succube,
+[Richiedere](/azioni/abilita/richiedere), o quando una creatura supera il suo TS
+contro una capacità [mentale](/tratti/mentale) o un incantesimo della succube,
 quest'ultima subisce 2d6 danni mentali. Per un'ora dopo avere inflitto danni
 mentali a una succube in questo modo, una creatura può infliggere 2d6 danni
-mentali alla succube con un [Demoralizzare](/azioni/demoralizzare) effettuato
-con successo che incorpori il suo rifiuto.
+mentali alla succube con un [Demoralizzare](/azioni/abilita/demoralizzare)
+effettuato con successo che incorpori il suo rifiuto.
 
 ---
 
@@ -86,8 +86,8 @@ _[individuazione dell'allineamento](/incantesimi/individuazione-dellallineamento
 **Rituali Divini** CD 26; _[patto abissale](/incantesimi/rituali)_
 
 **Abbracciare** :1: ([attacco](/tratti/attacco)) La succube tenta di
-[Lottare](/azioni/lottare) con una creatura usando il suo bonus di Diplomazia
-invece che di Atletica. Se la creatura è consenziente, la succube la
+[Lottare](/azioni/abilita/lottare) con una creatura usando il suo bonus di
+Diplomazia invece che di Atletica. Se la creatura è consenziente, la succube la
 [afferra](/condizioni/afferrato) automaticamente.
 
 **Bacio Appassionato** :1: ([ammaliamento](/tratti/ammaliamento),
@@ -100,7 +100,7 @@ di 1, fino a un massimo di 4. La creatura subisce 3d6 danni negativi e la
 succube recupera un ammontare di Punti Ferita pari ai danni inferti. Il
 bersaglio deve superare un TS su Volontà con CD 26, altrimenti è influenzato da
 una suggestione a sottomettersi ad altri atti di passione anziché tentare di
-[Sfuggire](/azioni/sfuggire).
+[Sfuggire](/azioni/base/sfuggire).
 
 **Cambiare Forma** **:1:** ([concentrazione](/tratti/concentrazione),
 [divino](/tratti/divino), [metamorfosi](/tratti/metamorfosi),

@@ -48,9 +48,9 @@ un'azione singola, che possiede il tratto
 
 **Sbriciolarsi** :R: **Innesco** La valanga elementale subisce danni da una
 fonte ostile mente si trova sulla roccia o sulla terra. **Effetto** La valanga
-elementale si sbriciola nel terreno, [Scavando](/azioni/scavare) per 3 metri
-verso il basso. Questo Scavare non innesca reazioni. La valanga elementale non
-può Sbriciolarsi di nuovo per 1d4 round.
+elementale si sbriciola nel terreno, [Scavando](/azioni/base/scavare) per 3
+metri verso il basso. Questo Scavare non innesca reazioni. La valanga elementale
+non può Sbriciolarsi di nuovo per 1d4 round.
 
 ---
 
@@ -62,9 +62,9 @@ può Sbriciolarsi di nuovo per 1d4 round.
 **Distanza** :1: roccia +24 \[+19/+14] ([brutale](/tratti/brutale), incremento
 di gittata 24 metri), **Danni** 2d12+7 contundenti
 
-**Scivolare nella Terra** La valanga elementale può [Scavare](/azioni/scavare)
-attraverso qualsiasi materia di terra, inclusa la roccia. Quando lo fa, la
-valanga elementale si muove alla sua Velocità di scavare completa, senza
-lasciare tunnel o segni del suo passaggio.
+**Scivolare nella Terra** La valanga elementale può
+[Scavare](/azioni/base/scavare) attraverso qualsiasi materia di terra, inclusa
+la roccia. Quando lo fa, la valanga elementale si muove alla sua Velocità di
+scavare completa, senza lasciare tunnel o segni del suo passaggio.
 
 **Travolgere** :3: Grande o inferiore, pugno, CD 30

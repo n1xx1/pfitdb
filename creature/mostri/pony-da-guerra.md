@@ -37,5 +37,5 @@ CD 15
 
 **Mischia** :1: zoccolo +7 \[+2/-3], **Danni** 1d4+4 contundenti
 
-**Galoppo** :2: Il pony da guerra [Avanza](/azioni/avanzare) due volte. Ottiene
-bonus di circostanza +3 metri alla sua Velocità durante queste Avanzate.
+**Galoppo** :2: Il pony da guerra [Avanza](/azioni/base/avanzare) due volte.
+Ottiene bonus di circostanza +3 metri alla sua Velocità durante queste Avanzate.

@@ -58,5 +58,5 @@ _[invisibilità](/incantesimi/invisibilita)_ (solo se stesso)
 bersaglio deve superare un TS su Riflessi con CD 16, altrimenti cade a terra
 [prono](/condizioni/prono) ed è [immobilizzato](/condizioni/immobilizzato)
 finché non viene liberato effettuando con successo una prova di
-[Sfuggire](/azioni/sfuggire) con CD 15. Questa prova può essere tentata dal
+[Sfuggire](/azioni/base/sfuggire) con CD 15. Questa prova può essere tentata dal
 bersaglio o da una creatura adiacente al bersaglio.

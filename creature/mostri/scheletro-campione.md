@@ -28,7 +28,7 @@ CD 16
 
 ---
 
-**CA** 19 (21 con lo scudo [alzato](/azioni/alzare-lo-scudo)); **Temp** +7,
+**CA** 19 (21 con lo scudo [alzato](/azioni/base/alzare-lo-scudo)); **Temp** +7,
 **Rifl** +10, **Vol** +6
 
 **PF** 25, guarigione negativa; **Immunità** effetti di [morte](/tratti/morte),

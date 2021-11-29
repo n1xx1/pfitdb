@@ -37,8 +37,9 @@ Sopravvivenza +4
 **For** +0, **Des** +3, **Cos** +0, **Int** +1, **Sag** +1, **Car** +4
 
 **Empatia Selvatica** La naiade può usare Diplomazia per
-[Impressionare](/azioni/impressionare) e fare [Richieste](/azioni/richiedere)
-molto semplici agli [animali](/tratti/animale).
+[Impressionare](/azioni/abilita/impressionare) e fare
+[Richieste](/azioni/abilita/richiedere) molto semplici agli
+[animali](/tratti/animale).
 
 ---
 

@@ -71,16 +71,16 @@ creature entro l'area (TS base su Riflessi con CD 38). La melma congelante
 aderisce a coloro che colpisce e si indurisce fino a formare una spessa lastra
 di ghiaccio. Una creatura che fallisce il tiro salvezza è
 [immobilizzata](/condizioni/immobilizzato) dal ghiaccio finché non supera una
-prova per [Sfuggire](/azioni/sfuggire) o un alleato non [Forza](/azioni/forzare)
-il ghiaccio (CD 34 in entrambi i casi). All'inizio del suo turno, una creatura
-ancora immobilizzata dal ghiaccio subisce 4d6 danni da freddo. Un'altra creatura
-può liberare un bersaglio ghiacciato infliggendogli un totale di 20 danni da
-fuoco. Se incustodito, il ghiaccio si sbriciola da solo in 1 minuto. Le creature
-con il tratto [fuoco](/tratti/fuoco) non possono essere congelate sul posto da
-questo soffio. Le creature volanti cadono se congelate e le creature che nuotano
-salgono verso la superficie dell'acqua a una velocità di 18 metri per round se
-congelate. Un linnorm dei ghiacci non può usare di nuovo il Soffio per 1d4
-round.
+prova per [Sfuggire](/azioni/base/sfuggire) o un alleato non
+[Forza](/azioni/abilita/forzare) il ghiaccio (CD 34 in entrambi i casi).
+All'inizio del suo turno, una creatura ancora immobilizzata dal ghiaccio subisce
+4d6 danni da freddo. Un'altra creatura può liberare un bersaglio ghiacciato
+infliggendogli un totale di 20 danni da fuoco. Se incustodito, il ghiaccio si
+sbriciola da solo in 1 minuto. Le creature con il tratto [fuoco](/tratti/fuoco)
+non possono essere congelate sul posto da questo soffio. Le creature volanti
+cadono se congelate e le creature che nuotano salgono verso la superficie
+dell'acqua a una velocità di 18 metri per round se congelate. Un linnorm dei
+ghiacci non può usare di nuovo il Soffio per 1d4 round.
 
 **Stritolare** **:1:** 2d6+18 contundenti, CD 38
 

@@ -54,8 +54,8 @@ CD 22
 
 **Selvaggio** **Innesco** :R: Una creatura [afferrata](/condizioni/afferrato)
 dalla viverna fallisce in modo critico una prova di abilità per
-[Sfuggire](/azioni/sfuggire). **Effetto** La viverna effettua un Colpo con il
-pungiglione contro la creatura innescante.
+[Sfuggire](/azioni/base/sfuggire). **Effetto** La viverna effettua un Colpo con
+il pungiglione contro la creatura innescante.
 
 ---
 
@@ -70,19 +70,20 @@ pungiglione contro la creatura innescante.
 viverna
 
 **Picchiata Possente** :2: ([movimento](/tratti/movimento)) La viverna
-[Vola](/azioni/volare) fino alla sua Velocità di volare e deve sia muoversi in
-avanti per almeno 6 metri che scendere di 3 metri. Se termina il movimento entro
-portata in mischia da almeno un nemico di taglia pari o inferiore alla sua, può
-effettuare un Colpo con l'artiglio contro quel nemico. Se l'artiglio colpisce,
-con un'azione gratuita la viverna può scegliere se Afferrare automaticamente il
-bersaglio o buttarlo a terra [prono](/condizioni/prono).
+[Vola](/azioni/base/volare) fino alla sua Velocità di volare e deve sia muoversi
+in avanti per almeno 6 metri che scendere di 3 metri. Se termina il movimento
+entro portata in mischia da almeno un nemico di taglia pari o inferiore alla
+sua, può effettuare un Colpo con l'artiglio contro quel nemico. Se l'artiglio
+colpisce, con un'azione gratuita la viverna può scegliere se Afferrare
+automaticamente il bersaglio o buttarlo a terra [prono](/condizioni/prono).
 
 **Slancio Punitore** :1: **Requisiti** La viverna ha
 [afferrato](/condizioni/afferrato) una creatura in questo turno usando Picchiata
-Possente. **Effetto** La viverna può [Volare](/azioni/volare) a metà Velocità
-mentre tiene la creatura tra gli artigli, trasportando quella creatura con sé e
-lasciandola cadere alla fine del suo movimento. ln alternativa, la viverna può
-Colpire la creatura con il suo pungiglione con bonus di circostanza +2.
+Possente. **Effetto** La viverna può [Volare](/azioni/base/volare) a metà
+Velocità mentre tiene la creatura tra gli artigli, trasportando quella creatura
+con sé e lasciandola cadere alla fine del suo movimento. ln alternativa, la
+viverna può Colpire la creatura con il suo pungiglione con bonus di circostanza
++2.
 
 **Veleno di Viverna** ([veleno](/tratti/veleno)); **Tiro Salvezza** Tempra CD
 22; **Durata Massima** 6 round; F**ase 1** 5d6 danni da veleno (1 round); **Fase

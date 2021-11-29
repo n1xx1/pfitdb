@@ -33,7 +33,7 @@ sensi.
   caso, rimani privo di sensi e ottieni la condizione
   [morente](/condizioni/morente) come di consueto).
 - Vieni guarito in un modo che non sia la guarigione naturale data dal sonno.
-- Qualcuno ti scuote usando un'azione [Interagire](/azioni/interagire).
+- Qualcuno ti scuote usando un'azione [Interagire](/azioni/base/interagire).
 - Attorno a te si verificano forti rumori; ciò però non è automatico. All'inizio
   del tuo turno, tenti automaticamente una prova di Percezione contro la CD del
   rumore (o la CD più bassa se c'e più di un rumore), e se la superi ti svegli.

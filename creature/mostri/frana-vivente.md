@@ -35,7 +35,7 @@ CD 20
 
 **Sbriciolarsi** :R: **Innesco** La frana vivente subisce danni da una fonte
 ostile mente si trova sulla roccia o sulla terra. **Effetto** La frana vivente
-si sbriciola nel terreno, [Scavando](/azioni/scavare) per 3 metri verso il
+si sbriciola nel terreno, [Scavando](/azioni/base/scavare) per 3 metri verso il
 basso. Questo Scavare non innesca reazioni. La frana vivente non può
 Sbriciolarsi di nuovo per 1d4 round.
 
@@ -46,7 +46,7 @@ Sbriciolarsi di nuovo per 1d4 round.
 **Mischia** :1: pugno +16 \[+11/+6] ([portata 3 metri](/tratti/portata)),
 **Danni** 2d8+8 contundenti
 
-**Scivolare nella Terra** La frana vivente può [Scavare](/azioni/scavare)
+**Scivolare nella Terra** La frana vivente può [Scavare](/azioni/base/scavare)
 attraverso qualsiasi materia di terra, inclusa la roccia. Quando lo fa, la frana
 si muove alla sua Velocità di scavare completa, senza lasciare tunnel o segni
 del suo passaggio.

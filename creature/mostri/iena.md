@@ -45,7 +45,7 @@ Terra
 **Attacco in Branco** La iena infligge 1d4 danni extra a qualsiasi creatura
 entro portata di almeno due alleati della iena.
 
-**Trascinare** :1: La iena effettua un [Colpo](/azioni/colpire) con le fauci
-contro un nemico [prono](/condizioni/prono). Se colpisce, oltre a infliggere
-danni, la iena [Avanza](/azioni/avanzare) fino a 3 metri e trascina il nemico
-con sé.
+**Trascinare** :1: La iena effettua un [Colpo](/azioni/base/colpire) con le
+fauci contro un nemico [prono](/condizioni/prono). Se colpisce, oltre a
+infliggere danni, la iena [Avanza](/azioni/base/avanzare) fino a 3 metri e
+trascina il nemico con sé.

@@ -9,7 +9,8 @@ original-srd: https://2e.aonprd.com/Conditions.aspx?ID=5
 Non ti rendi conto appieno di ciò che accade e attacchi alla cieca. Sei
 [impreparato](/condizioni/impreparato), non consideri nessuno come tuo alleato
 (anche se gli altri possono considerarti alleato) e non puoi
-[Ritardare](/azioni/ritardare), [Preparare](/azioni/preparare) o usare reazioni.
+[Ritardare](/azioni/base/ritardare), [Preparare](/azioni/base/preparare) o usare
+reazioni.
 
 Usi tutte le tue azioni per Colpire o lanciare trucchetti offensivi, ma il GM
 può farti usare altre azioni per facilitare gli attacchi, come sguainare

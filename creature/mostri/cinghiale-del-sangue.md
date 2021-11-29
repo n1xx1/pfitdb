@@ -75,6 +75,6 @@ Ogni creatura entro 9 metri deve superare un TS su Volontà con CD 23 o diventar
 critico). Se il cinghiale del sangue usa Guaito Terrificante nello stesso turno
 in cui ha usato Inseguire, la CD del TS su Volontà è invece 25.
 
-**Inseguire** **:1:** Il cinghiale del sangue [Avanza](/azioni/avanzare) verso
-la sua preda, ignorando il terreno difficile e ricevendo bonus di circostanza +3
-metri alla sua Velocità durante il movimento.
+**Inseguire** **:1:** Il cinghiale del sangue [Avanza](/azioni/base/avanzare)
+verso la sua preda, ignorando il terreno difficile e ricevendo bonus di
+circostanza +3 metri alla sua Velocità durante il movimento.

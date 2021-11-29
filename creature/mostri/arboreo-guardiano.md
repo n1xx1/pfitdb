@@ -40,8 +40,8 @@ d'arme di pietra
 
 ---
 
-**CA** 20 (22 con lo scudo [alzato](/azioni/alzare-lo-scudo)); **Temp** +13,
-**Rifl** +9, **Vol** +11
+**CA** 20 (22 con lo scudo [alzato](/azioni/base/alzare-lo-scudo)); **Temp**
++13, **Rifl** +9, **Vol** +11
 
 **PF** 75; **Debolezze** [fuoco](/tratti/fuoco) 10, vulnerabilità alle asce;
 **Resistenze** contundente 5, perforante 5
@@ -62,6 +62,6 @@ dalle asce.
 
 **Mischia** :1: attacco con lo scudo +13 \[+8/+3], **Danni** 1d6+10 contundenti
 
-**Spinta con lo Scudo** :2: L'arboreo guardiano [Avanza](/azioni/avanzare) e poi
-effettua un [Colpo](/azioni/colpire) con l'attacco con lo scudo. Se l'attacco va
-a segno, il bersaglio è spinto di 3 metri.
+**Spinta con lo Scudo** :2: L'arboreo guardiano [Avanza](/azioni/base/avanzare)
+e poi effettua un [Colpo](/azioni/base/colpire) con l'attacco con lo scudo. Se
+l'attacco va a segno, il bersaglio è spinto di 3 metri.

@@ -83,10 +83,10 @@ di attacco come per il suo attacco in mischia più alto. Se entrambi gli attacch
 infliggono danni, il bersaglio subisce danni extra pari a un Colpo con
 l'artiglio.
 
-**Balzo** :1: La sfinge [Avanza](/azioni/avanzare) ed effettua un
-[Colpo](/azioni/colpire) alla fine di quel movimento. Se la sfinge ha iniziato
-questa azione [nascosta](/condizioni/nascosto), rimane nascosta fino a dopo
-l'attacco.
+**Balzo** :1: La sfinge [Avanza](/azioni/base/avanzare) ed effettua un
+[Colpo](/azioni/base/colpire) alla fine di quel movimento. Se la sfinge ha
+iniziato questa azione [nascosta](/condizioni/nascosto), rimane nascosta fino a
+dopo l'attacco.
 
 **Glifo di Interdizione** Una volta per settimana, una sfinge può creare un
 simbolo magico come se lanciasse un

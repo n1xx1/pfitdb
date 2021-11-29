@@ -27,7 +27,7 @@ CD 15
 
 ---
 
-**CA** 18 (20 con lo scudo [alzato](/azioni/alzare-lo-scudo)); **Temp** +5,
+**CA** 18 (20 con lo scudo [alzato](/azioni/base/alzare-lo-scudo)); **Temp** +5,
 **Rifl** +6, **Vol** +5
 
 **PF** 20

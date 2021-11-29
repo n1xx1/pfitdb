@@ -44,5 +44,5 @@ CD 15
 **Mischia** :1: fauci +9 \[+4/-1], **Danni** 1d6+2 perforanti più Gettare a
 Terra
 
-**Attacco in Branco** I [Colpi](/azioni/colpire) del lupo infliggono 1d4 danni
-extra alle creature entro portata di almeno due alleati del lupo.
+**Attacco in Branco** I [Colpi](/azioni/base/colpire) del lupo infliggono 1d4
+danni extra alle creature entro portata di almeno due alleati del lupo.

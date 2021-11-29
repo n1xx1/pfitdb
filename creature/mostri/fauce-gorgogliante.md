@@ -67,7 +67,7 @@ temporaneamente immune per 1 minuto.
 **Fauci Reattive** :R: **Innesco** Una creatura adiacente infligge danni
 taglienti alla fauce gorgogliante. **Effetto** La ferita della fauce
 gorgogliante si apre fino a diventare un altro paio di fauci ed effettua un
-[Colpo](/azioni/colpire) con le fauci contro la creatura innescante.
+[Colpo](/azioni/base/colpire) con le fauci contro la creatura innescante.
 
 ---
 
@@ -80,8 +80,8 @@ gorgogliante si apre fino a diventare un altro paio di fauci ed effettua un
 **Mischia** :1: sputo +14 \[+9/+4] (gittata 9 metri), **Danni** 4d6 da acido e
 bruciare occhi
 
-**Avviluppare** **:1:** CD 22, 3d8 perforanti, [Sfuggire](/azioni/sfuggire) CD
-22, Rottura 8
+**Avviluppare** **:1:** CD 22, 3d8 perforanti, [Sfuggire](/azioni/base/sfuggire)
+CD 22, Rottura 8
 
 **Bruciare Occhi** Una creatura che subisce danni dallo sputo di una fauce
 gorgogliante deve superare un TS su Tempra con CD 22, altrimenti è

@@ -46,8 +46,9 @@ precisione, [privo di sensi](/condizioni/privo-di-sensi),
 resistenza doppia contro i danni non magici)
 
 **Difesa Telecinetica :R: Innesco** Una creatura si avvicina entro 3 metri dal
-poltergeist. **Effetto** Il poltergeist effettua un [Colpo](/azioni/colpire) con
-un oggetto telecinetico contro la creatura innescante.
+poltergeist. **Effetto** Il poltergeist effettua un
+[Colpo](/azioni/base/colpire) con un oggetto telecinetico contro la creatura
+innescante.
 
 **Invisibilità Naturale** Un poltergeist è naturalmente
 [invisibile](/condizioni/invisibile). Diventa visibile solo quando usa
@@ -91,10 +92,10 @@ d'argenteria o libri, indirizzandoli contro più avversari o contro un unico
 bersaglio.
 
 - Quando questo effetto viene indirizzato contro più avversari, il poltergeist
-  effettua un [Colpo](/azioni/colpire) con un oggetto telecinetico con penalità
-  -2 contro ogni creatura entro 9 metri. Questo conta come un attacco al fine di
-  determinare la penalità da attacchi multipli del poltergeist e la penalità
-  aumenta soltanto dopo che tutti gli attacchi sono stati effettuati.
+  effettua un [Colpo](/azioni/base/colpire) con un oggetto telecinetico con
+  penalità -2 contro ogni creatura entro 9 metri. Questo conta come un attacco
+  al fine di determinare la penalità da attacchi multipli del poltergeist e la
+  penalità aumenta soltanto dopo che tutti gli attacchi sono stati effettuati.
 - Quando questo effetto ha solo un bersaglio, il poltergeist effettua un Colpo
   con un oggetto telecinetico contro il bersaglio e i danni aumentano a 3d12.
   Infligge 1d12 danni in caso di fallimento e nessun danno in caso di fallimento

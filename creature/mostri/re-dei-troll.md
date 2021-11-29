@@ -62,7 +62,7 @@ come parte di questa reazione.
 
 **Squartare** :1: artiglio
 
-**Carica Inarrestabile** :3: Il re dei troll [Avanza](/azioni/avanzare) due
+**Carica Inarrestabile** :3: Il re dei troll [Avanza](/azioni/base/avanzare) due
 volte in linea retta. Può effettuare fino a due Colpi con l'artiglio durante
 questo movimento e un Colpo con le fauci alla fine del suo movimento. Non può
 Colpire la stessa creatura più di una volta.

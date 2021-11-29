@@ -21,8 +21,8 @@ CD 19
 
 **Lingue** Aquan; comunione con gli squali 45 metri
 
-**Abilità** Atletica +12 (+15 per [Nuotare](/azioni/nuotare)), Intimidazione +9,
-Sopravvivenza +9
+**Abilità** Atletica +12 (+15 per [Nuotare](/azioni/abilita/nuotare)),
+Intimidazione +9, Sopravvivenza +9
 
 **For** +4, **Des** +1, **Cos** +3, **Int** +0, **Sag** +1, **Car** +0
 

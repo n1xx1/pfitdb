@@ -37,5 +37,5 @@ CD 16
 
 **Mischia** :1: zoccolo +9 \[+4/-1], **Danni** 1d6+5 contundenti
 
-**Galoppo** :2: Il cavallo da guerra [Avanza](/azioni/avanzare) due volte.
+**Galoppo** :2: Il cavallo da guerra [Avanza](/azioni/base/avanzare) due volte.
 Ottiene bonus di circostanza +3 metri alla sua Velocità durante queste Avanzate.

@@ -16,6 +16,6 @@ Accedi alle capacità basilari di tutte le scuole di magia. Durante i preparativ
 giornalieri, scegli uno degli otto incantesimi di scuola ottenuti dai maghi
 specialisti di 1° livello. Puoi utilizzare quell'incantesimo di scuola finché
 non effettui di nuovo i preparativi giornalieri. Ogni volta che
-[Rifocalizzi](/azioni/rifocalizzare) puoi scegliere un incantesimo di scuola
-diverso fra gli otto di cui sopra. Aumenti di 1 il numero di Punti
+[Rifocalizzi](/azioni/speciale/rifocalizzare) puoi scegliere un incantesimo di
+scuola diverso fra gli otto di cui sopra. Aumenti di 1 il numero di Punti
 Focalizzazione nella tua riserva.

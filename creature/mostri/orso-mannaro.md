@@ -71,17 +71,17 @@ taglienti
 
 **Cacciare la Preda** :1: ([concentrazione](/tratti/concentrazione));
 **Requisiti** L'orso mannaro può vedere o sentire il bersaglio o ne
-[Segue le Tracce](/azioni/seguire-tracce) in modalità esplorazione. **Effetto**
-L'orso mannaro ottiene bonus di circostanza +2 alle prove di Percezione quando
-[Individua](/azioni/individuare) la sua preda e bonus di circostanza +2 alle
-prove di Sopravvivenza che effettua quando Segue le Tracce della sua preda.
-L'orso mannaro ignora inoltre la penalità per effettuare attacchi a distanza
-entro il suo secondo incremento di gittata contro la preda che sta cacciando.
-L'orso mannaro può designare soltanto una creatura alla volta come sua preda
-cacciata. Se usa Cacciare la Preda contro una creatura diversa, quella
-precedente perde la designazione e la nuova preda ottiene la designazione. ln
-ogni caso, questa designazione dura fino alla successiva preparazione
-giornaliera dell'orso mannaro.
+[Segue le Tracce](/azioni/abilita/seguire-tracce) in modalità esplorazione.
+**Effetto** L'orso mannaro ottiene bonus di circostanza +2 alle prove di
+Percezione quando [Individua](/azioni/base/individuare) la sua preda e bonus di
+circostanza +2 alle prove di Sopravvivenza che effettua quando Segue le Tracce
+della sua preda. L'orso mannaro ignora inoltre la penalità per effettuare
+attacchi a distanza entro il suo secondo incremento di gittata contro la preda
+che sta cacciando. L'orso mannaro può designare soltanto una creatura alla volta
+come sua preda cacciata. Se usa Cacciare la Preda contro una creatura diversa,
+quella precedente perde la designazione e la nuova preda ottiene la
+designazione. ln ogni caso, questa designazione dura fino alla successiva
+preparazione giornaliera dell'orso mannaro.
 
 **Cambiare Forma** :1: ([concentrazione](/tratti/concentrazione),
 [metamorfosi](/tratti/metamorfosi), [primevo](/tratti/primevo),

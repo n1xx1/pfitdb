@@ -57,8 +57,8 @@ predatorio
 **Afferrare Predatorio** Come Afferrare, ma l'Afferrare del draco di giungla non
 termina se il draco si muove. Trasporta invece la creatura
 [afferrata](/condizioni/afferrato) con sé. Un draco di giungla non può
-[Volare](/azioni/volare) mentre afferra una creatura, a meno che anche quella
-creatura sia in grado di Volare.
+[Volare](/azioni/base/volare) mentre afferra una creatura, a meno che anche
+quella creatura sia in grado di Volare.
 
 **Andatura nel Bosco** Il draco di giungla ignora il terreno difficile e il
 terreno difficile superiore dovuto al fogliame non magico.

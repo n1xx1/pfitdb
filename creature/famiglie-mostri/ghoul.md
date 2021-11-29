@@ -18,10 +18,10 @@ statistiche cambiano come segue.
 
 - La sua CA, i bonus di attacco, le CD, i tiri salvezza e i modificatori di
   abilità aumentano tutti di 1.
-- I danni dei [Colpi](/azioni/colpire) e di tutte le altre capacità offensive
-  aumentano di 1. Se la creatura dispone di capacità utilizzabili un numero
-  limitato di volte (come per esempio un'arma a soffio), i danni di quelle
-  capacità aumentano invece di 2.
+- I danni dei [Colpi](/azioni/base/colpire) e di tutte le altre capacità
+  offensive aumentano di 1. Se la creatura dispone di capacità utilizzabili un
+  numero limitato di volte (come per esempio un'arma a soffio), i danni di
+  quelle capacità aumentano invece di 2.
 
 ##### CAPACITÀ DEI GHOUL
 
@@ -39,13 +39,13 @@ utilizza la CD del livello del ghoul (_Manuale di Gioco_ 503).
 - **Immunità** effetti di [morte](/tratti/morte), [malattia](/tratti/malattia),
   [paralizzato](/condizioni/paralizzato), [veleno](/tratti/veleno),
   [privo di sensi](/condizioni/privo-di-sensi)
-- **Artigli** Se la creatura aveva le mani, ottiene un [Colpo](/azioni/colpire)
-  con l'artiglio (un tipo di attacco senz'armi [agile](/tratti/agile) che
-  infligge danni taglienti più paralisi). Se la creatura possedeva già un
-  attacco agile, i danni inflitti dagli artigli dovrebbero essere più o meno
-  equivalenti a quelli inflitti da quell'attacco. Se invece possedeva soltanto
-  attacchi non agili, i suoi artigli infliggeranno danni pari a tre quarti di
-  quegli attacchi
+- **Artigli** Se la creatura aveva le mani, ottiene un
+  [Colpo](/azioni/base/colpire) con l'artiglio (un tipo di attacco senz'armi
+  [agile](/tratti/agile) che infligge danni taglienti più paralisi). Se la
+  creatura possedeva già un attacco agile, i danni inflitti dagli artigli
+  dovrebbero essere più o meno equivalenti a quelli inflitti da quell'attacco.
+  Se invece possedeva soltanto attacchi non agili, i suoi artigli infliggeranno
+  danni pari a tre quarti di quegli attacchi
 - **Fauci** Se la creatura aveva la bocca, ottiene un Colpo con le fauci (un
   attacco senz'armi che infligge danni taglienti più febbre del ghoul e
   paralisi). I danni inflitti sono gli stessi degli attacchi non agili della

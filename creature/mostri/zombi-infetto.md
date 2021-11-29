@@ -43,8 +43,8 @@ putrefazione dello zombi
 
 **Fauci** :1: ([attacco](/tratti/attacco)), **Requisito** Lo zombi infetto
 [afferra](/condizioni/afferrato) o [trattiene](/condizioni/trattenuto) una
-creatura. **Effetto** Lo zombi infetto effettua un [Colpo](/azioni/colpire) in
-mischia senz'armi di fauci contro la creatura afferrata o trattenuta con un
+creatura. **Effetto** Lo zombi infetto effettua un [Colpo](/azioni/base/colpire)
+in mischia senz'armi di fauci contro la creatura afferrata o trattenuta con un
 modificatore di attacco di +9 che infligge 1d12+4 danni perforanti. Una creatura
 danneggiata dalle fauci è esposta alla putrefazione dello zombi.
 

@@ -89,8 +89,8 @@ di [morte](/tratti/morte), [guarigione](/tratti/guarigione),
 
 **Veleno dell'Omuncolo** ([veleno](/tratti/veleno)); Un omuncolo custodisce una
 dose di veleno in una riserva nella sua testa. Può rifornire questo veleno dalle
-sue riserve con un'azione di [Interagire](/azioni/interagire). **Tiro Salvezza**
-Tempra CD 15; **Durata Massima** 6 round; **Fase 1** 1d6 da veleno e
+sue riserve con un'azione di [Interagire](/azioni/base/interagire). **Tiro
+Salvezza** Tempra CD 15; **Durata Massima** 6 round; **Fase 1** 1d6 da veleno e
 [indebolito](/condizioni/indebolito) 1 (1 round)
 
 ## **Omuncoli Lega Anima**

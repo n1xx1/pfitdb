@@ -25,8 +25,8 @@ CD 15
 **Lingue** Comune, Silvano
 
 **Abilità** Acrobazia +7, Atletica +2 (+6 per
-[Salto in Alto](/azioni/salto-in-alto) o
-[Salto in Lungo](/azioni/salto-in-lungo)), Esibizione +7, Furtività +7
+[Salto in Alto](/azioni/abilita/salto-in-alto) o
+[Salto in Lungo](/azioni/abilita/salto-in-lungo)), Esibizione +7, Furtività +7
 
 **For** -2, **Des** +4, **Cos** +1, **Int** +0, **Sag** +2, **Car** +4
 

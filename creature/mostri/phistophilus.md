@@ -89,9 +89,9 @@ guarigione. La prova semplice per fermare il sanguinamento parte a CD 20. La CD
 ò ridotta a 15 solo se la creatura sanguinante o un alleata assiste con successo
 al recupero.
 
-La CD per [Prestare Primo Soccorso](/azioni/prestare-primo-soccorso) a una
-creatura con una ferita infernale aumenta di 5. Un incantatore o un oggetto che
-tenta di usare magia di [guarigione](/tratti/guarigione) su una creatura che
+La CD per [Prestare Primo Soccorso](/azioni/abilita/prestare-primo-soccorso) a
+una creatura con una ferita infernale aumenta di 5. Un incantatore o un oggetto
+che tenta di usare magia di [guarigione](/tratti/guarigione) su una creatura che
 subisce una ferita infernale deve superare una prova di contrasto con CD 29,
 altrimenti la magia non riesce a guarire la creatura.
 

@@ -37,7 +37,7 @@ CD 15
 
 **Scatto Goblin :R: Innesco** Un goblin alleato termina un'azione di
 [movimento](/tratti/movimento) adiacente al guerrigliero. **Effetto** Il goblin
-guerrigliero fa un [Passo](/azioni/passo).
+guerrigliero fa un [Passo](/azioni/base/passo).
 
 ---
 

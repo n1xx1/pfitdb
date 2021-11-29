@@ -44,8 +44,8 @@ CD 18
 **Mischia** :1: artigli +11 \[+7/+3] ([agile](/tratti/agile)), **Danni** 1d10+4
 taglienti più Afferrare
 
-**Avventarsi** :2: L'orso grigio [Avanza](/azioni/avanzare) e effettua un
-[Colpo](/azioni/colpire) alla fine di quel movimento. Mentre Avanza, l'orso
+**Avventarsi** :2: L'orso grigio [Avanza](/azioni/base/avanzare) e effettua un
+[Colpo](/azioni/base/colpire) alla fine di quel movimento. Mentre Avanza, l'orso
 grigio ottiene bonus di circostanza di +3 metri alla sua Velocità.
 
 **Laceratore** L'orso grigio ottiene bonus di circostanza +2 ai tiri per i danni

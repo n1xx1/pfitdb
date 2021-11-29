@@ -66,10 +66,10 @@ Intimidazione +18
 di gittata 36 metri), **Danni** 2d10+9 contundenti
 
 **Ampio Fendente** :1: Il gigante del gelo effettua un singolo
-[Colpo](/azioni/colpire) con la grande ascia e confronta il risultato del tiro
-per colpire alle CA di un massimo di due avversari entro la sua portata. Questo
-conta come due attacchi al fine di determinare la penalità da attacchi multipli
-del gigante del gelo.
+[Colpo](/azioni/base/colpire) con la grande ascia e confronta il risultato del
+tiro per colpire alle CA di un massimo di due avversari entro la sua portata.
+Questo conta come due attacchi al fine di determinare la penalità da attacchi
+multipli del gigante del gelo.
 
 **Andatura sul Ghiaccio** Un gigante del gelo non è intralciato dal terreno
 difficile dovuto al ghiaccio o alla neve e non deve effettuare prove di
@@ -83,5 +83,5 @@ gelo esala un cono di 4,5 metri di gelido vapore che si condensa rapidamente in
 ghiaccio, infliggendo 4d6 danni da freddo. Ogni creatura nel cono deve tentare
 un TS base su Riflessi con CD 28. Una creatura che fallisce il suo TS è anche
 [immobilizzata](/condizioni/immobilizzato) e subisce 2d6 danni da freddo alla
-fine di ogni suo turno finché non si libera. ([Sfuggire](/azioni/sfuggire) CD
-28). Il gigante non può usare di nuovo Soffio Gelido per 1d4 round.
+fine di ogni suo turno finché non si libera. ([Sfuggire](/azioni/base/sfuggire)
+CD 28). Il gigante non può usare di nuovo Soffio Gelido per 1d4 round.

@@ -53,8 +53,8 @@ Società +31
 
 **For** +7, **Des** +4, **Cos** +5, **Int** +6, **Sag** +5, **Car** +6
 
-**Mimetismo** Il drago può [Nascondersi](/azioni/nascondersi) negli ambienti
-naturali anche se non possiede copertura.
+**Mimetismo** Il drago può [Nascondersi](/azioni/abilita/nascondersi) negli
+ambienti naturali anche se non possiede copertura.
 
 ---
 
@@ -107,15 +107,15 @@ _[intralciare](/incantesimi/intralciare)_ (a volontà)
 **Andatura nel Bosco** Il drago verde ignora il terreno difficile e il terreno
 difficile superiore dovuto al fogliame non magico.
 
-**Frenesia Draconica** :2: Il drago effettua due [Colpi](/azioni/colpire) con
-l'artiglio e un Colpo con il corno in qualsiasi ordine.
+**Frenesia Draconica** :2: Il drago effettua due [Colpi](/azioni/base/colpire)
+con l'artiglio e un Colpo con il corno in qualsiasi ordine.
 
 **Impeto Draconico** Il drago ricarica il suo Soffio ogni volta che mette a
 segno un colpo critico con un Colpo.
 
 **Passo Senza Tracce** Il drago verde ottiene sempre i benefici di
-[Coprire Tracce](/azioni/coprire-tracce) negli ambienti naturali, anche mentre
-si muove a velocità completa.
+[Coprire Tracce](/azioni/abilita/coprire-tracce) negli ambienti naturali, anche
+mentre si muove a velocità completa.
 
 **Soffio** :2: ([arcano](/tratti/arcano), [invocazione](/tratti/invocazione),
 [veleno](/tratti/veleno)); Il drago esala una nube tossica che infligge 18d6

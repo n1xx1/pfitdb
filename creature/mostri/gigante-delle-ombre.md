@@ -42,7 +42,7 @@ CD 31
 **Lingue** Comune, Jotun, Linguadombra
 
 **Abilità** Atletica +27, Furtività +21 (+23 per
-[Nascondersi](/azioni/nascondersi) in luce fioca), Intimidazione +22
+[Nascondersi](/azioni/abilita/nascondersi) in luce fioca), Intimidazione +22
 
 **For** +8, **Des** +2, **Cos** +5, **Int** +0, **Sag** +1, **Car** +3
 
@@ -90,7 +90,7 @@ rimossa solo con la magia.
 viene velato dalle ombre e diventa [occultato](/condizioni/occultato). La
 posizione del gigante rimane ovvia, data la natura di questo effetto, perciò il
 gigante non può usare questo occultamento per
-[Muoversi Furtivamente](/azioni/muoversi-furtivamente) o
-[Nascondersi](/azioni/nascondersi). Questo effetto dura per 1 minuto o finché
-non viene esposto alla luce diretta del sole, a seconda di quale dei due avvenga
-prima.
+[Muoversi Furtivamente](/azioni/abilita/muoversi-furtivamente) o
+[Nascondersi](/azioni/abilita/nascondersi). Questo effetto dura per 1 minuto o
+finché non viene esposto alla luce diretta del sole, a seconda di quale dei due
+avvenga prima.

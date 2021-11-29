@@ -37,7 +37,7 @@ CD 15
 
 **Scatto Goblin :R: Innesco** Un goblin alleato termina un'azione di
 [movimento](/tratti/movimento) adiacente al piromane. **Effetto** Il goblin
-piromane fa un [Passo](/azioni/passo).
+piromane fa un [Passo](/azioni/base/passo).
 
 ---
 

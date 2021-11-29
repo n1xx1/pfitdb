@@ -54,7 +54,8 @@ CD 15
 
 **Lingue** Comune (non può parlare nessun linguaggio)
 
-**Abilità** Acrobazia +7, Atletica +4 (+8 per [Nuotare](/azioni/nuotare))
+**Abilità** Acrobazia +7, Atletica +4 (+8 per
+[Nuotare](/azioni/abilita/nuotare))
 
 **For** +1, **Des** +4, **Cos** +2, **Int** -3, **Sag** +1, **Car** +1
 
@@ -65,7 +66,7 @@ CD 15
 **PF** 17
 
 **Frenesia Mortale** :R: **Innesco** La langusta è ridotta a 0 Punti Ferita.
-**Effetto** La langusta effettua un [Colpo](/azioni/colpire) con l'artiglio
+**Effetto** La langusta effettua un [Colpo](/azioni/base/colpire) con l'artiglio
 prima di morire.
 
 ---

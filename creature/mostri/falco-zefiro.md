@@ -36,9 +36,9 @@ CD 18
 **Mischia** :1: ala +11 \[+7/+3] ([accurata](/tratti/accurata),
 [agile](/tratti/agile)), **Danni** 1d8+4 taglienti
 
-**Attacco in Cerchio** :2: Il falco zefiro [Vola](/azioni/volare) fino a metà
-della sua Velocità, sferra due [Colpi](/azioni/colpire) con l'ala, poi Vola fino
-a metà della sua Velocità per tornare nella sua posizione originale. La seconda
-metà di questo movimento non innesca reazioni. Entrambi gli attacchi contano al
-fine di determinare la penalità di attacchi multipli del falco zefiro, ma la
-penalità non aumenta finché non ha sferrato entrambi gli attacchi.
+**Attacco in Cerchio** :2: Il falco zefiro [Vola](/azioni/base/volare) fino a
+metà della sua Velocità, sferra due [Colpi](/azioni/base/colpire) con l'ala, poi
+Vola fino a metà della sua Velocità per tornare nella sua posizione originale.
+La seconda metà di questo movimento non innesca reazioni. Entrambi gli attacchi
+contano al fine di determinare la penalità di attacchi multipli del falco
+zefiro, ma la penalità non aumenta finché non ha sferrato entrambi gli attacchi.

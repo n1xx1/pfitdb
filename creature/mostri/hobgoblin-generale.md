@@ -33,11 +33,11 @@ CD 22
 **Grido del Generale** Quando un hobgoblin generale tira per l'iniziativa,
 fintanto che è in grado di percepire almeno un avversario, può lanciare un
 possente grido di battaglia. L'hobgoblin generale tenta una prova di
-Intimidazione per [Demoralizzare](/azioni/demoralizzare) un singolo avversario
-entro 18 metri come azione gratuita. ln caso di successo, un qualsiasi alleato
-con il tratto [goblin](/tratti/goblin) può, come sua prima azione nel suo primo
-turno di combattimento, [Avanzare](/azioni/avanzare) fino al doppio della sua
-velocità con una singola azione.
+Intimidazione per [Demoralizzare](/azioni/abilita/demoralizzare) un singolo
+avversario entro 18 metri come azione gratuita. ln caso di successo, un
+qualsiasi alleato con il tratto [goblin](/tratti/goblin) può, come sua prima
+azione nel suo primo turno di combattimento, [Avanzare](/azioni/base/avanzare)
+fino al doppio della sua velocità con una singola azione.
 
 ---
 

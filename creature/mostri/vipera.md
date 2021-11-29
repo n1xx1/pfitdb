@@ -20,8 +20,8 @@ CD 13
 
 **Percezione** +6; fiuto (impreciso) 9 metri, visione crepuscolare
 
-**Abilità** Acrobazia +6, Atletica +1 (+4 per [Scalare](/azioni/scalare)),
-Furtività +5, Sopravvivenza +3
+**Abilità** Acrobazia +6, Atletica +1 (+4 per
+[Scalare](/azioni/abilita/scalare)), Furtività +5, Sopravvivenza +3
 
 **For** -3, **Des** +4, **Cos** +0, **Int** -4, **Sag** +1, **Car** -2
 
@@ -33,10 +33,11 @@ Furtività +5, Sopravvivenza +3
 
 **Strisciare di Nascosto :R: Innesco** Una creatura termina il suo movimento
 adiacente alla vipera o entro lo spazio della vipera. **Effetto** La vipera
-[Avanza](/azioni/avanzare), [Scala](/azioni/scalare) o [Nuota](/azioni/nuotare)
-fino a 3 metri (o fino alla Velocità rilevante, se quella Velocità è meno di 3
-metri). Deve terminare il suo movimento in un luogo che non sia entro 1,5 metri
-da un avversario. Questo movimento non innesca reazioni.
+[Avanza](/azioni/base/avanzare), [Scala](/azioni/abilita/scalare) o
+[Nuota](/azioni/abilita/nuotare) fino a 3 metri (o fino alla Velocità rilevante,
+se quella Velocità è meno di 3 metri). Deve terminare il suo movimento in un
+luogo che non sia entro 1,5 metri da un avversario. Questo movimento non innesca
+reazioni.
 
 ---
 

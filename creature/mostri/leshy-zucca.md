@@ -64,7 +64,7 @@ vegetale che produce zucche di taglia Piccola. Questa capacità usa sotto ogni
 altro aspetto gli effetti di _[forma arborea](/incantesimi/forma-arborea)_.
 
 **Catturare** Quando il leshy zucca danneggia una creatura con un
-[Colpo](/azioni/colpire) con il pugno o di seme, una serie di rampicanti si
+[Colpo](/azioni/base/colpire) con il pugno o di seme, una serie di rampicanti si
 protende dal leshy (o dal seme) e si avviluppa attorno agli arti del bersaglio.
 Il bersaglio deve tentare un TS su Riflessi con CD 17. ln caso di fallimento,
 subisce penalità di status -3 metri alla sua Velocità per 1 round; in caso di

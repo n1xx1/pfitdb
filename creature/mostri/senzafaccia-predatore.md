@@ -82,9 +82,9 @@ di Inganno per spacciarsi per quella creatura.
 extra alle creature [impreparate](/condizioni/impreparato).
 
 **Compressione** Quando il senzafaccia predatore si
-[Stringe](/azioni/stringersi) con successo, si muove attraverso lo spazio
-incredibilmente stretto a velocità piena. Gli spazi stretti non sono terreno
-difficile per un senza faccia.
+[Stringe](/azioni/abilita/stringersi) con successo, si muove attraverso lo
+spazio incredibilmente stretto a velocità piena. Gli spazi stretti non sono
+terreno difficile per un senza faccia.
 
 **Invertire Forma** :G: **Requisiti** Il senzafaccia predatore è in una forma
 assunta. **Effetto** Il senzafaccia predatore riassume la sua vera forma. Fino

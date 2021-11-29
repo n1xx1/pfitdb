@@ -36,8 +36,8 @@ CD 18
 
 **Percezione** +8; scurovisione, fiutare metalli 9 metri
 
-**Abilità** Atletica +7 (+13 per [Disarmare](/azioni/disarmare) un oggetto di
-metallo)
+**Abilità** Atletica +7 (+13 per [Disarmare](/azioni/abilita/disarmare) un
+oggetto di metallo)
 
 **For** +0, **Des** +3, **Cos** +1, **Int** -4, **Sag** +1, **Car** +0
 
@@ -51,8 +51,8 @@ metallo)
 
 **Coda Sbilanciante** :R: **Innesco** Una creatura che porta un oggetto di
 metallo tenta di muoversi uscendo da un quadretto entro la portata della coda
-del rugginofago. **Effetto** Il rugginofago effettua un [Colpo](/azioni/colpire)
-con la voda contro la creatura innescante.
+del rugginofago. **Effetto** Il rugginofago effettua un
+[Colpo](/azioni/base/colpire) con la voda contro la creatura innescante.
 
 ---
 
@@ -68,11 +68,12 @@ ruggine
 contundenti più Gettare a Terra Migliorato
 
 **Antenna Disarmante** :1: Il rugginofago tenta di
-[Disarmare](/azioni/disarmare) un oggetto di metallo impugnato da una creatura
-usando la sua antenna (con lo stesso modificatore del Colpo con l'antenna). ln
-caso di successo, l'oggetto è soggetto alla capacità Arrugginire del rugginofago
-(vedi sotto) oltre agli effetti di Disarmare, e se la prova per Disarmare è un
-successo critico, il rugginofago fa cadere l'oggetto a terra nel proprio spazio.
+[Disarmare](/azioni/abilita/disarmare) un oggetto di metallo impugnato da una
+creatura usando la sua antenna (con lo stesso modificatore del Colpo con
+l'antenna). ln caso di successo, l'oggetto è soggetto alla capacità Arrugginire
+del rugginofago (vedi sotto) oltre agli effetti di Disarmare, e se la prova per
+Disarmare è un successo critico, il rugginofago fa cadere l'oggetto a terra nel
+proprio spazio.
 
 **Arrugginire** L'antenna di un rugginofago arrugginisce e corrode rapidamente
 il metallo. Se il rugginofago ha successo in un tentativo di Colpo con l'antenna

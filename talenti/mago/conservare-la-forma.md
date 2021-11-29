@@ -15,5 +15,5 @@ normale. Questo non concede nessuno dei normali benefici di intensificare un
 incantesimo, ma l'incantesimo dura fino a 10 minuti. Per esempio, se hai
 preparato forma di animale in uno slot di 4 livello con Conservare la Forma,
 lanci una forma di animale di 2 livello che dura fino a 10 minuti. Se
-l'incantesimo può essere [Interrotto](/azioni/interrompere), quest'ultimo
-aspetto non cambia.
+l'incantesimo può essere [Interrotto](/azioni/speciale/interrompere),
+quest'ultimo aspetto non cambia.

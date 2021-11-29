@@ -41,10 +41,10 @@ taglienti
 **Attacco Furtivo** La tigre infligge 1d6 danni da precisione extra alle
 creature [impreparate](/condizioni/impreparato).
 
-**Balzo** :1: La tigre [Avanza](/azioni/avanzare) ed effettua un
-[Colpo](/azioni/colpire) alla fine di quel movimento. Se la tigre ha iniziato
-questa azione [nascosta](/condizioni/nascosto), rimane nascosta fin dopo il
-Colpo con questa capacità.
+**Balzo** :1: La tigre [Avanza](/azioni/base/avanzare) ed effettua un
+[Colpo](/azioni/base/colpire) alla fine di quel movimento. Se la tigre ha
+iniziato questa azione [nascosta](/condizioni/nascosto), rimane nascosta fin
+dopo il Colpo con questa capacità.
 
 **Lottare** :1: La tigre effettua un Colpo con l'artiglio contro una creatura
 che sta [afferrando](/condizioni/afferrato). Se l'attacco colpisce, quella

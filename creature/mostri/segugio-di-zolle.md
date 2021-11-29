@@ -19,7 +19,7 @@ CD 18
 **Percezione** +9; percezione dei cristalli (impreciso) 18 metri, scurovisione
 
 **Abilità** Atletica +11, Sopravvivenza +9 (+11 per
-[Seguire Tracce](/azioni/seguire-tracce))
+[Seguire Tracce](/azioni/abilita/seguire-tracce))
 
 **For** +4, **Des** -1, **Cos** +3, **Int** -4, **Sag** +2, **Car** -1
 
@@ -40,7 +40,7 @@ gemme entro 18 metri come se usasse la capacità fiuto.
 **Mischia** :1: fauci +11 \[+6/+1], **Danni** 1d10+6 perforanti più Gettare a
 Terra
 
-**Scivolare nella Terra** Il segugio di zolle può [Scavare](/azioni/scavare)
-attraverso qualsiasi materia di terra, inclusa la roccia. Quando lo fa, il
-segugio si muove alla sua Velocità di scavare completa, senza lasciare tunnel o
-segni del suo passaggio.
+**Scivolare nella Terra** Il segugio di zolle può
+[Scavare](/azioni/base/scavare) attraverso qualsiasi materia di terra, inclusa
+la roccia. Quando lo fa, il segugio si muove alla sua Velocità di scavare
+completa, senza lasciare tunnel o segni del suo passaggio.

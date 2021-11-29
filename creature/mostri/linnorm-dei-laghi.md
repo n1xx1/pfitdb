@@ -65,7 +65,7 @@ contundenti più Afferrare Migliorato
 _[libertà di movimento](/incantesimi/liberta-di-movimento)_; **(8°)**
 _[visione del vero](/incantesimi/visione-del-vero)_
 
-**Doppio Morso** :1: Il linnorm dei laghi [Avanza](/azioni/avanzare) e poi
+**Doppio Morso** :1: Il linnorm dei laghi [Avanza](/azioni/base/avanzare) e poi
 effettua un Colpo con le fauci con ognuna delle sue teste, ognuno contro un
 bersaglio diverso. Questi attacchi contano al fine di determinare la penalità da
 attacchi multipli del linnorm dei laghi e la penalità da attacchi multipli

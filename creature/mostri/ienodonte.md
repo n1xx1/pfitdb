@@ -47,7 +47,7 @@ deve superare un TS su Tempra con CD 20, altrimenti diventa
 [ferita](/condizioni/ferito) 1, a causa delle sue ossa o cartilagini stritolate
 dalle fauci della bestia.
 
-**Trascinare** :1: Lo ienodonte effettua un [Colpo](/azioni/colpire) con le
+**Trascinare** :1: Lo ienodonte effettua un [Colpo](/azioni/base/colpire) con le
 fauci contro un nemico [prono](/condizioni/prono). Se colpisce, oltre a
-infliggere danni, lo ienodonte [Avanza](/azioni/avanzare) fino a 3 metri e
+infliggere danni, lo ienodonte [Avanza](/azioni/base/avanzare) fino a 3 metri e
 trascina il nemico con sé.

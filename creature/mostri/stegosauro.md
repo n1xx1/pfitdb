@@ -49,8 +49,8 @@ CD 23
 **Deflessione Dorsale** :R: **Innesco** Lo stegosauro è bersagliato da un
 attacco in mischia. **Effetto** Lo stegosauro orienta le sue placche dorsali
 contro l'attacco, ottenendo bonus di circostanza +2 alla CA contro l'attacco
-innescante. Se l'attacco manca, lo stegosauro effettua un [Passo](/azioni/passo)
-dopo l'attacco.
+innescante. Se l'attacco manca, lo stegosauro effettua un
+[Passo](/azioni/base/passo) dopo l'attacco.
 
 ---
 

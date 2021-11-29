@@ -59,7 +59,7 @@ di gittata 24 metri, [magico](/tratti/magico)), **Danni** 2d6+6 contundenti e
 2d8 da fuoco
 
 **Braciere** La statua trasporta un grosso braciere pieno di tizzoni ardenti.
-Per effettuare un [Colpo](/azioni/colpire) con il tizzone ardente o usare
+Per effettuare un [Colpo](/azioni/base/colpire) con il tizzone ardente o usare
 Bruciare Vivo, la statua deve reggere il braciere con una mano o averlo comunque
 entro portata. Invece di bersagliare la statua con un attacco, una creatura può
 bersagliare il braciere direttamente. Il braciere possiede la stessa CA e gli

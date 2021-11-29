@@ -104,8 +104,8 @@ Colpi infliggono.
 
 **Sferzata Confondente** ([ammaliamento](/tratti/ammaliamento),
 [divino](/tratti/divino), [emozione](/tratti/emozione),
-[mentale](/tratti/mentale)) Una creatura colpita dal [Colpo](/azioni/colpire)
-con la coda del vermevuoto è [sbigottita](/condizioni/sbigottito) 1 per 1 round
-(sbigottita 2 in caso di colpo critico). Un TS su Volontà con CD 16 superato
-nega questo effetto e conferisce immunità temporanea alla sferzata confondente
-per 1 minuto.
+[mentale](/tratti/mentale)) Una creatura colpita dal
+[Colpo](/azioni/base/colpire) con la coda del vermevuoto è
+[sbigottita](/condizioni/sbigottito) 1 per 1 round (sbigottita 2 in caso di
+colpo critico). Un TS su Volontà con CD 16 superato nega questo effetto e
+conferisce immunità temporanea alla sferzata confondente per 1 minuto.

@@ -32,7 +32,8 @@ CD 28
 
 **Venti Forti** ([aria](/tratti/aria), [aura](/tratti/aura)) 12 metri. L'aria
 entro l'emanazione è considerata terreno difficile per le creature
-[Volanti](/azioni/volare) che non possiedono il tratto [aria](/tratti/aria).
+[Volanti](/azioni/base/volare) che non possiedono il tratto
+[aria](/tratti/aria).
 
 **Disperdere** :R: **Innesco** L'uragano elementale subisce danni da un'azione
 ostile. **Effetto** L'uragano elementale si disperde. Fino alla fine del turno

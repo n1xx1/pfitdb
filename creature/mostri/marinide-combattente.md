@@ -43,6 +43,6 @@ CD 15
 **Danni** 1d8+2 perforanti
 
 **Scatto Acquatico** :2: Il marinide combattente nuota e attacca seguendo uno di
-due possibili schemi. Può [Nuotare](/azioni/nuotare) due volte e
-[Colpire](/azioni/colpire) un avversario alla fine del suo movimento o Nuotare
-una volta e Colpire in un qualsiasi punto durante il suo movimento.
+due possibili schemi. Può [Nuotare](/azioni/abilita/nuotare) due volte e
+[Colpire](/azioni/base/colpire) un avversario alla fine del suo movimento o
+Nuotare una volta e Colpire in un qualsiasi punto durante il suo movimento.

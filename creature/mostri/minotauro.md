@@ -53,22 +53,23 @@ relative all'incantesimo _[labirinto](/incantesimi/labirinto)._
 
 **Mischia** :1: corno +14 \[+9/+4], **Danni** 1d8+8 perforanti
 
-**Carica Possente** :2: Il minotauro [Avanza](/azioni/avanzare) due volte, poi
-effettua un [Colpo](/azioni/colpire) con il corno. Se si è mosso almeno di 6
-metri dalla sua posizione di partenza, i danni del Colpo aumentano a 2d8+10.
+**Carica Possente** :2: Il minotauro [Avanza](/azioni/base/avanzare) due volte,
+poi effettua un [Colpo](/azioni/base/colpire) con il corno. Se si è mosso almeno
+di 6 metri dalla sua posizione di partenza, i danni del Colpo aumentano a
+2d8+10.
 
 **Minaccia Spaventosa** :1: Il minotauro sbuffa e pesta gli zoccoli mentre va a
 caccia della sua preda, ispirando terrore. Il minotauro effettua una prova di
-Intimidazione per [Demoralizzare](/azioni/demoralizzare) tutte le creature
-viventi situate entro 18 metri e in grado di sentire il minotauro ma non di
-vederlo. Si effettua un solo tiro e si applica il risultato a tutte le creature.
-Se I bersagli si trovano in un labirinto o in una struttura analoga dove è
-difficile orientarsi, il minotauro ottiene bonus di circostanza +4 a questa
-prova. Le creature che diventano [spaventate](/condizioni/spaventato) come
-risultato subiscono anche penalità di circostanza -2 alle prove di Sopravvivenza
-per evitare di perdersi per 1 minuto. Questo uso di Demoralizzare non possiede
-il tratto [visivo](/tratti/visivo). Ogni bersaglio è temporaneamente immune per
-1 minuto.
+Intimidazione per [Demoralizzare](/azioni/abilita/demoralizzare) tutte le
+creature viventi situate entro 18 metri e in grado di sentire il minotauro ma
+non di vederlo. Si effettua un solo tiro e si applica il risultato a tutte le
+creature. Se I bersagli si trovano in un labirinto o in una struttura analoga
+dove è difficile orientarsi, il minotauro ottiene bonus di circostanza +4 a
+questa prova. Le creature che diventano [spaventate](/condizioni/spaventato)
+come risultato subiscono anche penalità di circostanza -2 alle prove di
+Sopravvivenza per evitare di perdersi per 1 minuto. Questo uso di Demoralizzare
+non possiede il tratto [visivo](/tratti/visivo). Ogni bersaglio è
+temporaneamente immune per 1 minuto.
 
 **Spazzata d'Ascia** :2: Il minotauro mena un ampio fendente con la sua ascia,
 effettuando Colpi con la grande ascia contro due avversari qualsiasi che siano

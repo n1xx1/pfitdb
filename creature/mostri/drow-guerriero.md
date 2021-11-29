@@ -61,5 +61,5 @@ _[oscurità](/incantesimi/oscurita)_ (a volontà); **Trucchetti (2°)**
 _[luci danzanti](/incantesimi/luci-danzanti)_
 
 **Estrazione Rapida** :1: Il drow guerriero sfodera un'arma usando l'azione di
-[Interagire](/azioni/interagire), poi [Colpisce](/azioni/colpire) con
+[Interagire](/azioni/base/interagire), poi [Colpisce](/azioni/base/colpire) con
 quell'arma.

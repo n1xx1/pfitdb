@@ -45,8 +45,8 @@ svaniscono nel nulla dopo 24 ore.
 
 ---
 
-**CA** 31 (33 con lo scudo [alzato](/azioni/alzare-lo-scudo)); **Temp** +23,
-**Rifl** +15, **Vol** +19; status +1 a tutti i TS contro magia
+**CA** 31 (33 con lo scudo [alzato](/azioni/base/alzare-lo-scudo)); **Temp**
++23, **Rifl** +15, **Vol** +19; status +1 a tutti i TS contro magia
 
 **PF** 125; **Debolezze** male 10
 
@@ -66,7 +66,7 @@ temporaneamente immune alle ulteriori auree di guardiano minaccioso per 24 ore.
 
 **Scudo Vivente** Lo scudo di uno arconte scudo è il punto focale del suo
 coraggio e della sua anima. L'arconte tiene sempre lo scudo alzato senza bisogno
-di [Alzare lo Scudo](/azioni/alzare-lo-scudo) e può usare
+di [Alzare lo Scudo](/azioni/base/alzare-lo-scudo) e può usare
 [Parare con lo Scudo](/feats/talenti-generici) come azione gratuita invece che
 come reazione (Durezza 10, PF 80). Un arconte scudo può innescare la sua azione
 gratuita di Parare con lo Scudo quando un alleato entro 3 metri è bersagliato da

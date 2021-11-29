@@ -41,7 +41,8 @@ CD 20
 **Lingue** Aklo, Sottocomune
 
 **Abilità** Furtività +14, Inganno +14 (+16 per
-[Impersonare](/azioni/impersonare) un manto, un telo o una razza), Religione +12
+[Impersonare](/azioni/abilita/impersonare) un manto, un telo o una razza),
+Religione +12
 
 **For** +5, **Des** +3, **Cos** +4, **Int** +2, **Sag** +3, **Car** +1
 
@@ -89,11 +90,11 @@ per colpire con bonus +14 contro la CD dì Riflessi di una creatura adiacente. S
 ha successo, involge il bersaglio, che diventa
 [trattenuto](/condizioni/trattenuto). Gli attacchi che colpiscono un manto
 assassino che si è involto infliggono metà dei danni al manto assassino e metà
-alla vittima intrappolata. Il manto assassino non può [Volare](/azioni/volare) e
-quando si muove usa la sua Velocità sul terreno e muove la creatura involta
-assieme a sé. Il manto assassino può effettuare Colpi con le fauci solo contro
-la creatura trattenuta, ma può effettuare Colpi con la coda contro le altre
-creature.
+alla vittima intrappolata. Il manto assassino non può
+[Volare](/azioni/base/volare) e quando si muove usa la sua Velocità sul terreno
+e muove la creatura involta assieme a sé. Il manto assassino può effettuare
+Colpi con le fauci solo contro la creatura trattenuta, ma può effettuare Colpi
+con la coda contro le altre creature.
 
 Una creatura che indossa volontariamente il manto assassino diventa involta
 automaticamente. Un manto assassino può involgere solo le creature di taglia

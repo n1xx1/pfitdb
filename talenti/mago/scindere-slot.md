@@ -14,4 +14,4 @@ all'incantesimo di livello più alto che puoi lanciare e preparare due
 incantesimi in quello slot. Quando Lanci un Incantesimo da quello slot, scelgi
 quale incantesimo lanciare. Una volta scelto, l'incantesimo inutilizzato si
 dissolve come se non l'avessi affatto preparato; ad esempio, non puoi usarlo con
-[Scaricare Oggetto Legato](/azioni/scaricare-oggetto-legato).
+[Scaricare Oggetto Legato](/azioni/classe/scaricare-oggetto-legato).

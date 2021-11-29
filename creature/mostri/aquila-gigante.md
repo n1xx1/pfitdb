@@ -55,9 +55,9 @@ ottiene invece un successo critico.
 **Mischia** :1: grinfie +12 \[+8/+4] ([agile](/tratti/agile)), **Danni** 1d10+5
 taglienti più Afferrare
 
-**Picchiata dell'Aquila** :2: L'aquila [Vola](/azioni/volare) fino al doppio
-della sua Velocità di volare in linea retta, scende di almeno 3 metri e poi
-effettua un [Colpo](/azioni/colpire) di grinfie.
+**Picchiata dell'Aquila** :2: L'aquila [Vola](/azioni/base/volare) fino al
+doppio della sua Velocità di volare in linea retta, scende di almeno 3 metri e
+poi effettua un [Colpo](/azioni/base/colpire) di grinfie.
 
 **Ghermire** Un'aquila gigante può Volare a metà Velocità mentre
 [afferra](/condizioni/afferrato) o [trattiene](/condizioni/trattenuto) una

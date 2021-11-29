@@ -67,8 +67,9 @@ del lupo mannaro
 **Distanza** :1: arco corto composito +9 \[+4/-1] (incremento di gittata 18
 metri, [micidiale 1d10](/tratti/micidiale), ricarica 0), Danni 1d6+4 perforanti
 
-**Attacco in Branco** I [Colpi](/azioni/colpire) del lupo mannaro infliggono 1d6
-danni extra alle creature entro portata di almeno due alleati del lupo mannaro.
+**Attacco in Branco** I [Colpi](/azioni/base/colpire) del lupo mannaro
+infliggono 1d6 danni extra alle creature entro portata di almeno due alleati del
+lupo mannaro.
 
 **Cambiare Forma** :1: ([concentrazione](/tratti/concentrazione),
 [metamorfosi](/tratti/metamorfosi), [primevo](/tratti/primevo),

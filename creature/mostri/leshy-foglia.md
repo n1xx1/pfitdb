@@ -60,8 +60,8 @@ albero di taglia Piccola. Questa capacità usa sotto ogni altro aspetto gli
 effetti di _[forma arborea](/incantesimi/forma-arborea)_.
 
 **Colpo Assordante** Quando un leshy foglia mette a segno un
-[Colpo](/azioni/colpire) con il baccello, il bersaglio deve tentare un TS su
-Tempra con CD 16.
+[Colpo](/azioni/base/colpire) con il baccello, il bersaglio deve tentare un TS
+su Tempra con CD 16.
 
 **Successo Critico** Il bersaglio non è influenzato ed è temporaneamente immune
 per 24 ore.

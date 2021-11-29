@@ -53,7 +53,7 @@ CD 19
 **Vino Silvano** ([ammaliamento](/tratti/ammaliamento),
 [mentale](/tratti/mentale), [primevo](/tratti/primevo)) L'otre di vino di un
 satiro incanta magicamente l'alcol contenuto al suo interno. Con un'azione
-[Interagire](/azioni/interagire), una creatura vivente può bere l'alcol e
+[Interagire](/azioni/base/interagire), una creatura vivente può bere l'alcol e
 ottenere bonus di oggetto +1 ai TS su Volontà e bonus +3 ai TS su Volontà contro
 gli effetti di [paura](/tratti/paura) nell'ora seguente. Quando l'otre viene
 rimosso dalla persona del satiro, la magia permane solo finché il vino non va a
@@ -90,8 +90,8 @@ Gioco_ 386), _[ispirare coraggio](/incantesimi/incantesimi-focalizzati)_
 [tempo triplo](/incantesimi/incantesimi-focalizzati)_ (_Manuale di Gioco_ 387)
 
 **Intrattenitore Lesto** Quando il satiro Suona il Flauto per lanciare un
-incantesimo, può fare un [Passo](/azioni/passo) o [Avanzare](/azioni/avanzare)
-come parte dell'attività.
+incantesimo, può fare un [Passo](/azioni/base/passo) o
+[Avanzare](/azioni/base/avanzare) come parte dell'attività.
 
 **Suonare il Flauto** :3: ([primevo](/tratti/primevo),
 [uditivo](/tratti/uditivo)); **Requisiti** Il satiro impugna uno strumento

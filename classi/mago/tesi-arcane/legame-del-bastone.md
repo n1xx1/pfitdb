@@ -17,10 +17,10 @@ trucchetto e un incantesimo di 1° livello, entrambi dal tuo libro degli
 incantesimi, ma non ottiene cariche normalmente durante i tuoi preparativi; devi
 spendere uno slot incantesimo per concedergli cariche nello stesso modo in cui
 aggiungeresti cariche aggiuntive a un bastone normale. Usando
-[Fabbricare](/azioni/fabbricare) puoi trasformare il tuo bastone artigianale in
-qualsiasi altro tipo di bastone, pagando il normale costo del nuovo bastone e
-aggiungendo i due incantesimi che avevi scelto originariamente al bastone che
-hai [Fabbricato](/azioni/fabbricare).
+[Fabbricare](/azioni/abilita/fabbricare) puoi trasformare il tuo bastone
+artigianale in qualsiasi altro tipo di bastone, pagando il normale costo del
+nuovo bastone e aggiungendo i due incantesimi che avevi scelto originariamente
+al bastone che hai [Fabbricato](/azioni/abilita/fabbricare).
 
 All'8° livello, puoi spendere due incantesimi invece di uno quando prepari il
 bastone, aggiungendo cariche aggiuntive pari ai liveli combinati degli

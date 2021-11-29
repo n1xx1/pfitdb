@@ -10,4 +10,4 @@ Questa condizione riflette l'atteggiamento di una creatura nei confronti di un
 personaggio in particolare; solo gli effetti sovrannaturali (come gli
 incantesimi) possono imporla ai personaggi giocanti. Una creatura maldisposta
 verso un personaggio lo trova sgradevole, non si fida di lui e non accetta
-azioni [Richiedere](/azioni/richiedere) da lui.
+azioni [Richiedere](/azioni/abilita/richiedere) da lui.

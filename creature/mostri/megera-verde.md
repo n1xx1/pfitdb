@@ -44,7 +44,7 @@ _[muro di spine](/incantesimi/muro-di-spine)_ ai suoi incantesimi di congrega.
 **PF** 70; **Debolezze** ferro freddo 5
 
 **Imitazione dei Suoni** Una megera verde che supera una prova di Inganno per
-[Mentire](/azioni/mentire) può imitare i suoni di qualsiasi
+[Mentire](/azioni/abilita/mentire) può imitare i suoni di qualsiasi
 [animale](/tratti/animale) si trovi nei pressi della sua tana. Ottiene bonus di
 circostanza +4 a questa prova.
 
