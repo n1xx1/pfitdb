@@ -1,8 +1,8 @@
 ---
 source: Manuale di Gioco, pag. 630
-original-name: Costrutto
+original-name: Construct
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=35
-categories: []
+categories: [creature-type]
 ---
 
 # Costrutto

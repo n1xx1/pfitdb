@@ -1,8 +1,8 @@
 ---
 source: Manuale di Gioco, pag. 629
-original-name: Aria
+original-name: Air
 original-srd: https://2e.aonprd.com/Traits.aspx?ID=5
-categories: []
+categories: [elemental, monster, plane]
 ---
 
 # Aria
