@@ -2,16 +2,15 @@
 source: Manuale di Gioco, pag. 243
 original-name: Atletics
 original-srd: https://2e.aonprd.com/Skills.aspx?ID=3
-TODO:
-  - add table
-  - add actions
 ---
 
-# Atletica (For)
+# Atletica - (For)
 
 Atletica indica la tua prodezza fisica. Quando compi l'azione base
 [Sfuggire](/azioni/abilita/sfuggire), puoi usare il tuo modificatore di Atletica
 anziché il tuo modificatore di attacco senz'armi.
+
+## Azione Senza Addestramento di Atletica
 
 ### @[Forzare](/azioni/abilita/forzare])
 
@@ -68,16 +67,16 @@ anziché il tuo modificatore di attacco senz'armi.
 
 ### @[Salto in Alto](/azioni/abilita/salto-in-alto])
 
-## Saltare
-
-Per Saltare in Alto e Saltare in Lungo si usa l'azione base Saltare. Saltare ti
-permette di compiere un balzo breve e accurato. Puoi Saltare fino a 3 metri in
-orizzontale se la tua Velocità è almeno 4,5 metri, o fino a 4,5 metri se la tua
-Velocità è almeno 9 metri. Atterri nello spazio in cui termina il tuo Salto
-(quindi puoi solitamente superare un varco di 1,5 metri se la tua Velocità è tra
-4,5 e 9 metri, o uno di 3 metri se la tua Velocità è 9 metri o superiore). Se
-Salti in verticale puoi muoverti di fino a 0,9 metri in verticale e 1,5 metri in
-orizzontale su una superficie rialzata.
+> ### Saltare
+>
+> Per Saltare in Alto e Saltare in Lungo si usa l'azione base Saltare. Saltare
+> ti permette di compiere un balzo breve e accurato. Puoi Saltare fino a 3 metri
+> in orizzontale se la tua Velocità è almeno 4,5 metri, o fino a 4,5 metri se la
+> tua Velocità è almeno 9 metri. Atterri nello spazio in cui termina il tuo
+> Salto (quindi puoi solitamente superare un varco di 1,5 metri se la tua
+> Velocità è tra 4,5 e 9 metri, o uno di 3 metri se la tua Velocità è 9 metri o
+> superiore). Se Salti in verticale puoi muoverti di fino a 0,9 metri in
+> verticale e 1,5 metri in orizzontale su una superficie rialzata.
 
 ### @[Salto in Lungo](/azioni/abilita/salto-in-lungo])
 
