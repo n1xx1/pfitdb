@@ -6,8 +6,6 @@ original-srd: https://2e.aonprd.com/Classes.aspx
 
 # Classi
 
-## Comuni
-
 ### [Alchimista](/classi/alchimista)
 
 L'alchimista utilizza la sua abilità nel miscelare sostanze per creare oggetti
