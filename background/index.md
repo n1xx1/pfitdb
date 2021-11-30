@@ -28,8 +28,24 @@ sezione Talenti.
 
 ### Background Rari
 
-_TODO_
+_La maggior parte dei background è disponibile per qualsiasi personaggio, ma
+alcuni background sono così insoliti che il solo fatto di averli rende un
+personaggio raro e staordinario._
 
-### @[Accolito](/background/accolito)
+Questi background rari possono dare al giocatore una esperienza interpretativa
+molto diversa, consentendogli di costruire un personaggio con una storia o un
+passato al di là della norma. Un personaggio con un background da reale, che sia
+l'erede al trono del regno dove si svolge la tua campagna o di una potente
+nazione lontana, occupa una posizione speciale all'interno della narrazione. Il
+background del tuo personaggio è intrinseco alle sue origini e non qualcosa che
+si guadagna durante il gioco. I background rari dovrebbero essere scelti solo
+dopo che il GM e gli altri giocatori si siano accordati sull'idea di applicarne
+uno nella campagna che si sta giocando.
 
-### @[Benedetto](/background/benedetto)
+I background possono anche essere unici: se li ha il tuo personaggio, non può
+averli nessun altro. Per creare background unici, puoi adattare i background
+rari di questa sezione includendo dettagli più specifici.
+
+---
+
+@[[Include]](/background)
