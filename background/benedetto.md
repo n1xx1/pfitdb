@@ -15,8 +15,8 @@ intuizione e ti aiuta nelle tue lotte. Potresti anche non conoscere l'identità
 dell'essere che ti ha benedetto, e la benedizione potrebbe avere un costo che
 scoprirai in seguito.
 
-Scegli due aumenti di caratteristica. Uno deve essere a Saggezza o Carisma e uno
-è un aumento di caratteristica libero.
+Scegli due aumenti di caratteristica. Uno deve essere a **Saggezza** o
+**Carisma** e uno è un aumento di caratteristica libero.
 
 Sei addestrato in un'abilità di [Sapienza](/abilita/sapienza) associata alla
 divinità che ti ha benedetto (per esempio Sapienza su
