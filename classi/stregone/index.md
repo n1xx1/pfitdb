@@ -210,7 +210,7 @@ lanciarli utilizzando questi ultimi. Alcuni talenti possono conferirti altri
 incantesimi focalizzati e accrescere la tua riserva, sebbene questa non possa
 mai contenere più di 3 Punti Focalizzazione.
 
-<h3>Leggere la Descrizione di una Linea di Sangue</h3>
+#### Leggere la Descrizione di una Linea di Sangue
 
 La descrizione di una linea di sangue contiene le seguenti informazioni.
 

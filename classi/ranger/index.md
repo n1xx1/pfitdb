@@ -157,7 +157,7 @@ addestramento di base, indicate all'inizio della descrizione della classe.
 Oltre alle capacità conferite dalla classe, ottieni i benefici della stirpe e
 del background che hai scelto.
 
-<h2v>Vantaggio del Cacciatore</h2v>
+### Vantaggio del Cacciatore
 
 Dopo innumerevoli ore trascorse ad addestrarti per diventare un cacciatore e un
 segugio più abile, quando utilizzi Cacciare la Preda ottieni un beneficio

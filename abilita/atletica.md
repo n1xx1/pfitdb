@@ -12,60 +12,60 @@ anziché il tuo modificatore di attacco senz'armi.
 
 ## Azione Senza Addestramento di Atletica
 
-### @[Forzare](/azioni/abilita/forzare])
+### @[Forzare](/azioni/abilita/forzare)
 
-### @[Lottare](/azioni/abilita/lottare])
+### @[Lottare](/azioni/abilita/lottare)
 
-### @[Nuotare](/azioni/abilita/nuotare])
+### @[Nuotare](/azioni/abilita/nuotare)
 
 <table>
     <thead>
         <tr>
             <th></th>
-            <th colspan="2">Distanza con Scalare</th>
-            <th colspan="2">Distanza con Nuotare</th>
+            <th align="center" colspan=2>Distanza con Scalare</th>
+            <th align="center" colspan=2>Distanza con Nuotare</th>
         </tr>
         <tr>
             <th>Velocità</th>
-            <th>Successo</th>
-            <th>Critico</th>
-            <th>Successo</th>
-            <th>Critico</th>
+            <th align="center">Successo</th>
+            <th align="center">Critico</th>
+            <th align="center">Successo</th>
+            <th align="center">Critico</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <td>1,5-4,5 metri</td>
-            <td>5</td>
-            <td>5</td>
-            <td>5</td>
-            <td>10</td>
+            <td align="center">5</td>
+            <td align="center">5</td>
+            <td align="center">5</td>
+            <td align="center">10</td>
         </tr> 
         <tr>
             <td>6-10,5 metri</td>
-            <td>5</td>
-            <td>10</td>
-            <td>10</td>
-            <td>15</td>
+            <td align="center">5</td>
+            <td align="center">10</td>
+            <td align="center">10</td>
+            <td align="center">15</td>
         </tr> 
         <tr>
             <td>12-16,5 metri</td>
-            <td>10</td>
-            <td>15</td>
-            <td>15</td>
-            <td>20</td>
+            <td align="center">10</td>
+            <td align="center">15</td>
+            <td align="center">15</td>
+            <td align="center">20</td>
         </tr> 
         <tr>
             <td>18-19,5 metri</td>
-            <td>15</td>
-            <td>20</td>
-            <td>20</td>
-            <td>25</td>
+            <td align="center">15</td>
+            <td align="center">20</td>
+            <td align="center">20</td>
+            <td align="center">25</td>
         </tr>
     </tbody>
 </table>
 
-### @[Salto in Alto](/azioni/abilita/salto-in-alto])
+### @[Salto in Alto](/azioni/abilita/salto-in-alto)
 
 > ### Saltare
 >
@@ -78,11 +78,11 @@ anziché il tuo modificatore di attacco senz'armi.
 > superiore). Se Salti in verticale puoi muoverti di fino a 0,9 metri in
 > verticale e 1,5 metri in orizzontale su una superficie rialzata.
 
-### @[Salto in Lungo](/azioni/abilita/salto-in-lungo])
+### @[Salto in Lungo](/azioni/abilita/salto-in-lungo)
 
-### @[Sbilanciare](/azioni/abilita/sbilanciare])
+### @[Sbilanciare](/azioni/abilita/sbilanciare)
 
-### @[Scalare](/azioni/abilita/scalare])
+### @[Scalare](/azioni/abilita/scalare)
 
 > ### Cadere
 >
@@ -99,7 +99,7 @@ anziché il tuo modificatore di attacco senz'armi.
 > [Afferrare un Bordo](/azioni/abilita/afferrare-un-bordo) come reazione per
 > ridurre o azzerare i danni di alcune cadute.
 
-### @[Spingere](/azioni/abilita/spingere])
+### @[Spingere](/azioni/abilita/spingere)
 
 > ### Movimento Forzato
 >
@@ -111,4 +111,4 @@ anziché il tuo modificatore di attacco senz'armi.
 
 ## Azione con Addestramento di Atletica
 
-### @[Disarmare](/azioni/abilita/disarmare])
+### @[Disarmare](/azioni/abilita/disarmare)
