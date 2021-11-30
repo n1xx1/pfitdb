@@ -1,7 +1,7 @@
 ---
 family: velstrac
 traits: [lm, minuscola, nefando, velstrac]
-source: Era delle Ceneri: Domani Brucerà, pag. 81
+source: "Era delle Ceneri: Domani Brucerà, pag. 81"
 original-name: TODO
 original-srd: TODO
 ---

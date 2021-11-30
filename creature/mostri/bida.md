@@ -1,6 +1,6 @@
 ---
 traits: [non comune, lm, enorme, drago]
-source: Era delle Ceneri: Il Culto delle Ceneri, pag. 81
+source: "Era delle Ceneri: Il Culto delle Ceneri, pag. 81"
 original-name: TODO
 original-srd: TODO
 ---

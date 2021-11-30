@@ -1,6 +1,6 @@
 ---
 traits: [nm, media, fatato]
-source: Era delle Ceneri: Il Culto delle Ceneri, pag. 88
+source: "Era delle Ceneri: Il Culto delle Ceneri, pag. 88"
 original-name: TODO
 original-srd: TODO
 ---

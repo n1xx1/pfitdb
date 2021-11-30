@@ -1,6 +1,6 @@
 ---
 traits: [nm, media, umanoide]
-source: Era delle Ceneri: Il Culto delle Ceneri, pag. 91
+source: "Era delle Ceneri: Il Culto delle Ceneri, pag. 91"
 original-name: TODO
 original-srd: TODO
 ---

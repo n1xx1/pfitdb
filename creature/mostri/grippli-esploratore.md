@@ -1,7 +1,7 @@
 ---
 family: grippli
 traits: [n, piccola, grippli, umanoide]
-source: Era delle Ceneri: Il Culto delle Ceneri, pag. 86
+source: "Era delle Ceneri: Il Culto delle Ceneri, pag. 86"
 original-name: TODO
 original-srd: TODO
 ---

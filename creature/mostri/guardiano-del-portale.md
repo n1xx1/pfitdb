@@ -1,6 +1,6 @@
 ---
 traits: [non comune, ln, grande, costrutto]
-source: Era delle Ceneri: La Collina dei Cavalieri Infernali, pag. 88
+source: "Era delle Ceneri: La Collina dei Cavalieri Infernali, pag. 88"
 original-name: TODO
 original-srd: TODO
 ---

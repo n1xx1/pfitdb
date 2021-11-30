@@ -1,7 +1,7 @@
 ---
 family: anadi
 traits: [non comune, cb, media, anadi, umanoide]
-source: Era delle Ceneri: La Collina dei Cavalieri Infernali, pag. 85
+source: "Era delle Ceneri: La Collina dei Cavalieri Infernali, pag. 85"
 original-name: TODO
 original-srd: TODO
 ---

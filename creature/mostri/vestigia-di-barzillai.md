@@ -1,6 +1,6 @@
 ---
 traits: [raro, lm, media, incorporeo, non-morto]
-source: Era delle Ceneri: Domani Brucerà, pag. 85
+source: "Era delle Ceneri: Domani Brucerà, pag. 85"
 original-name: TODO
 original-srd: TODO
 ---

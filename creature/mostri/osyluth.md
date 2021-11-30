@@ -1,7 +1,7 @@
 ---
 family: diavolo
 traits: [lm, grande, diavolo, nefando]
-source: Era delle Ceneri: Domani Brucerà, pag. 78
+source: "Era delle Ceneri: Domani Brucerà, pag. 78"
 original-name: TODO
 original-srd: TODO
 ---

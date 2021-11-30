@@ -1,6 +1,6 @@
 ---
 traits: [cm, grande, umanoide]
-source: Era delle Ceneri: Il Culto delle Ceneri, pag. 80
+source: "Era delle Ceneri: Il Culto delle Ceneri, pag. 80"
 original-name: TODO
 original-srd: TODO
 ---

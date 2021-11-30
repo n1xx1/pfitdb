@@ -1,6 +1,6 @@
 ---
 traits: [non comune, n, enorme, animale]
-source: Era delle Ceneri: Il Culto delle Ceneri, pag. 90
+source: "Era delle Ceneri: Il Culto delle Ceneri, pag. 90"
 original-name: TODO
 original-srd: TODO
 ---

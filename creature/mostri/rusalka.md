@@ -1,6 +1,6 @@
 ---
 traits: [nm, media, acqua, acquatico, fatato]
-source: Era delle Ceneri: Domani Brucerà, pag. 80
+source: "Era delle Ceneri: Domani Brucerà, pag. 80"
 original-name: TODO
 original-srd: TODO
 ---

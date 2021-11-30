@@ -1,7 +1,7 @@
 ---
 family: gigante
 traits: [lm, grande, gigante, ombra, umanoide]
-source: Era delle Ceneri: Domani Brucerà, pag. 79
+source: "Era delle Ceneri: Domani Brucerà, pag. 79"
 original-name: TODO
 original-srd: TODO
 ---

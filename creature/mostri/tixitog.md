@@ -1,6 +1,6 @@
 ---
 traits: [non comune, nm, media, aberrazione]
-source: Era delle Ceneri: La Collina dei Cavalieri Infernali, pag. 90
+source: "Era delle Ceneri: La Collina dei Cavalieri Infernali, pag. 90"
 original-name: TODO
 original-srd: TODO
 ---

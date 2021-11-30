@@ -1,6 +1,6 @@
 ---
 traits: [non comune, n, grande, bestia]
-source: Era delle Ceneri: La Collina dei Cavalieri Infernali, pag. 89
+source: "Era delle Ceneri: La Collina dei Cavalieri Infernali, pag. 89"
 original-name: TODO
 original-srd: TODO
 ---

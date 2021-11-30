@@ -1,6 +1,6 @@
 ---
 traits: [non comune, n, media, animale]
-source: Era delle Ceneri: La Collina dei Cavalieri Infernali, pag. 91
+source: "Era delle Ceneri: La Collina dei Cavalieri Infernali, pag. 91"
 original-name: TODO
 original-srd: TODO
 ---

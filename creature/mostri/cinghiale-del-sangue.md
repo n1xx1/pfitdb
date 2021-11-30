@@ -1,6 +1,6 @@
 ---
 traits: [nm, media, animale]
-source: Era delle Ceneri: Domani Brucerà, pag. 76
+source: "Era delle Ceneri: Domani Brucerà, pag. 76"
 original-name: TODO
 original-srd: TODO
 ---

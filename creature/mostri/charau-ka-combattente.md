@@ -1,6 +1,6 @@
 ---
 traits: [cm, piccola, charau-ka, umanoide]
-source: Era delle Ceneri: Il Culto delle Ceneri, pag. 84
+source: "Era delle Ceneri: Il Culto delle Ceneri, pag. 84"
 original-name: TODO
 original-srd: TODO
 ---

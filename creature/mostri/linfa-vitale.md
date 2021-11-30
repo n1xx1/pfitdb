@@ -1,6 +1,6 @@
 ---
 traits: [non comune, n, media, melma, privo-di-intelletto]
-source: Era delle Ceneri: Il Culto delle Ceneri, pag. 89
+source: "Era delle Ceneri: Il Culto delle Ceneri, pag. 89"
 original-name: TODO
 original-srd: TODO
 ---

@@ -1,7 +1,7 @@
 ---
 family: demone
 traits: [cm, media, demone, nefando]
-source: Era delle Ceneri: Domani Brucerà, pag. 77
+source: "Era delle Ceneri: Domani Brucerà, pag. 77"
 original-name: TODO
 original-srd: TODO
 ---

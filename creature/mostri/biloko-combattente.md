@@ -1,6 +1,6 @@
 ---
 traits: [nm, piccola, fatato]
-source: Era delle Ceneri: Il Culto delle Ceneri, pag. 82
+source: "Era delle Ceneri: Il Culto delle Ceneri, pag. 82"
 original-name: TODO
 original-srd: TODO
 ---
