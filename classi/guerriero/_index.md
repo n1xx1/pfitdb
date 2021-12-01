@@ -80,33 +80,26 @@ Esperto in Percezione
 
 ### Tiri Salvezza
 
-Esperto in Tempra
-
-Esperto in Riflessi
-
-Addestrato in Will
+Esperto in Tempra  
+Esperto in Riflessi  
+Addestrato in Volontà
 
 ### Abilità
 
-Addestrato in una a tua scelta tra Acrobazia e Atletica
-
+Addestrato in una a tua scelta tra Acrobazia e Atletica  
 Addestrato in un numero di abilità aggiuntive pari a 3 più il tuo modificatore
 di Intelligenza
 
 ### Attacchi
 
-Esperto con le armi semplici
-
-Esperto con le armi da guerra
-
-Addestrato con le armi avanzate
-
+Esperto con le armi semplici  
+Esperto con le armi da guerra  
+Addestrato con le armi avanzate  
 Esperto con gli attacchi senz'armi
 
 ### Difese
 
-Addestrato con tutte le armature
-
+Addestrato con tutte le armature  
 Addestrato nella difesa senz'armatura
 
 ### CD di Classe

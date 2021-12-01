@@ -79,33 +79,26 @@ Addestrato in Percezione
 
 ### Tiri Salvezza
 
-Esperto in Tempra
-
-Addestrato in Riflessi
-
+Esperto in Tempra  
+Addestrato in Riflessi  
 Esperto in Volontà
 
 ### Abilità
 
-Addestrato in Religione
-
-Addestrato in un'abilità stabilita in base alla divinità che scegli
-
+Addestrato in Religione  
+Addestrato in un'abilità stabilita in base alla divinità che scegli  
 Addestrato in un numero di abilità aggiuntive pari a 2 più il tuo modificatore
 di Intelligenza
 
 ### Attacchi
 
-Addestrato con le armi semplici
-
-Addestrato con le armi da guerra
-
+Addestrato con le armi semplici  
+Addestrato con le armi da guerra  
 Addestrato negli attacchi senz'armi
 
 ### Difese
 
-Addestrato con tutte le armature
-
+Addestrato con tutte le armature  
 Addestrato nella difesa senz'armatura
 
 ### CD di Classe
@@ -114,8 +107,7 @@ Addestrato nella CD di classe del campione
 
 ### Incantesimi
 
-Addestrato nei tiri per colpire con incantesimi divini
-
+Addestrato nei tiri per colpire con incantesimi divini  
 Addestrato nella CD degli incantesimi divini
 
 ## Privilegi di Classe

@@ -77,33 +77,26 @@ Esperto in Percezione
 
 ### Tiri Salvezza
 
-Addestrato in Tempra
-
-Esperto in Riflessi
-
+Addestrato in Tempra  
+Esperto in Riflessi  
 Esperto in Will
 
 ### Abilità
 
-Addestrato in Furtività
-
-Addestrato in una o più abilità determinate dal racket della canaglia
-
+Addestrato in Furtività  
+Addestrato in una o più abilità determinate dal racket della canaglia  
 Addestrato in un numero di abilità aggiuntive pari a 7 più il tuo modificatore
 di Intelligenza
 
 ### Attacchi
 
-Addestrato con le armi semplici
-
-Addestrato con l'arco corto, il manganello, la spada da lato e la spada corta
-
+Addestrato con le armi semplici  
+Addestrato con l'arco corto, il manganello, la spada da lato e la spada corta  
 Addestrato negli attacchi senz'armi
 
 ### Difese
 
-Addestrato con le armature leggere
-
+Addestrato con le armature leggere  
 Addestrato nella difesa senz'armatura
 
 ### CD di Classe

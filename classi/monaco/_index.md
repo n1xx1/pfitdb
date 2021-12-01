@@ -78,10 +78,8 @@ Addestrato in Percezione
 
 ### Tiri Salvezza
 
-Esperto in Tempra
-
-Esperto in Riflessi
-
+Esperto in Tempra  
+Esperto in Riflessi  
 Esperto in Volontà
 
 ### Abilità
@@ -91,14 +89,12 @@ di Intelligenza
 
 ### Attacchi
 
-Addestrato con le armi semplici
-
+Addestrato con le armi semplici  
 Addestrato negli attacchi senz'armi
 
 ### Difese
 
-Senza addestramento con tutte le armature
-
+Senza addestramento con tutte le armature  
 Addestrato nella difesa senz'armatura
 
 ### CD di Classe

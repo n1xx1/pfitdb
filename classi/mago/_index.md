@@ -1,4 +1,4 @@
----
+  ---
 source: Manuale di Gioco, pag. TODO
 original-name: Wizard
 original-srd: https://2e.aonprd.com/Classes.aspx?ID=12
@@ -93,35 +93,29 @@ Addestrato in Percezione
 
 ### Tiri Salvezza
 
-Addestrato in Tempra
-
-Addestrato in Riflessi
-
+Addestrato in Tempra  
+Addestrato in Riflessi  
 Esperto in Volontà
 
 ### Abilità
 
-Addestrato in Arcano
-
+Addestrato in Arcano  
 Addestrato in un numero di abilità aggiuntive pari a 2 più il tuo modificatore
 di Intelligenza
 
 ### Attacchi
 
-Addestrato con balestre, balestre pesanti, bastoni ferrati, pugnali e randelli
-
+Addestrato con balestre, balestre pesanti, bastoni ferrati, pugnali e randelli  
 Addestrato con gli attacchi senz'armi
 
 ### Difese
 
-Senza addestramento con tutte le armature
-
+Senza addestramento con tutte le armature  
 Addestrato nella difesa senz'armatura
 
 ### Incantesimi
 
-Addestrato nei tiri per colpire con incantesimi arcani
-
+Addestrato nei tiri per colpire con incantesimi arcani  
 Addestrato nella CD degli incantesimi arcani
 
 ## Privilegi di Classe

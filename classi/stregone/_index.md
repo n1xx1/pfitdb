@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 203
 original-name: Sorcerer
 original-srd: https://2e.aonprd.com/Classes.aspx?ID=11
 ---
@@ -83,36 +83,30 @@ Addestrato in Percezione
 
 ### Tiri Salvezza
 
-Addestrato in Tempra
-
-Addestrato in Riflessi
-
+Addestrato in Tempra  
+Addestrato in Riflessi  
 Esperto in Volontà
 
 ### Abilità
 
-Addestrato in una o più abilità determinate dalla tua linea di sangue
-
+Addestrato in una o più abilità determinate dalla tua linea di sangue  
 Addestrato in un numero di abilità aggiuntive pari a 2 più il tuo modificatore
 di Intelligenza
 
 ### Attacchi
 
-Addestrato con le armi semplici
-
+Addestrato con le armi semplici  
 Addestrato con gli attacchi senz'armi
 
 ### Difese
 
-Senza addestramento con tutte le armature
-
+Senza addestramento con tutte le armature  
 Addestrato nella difesa senz'armatura
 
 ### Incantesimi
 
 Addestrato nei tiri per colpire con incantesimi della tua tradizione
-d'incantatore, come indicato dalla tua linea di sangue
-
+d'incantatore, come indicato dalla tua linea di sangue  
 Addestrato nella CD degli incantesimi della tua tradizione d'incantatore, come
 indicato dalla tua linea di sangue
 
@@ -156,41 +150,10 @@ Scegli una linea di sangue da cui hai ereditato le tue doti di incantatore. In
 questo modo, determini il tipo di incantesimi che lanci, la lista da cui li
 scegli, gli incantesimi in più che impari e le abilità con addestramento
 aggiuntive. Inoltre, ottieni dei Punti Focalizzazione e degli speciali
-incantesimi focalizzati basati sulla tua linea di sangue. Le linee di sangue
-presentate in questo manuale sono le seguenti.
+incantesimi focalizzati basati sulla tua linea di sangue.
 
-- [Aberrante](/classi/stregone/linee-di-sangue/aberrante): Un'influenza bizzarra
-  e imperscrutabile ti concede l'utilizzo degli incanteocculti.
-- [Angelica](/classi/stregone/linee-di-sangue/angelica): Lanci incantesimi
-  divini elargiti dalla grazia celeste.
-- [Demoniaca](/classi/stregone/linee-di-sangue/demoniaca): Una corruzione
-  malefica ti permette di utilizzare gli incantesimi divini.
-- [Diabolica](/classi/stregone/linee-di-sangue/diabolica): Devi i tuoi
-  incantesimi divini a un patto con i diavoli.
-- [Draconica](/classi/stregone/linee-di-sangue/draconica): Il sangue dei draghi
-  ti concede l'utilizzo degli incantesimi arcani.
-- [Elementale](/classi/stregone/linee-di-sangue/elementale): Le forze elementali
-  si manifestano in te come incantesimi primevi.
-- [Fatata](/classi/stregone/linee-di-sangue/fatata): L'influsso delle fate ti
-  conferisce l'uso degli incantesimi primevi.
-- [Imperiale](/classi/stregone/linee-di-sangue/imperiale): Lanci incantesimi
-  arcani concessi da un antico potere.
-- [Megera](/classi/stregone/linee-di-sangue/megera): La malignità di una megera
-  ti ha donato la capacità di lanciare incantesimi occulti.
-- [Non Morta](/classi/stregone/linee-di-sangue/non-morta): Il tocco della morte
-  ti concede di utilizzare incantesimi divini.
-- [Genie](/classi/stregone/linee-di-sangue/genie): Through lineage, magic, or
-  wishes made real, the blood of a noble genie flows through veins.
-- [Nymph](/classi/stregone/linee-di-sangue/nymph): One of your ancestors was
-  inspired by a nymph, or perhaps was a nymph themself, andthe beauty of nature
-  lives in you.
-- [Psychopomp](/classi/stregone/linee-di-sangue/psychopomp): For good or ill,
-  your ancestors' deeds drew the attention of psychopomps, ormight somehow count
-  one in your family tree. The presence of these shepherds of souls and enemies
-  of undeath has left an indelible mark on you.
-- [Shadow](/classi/stregone/linee-di-sangue/shadow): Whether due to a velstrac's
-  manipulations or a planar jaunt gone horribly wrong, bloodline was infused
-  with a vein of shadow.
+Le linee di sangue possono essere trovate
+[qua](/classi/stregone/linee-di-sangue).
 
 ### Incantesimi della Linea di Sangue
 

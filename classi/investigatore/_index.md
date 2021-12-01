@@ -1,4 +1,4 @@
----
+  ---
 source: Guida del Giocatore, pag. TODO
 original-name: Investigator
 original-srd: https://2e.aonprd.com/Classes.aspx?ID=13
@@ -84,31 +84,25 @@ Esperto in Percezione
 
 ### Tiri Salvezza
 
-Addestrato in Tempra
-
-Esperto in Riflessi
-
+Addestrato in Tempra  
+Esperto in Riflessi  
 Esperto in Volontà
 
 ### Abilità
 
-Addestrato in Società
-
-Addestrato in una o più abilità determinate dalla tua metodologia
-
+Addestrato in Società  
+Addestrato in una o più abilità determinate dalla tua metodologia  
 Addestrato in un numero di abilità pari a 4 più il tuo modificatore di
 Intelligenza
 
 ### Attacchi
 
-Addestrato con le armi semplici e da guerra
-
+Addestrato con le armi semplici e da guerra  
 Addestrato con gli attacchi senz'armi
 
 ### Difese
 
-Addestrato con le armature leggere
-
+Addestrato con le armature leggere  
 Addestrato nella difesa senz'armatura
 
 ### CD di Classe

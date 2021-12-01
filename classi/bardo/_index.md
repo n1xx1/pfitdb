@@ -81,40 +81,32 @@ Esperto in Percezione
 
 ### Tiri Salvezza
 
-Addestrato in Tempra
-
-Addestrato in Riflessi
-
+Addestrato in Tempra  
+Addestrato in Riflessi  
 Esperto in Volontà
 
 ### Abilità
 
-Addestrato in Occultismo
-
-Addestrato in Esibizione
-
+Addestrato in Occultismo  
+Addestrato in Esibizione  
 Addestrato in un numero di abilità aggiuntive pari a 4 più il tuo modificatore
 di Intelligenza
 
 ### Attacchi
 
-Addestrato con le armi semplici
-
+Addestrato con le armi semplici  
 Addestrato con arco corto, frusta, manganello, spada corta, spada da lato e
-spada d'arme
-
+spada d'arme  
 Addestrato con gli attacchi senz'armi
 
 ### Difese
 
-Addestrato con le armature leggere
-
+Addestrato con le armature leggere  
 Addestrato nella difesa senz'armatura
 
 ### Incantesimi
 
-Addestrato nei tiri per colpire con incantesimi occulti
-
+Addestrato nei tiri per colpire con incantesimi occulti  
 Addestrato nella CD degli incantesimi occulti
 
 ## Privilegi di Classe

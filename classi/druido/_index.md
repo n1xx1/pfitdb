@@ -89,39 +89,31 @@ Addestrato in Percezione
 
 ### Tiri Salvezza
 
-Addestrato in Tempra
-
-Addestrato in Riflessi
-
+Addestrato in Tempra  
+Addestrato in Riflessi  
 Esperto in Volontà
 
 ### Abilità
 
-Addestrato in Natura
-
-Addestrato in un'abilità determinata dal tuo ordine druidico
-
+Addestrato in Natura  
+Addestrato in un'abilità determinata dal tuo ordine druidico  
 Addestrato in un numero di abilità aggiuntive pari a 2 più il tuo modificatore
 di Intelligenza
 
 ### Attacchi
 
-Addestrato con le armi semplici
-
+Addestrato con le armi semplici  
 Addestrato con gli attacchi senz'armi
 
 ### Difese
 
-Addestrato con le armature leggere
-
-Addestrato con le armature medie
-
+Addestrato con le armature leggere  
+Addestrato con le armature medie  
 Addestrato nella difesa senz'armatura
 
 ### Incantesimi
 
-Addestrato nei tiri per colpire con incantesimi primevi
-
+Addestrato nei tiri per colpire con incantesimi primevi  
 Addestrato nella CD degli incantesimi primevi
 
 ## Privilegi di Classe
