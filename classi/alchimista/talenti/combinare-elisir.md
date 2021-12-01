@@ -1,6 +1,6 @@
 ---
 traits: [additivo 2, alchimista]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 78
 original-name: Combine Elixirs
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=102
 ---

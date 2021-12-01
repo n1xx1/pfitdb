@@ -1,6 +1,6 @@
 ---
 traits: [alchimista]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 77
 original-name: Revivifying Mutagen
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=97
 ---

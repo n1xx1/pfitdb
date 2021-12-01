@@ -1,6 +1,6 @@
 ---
 traits: [additivo 1, alchimista]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 77
 original-name: Smoke Bomb
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=98
 ---

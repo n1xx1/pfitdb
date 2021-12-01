@@ -1,9 +1,8 @@
 ---
 traits: [alchimista]
-source: Manuale di Gioco, pag. TODO
-original-name: Revivifying Mutagen
-original-srd: https://2e.aonprd.com/Feats.aspx?ID=97
-TODO: controllare nel manuale (druido, alchimista)
+source: Manuale di Gioco, pag. 77
+original-name: Poison Resistance
+original-srd: https://2e.aonprd.com/Feats.aspx?ID=96
 ---
 
 # Resistenza al Veleno - Talento 2

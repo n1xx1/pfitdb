@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. 173
+source: Manuale di Gioco, pag. 76
 original-name: Alchemist Feats
 original-srd: https://2e.aonprd.com/Feats.aspx?Traits=7
 navigation-order: -1
