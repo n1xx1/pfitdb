@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. 33
 original-name: Ancestries
 original-srd: https://2e.aonprd.com/Ancestries.aspx
+navigation-order: -50
 TODO:
 ---
 

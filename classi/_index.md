@@ -2,6 +2,7 @@
 source: Manuale di Gioco, pag. TODO
 original-name: Classes
 original-srd: https://2e.aonprd.com/Classes.aspx
+navigation-order: -30
 ---
 
 # Classi

@@ -1,3 +1,10 @@
+---
+source: Manuale di Gioco, pag. 13
+original-name: Traits
+original-srd: https://2e.aonprd.com/Traits.aspx
+categories: [weapon]
+---
+
 # Tratti
 
 Un tratto è una parola chiave che serve a impartire informazioni aggiuntive su
