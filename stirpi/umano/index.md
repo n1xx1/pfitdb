@@ -108,6 +108,6 @@ Due aumenti di caratteristica liberi
 
 **Lingue**  
 Comune  
-Un numero di lingue Aggiuntive pari a 1 + il tuo modificatore di Intelligenza
-(se è positivo). Scegli dall'elenco di lingue comuni e qualsiasi altra lingua a
-cui hai accesso (per esempio le lingue prevalenti nella tua regione).
+Lingue Aggiuntive pari a 1 + il tuo modificatore di Intelligenza (se è
+positivo). Scegli dall'elenco di lingue comuni e qualsiasi altra lingua a cui
+hai accesso (per esempio le lingue prevalenti nella tua regione).

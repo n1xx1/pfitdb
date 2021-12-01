@@ -135,10 +135,10 @@ Carisma
 **Lingue**  
 Comune  
 Nanico  
-Un numero di lingue aggiuntive pari al tuo modificatore di Intelligenza (se è
-positivo). Scegli tra Gnomesco, Goblin, Jotun, Orchesco, Sottocomune, Terran e
-qualsiasi altra lingua a cui hai accesso (per esempio le lingue prevalenti nella
-tua regione).
+Lingue aggiuntive pari al tuo modificatore di Intelligenza (se è positivo).
+Scegli tra Gnomesco, Goblin, Jotun, Orchesco, Sottocomune, Terran e qualsiasi
+altra lingua a cui hai accesso (per esempio le lingue prevalenti nella tua
+regione).
 
 **Scurovisione**  
 Riesci a vedere nell'oscurità e in condizioni di luce fioca come se fosse luce

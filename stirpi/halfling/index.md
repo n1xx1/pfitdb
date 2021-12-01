@@ -138,9 +138,9 @@ Forza
 **Lingue**  
 Comune  
 Halfling  
-Un numero di lingue aggiuntive pari al tuo modificatore di Intelligenza (se è
-positivo). Scegli tra Elfico, Gnomesco, Goblin, Nanico e qualsiasi altra lingua
-a cui hai accesso (per esempio le lingue prevalenti nella tua regione).
+Lingue aggiuntive pari al tuo modificatore di Intelligenza (se è positivo).
+Scegli tra Elfico, Gnomesco, Goblin, Nanico e qualsiasi altra lingua a cui hai
+accesso (per esempio le lingue prevalenti nella tua regione).
 
 **Vista Acuta**  
 Hai una vista acuta, che ti consente di notare piccoli dettagli nascosti o anche
