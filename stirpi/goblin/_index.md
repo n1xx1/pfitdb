@@ -89,13 +89,18 @@ insieme alla loro scarsa memoria, li aiuta ad adattarsi in fretta.
 > del rasoio, utilizzando le loro abilità e la loro astuzia. I goblin viaggiano
 > e vanno a caccia di tesori per natura, anche se alcuni diventano a tutti i
 > diritti veri avventurieri, spesso dopo essere stati separati dal loro gruppo o
-> tribù. I goblin spesso hanno un background acrobata, cacciatore, criminale,
-> gladiatore, intrattenitore o teppistello. È consigliabile interpretare un
-> alchimista, dato che molti goblin amano il fuoco, o un bardo, data la passione
-> di questa stirpe per le canzoni. Dato che sopravvivono alla bell'e meglio,
-> spesso i goblin sono canaglie che sfrecciano tra le ombre, anche se la loro
-> natura carismatica li induce anche a sperimentare alcune classi magiche come
-> lo stregone.
+> tribù.
+>
+> I goblin spesso hanno un background [acrobata](/background/acrobata),
+> [cacciatore](/background/cacciatore), [criminale](/background/criminale),
+> [gladiatore](/background/gladiatore),
+> [intrattenitore](/background/intrattenitore) o
+> [teppistello](/background/teppistello). È consigliabile interpretare un
+> [alchimista](/classi/alchimista), dato che molti goblin amano il fuoco, o un
+> [bardo](/classi/bardo), data la passione di questa stirpe per le canzoni. Dato
+> che sopravvivono alla bell'e meglio, spesso i goblin sono canaglie che
+> sfrecciano tra le ombre, anche se la loro natura carismatica li induce anche a
+> sperimentare alcune classi magiche come lo [stregone](/classi/stregone).
 
 ## Allineamento e Religione
 

@@ -1,6 +1,6 @@
 ---
 source: Guida ai Personaggi, pag. TODO
-original-name: Ancient Elf
+original-name: Vivacious Gnome
 original-srd: https://2e.aonprd.com/Heritages.aspx?ID=36
 TODO:
 ---

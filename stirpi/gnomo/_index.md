@@ -87,14 +87,21 @@ seguono, creando famiglie adottate che viaggiano insieme.
 >
 > Per gli gnomi l'avventura non è tanto una scelta, quanto una necessità. Gli
 > gnomi avventurieri spesso portano con sé dei souvenir che consentono loro di
-> ricordare e rivivere le storie più eccitanti che hanno vissuto. Gli gnomi
-> spesso prendono in considerazione i background intrattenitore, mercante o
-> nomade. Inoltre, i background addestratore di animali, giocatore d'azzardo,
-> inventore eccentrico e oste sono particolarmente appropriati. Il legame degli
-> gnomi con la magia rende particolarmente adatte a loro le classi di
-> incantatori, in particolare quelle che si adattano ai loro incantesimi innati
-> primevi, come il druido o lo stregone primevo, anche se gli gnomi della
-> sorgente potrebbero scegliere altre classi.
+> ricordare e rivivere le storie più eccitanti che hanno vissuto.
+>
+> Gli gnomi spesso prendono in considerazione i background
+> [intrattenitore](/background/intrattenitore), [mercante](/background/mercante)
+> o [nomade](/background/nomade). Inoltre, i background
+> [addestratore di animali](/background/addestratore-di-animali),
+> [giocatore d'azzardo](/background/giocatore-d-azzardo),
+> [inventore eccentrico](/background/inventore-eccentrico) e
+> [oste](/background/oste) sono particolarmente appropriati.
+>
+> Il legame degli gnomi con la magia rende particolarmente adatte a loro le
+> classi di incantatori, in particolare quelle che si adattano ai loro
+> incantesimi innati primevi, come il [druido](/classi/druido) o lo
+> [stregone](/classi/stregone) primevo, anche se gli gnomi della sorgente
+> potrebbero scegliere altre classi.
 
 ## Allineamento e Religione
 
