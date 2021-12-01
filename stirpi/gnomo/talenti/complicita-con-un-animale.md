@@ -1,5 +1,5 @@
 ---
-tratis: [gnomo]
+traits: [gnomo]
 source: Manuale di Gioco, pag. 40
 original-name: Animal Accomplice
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=25

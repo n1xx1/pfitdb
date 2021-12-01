@@ -1,5 +1,5 @@
 ---
-tratis: [maneggiare]
+traits: [maneggiare]
 source: Manuale di Gioco, pag. 470
 original-name: Release
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=83

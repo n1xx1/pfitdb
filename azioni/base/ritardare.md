@@ -1,5 +1,5 @@
 ---
-tratis: []
+traits: []
 source: Manuale di Gioco, pag. 471
 original-name: Delay
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=77

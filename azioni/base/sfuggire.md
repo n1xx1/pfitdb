@@ -1,5 +1,5 @@
 ---
-tratis: [attacco]
+traits: [attacco]
 source: Manuale di Gioco, pag. 471
 original-name: Escape
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=79

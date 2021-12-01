@@ -1,5 +1,5 @@
 ---
-tratis: [attacco]
+traits: [attacco]
 source: Manuale di Gioco, pag. 470
 original-name: Strike
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=89

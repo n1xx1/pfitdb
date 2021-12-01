@@ -1,5 +1,5 @@
 ---
-tratis: [elfo]
+traits: [elfo]
 source: Manuale di Gioco, pag. 36
 original-name: Nimble Elf
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=16

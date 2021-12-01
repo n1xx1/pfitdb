@@ -1,5 +1,5 @@
 ---
-tratis: [elfo]
+traits: [elfo]
 source: Manuale di Gioco, pag. 37
 original-name: Elven Weapon Expertise
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=24

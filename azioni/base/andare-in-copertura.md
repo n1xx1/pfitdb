@@ -1,5 +1,5 @@
 ---
-tratis: []
+traits: []
 source: Manuale di Gioco, pag. 470
 original-name: Take Cover
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=90

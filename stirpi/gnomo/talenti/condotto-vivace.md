@@ -1,5 +1,5 @@
 ---
-tratis: [gnomo]
+traits: [gnomo]
 source: Manuale di Gioco, pag. 41
 original-name: Vivacious Conduit
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=36

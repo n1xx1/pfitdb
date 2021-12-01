@@ -1,5 +1,5 @@
 ---
-tratis: [movimento]
+traits: [movimento]
 source: Manuale di Gioco, pag. 470
 original-name: Drop Prone
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=78

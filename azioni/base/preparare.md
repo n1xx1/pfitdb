@@ -1,5 +1,5 @@
 ---
-tratis: [concentrazione]
+traits: [concentrazione]
 source: Manuale di Gioco, pag. 471
 original-name: Ready
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=82

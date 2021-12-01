@@ -1,5 +1,5 @@
 ---
-tratis: [elfo]
+traits: [elfo]
 source: Manuale di Gioco, pag. 36
 original-name: Ageless Patience
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=19

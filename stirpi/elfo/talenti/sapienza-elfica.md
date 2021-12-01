@@ -1,5 +1,5 @@
 ---
-tratis: [elfo]
+traits: [elfo]
 source: Manuale di Gioco, pag. 36
 original-name: Elven Lore
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=13
