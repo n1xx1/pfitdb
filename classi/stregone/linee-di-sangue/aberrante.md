@@ -1,3 +1,9 @@
+---
+source: Manuale di Gioco, pag. 207
+original-name: Aberrant
+original-srd: https://2e.aonprd.com/Bloodlines.aspx?ID=1
+---
+
 # Aberrante
 
 Qualcosa ti parla da oltre le stelle o dalle viscere della terra. Antica e
@@ -5,7 +11,8 @@ imperscrutabile, quest'influenza aliena incalza la tua mente.
 
 **Lista degli Incantesimi** occulti
 
-**Abilità della Lingua di Sangue** Intimidazione, Occultismo
+**Abilità della Lingua di Sangue** [Intimidazione](/abilita/intimidazione),
+[Occultismo](/abilita/occultismo)
 
 **Incantesimi Concessi** trucchetto _[frastornare](/incantesimi/frastornare)_,
 1°: _[morso del ragno](/incantesimi/morso-del-ragno)_, 2°:
