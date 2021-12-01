@@ -2,7 +2,7 @@
 source: Manuale di Gioco, pag. 13
 original-name: Traits
 original-srd: https://2e.aonprd.com/Traits.aspx
-categories: [weapon]
+navigation-disable: true
 ---
 
 # Tratti
