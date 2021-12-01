@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 622
 original-name: Prone
 original-srd: https://2e.aonprd.com/Conditions.aspx?ID=31
 ---

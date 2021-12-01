@@ -7,6 +7,8 @@ def setPage(firstpage, basedir, increments):
     documents = os.listdir(basedir)
     page = firstpage
     for t in sorted(documents):
+        if t == "_index.md":
+            continue
         if t in increments:
             page += 1
         loc = os.path.join(basedir, t)
@@ -507,15 +509,15 @@ traitsData = {
 }
 
 if __name__ == "__main__":
-    fixTraits()
-    # setPage(
-    #     618,
-    #     "condizioni",
-    #     [
-    #         "collaborativo.md",
-    #         "impreparato.md",
-    #         "non-individuato.md",
-    #         "pietrificato.md",
-    #         "rotto.md",
-    #     ],
-    # )
+    # fixTraits()
+    setPage(
+        618,
+        "condizioni",
+        [
+            "collaborativo.md",
+            "impreparato.md",
+            "non-individuato.md",
+            "pietrificato.md",
+            "rotto.md",
+        ],
+    )

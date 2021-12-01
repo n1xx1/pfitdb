@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 620
 original-name: Unnoticed
 original-srd: https://2e.aonprd.com/Conditions.aspx?ID=41
 ---

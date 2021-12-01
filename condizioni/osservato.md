@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 621
 original-name: Observed
 original-srd: https://2e.aonprd.com/Conditions.aspx?ID=27
 ---
