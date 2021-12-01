@@ -18,52 +18,12 @@ anziché il tuo modificatore di attacco senz'armi.
 
 ### @[Nuotare](/azioni/abilita/nuotare)
 
-<table>
-    <thead>
-        <tr>
-            <th></th>
-            <th align="center" colspan=2>Distanza con Scalare</th>
-            <th align="center" colspan=2>Distanza con Nuotare</th>
-        </tr>
-        <tr>
-            <th>Velocità</th>
-            <th align="center">Successo</th>
-            <th align="center">Critico</th>
-            <th align="center">Successo</th>
-            <th align="center">Critico</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>1,5-4,5 metri</td>
-            <td align="center">5</td>
-            <td align="center">5</td>
-            <td align="center">5</td>
-            <td align="center">10</td>
-        </tr> 
-        <tr>
-            <td>6-10,5 metri</td>
-            <td align="center">5</td>
-            <td align="center">10</td>
-            <td align="center">10</td>
-            <td align="center">15</td>
-        </tr> 
-        <tr>
-            <td>12-16,5 metri</td>
-            <td align="center">10</td>
-            <td align="center">15</td>
-            <td align="center">15</td>
-            <td align="center">20</td>
-        </tr> 
-        <tr>
-            <td>18-19,5 metri</td>
-            <td align="center">15</td>
-            <td align="center">20</td>
-            <td align="center">20</td>
-            <td align="center">25</td>
-        </tr>
-    </tbody>
-</table>
+|               |  >  | Distanza con Scalare |  >  | Distanza con Nuotare |
+| ------------: | :-: | :------------------: | :-: | :------------------: |
+| 1,5-4,5 metri |  5  |          5           |  5  |          10          |
+|  6-10,5 metri |  5  |          10          | 10  |          15          |
+| 12-16,5 metri | 10  |          15          | 15  |          20          |
+| 18-19,5 metri | 15  |          20          | 20  |          25          |
 
 ### @[Salto in Alto](/azioni/abilita/salto-in-alto)
 
