@@ -1,5 +1,5 @@
 ---
-traits: [concetrazione, mago, metamagico]
+traits: [concentrazione, mago, metamagico]
 source: Manuale di Gioco, pag. 173
 original-name: Reach Spell
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=181

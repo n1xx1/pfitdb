@@ -1,5 +1,5 @@
 ---
-traits: [concetrazione, mago, metamagico]
+traits: [concentrazione, mago, metamagico]
 source: Manuale di Gioco, pag. 174
 original-name: Silent Spell
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=644
