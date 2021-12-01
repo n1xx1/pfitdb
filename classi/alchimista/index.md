@@ -7,7 +7,7 @@ original-srd: https://2e.aonprd.com/Classes.aspx?ID=1
 # Alchimista
 
 _Per te non c'è spettacolo più bello che guardare una strana mistura che
-gorgoglia in un alambicco e bevi senza remore i tuoi geniali elisir. Ti
+gorgoglia in un alambicco e beri senza remore i tuoi geniali elisir. Ti
 affascina scoprire i segreti della scienza e del mondo naturale, e in
 laboratorio o in viaggio sperimenti di continuo fantasiosi intrugli per ogni
 evenienza. Non temi di correre dei rischi quando scagli miscele tossiche o
