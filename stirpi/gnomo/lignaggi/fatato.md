@@ -8,9 +8,9 @@ TODO:
 # Gnomo Fatato
 
 Il sangue delle creature fatate è così forte in te che conti davvero come uno di
-loro. Ottieni il tratto [fatato](/tratt/fatato), oltre ai tratti
-[gnomo](/tratt/gnomo) e [umanoide](/tratt/umanoide). Scegli un trucchetto dalla
-lista degli incantesimi primevi. Puoi lanciare questo incantesimo come
+loro. Ottieni il tratto [fatato](/tratti/fatato), oltre ai tratti
+[gnomo](/tratti/gnomo) e [umanoide](/tratti/umanoide). Scegli un trucchetto
+dalla lista degli incantesimi primevi. Puoi lanciare questo incantesimo come
 incantesimo innato primevo a volontà. Un trucchetto viene intensificato a un
 livello dell'incantesimo pari a metà del tuo livello, arrotondato per eccesso.
 Una volta al giorno puoi cambiare questo trucchetto con uno diverso proveniente

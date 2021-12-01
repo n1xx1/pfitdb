@@ -15,4 +15,4 @@ negativo pari a metà del tuo livello (minimo 1). Quando hai la condizione
 valore fosse 1 più basso di quello che è realmente
 ([condannato](/condizioni/condannato) 1 non ha alcun effetto,
 [condannato](/condizioni/condannato) 2 ti provoca la morte alla condizione
-[morente](/condizioni/) 3, e così via).
+[morente](/condizioni/morente) 3, e così via).

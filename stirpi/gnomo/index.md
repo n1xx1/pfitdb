@@ -143,10 +143,9 @@ Forza
 Comune  
 Gnomesco  
 Silvano  
-Un numero di lingue aggiuntive pari al tuo modificatore di Intelligenza (se è
-positivo). Scegli tra Draconico, Elfico, Goblin, Jotun, Nanico, Orchesco e
-qualsiasi altra lingua a cui hai accesso (per esempio le lingue prevalenti nella
-tua regione).
+Lingue aggiuntive pari al tuo modificatore di Intelligenza (se è positivo).
+Scegli tra Draconico, Elfico, Goblin, Jotun, Nanico, Orchesco e qualsiasi altra
+lingua a cui hai accesso (per esempio le lingue prevalenti nella tua regione).
 
 **Visione Crepuscolare**  
 Riesci a vedere in condizioni di luce fioca come se fosse luce intensa, per cui
