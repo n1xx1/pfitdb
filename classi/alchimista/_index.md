@@ -77,31 +77,26 @@ Addestrato in Percezione
 
 ### Tiri Salvezza
 
-Esperto in Tempra
-
-Esperto in Rifleesi
-
+Esperto in Tempra  
+Esperto in Rifleesi  
 Addestrato in Volontà
 
 ### Abilità
 
-Addestrato in Artigianato
-
+Addestrato in Artigianato  
 Addestrato in un numero di abilità aggiuntive pari a 3 più il tuo modificatore
 di Intelligenza
 
 ### Attacchi
 
-Addestrato con le armi semplici
-
-Addestrato con le bombe alchemiche
-
+Addestrato con le armi semplici  
+Addestrato con le bombe alchemiche  
 Addestrato con gli attacchi senz'armi
 
 ### Difese
 
-Addestrato con tutte le armature
-
+Addestrato con le armature medie  
+Addestrato con le armature leggere  
 Addestrato nella difesa senz'armatura
 
 ### CD di Classe
@@ -128,13 +123,13 @@ richiesti per acquisirle.
 |       10       | Aumenti di caratteristica, talento da alchimista, talento di abilità                                                                                                          |
 |       11       | Colosso, incremento di abilità, potenza perpetua, talento generico                                                                                                            |
 |       12       | Talento da alchimista, talento di abilità                                                                                                                                     |
-|       13       | Esperienza con le armature leggere, incremento di abilità, scoperta del campo di ricerca superiore, specializzazione con le armi, talento di stirpease, weapon specialization |
+|       13       | Esperienza con le armature medie, incremento di abilità, scoperta del campo di ricerca superiore, specializzazione con le armi, talento di stirpease, weapon specialization |
 |       14       | Talento da alchimista, talento di abilità                                                                                                                                     |
 |       15       | Alchimista solerte, aumenti di caratteristica, eludere, incremento di abilità, talento generico                                                                               |
 |       16       | Talento da alchimista, talento di abilità                                                                                                                                     |
 |       17       | Incremento di abilità, maestria alchemica, perfezione perpetua, talento di stirpe                                                                                             |
 |       18       | Talento da alchimista, talento di abilità                                                                                                                                     |
-|       19       | Incremento di abilità, maestria con le armature leggere, talento generico                                                                                                     |
+|       19       | Incremento di abilità, maestria con le armature medie, talento generico                                                                                                     |
 |       20       | Aumenti di caratteristica, talento da alchimista, talento di abilità                                                                                                          |
 
 ### Alchimia
@@ -342,7 +337,7 @@ al tuo campo di ricerca e devono figurare nel formulario.
 
 Guarda i campi di ricerca specifici per ulteriori informazioni.
 
-### Esperienza con le Armature Leggere - 13°
+### Esperienza con le Armature Medie - 13°
 
 Hai imparato a schivare mentre indossi un'armatura media, un'armatura leggera, o
 sei privo di armatura. Il tuo grado di competenza con armature medie, armature
@@ -390,7 +385,7 @@ formulario.
 
 Guarda i campi di ricerca specifici per ulteriori informazioni.
 
-### Maestria con le Armature Leggere - 19°
+### Maestria con le Armature Medie - 19°
 
 Aumenti la tua perizia con le armature, migliorando la tua capacità di schivare
 i colpi. Il tuo grado di competenza con armature medie, armature leggere e
