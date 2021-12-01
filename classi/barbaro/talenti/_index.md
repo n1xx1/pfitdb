@@ -6,7 +6,7 @@ navigation-order: -1
 navigation-disable: true
 ---
 
-# Talenti del Barbaro
+# Talenti da Barbaro
 
 A ogni livello in cui ottieni un talento da barbaro, puoi sceglierne uno tra i
 seguenti. Devi soddisfare tutti i prerequisiti prima di selezionare il talento.

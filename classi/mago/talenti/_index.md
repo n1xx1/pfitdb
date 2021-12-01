@@ -6,9 +6,9 @@ navigation-order: -1
 navigation-disable: true
 ---
 
-# Talenti del Mago
+# Talenti da Mago
 
 A ogni livello in cui ottieni un talento da mago, puoi sceglierne uno tra i
 seguenti. Devi soddisfare tutti i prerequisiti prima di selezionare il talento.
 
-@[[FeatTable]](mago)
+@[[FeatTable]](/classi/mago/talenti)
