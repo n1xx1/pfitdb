@@ -5,7 +5,7 @@ original-name: Skittering Scuttle
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=49
 ---
 
-# Scalacaverne - Talento 9
+# Scatto Veloce - Talento 9
 
 **Prerequisiti** [Scatto Goblin](/stirpi/goblin/talenti/scatto-goblin)
 

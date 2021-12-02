@@ -5,7 +5,7 @@ original-name: Very, Very Sneaky
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=51
 ---
 
-# Esperienza con le Armi Goblin - Talento 13
+# Furtivissimissimo - Talento 13
 
 **Prerequisiti** [Furtivissimo](/stirpi/goblin/talenti/furtivissimo)
 

@@ -5,7 +5,7 @@ original-name: First World Magic
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=28
 ---
 
-# Intuire Illusioni - Talento 1
+# Magia del Primo Mondo - Talento 1
 
 Il tuo rapporto con il [Primo Mondo](/piani/primo-mondo) ti fornisce un
 incantesimo in nato primevo, proprio come quelli delle creature fatate. Scegli

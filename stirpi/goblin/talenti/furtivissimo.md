@@ -5,7 +5,7 @@ original-name: Very Sneaky
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=46
 ---
 
-# Familiarità con le Armi Goblin - Talento 1
+# Furtivissimo - Talento 1
 
 La gente più alta in genere non presta attenzione alle ombre ai suoi piedi e tu
 ne approfitti in pieno. Puoi muoverti di 1,5 metri aggiuntivi quando effettui
