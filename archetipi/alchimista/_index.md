@@ -36,4 +36,5 @@ combinazioni possibili.
   concedere scurovisione può preparare un incantesimo diverso rispetto a
   scurovisione.
 
-@[[Include]](/archetipi/alchimista/talenti?sort=level)
+<!-- prettier-ignore -->
+::include{path=/archetipi/alchimista/talenti sort=level}

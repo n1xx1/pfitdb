@@ -13,76 +13,95 @@ elemento del gioco. Spesso, i tratti servono a indicare come altre regole
 interagiscono con una capacita, una creatura, un oggetto, o un altro elemento di
 regole che ha quel tratto.
 
-@[[TraitList]](generic)
+<!-- prettier-ignore -->
+::traitList{category=generic}
 
 ## Tratti Allineamento
 
-@[[TraitList]](alignment)
+<!-- prettier-ignore -->
+::traitList{category=alignment}
 
 ## Tratti Armatura
 
-@[[TraitList]](armor)
+<!-- prettier-ignore -->
+::traitList{category=armor}
 
 ## Tratti Armi
 
-@[[TraitList]](weapon)
+<!-- prettier-ignore -->
+::traitList{category=weapon}
 
 ## Tratti Classe
 
-@[[TraitList]](class)
+<!-- prettier-ignore -->
+::traitList{category=class}
 
 ## Tratti Classe Specifici
 
-@[[TraitList]](class-specific)
+<!-- prettier-ignore -->
+::traitList{category=class-specific}
 
 ## Tratti Elementali
 
-@[[TraitList]](elemental)
+<!-- prettier-ignore -->
+::traitList{category=elemental}
 
 ## Tratti Energia
 
-@[[TraitList]](energy)
+<!-- prettier-ignore -->
+::traitList{category=energy}
 
 ## Tratti Equipaggiamento
 
-@[[TraitList]](equipment)
+<!-- prettier-ignore -->
+::traitList{category=equipment}
 
 ## Tratti Mostro
 
-@[[TraitList]](monster)
+<!-- prettier-ignore -->
+::traitList{category=monster}
 
 ## Tratti Piani
 
-@[[TraitList]](plane)
+<!-- prettier-ignore -->
+::traitList{category=plane}
 
 ## Tratti Rarità
 
-@[[TraitList]](rarity)
+<!-- prettier-ignore -->
+::traitList{category=rarity}
 
 ## Tratti Scuola
 
-@[[TraitList]](school)
+<!-- prettier-ignore -->
+::traitList{category=school}
 
 ## Tratti Sensi
 
-@[[TraitList]](sense)
+<!-- prettier-ignore -->
+::traitList{category=sense}
 
 ## Tratti Stirpe
 
-@[[TraitList]](ancestry)
+<!-- prettier-ignore -->
+::traitList{category=ancestry}
 
 ## Tratti Tipi Creature
 
-@[[TraitList]](creature-type)
+<!-- prettier-ignore -->
+::traitList{category=creature-type}
 
 ## Tratti Tradizioni
 
-@[[TraitList]](tradition)
+<!-- prettier-ignore -->
+::traitList{category=tradition}
 
 ## Tratti Trappole
 
-@[[TraitList]](hazard)
+<!-- prettier-ignore -->
+::traitList{category=hazard}
 
 ## Tratti Veleno
 
-@[[TraitList]](poison)
+<!-- prettier-ignore -->
+::traitList{category=poison}

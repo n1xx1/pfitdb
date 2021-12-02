@@ -12,4 +12,5 @@ A ogni livello in cui ottieni un talento da alchimista, puoi sceglierne uno tra
 i seguenti. Devi soddisfare tutti i prerequisiti prima di selezionare il
 talento.
 
-@[[FeatTable]](/classi/alchimista/talenti)
+<!-- prettier-ignore -->
+::featTable{path=/classi/alchimista/talenti}

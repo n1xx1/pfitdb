@@ -50,4 +50,5 @@ rari di questa sezione includendo dettagli più specifici.
 
 ---
 
-@[[Include]](/background)
+<!-- prettier-ignore -->
+::include{path=/background}
