@@ -2,6 +2,7 @@
 source: Guida del Giocatore, pag. 28
 original-name: Versatile Heritages
 original-srd: https://2e.aonprd.com/Ancestries.aspx?Versatile=true
+navigation-order: 50
 ---
 
 # Lignaggi Versatili
