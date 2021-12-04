@@ -1,14 +1,21 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 50
 original-name: Dwarf
 original-srd: https://2e.aonprd.com/Ancestries.aspx?ID=1
 traits: [nano, umanoide]
-TODO:
 ---
 
 # Nano
 
-_TODO_
+I nani hanno una reuptazione più che meritata di gente stoica e severa, che vive
+in cittadelle e città scavate nella roccia più massiccia. Benché alcuni
+considerino i nani semplici artigiani dediti alla pietra e al metallo, arcigli e
+privi di ogni senso dell'umorismo, coloro che hanno trascorso del tempo in mezzo
+a loro colgono il loro grandissimo zelo nel lavoro, che punta alla qualità molto
+più che alla quantità. Agli occhi di uno straniero possono sembrare diffidenti e
+chiusi, ma con i loro amici e familiari i nani sono cordiali e premurosi; le
+loro sale riecheggiano del suono di risate e di martelli che battono sulle
+incudini.
 
 I nani impiegano del tempo prima di fidarsi di chi è estraneo alla loro stirpe,
 ma questa diffidenza è motivata. Questo popolo ha una lunga storia di esilio
@@ -81,10 +88,15 @@ il sangue del giovane nano.
 > mercenari. Spesso lasciano le loro cittadelle e città sotterranee in cerca di
 > ricchezza, per supportare economicamente la loro patria o per riconquistare
 > tesori nanici persi da lungo tempo, oppure terre depredate dai nemici della
-> loro stirpe. I background tipici dei nani includono accolito, artigiano,
-> combattente, mercante e minatore. I nani rendono ottimamente in molte classi
-> marziali, come barbaro, guerriero, monaco e ranger, ma sono anche ottimi
-> chierici e druidi.
+> loro stirpe.
+>
+> I background tipici dei nani includono [accolito](/background/accolito),
+> [artigiano](/background/artigiano), [combattente](/background/combattente),
+> [mercante](/background/mercante) e [minatore](/background/minatore). I nani
+> rendono ottimamente in molte classi marziali, come [barbaro](/classi/barbaro),
+> [guerriero](/classi/guerriero), [monaco](/classi/monaco) e
+> [ranger](/classi/ranger), ma sono anche ottimi [chierici](/classi/chierici) e
+> [druidi](/classi/druidi).
 
 ## Allineamento e Religione
 

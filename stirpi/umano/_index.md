@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 54
 original-name: Human
 original-srd: https://2e.aonprd.com/Ancestries.aspx?ID=6
 traits: [umano, umanoide]
@@ -8,7 +8,12 @@ TODO:
 
 # Umano
 
-_TODO_
+Gli umani, che sono tanto imprevedibili e diversificati quanto gli altri popoli
+di Golarion, posseggono una determinazione ecezionale e la capacità di adattarsi
+e di prosperare. Anche se molte civilità si sono sviluppate prima che
+prendessero il predominio gli umani, questi ultimi hanno costruito alcune delle
+socità più straordinarie o più terrificanti nel corso della storia,e oggi sono
+il popolo più numeroso nei regni del Mare Interno.
 
 L'ambizione, la versatilità e l'eccezionale potenziale degli umani hanno
 contribuito a stabilire il loro ruolo di stirpe predominante nel mondo. I loro

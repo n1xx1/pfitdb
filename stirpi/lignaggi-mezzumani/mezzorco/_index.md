@@ -1,5 +1,5 @@
 ---
-traits: [orco, umanoide]
+traits: [orco, mezzorco, umano, umanoide]
 source: Manuale di Gioco, pag. 43
 original-name: Half-Orc (Human Heritage)
 original-srd: https://2e.aonprd.com/Ancestries.aspx?ID=8

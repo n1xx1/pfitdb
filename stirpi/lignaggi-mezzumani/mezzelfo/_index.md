@@ -1,5 +1,5 @@
 ---
-traits: [elfo, umanoide]
+traits: [elfo, mezzelfo, umano, umanoide]
 source: Manuale di Gioco, pag. 55
 original-name: Half-Elf (Human Heritage)
 original-srd: https://2e.aonprd.com/Ancestries.aspx?ID=7

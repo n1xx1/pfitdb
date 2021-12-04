@@ -12,7 +12,7 @@ significative in base al loro lignaggio. Piuttosto, i loro lignaggi rivelano le
 potenzialità di questo popolo, oppure riflettono la loro provenienza da più di
 una stirpe.
 
-## [Mezzorco](/stirpi/lignaggi-mezzumani/mezzorco)
+## [Mezzelfo](/stirpi/lignaggi-mezzumani/mezzelfo)
 
 Un mezzelfo è il figlio di un elfo e di un umano, oppure di due mezzelfi. La
 vita di un mezzelfo può essere dura e spesso è segnata dal tentativo di
