@@ -1,14 +1,19 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 46
 original-name: Halfling
 original-srd: https://2e.aonprd.com/Ancestries.aspx?ID=5
 traits: [halfling, umanoide]
-TODO:
 ---
 
 # Halfling
 
-_TODO_
+Non avendo luoghi da rivendicare per il loro possesso gli halfling controllano
+ben pochi insediamenti più grandi di un villaggio. In cambio vivono spesso in
+mezzo agli uomini tra le mura delle grandi città, creando piccole comunità a
+fianco alla gente alta. Molti halfling vivono in modo più che soddisfacente
+restando all'ombra dei loro vicini più alti, mentre altri preferiscono
+un'esistenza nomadica, viaggando per il mondo e sfruttando le opportunità e le
+avventure in cui si imbattono.
 
 Gli halfling sono un popolo otturusta e allegro, sfacciatamente fortunato e
 spinto da una forte passione per i viaggi; compensano la loro bassa statura con
