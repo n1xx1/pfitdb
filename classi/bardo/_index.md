@@ -256,12 +256,7 @@ In quanto bardo, al 1° livello selezioni una musa che ti guiderà verso la
 grandezza. Può trattarsi di una creatura fisica, una divinità, una filosofia o
 di un seducente mistero.
 
-Le muse possono essere trovate qua:
-
-- [Musa dell'Ecletticismo](/classi/bardo/muse/ecletticismo)
-- [Musa Enigmatica](/classi/bardo/muse/enigmatica)
-- [Musa del Virtuosismo](/classi/bardo/muse/virtuosismo)
-- [Warrior Muse](/classi/bardo/muse/warrior-muse)
+Le muse possono essere trovate [qua](/classi/bardo/muse).
 
 ### Repertorio degli Incantesimi
 
