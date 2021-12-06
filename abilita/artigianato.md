@@ -26,7 +26,7 @@ Devi essere addestrato in Artigianato per usarlo per
 
 - **[Guadagnare](/azioni/abilita/guadagnare)** fabbricando beni di consumo.
 
-### @[Fabbricare](/azioni/abilita/riparare)
+### @[Fabbricare](/azioni/abilita/fabbricare)
 
 > ### Monouso e Munizioni
 >

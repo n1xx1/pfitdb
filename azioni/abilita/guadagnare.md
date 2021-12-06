@@ -42,8 +42,6 @@ immediatamente licenziato. Non puoi continuare il compito. La tua reputazione ne
 risente, e in futuro potrebbe esserti difficile trovare impieghi ben pagati in
 quella comunità.
 
-### Guadagni
-
 | Livello del Compito   | Fallimento | Addestrato | Esperto    | Maestro    | Leggendario |
 | --------------------- | ---------- | ---------- | ---------- | ---------- | ----------- |
 | 0                     | 1 mr       | 5 mr       | 5 mr       | 5 mr       | 5 mr        |
@@ -68,6 +66,8 @@ quella comunità.
 | 19                    | 6 mo       | 30 mo      | 60 mo      | 100 mo     | 130 mo      |
 | 20                    | 8 mo       | 40 mo      | 75 mo      | 150 mo     | 200 mo      |
 | 20 (successo critico) | -          | 50 mo      | 90 mo      | 175 mo     | 300 mo      |
+
+Tabella: Guadagni
 
 > ### Esempi di Compiti di Guadagnare
 >
