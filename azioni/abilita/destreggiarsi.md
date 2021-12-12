@@ -7,7 +7,7 @@ original-srd: https://2e.aonprd.com/Actions.aspx?ID=29
 
 # Destreggiarsi :1:
 
-[Avanzi](/azioni/base/avanzi) fino alla tua Velocità. Durante questo movimento
+[Avanzi](/azioni/base/avanzare) fino alla tua Velocità. Durante questo movimento
 puoi cercare di attraversare lo spazio di un nemico. Effettua una prova di
 Acrobazia contro la CD di Riflessi del nemico appena entri nel suo spazio. In un
 ambiente appropriato puoi Destreggiarti usando

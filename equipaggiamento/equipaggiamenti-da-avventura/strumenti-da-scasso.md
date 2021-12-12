@@ -6,8 +6,6 @@ original-srd: https://2e.aonprd.com/Equipment.aspx?ID=58
 
 # Strumenti da Scasso - Oggetto 0+
 
----
-
 Hai bisogno degli strumenti da scasso per
 [Scassinare una Serratura](/azioni/abilita/scassinare-una-serratura) o per
 [Disattivare Congegni](/azioni/abilita/disattivare-un-congegno) (di alcuni tipi)

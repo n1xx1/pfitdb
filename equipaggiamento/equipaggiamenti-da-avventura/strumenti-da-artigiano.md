@@ -4,7 +4,7 @@ original-name: Artisan's Tools
 original-srd: https://2e.aonprd.com/Equipment.aspx?ID=3
 ---
 
-# Strumenti da Artigiano - Oggetto 0
+# Strumenti da Artigiano - Oggetto 0+
 
 **Mani** 2; **Volume** 2
 

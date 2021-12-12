@@ -23,8 +23,9 @@ sangue o la tua essenza vitale._
 > prenderle singolarmente, per capire come interagiscono.
 >
 > - **Gradi di Percezione**: [Inosservato](/condizioni/inosservato),
->   [nascosto](/condizioni/nascosto), [non individuato](/condizioni/non
->   individuato), [osservato](/condizioni/osservato)
+>   [nascosto](/condizioni/nascosto),
+>   [non individuato](/condizioni/non-individuato),
+>   [osservato](/condizioni/osservato)
 > - **Sensi**: [Abbagliato](/condizioni/abbagliato),
 >   [accecato](/condizioni/accecato), [assordato](/condizioni/assordato),
 >   [invisibile](/condizioni/invisibile), [occultato](/condizioni/occultato)
