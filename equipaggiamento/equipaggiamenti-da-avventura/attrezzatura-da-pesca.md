@@ -1,7 +1,14 @@
 ---
 source: Manuale di Gioco, pag. 288
-original-name: Thieves' Tools
-original-srd: https://2e.aonprd.com/Equipment.aspx?ID=58
+original-name: Fishing Tackle
+original-srd: https://2e.aonprd.com/Equipment.aspx?ID=20
+versions:
+  - name: Attrezztura da Pesca
+    level: 0
+    price: 8 ma
+  - name: Attrezzatura da Pesca Professionale
+    level: 3
+    price: 20 mo
 ---
 
 # Attrezzatura da Pesca - Oggetto 0+

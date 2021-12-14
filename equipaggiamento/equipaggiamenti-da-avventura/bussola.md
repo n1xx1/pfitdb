@@ -2,6 +2,13 @@
 source: Manuale di Gioco, pag. 288
 original-name: Compass
 original-srd: https://2e.aonprd.com/Equipment.aspx?ID=16
+versions:
+  - name: Bussola
+    level: 0
+    price: 1 mo
+  - name: Bussola con Specchio
+    level: 3
+    price: 20 mo
 ---
 
 # Bussola - Oggetto 0+

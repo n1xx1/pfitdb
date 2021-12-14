@@ -2,6 +2,10 @@
 source: Manuale di Gioco, pag. 288
 original-name: Backpack
 original-srd: https://2e.aonprd.com/Equipment.aspx?ID=4
+versions:
+  - name: Zaino
+    level: 0
+    price: 1 ma
 ---
 
 # Zaino - Oggetto 0

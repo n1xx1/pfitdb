@@ -2,9 +2,13 @@
 source: Manuale di Gioco, pag. 288
 original-name: Adventurer's Pack
 original-srd: https://2e.aonprd.com/Equipment.aspx?ID=1
+versions:
+  - name: Kit dell'Avventuriero
+    level: 0
+    price: 1 mo, 5 ma
 ---
 
-# Strumenti da Alchimista - Oggetto 0
+# Kit dell'Avventuriero - Oggetto 0
 
 **Prezzo** 1 mo, 5 ma
 

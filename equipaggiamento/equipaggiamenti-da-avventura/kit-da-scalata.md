@@ -2,6 +2,10 @@
 source: Manuale di Gioco, pag. 288
 original-name: Climbing Kit
 original-srd: https://2e.aonprd.com/Equipment.aspx?ID=14
+versions:
+  - name: Kit da Scalata
+    level: 0
+    price: mo
 ---
 
 # Kit da Scalata - Oggetto 0+

@@ -2,6 +2,10 @@
 source: Manuale di Gioco, pag. 288
 original-name: Alchemist's Tools
 original-srd: https://2e.aonprd.com/Equipment.aspx?ID=2
+versions:
+  - name: Strumenti da Alchimista
+    level: 0
+    price: 3 mo
 ---
 
 # Strumenti da Alchimista - Oggetto 0

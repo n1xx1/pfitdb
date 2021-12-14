@@ -2,6 +2,10 @@
 source: Manuale di Gioco, pag. 288
 original-name: Caltrops
 original-srd: https://2e.aonprd.com/Equipment.aspx?ID=9
+versions:
+  - name: Triboli
+    level: 0
+    price: 3 ma
 ---
 
 # Triboli - Oggetto 0

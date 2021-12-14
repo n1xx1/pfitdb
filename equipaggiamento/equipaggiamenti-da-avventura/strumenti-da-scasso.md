@@ -2,6 +2,19 @@
 source: Manuale di Gioco, pag. 288
 original-name: Thieves' Tools
 original-srd: https://2e.aonprd.com/Equipment.aspx?ID=58
+versions:
+  - name: Strumenti da Scasso
+    level: 0
+    price: 3 mo
+  - name: Grimaldelli di Ricambio
+    level: 0
+    price: 3 ma
+  - name: Strumenti da Scasso da Infiltrato
+    level: 3
+    price: 50 mo
+  - name: Grimaldelli da Infiltrato
+    level: 3
+    price: 3 mo
 ---
 
 # Strumenti da Scasso - Oggetto 0+

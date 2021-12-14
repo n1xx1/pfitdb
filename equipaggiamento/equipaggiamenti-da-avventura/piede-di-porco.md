@@ -2,6 +2,13 @@
 source: Manuale di Gioco, pag. 288
 original-name: Crowbar
 original-srd: https://2e.aonprd.com/Equipment.aspx?ID=18
+versions:
+  - name: Piede di Porco
+    level: 0
+    price: 5 ma
+  - name: Piede di Porco a Leva
+    level: 3
+    price: 20 mo
 ---
 
 # Piede di Porco - Oggetto 0+
@@ -18,7 +25,7 @@ penalità di oggetto -2 alla prova di [Atletica](/abilita/atletica) per forzare
 
 **Tipo** piede di porco; **Livello** 0; **Prezzo** 5 ma
 
-**Tipo** piede di porco a leva; **Livello** 0; **Prezzo** 20 mo
+**Tipo** piede di porco a leva; **Livello** 3; **Prezzo** 20 mo
 
 Un piede di porco a leva ti concede bonus di oggetto +1 alle prove di
 [Atletica](/abilita/atletica) per [Forzare](/azioni/abilita/forzare) qualunque

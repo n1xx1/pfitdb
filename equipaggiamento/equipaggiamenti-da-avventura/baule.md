@@ -2,6 +2,10 @@
 source: Manuale di Gioco, pag. 288
 original-name: Chest
 original-srd: https://2e.aonprd.com/Equipment.aspx?ID=13
+versions:
+  - name: Baule
+    level: 0
+    price: 6 ma
 ---
 
 # Baule - Oggetto 0

@@ -2,6 +2,22 @@
 source: Manuale di Gioco, pag. 288
 original-name: Clothing
 original-srd: https://2e.aonprd.com/Equipment.aspx?ID=15
+versions:
+  - name: Vestiario Ordinario
+    level: 0
+    price: 1 ma
+  - name: Vestiario da Esploratore
+    level: 0
+    price: 1 ma
+  - name: Vestiario Raffinato
+    level: 0
+    price: 2 mo
+  - name: Vestiario di Alta Sartoria
+    level: 3
+    price: 55 mo
+  - name: Vestiario Invernale
+    level: 0
+    price: 4 ma
 ---
 
 # Vestiario - Oggetto 0+

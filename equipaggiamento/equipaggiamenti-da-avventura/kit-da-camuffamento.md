@@ -1,7 +1,20 @@
 ---
 source: Manuale di Gioco, pag. 288
-original-name: Thieves' Tools
-original-srd: https://2e.aonprd.com/Equipment.aspx?ID=58
+original-name: Disguise Kit
+original-srd: https://2e.aonprd.com/Equipment.aspx?ID=19
+versions:
+  - name: Kit da Camuffamento
+    level: 0
+    price: 2 mo
+  - name: Cosmetici Sostitutivi
+    level: 0
+    price: 1 ma
+  - name: Kit da Camuffamento d'Élite
+    level: 3
+    price: 40 mo
+  - name: Cosmetici d'Élite
+    level: 3
+    price: 5 ma
 ---
 
 # Kit da Camuffamento - Oggetto 0+

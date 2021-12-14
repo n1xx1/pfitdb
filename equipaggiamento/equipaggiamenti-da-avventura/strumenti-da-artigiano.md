@@ -2,6 +2,13 @@
 source: Manuale di Gioco, pag. 288
 original-name: Artisan's Tools
 original-srd: https://2e.aonprd.com/Equipment.aspx?ID=3
+versions:
+  - name: Strumenti da Artigiano
+    level: 0
+    price: 3 mo
+  - name: Strumenti da Artigiano Pregievoli
+    level: 3
+    price: 50 mo
 ---
 
 # Strumenti da Artigiano - Oggetto 0+
