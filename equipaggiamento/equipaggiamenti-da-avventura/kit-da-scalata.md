@@ -5,12 +5,15 @@ original-srd: https://2e.aonprd.com/Equipment.aspx?ID=14
 versions:
   - name: Kit da Scalata
     level: 0
-    price: mo
+    price: 5 ma
+  - name: Kit da Scalata Estrema
+    level: 3
+    price: 40 mo
 ---
 
 # Kit da Scalata - Oggetto 0+
 
-**Mani** 2; **Volume** 2
+**Mani** 2; **Volume** 1
 
 ---
 
@@ -26,6 +29,8 @@ scalatore necessita di un proprio kit.
 ---
 
 **Tipo** kit da scalata; **Livello** 0; **Prezzo** 5 ma
+
+---
 
 **Tipo** kit da scalata estrema; **Livello** 3; **Prezzo** 40 mo
 
