@@ -5,7 +5,7 @@ original-name: Recall Knowledge
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=26
 ---
 
-# Ricordare Conoscenze
+# Ricordare Conoscenze :1:
 
 Effettui una prova di abilità per provare a ricordare un frammento di conoscenza
 relativo a un argomento connesso a quell'abilità. Il GM stabilisce la CD della
