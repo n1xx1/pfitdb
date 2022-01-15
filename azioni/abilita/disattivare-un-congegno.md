@@ -5,7 +5,7 @@ original-name: Disable a Device
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=69
 ---
 
-# Rubare :2:
+# Disattivare un Congegno :2:
 
 **Requisiti** Per disattivare alcuni congegni devi avere degli
 [strumenti da scasso](/equipaggiamento/equipaggiamenti-da-avventura/strumenti-da-scasso).
@@ -29,4 +29,4 @@ di congegno che può essere riattivato).
 **Successo** Disattivi il congegno, oppure totalizzi un successo ai fini di
 disattivare un congegno complesso.
 
-**Fallimento** Critico Attivi il congegno.
+**Fallimento Critico** Attivi il congegno.

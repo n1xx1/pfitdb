@@ -16,6 +16,6 @@ furfanti.
 
 ## Azioni con Addestramento di Furto
 
-### @[Disattivare un Congegno](/azioni/abilita/disattivare-un-congengno)
+### @[Disattivare un Congegno](/azioni/abilita/disattivare-un-congegno)
 
 ### @[Scassinare una Serratura](/azioni/abilita/scassinare-una-serratura)
