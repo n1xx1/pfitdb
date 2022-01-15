@@ -25,7 +25,7 @@ sugli argomenti elencati. In alcuni casi puoi ottenere il permesso del GM per
 usare un'altra abilità (purché correlata), solitamente effettuando una prova con
 una CD più elevata. Alcuni argomenti compaiono in più liste, ma le abilità
 potrebbero dare informazioni diverse. Arcano, per esempio, potrebbe svelarti le
-difese magiche di un golem, mentre Artigianato potrebbe informarti sulla su,1
+difese magiche di un golem, mentre Artigianato potrebbe informarti sulla sua
 resistenza agli attacchi fisici.
 
 - **Arcano**: Teorie arcana, tradizioni magiche, creature di importanza arcana e
