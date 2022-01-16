@@ -11,4 +11,4 @@ Fai piegare gli altri al tuo volere minacciandoli.
 
 ### @[Costringere](/azioni/abilita/costringere)
 
-### @[Demoralizzare](/azioni/abilita/demoralizare)
+### @[Demoralizzare](/azioni/abilita/demoralizzare)
