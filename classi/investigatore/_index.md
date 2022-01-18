@@ -1,4 +1,4 @@
-  ---
+---
 source: Guida del Giocatore, pag. TODO
 original-name: Investigator
 original-srd: https://2e.aonprd.com/Classes.aspx?ID=13
@@ -160,7 +160,7 @@ al 17° livello.
 
 ### Competenze Iniziali
 
-Al 1° livello ottieni un certo numero di  competenze che rappresentano il tuo
+Al 1° livello ottieni un certo numero di competenze che rappresentano il tuo
 addestramento di base, indicate all'inizio della descrizione della classe.
 
 ### Ideare uno Stratagemma

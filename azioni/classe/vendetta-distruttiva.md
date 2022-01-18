@@ -5,7 +5,7 @@ original-name: Destructive Vengeance
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=554
 ---
 
-# Scudo Egoista :R:
+# Vendetta Distruttiva :R:
 
 **Innesco** Un nemico entro 4,5 metri ti danneggia.
 
@@ -18,7 +18,7 @@ negativi ogni volta che usi questa reazione. Inoltre, fino alla fine del tuo
 turno successivo i tuoi Colpi contro la creatura innescante infliggono 2 danni
 extra del tipo che hai scelto.
 
-ll danno che subisci e infliggi quando usi questa reazione aumenta a 2d6 al 5°
+Il danno che subisci e infliggi quando usi questa reazione aumenta a 2d6 al 5°
 livello, 3d6 al 9° livello, 4d6 al 12° livello, 5d6 al 16° livello e 6d6 al 19°
 livello. Il danno extra dei tuoi Colpi aumenta a 4 al 9° livello e a 6 al 16°
 livello.

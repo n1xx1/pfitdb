@@ -16,4 +16,4 @@ innescante pari a 2 + metà del tuo livello, a prescindere dal tipo di danno.
 Inoltre, i tuoi Colpi contro la creatura innescante infliggono 1 danno extra
 fino alla fine del tuo turno successivo. Scegli se il tipo di danno è da male o
 negativo ogni volta che usi questa reazione. Questo danno extra aumenta a 2 al
-9' livello e a 3 al 16° livello
+9° livello e a 3 al 16° livello.
