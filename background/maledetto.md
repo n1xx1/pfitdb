@@ -4,14 +4,14 @@ original-name: Cursed
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=184
 ---
 
-# Maledetto Background
+# Maledetto - Background
 
 Sei vittima di una maledizione personale o ereditaria. Attraverso grandi sforzi
 e studi occulti, hai imparato a tenere a bada gli effetti peggiori della
 maledizione e, per estensione, puoi proteggerti da altre mage dannose. Tuttavia,
 la maledizione incombe ancora su di tee a volte si manifesta in modi pericolosi.
 
-Scegli due aumenti di caratteristica. Uno deve essere a Intel. ligenza o Carisma
+Scegli due aumenti di caratteristica. Uno deve essere a **Intelligenza** o **Carisma**
 e uno è un aumento di caratteristica libero.
 
 Sei addestrato in [Occultismo](/abilita/occultismo) e in
