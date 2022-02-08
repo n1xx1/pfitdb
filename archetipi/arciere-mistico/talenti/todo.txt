@@ -1,0 +1,13 @@
+
+NOVIZIO DI INCANTESIMI DA ARCIERE MISTICO TALENTO:
+ARCHETIPO
+Prerequisiti Dedizione dell'Arciere Mistico
+Ottieni i benefici del talento da incantatore novizio (pag. 150).
+Ogni volta che ottieni uno slot incantesimo di un nuovo livello
+da questo archetipo, aggiungi al to repertorio un incantesimo
+del livello di incantesimo appropriato: un incantesimo comune
+della tradizione che hai scelto oppure un altro incantesimo che
+hai imparato o scoperto.
+FRECCIA INCANTATA
+AMMALIAMENTO ARCHETIPO| EMOZIONE| MAGICO MENTALE
+Prerequisiti Dedizione dell'Arciere Mistico
