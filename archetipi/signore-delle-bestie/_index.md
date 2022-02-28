@@ -32,5 +32,4 @@ vita per te, se necessario.
 >
 > ### @[Richiamo del Compagno](/azioni/speciale/richiamo-del-compagno)
 
-<!-- prettier-ignore -->
-::include{path=/archetipi/signore-delle-bestie/talenti sort=level}
+{{< statblockAll "/archetipi/signore-delle-bestie/talenti" >}}
