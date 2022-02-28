@@ -12,12 +12,12 @@ significative in base al loro lignaggio. Piuttosto, i loro lignaggi rivelano le
 potenzialità di questo popolo, oppure riflettono la loro provenienza da più di
 una stirpe. Al 1° livello scegli uno dei seguenti lignaggi umani.
 
-{{< statblock "/stirpi/umano/lignaggi/abile" >}}
+{{< include "/stirpi/umano/lignaggi/abile" >}}
 
-{{< statblock "/stirpi/umano/lignaggi/versatile" >}}
+{{< include "/stirpi/umano/lignaggi/versatile" >}}
 
 # Lignaggi Mezzumani
 
-{{< statblock "/stirpi/umano/lignaggi/mezzelfo" >}}
+{{< include "/stirpi/umano/lignaggi/mezzelfo" >}}
 
-{{< statblock "/stirpi/umano/lignaggi/mezzorco" >}}
+{{< include "/stirpi/umano/lignaggi/mezzorco" >}}

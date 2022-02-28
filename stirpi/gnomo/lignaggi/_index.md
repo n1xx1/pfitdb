@@ -11,14 +11,14 @@ Gli gnomi, essendo una raccolta variegata di casi bizzarri, annoverano ogni tipo
 di inclinazione tra i loro progenitori. Al 1° livello scegli uno dei seguenti
 lignaggi gnomeschi.
 
-{{< statblock "/stirpi/gnomo/lignaggi/camaleonte" >}}
+{{< include "/stirpi/gnomo/lignaggi/camaleonte" >}}
 
-{{< statblock "/stirpi/gnomo/lignaggi/della-sorgente" >}}
+{{< include "/stirpi/gnomo/lignaggi/della-sorgente" >}}
 
-{{< statblock "/stirpi/gnomo/lignaggi/fatato" >}}
+{{< include "/stirpi/gnomo/lignaggi/fatato" >}}
 
-{{< statblock "/stirpi/gnomo/lignaggi/sensoriale" >}}
+{{< include "/stirpi/gnomo/lignaggi/sensoriale" >}}
 
-{{< statblock "/stirpi/gnomo/lignaggi/umbratile" >}}
+{{< include "/stirpi/gnomo/lignaggi/umbratile" >}}
 
-{{< statblock "/stirpi/gnomo/lignaggi/vivace" >}}
+{{< include "/stirpi/gnomo/lignaggi/vivace" >}}
