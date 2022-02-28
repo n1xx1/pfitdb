@@ -1,4 +1,6 @@
 module:
   mounts:
-    - source: "content"
+    - source: "./"
       target: "content"
+      includeFiles: "/**/*.md"
+      excludeFiles: "/README.md"
