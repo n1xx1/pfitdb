@@ -50,5 +50,6 @@ rari di questa sezione includendo dettagli più specifici.
 
 ---
 
+{{< includeAll "/background" >}}
 <!-- prettier-ignore -->
 ::include{path=/background}

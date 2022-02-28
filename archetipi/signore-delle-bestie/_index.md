@@ -14,7 +14,7 @@ oppure possono considerarti un povero cucciolo indifeso che ha bisogno di
 protezione. In ogni caso, combatteranno al to fianco, anche sacrificando la loro
 vita per te, se necessario.
 
-## @[Talenti Aggiuntivi](/regole/guida-del-giocatore/3-archetipi/talenti-aggiuntivi)
+{{< statblock "/regole/guida-del-giocatore/3-archetipi/talenti-aggiuntivi" >}}
 
 > ### Compagni Animali del Signore delle Bestie
 >

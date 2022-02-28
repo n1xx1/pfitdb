@@ -10,12 +10,12 @@ Dato che vivono un po' in ogni regione, gli halfling di diversi lignaggi
 potrebbero presentarsi in zone molto lontane da quelle in cui vivevano i loro
 antenati. Al 1° livello scegli uno dei seguenti lignaggi halfling.
 
-## @[Halfling Coraggioso](/stirpi/halfling/lignaggi/coraggioso)
+{{< statblock "/stirpi/halfling/lignaggi/coraggioso" >}}
 
-## @[Halfling Crepuscolare](/stirpi/halfling/lignaggi/crepuscolare)
+{{< statblock "/stirpi/halfling/lignaggi/crepuscolare" >}}
 
-## @[Halfling delle Colline](/stirpi/halfling/lignaggi/delle-colline)
+{{< statblock "/stirpi/halfling/lignaggi/delle-colline" >}}
 
-## @[Halfling Selvatico](/stirpi/halfling/lignaggi/selvatico)
+{{< statblock "/stirpi/halfling/lignaggi/selvatico" >}}
 
-## @[Halfling Vagabondo](/stirpi/halfling/lignaggi/vagabondo)
+{{< statblock "/stirpi/halfling/lignaggi/vagabondo" >}}

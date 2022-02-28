@@ -18,5 +18,5 @@ Scegli due aumenti di caratteristica. Uno deve essere a **Costituzione** o
 **Saggezza** e uno è un aumento di caratteristica libero.
 
 Sei addestrato nell'abilità [Atletica](/abilita/atletica) e nell'abilità
-[Sapienza](/abilita Contadina/sapienza). Ottieni il talento di abilità
+[Sapienza Contadina](/abilita/sapienza). Ottieni il talento di abilità
 [Garanzia](/talenti/generici/garanzia) in Atletica.

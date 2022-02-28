@@ -11,5 +11,4 @@ navigation-disable: true
 A ogni livello in cui ottieni un talento da mago, puoi sceglierne uno tra i
 seguenti. Devi soddisfare tutti i prerequisiti prima di selezionare il talento.
 
-<!-- prettier-ignore -->
-::featTable{path=/classi/mago/talenti}
+{{< featTable "/classi/mago/talenti" >}}

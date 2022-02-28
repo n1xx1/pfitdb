@@ -10,14 +10,14 @@ Persegui una delle seguenti cause, che deve corrispondere esattamente al tuo
 allineamento. La causa determina le reazioni del tuo personaggio, ti conferisce
 un incantesimo di devozione e definisce in parte il tuo codice da campione.
 
-## @[Paladino \[Legale Buono\]](/classi/campione/cause/paladino)
+{{< include "/classi/campione/cause/paladino" >}}
 
-## @[Redentore \[Neutrale Buono\]](/classi/campione/cause/redentore)
+{{< include "/classi/campione/cause/redentore" >}}
 
-## @[Liberatore \[Caotico Buono\]](/classi/campione/cause/liberatore)
+{{< include "/classi/campione/cause/liberatore" >}}
 
-## @[Tiranno \[Legale Malvagio\]](/classi/campione/cause/tiranno)
+{{< include "/classi/campione/cause/tiranno" >}}
 
-## @[Profanatore \[Neutrale Malvagio\]](/classi/campione/cause/profanatore)
+{{< include "/classi/campione/cause/profanatore" >}}
 
-## @[Antipaladino \[Caotico Malvagio\]](/classi/campione/cause/antipaladino)
+{{< include "/classi/campione/cause/antipaladino" >}}

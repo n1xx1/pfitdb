@@ -17,12 +17,12 @@ seguente la bestia che meglio si adatta all'animale che hai scelto.
 | -------- | -------- | ------ | ------------------------------------------------------------------ |
 | Cervo    | Palco    | 1d10 P | [Disarmato](/tratti/disarmato), [lotta](/tratti/lotta)             |
 | Felino   | Fauci    | 1d10 P | [Disarmato](/tratti/disarmato)                                     |
-| ^        | Artiglio | 1d6 S  | [Agile](/tratti/agile), [disarmato](/tratti/disarmato)             |
+|          | Artiglio | 1d6 S  | [Agile](/tratti/agile), [disarmato](/tratti/disarmato)             |
 | Lupo     | Fauci    | 1d10 P | [Disarmato](/tratti/disarmato), [sbilanciare](/tratti/sbilanciare) |
 | Orso     | Fauci    | 1d10 P | [Disarmato](/tratti/disarmato)                                     |
-| ^        | Artiglio | 1d6 S  | [Agile](/tratti/agile), [disarmato](/tratti/disarmato)             |
+|          | Artiglio | 1d6 S  | [Agile](/tratti/agile), [disarmato](/tratti/disarmato)             |
 | Rana     | Fauci    | 1d10 B | [Disarmato](/tratti/disarmato)                                     |
-| ^        | Lingua   | 1d4 B  | [Agile](/tratti/agile), [disarmato](/tratti/disarmato)             |
+|          | Lingua   | 1d4 B  | [Agile](/tratti/agile), [disarmato](/tratti/disarmato)             |
 | Scimmia  | Pugno    | 1d10 B | [Disarmato](/tratti/disarmato), [spingere](/tratti/spingere)       |
 | Serpente | Zanne    | 1d10 P | [Disarmato](/tratti/disarmato), [lotta](/tratti/lotta)             |
 | Squalo   | Fauci    | 1d10 P | [Disarmato](/tratti/disarmato), [lotta](/tratti/lotta)             |

@@ -19,7 +19,7 @@ del bene, segui anche questi precetti:
 
 ## Reazione del Campione
 
-### @[Colpo Punitivo](/azioni/classe/colpo-punitivo)
+{{< statblock "/azioni/classe/colpo-punitivo" >}}
 
 ## Punizione Divina
 

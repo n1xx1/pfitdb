@@ -20,7 +20,7 @@ tuo rendimento come arciere mistico, potresti imparare i segreti di queste arti
 senza essere abile con gli incantesimi grazie ad altre fonti, ma imparando la
 magia dell'arco in sé e per sé.
 
-## @[Talenti Aggiuntivi](/regole/guida-del-giocatore/3-archetipi/talenti-aggiuntivi)
+{{< statblock "/regole/guida-del-giocatore/3-archetipi/talenti-aggiuntivi" >}}
 
 <!-- prettier-ignore -->
 ::include{path=/archetipi/signore-delle-bestie/talenti sort=level}

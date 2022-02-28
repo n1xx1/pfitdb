@@ -6,7 +6,7 @@ original-srd: https://2e.aonprd.com/Actions.aspx?ID=24
 TODO:
 ---
 
-# Identificare Magia
+# Imparare un Incantesimo
 
 **Requisiti** Hai un privilegio di classe "lanciare incantesimi", e
 l'incantesimo che vuoi imparare si trova nella lista degli incantesimi della tua

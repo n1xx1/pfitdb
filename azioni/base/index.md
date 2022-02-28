@@ -18,55 +18,55 @@ ma comunque disponibili a gran parte delle creature, sono chiamate azioni base
 specialistiche. Si tratta in genere di azioni con requisiti che non tutti i
 personaggi possiedono, come impugnare uno scudo o avere una Velocità di Scavare.
 
-### @[Aiutare](/azioni/base/aiutare)
+{{< statblock "/azioni/base/aiutare" >}}
 
-### @[Alzarsi](/azioni/base/alzarsi)
+{{< statblock "/azioni/base/alzarsi" >}}
 
-### @[Andare Carponi](/azioni/base/andare-carponi)
+{{< statblock "/azioni/base/andare-carponi" >}}
 
-### @[Andare in Copertura](/azioni/base/andare-in-copertura)
+{{< statblock "/azioni/base/andare-in-copertura" >}}
 
-### @[Avanzare](/azioni/base/avanzare)
+{{< statblock "/azioni/base/avanzare" >}}
 
-### @[Cadere a Terra](/azioni/base/cadere-a-terra)
+{{< statblock "/azioni/base/cadere-a-terra" >}}
 
-### @[Colpire](/azioni/base/colpire)
+{{< statblock "/azioni/base/colpire" >}}
 
-### @[Individuare](/azioni/base/individuare)
+{{< statblock "/azioni/base/individuare" >}}
 
-### @[Interagire](/azioni/base/interagire)
+{{< statblock "/azioni/base/interagire" >}}
 
-### @[Intuire](/azioni/base/intuire)
+{{< statblock "/azioni/base/intuire" >}}
 
-### @[Lasciare](/azioni/base/lasciare)
+{{< statblock "/azioni/base/lasciare" >}}
 
-### @[Passo](/azioni/base/passo)
+{{< statblock "/azioni/base/passo" >}}
 
-### @[Preparare](/azioni/base/preparare)
+{{< statblock "/azioni/base/preparare" >}}
 
-### @[Ritardare](/azioni/base/ritardare)
+{{< statblock "/azioni/base/ritardare" >}}
 
-### @[Saltare](/azioni/base/saltare)
+{{< statblock "/azioni/base/saltare" >}}
 
-### @[Sfuggire](/azioni/base/sfuggire)
+{{< statblock "/azioni/base/sfuggire" >}}
 
 ## Azioni Base Specialistiche
 
 Queste azioni sono utili in circostanze specifiche. Alcune richiedono che tu
 abbia un tipo di movimento speciale.
 
-### @[Afferrare un Bordo](/azioni/base/afferrare-un-bordo)
+{{< statblock "/azioni/base/afferrare-un-bordo" >}}
 
-### @[Alzare lo Scudo](/azioni/base/alzare-lo-scudo)
+{{< statblock "/azioni/base/alzare-lo-scudo" >}}
 
-### @[Arrestare una Caduta](/azioni/base/arrestare-una-caduta)
+{{< statblock "/azioni/base/arrestare-una-caduta" >}}
 
-### @[Evitare lo Sguardo](/azioni/base/evitare-lo-sguardo)
+{{< statblock "/azioni/base/evitare-lo-sguardo" >}}
 
-### @[Indicare](/azioni/base/indicare)
+{{< statblock "/azioni/base/indicare" >}}
 
-### @[Montare](/azioni/base/montare)
+{{< statblock "/azioni/base/montare" >}}
 
-### @[Scavare](/azioni/base/scavare)
+{{< statblock "/azioni/base/scavare" >}}
 
-### @[Volare](/azioni/base/volare)
+{{< statblock "/azioni/base/volare" >}}

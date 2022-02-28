@@ -12,5 +12,4 @@ Al 1° livello ottieni un talento di stirpe e poi ottieni un talento di stirpe
 aggiuntivo ogni 4 livelli successivi (al 5°, al 9°, al 13° e al 17°). In quanto
 halfling, puoi scegliere tra i talenti di stirpe seguenti.
 
-<!-- prettier-ignore -->
-::featTable{path=/stirpi/halfling/talenti}
+{{< featTable "/stirpi/halfling/talenti" >}}

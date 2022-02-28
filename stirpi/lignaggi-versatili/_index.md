@@ -17,12 +17,12 @@ un'incursione di energie extraplanari. Poiché queste circostanze non sono unich
 per una singola stirpe, tali lignaggi, chiamati versatili, sono altrettanto
 presenti in molte stirpi.
 
-## @[Aasimar](/stirpi/lignaggi-versatili/aasimar)
+{{< statblock "/stirpi/lignaggi-versatili/aasimar" >}}
 
-## @[Changeling](/stirpi/lignaggi-versatili/changeling)
+{{< statblock "/stirpi/lignaggi-versatili/changeling" >}}
 
-## @[Dhampir](/stirpi/lignaggi-versatili/dhampir)
+{{< statblock "/stirpi/lignaggi-versatili/dhampir" >}}
 
-## @[Tiefling](/stirpi/lignaggi-versatili/tiefling)
+{{< statblock "/stirpi/lignaggi-versatili/tiefling" >}}
 
-## @[Viandante Crepuscolare](/stirpi/lignaggi-versatili/viandante-crepuscolare)
+{{< statblock "/stirpi/lignaggi-versatili/viandante-crepuscolare" >}}

@@ -12,11 +12,11 @@ anziché il tuo modificatore di attacco senz'armi.
 
 ## Azione Senza Addestramento di Atletica
 
-### @[Forzare](/azioni/abilita/forzare)
+{{< statblock "/azioni/abilita/forzare" >}}
 
-### @[Lottare](/azioni/abilita/lottare)
+{{< statblock "/azioni/abilita/lottare" >}}
 
-### @[Nuotare](/azioni/abilita/nuotare)
+{{< statblock "/azioni/abilita/nuotare" >}}
 
 |               |  >  | Distanza con Scalare |  >  | Distanza con Nuotare |
 | ------------: | :-: | :------------------: | :-: | :------------------: |
@@ -25,7 +25,7 @@ anziché il tuo modificatore di attacco senz'armi.
 | 12-16,5 metri | 10  |          15          | 15  |          20          |
 | 18-19,5 metri | 15  |          20          | 20  |          25          |
 
-### @[Salto in Alto](/azioni/abilita/salto-in-alto)
+{{< statblock "/azioni/abilita/salto-in-alto" >}}
 
 > ### Saltare
 >
@@ -38,11 +38,11 @@ anziché il tuo modificatore di attacco senz'armi.
 > superiore). Se Salti in verticale puoi muoverti di fino a 0,9 metri in
 > verticale e 1,5 metri in orizzontale su una superficie rialzata.
 
-### @[Salto in Lungo](/azioni/abilita/salto-in-lungo)
+{{< statblock "/azioni/abilita/salto-in-lungo" >}}
 
-### @[Sbilanciare](/azioni/abilita/sbilanciare)
+{{< statblock "/azioni/abilita/sbilanciare" >}}
 
-### @[Scalare](/azioni/abilita/scalare)
+{{< statblock "/azioni/abilita/scalare" >}}
 
 > ### Cadere
 >
@@ -59,7 +59,7 @@ anziché il tuo modificatore di attacco senz'armi.
 > [Afferrare un Bordo](/azioni/abilita/afferrare-un-bordo) come reazione per
 > ridurre o azzerare i danni di alcune cadute.
 
-### @[Spingere](/azioni/abilita/spingere)
+{{< statblock "/azioni/abilita/spingere" >}}
 
 > ### Movimento Forzato
 >
@@ -71,4 +71,4 @@ anziché il tuo modificatore di attacco senz'armi.
 
 ## Azione con Addestramento di Atletica
 
-### @[Disarmare](/azioni/abilita/disarmare)
+{{< statblock "/azioni/abilita/disarmare" >}}

@@ -59,22 +59,22 @@ quando lo lanci devi designare te stesso o un bersaglio nell'area come bersaglio
 dell'effetto di magia del sangue. Quando si fa riferimento al livello
 dell'incantesimo, si intende il livello dell'incantesimo che lanci.
 
-## @[Aberrante](/classi/stregone/linee-di-sangue/aberrante)
+{{< include "/classi/stregone/linee-di-sangue/aberrante" >}}
 
-## @[Angelica](/classi/stregone/linee-di-sangue/angelica)
+{{< include "/classi/stregone/linee-di-sangue/angelica" >}}
 
-## @[Demoniaca](/classi/stregone/linee-di-sangue/demoniaca)
+{{< include "/classi/stregone/linee-di-sangue/demoniaca" >}}
 
-## @[Diabolica](/classi/stregone/linee-di-sangue/diabolica)
+{{< include "/classi/stregone/linee-di-sangue/diabolica" >}}
 
-## @[Draconica](/classi/stregone/linee-di-sangue/draconica)
+{{< include "/classi/stregone/linee-di-sangue/draconica" >}}
 
-## @[Elementale](/classi/stregone/linee-di-sangue/elementale)
+{{< include "/classi/stregone/linee-di-sangue/elementale" >}}
 
-## @[Fatata](/classi/stregone/linee-di-sangue/fatata)
+{{< include "/classi/stregone/linee-di-sangue/fatata" >}}
 
-## @[Imperiale](/classi/stregone/linee-di-sangue/imperiale)
+{{< include "/classi/stregone/linee-di-sangue/imperiale" >}}
 
-## @[Megera](/classi/stregone/linee-di-sangue/megera)
+{{< include "/classi/stregone/linee-di-sangue/megera" >}}
 
-## @[Non Morta](/classi/stregone/linee-di-sangue/non-morta)
+{{< include "/classi/stregone/linee-di-sangue/non-morta" >}}

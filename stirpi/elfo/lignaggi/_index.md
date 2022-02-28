@@ -10,16 +10,16 @@ TODO:
 Gli elfi vivono vite lunghe e si adattano all'ambiente in cui hanno trascorso
 periodi estesi. Al 1 ° livello scegli uno dei seguenti lignaggi elfici.
 
-## @[Elfo Antico](/stirpi/elfo/lignaggi/antico)
+{{< statblock "/stirpi/elfo/lignaggi/antico" >}}
 
-## @[Elfo Artico](/stirpi/elfo/lignaggi/artico)
+{{< statblock "/stirpi/elfo/lignaggi/artico" >}}
 
-## @[Elfo dei Deserti](/stirpi/elfo/lignaggi/dei-deserti)
+{{< statblock "/stirpi/elfo/lignaggi/dei-deserti" >}}
 
-## @[Elfo dei Sussurri](/stirpi/elfo/lignaggi/dei-sussurri)
+{{< statblock "/stirpi/elfo/lignaggi/dei-sussurri" >}}
 
-## @[Elfo delle Caverne](/stirpi/elfo/lignaggi/delle-caverne)
+{{< statblock "/stirpi/elfo/lignaggi/delle-caverne" >}}
 
-## @[Elfo Silvano](/stirpi/elfo/lignaggi/silvano)
+{{< statblock "/stirpi/elfo/lignaggi/silvano" >}}
 
-## @[Elfo Veggente](/stirpi/elfo/lignaggi/veggente)
+{{< statblock "/stirpi/elfo/lignaggi/veggente" >}}

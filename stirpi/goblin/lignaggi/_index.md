@@ -11,12 +11,12 @@ I goblin, in particolare quelli di tribù diverse, mostrano ogni tipo di
 differenza fisiologica, che spesso scoprono solo a seguito di "esperimenti"
 pericolosi. Al 1 ° livello scegli uno dei seguenti lignaggi goblin.
 
-## @[Goblin Abbrustolito](/stirpi/goblin/lignaggi/abbrustolito)
+{{< statblock "/stirpi/goblin/lignaggi/abbrustolito" >}}
 
-## @[Goblin delle Nevi](/stirpi/goblin/lignaggi/delle-nevi)
+{{< statblock "/stirpi/goblin/lignaggi/delle-nevi" >}}
 
-## @[Goblin Denti di Rasoio](/stirpi/goblin/lignaggi/denti-di-rasoio)
+{{< statblock "/stirpi/goblin/lignaggi/denti-di-rasoio" >}}
 
-## @[Goblin Indistruttibile](/stirpi/goblin/lignaggi/indistruttibile)
+{{< statblock "/stirpi/goblin/lignaggi/indistruttibile" >}}
 
-## @[Goblin Stomaco di Ferro](/stirpi/goblin/lignaggi/stomaco-di-ferro)
+{{< statblock "/stirpi/goblin/lignaggi/stomaco-di-ferro" >}}

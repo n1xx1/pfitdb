@@ -177,86 +177,86 @@ sangue o la tua essenza vitale._
 > [rallentato](/condizioni/rallentato) 1 e la seconda a
 > [rallentato](/condizioni/rallentato) 0, rimuovendola.
 
-## @[Abbagliato](/condizioni/abbagliato)
+{{< include "/condizioni/abbagliato" >}}
 
-## @[Accecato](/condizioni/accecato)
+{{< include "/condizioni/accecato" >}}
 
-## @[Accelerato](/condizioni/accelerato)
+{{< include "/condizioni/accelerato" >}}
 
-## @[Affascinato](/condizioni/affascinato)
+{{< include "/condizioni/affascinato" >}}
 
-## @[Affaticato](/condizioni/affaticato)
+{{< include "/condizioni/affaticato" >}}
 
-## @[Afferrato](/condizioni/afferrato)
+{{< include "/condizioni/afferrato" >}}
 
-## @[Amichevole](/condizioni/amichevole)
+{{< include "/condizioni/amichevole" >}}
 
-## @[Assordato](/condizioni/assordato)
+{{< include "/condizioni/assordato" >}}
 
-## @[Collaborativo](/condizioni/collaborativo)
+{{< include "/condizioni/collaborativo" >}}
 
-## @[Condannato](/condizioni/condannato)
+{{< include "/condizioni/condannato" >}}
 
-## @[Confuso](/condizioni/confuso)
+{{< include "/condizioni/confuso" >}}
 
-## @[Controllato](/condizioni/controllato)
+{{< include "/condizioni/controllato" >}}
 
-## @[Danno Persistente](/condizioni/danno-persistente)
+{{< include "/condizioni/danno-persistente" >}}
 
-## @[Ferito](/condizioni/ferito)
+{{< include "/condizioni/ferito" >}}
 
-## @[Immobilizzato](/condizioni/immobilizzato)
+{{< include "/condizioni/immobilizzato" >}}
 
-## @[Impreparato](/condizioni/impreparato)
+{{< include "/condizioni/impreparato" >}}
 
-## @[In Fuga](/condizioni/in-fuga)
+{{< include "/condizioni/in-fuga" >}}
 
-## @[Indebolito](/condizioni/indebolito)
+{{< include "/condizioni/indebolito" >}}
 
-## @[Indifferente](/condizioni/indifferente)
+{{< include "/condizioni/indifferente" >}}
 
-## @[Ingombrato](/condizioni/ingombrato)
+{{< include "/condizioni/ingombrato" >}}
 
-## @[Inosservato](/condizioni/inosservato)
+{{< include "/condizioni/inosservato" >}}
 
-## @[Invisibile](/condizioni/invisibile)
+{{< include "/condizioni/invisibile" >}}
 
-## @[Maldestro](/condizioni/maldestro)
+{{< include "/condizioni/maldestro" >}}
 
-## @[Maldisposto](/condizioni/maldisposto)
+{{< include "/condizioni/maldisposto" >}}
 
-## @[Morente](/condizioni/morente)
+{{< include "/condizioni/morente" >}}
 
-## @[Nascosto](/condizioni/nascosto)
+{{< include "/condizioni/nascosto" >}}
 
-## @[Nauseato](/condizioni/nauseato)
+{{< include "/condizioni/nauseato" >}}
 
-## @[Non Individuato](/condizioni/non-individuato)
+{{< include "/condizioni/non-individuato" >}}
 
-## @[Occultato](/condizioni/occultato)
+{{< include "/condizioni/occultato" >}}
 
-## @[Osservato](/condizioni/osservato)
+{{< include "/condizioni/osservato" >}}
 
-## @[Ostile](/condizioni/ostile)
+{{< include "/condizioni/ostile" >}}
 
-## @[Paralizzato](/condizioni/paralizzato)
+{{< include "/condizioni/paralizzato" >}}
 
-## @[Pietrificato](/condizioni/pietrificato)
+{{< include "/condizioni/pietrificato" >}}
 
-## @[Privo di Sensi](/condizioni/privo-di-sensi)
+{{< include "/condizioni/privo-di-sensi" >}}
 
-## @[Prono](/condizioni/prono)
+{{< include "/condizioni/prono" >}}
 
-## @[Rallentato](/condizioni/rallentato)
+{{< include "/condizioni/rallentato" >}}
 
-## @[Risucchiato](/condizioni/risucchiato)
+{{< include "/condizioni/risucchiato" >}}
 
-## @[Rotto](/condizioni/rotto)
+{{< include "/condizioni/rotto" >}}
 
-## @[Sbigottito](/condizioni/sbigottito)
+{{< include "/condizioni/sbigottito" >}}
 
-## @[Spaventato](/condizioni/spaventato)
+{{< include "/condizioni/spaventato" >}}
 
-## @[Stordito](/condizioni/stordito)
+{{< include "/condizioni/stordito" >}}
 
-## @[Trattenuto](/condizioni/trattenuto)
+{{< include "/condizioni/trattenuto" >}}

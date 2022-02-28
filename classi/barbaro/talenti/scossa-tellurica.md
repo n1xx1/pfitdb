@@ -5,7 +5,7 @@ original-name: Quaking Stomp
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=178
 ---
 
-# Furia Contagiosa - Talento 20
+# Scossa Tellurica - Talento 20
 
 **Frequenza** una volta ogni 10 minuti
 

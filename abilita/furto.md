@@ -10,12 +10,12 @@ TODO:
 Sei addestrato in un particolare insieme di abilità molto usate da ladri e
 furfanti.
 
-### @[Nascondere nella Mano](/azioni/abilita/nascondere-nella-mano)
+{{< statblock "/azioni/abilita/nascondere-nella-mano" >}}
 
-### @[Rubare](/azioni/abilita/rubare)
+{{< statblock "/azioni/abilita/rubare" >}}
 
 ## Azioni con Addestramento di Furto
 
-### @[Disattivare un Congegno](/azioni/abilita/disattivare-un-congegno)
+{{< statblock "/azioni/abilita/disattivare-un-congegno" >}}
 
-### @[Scassinare una Serratura](/azioni/abilita/scassinare-una-serratura)
+{{< statblock "/azioni/abilita/scassinare-una-serratura" >}}

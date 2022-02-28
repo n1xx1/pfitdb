@@ -13,95 +13,76 @@ elemento del gioco. Spesso, i tratti servono a indicare come altre regole
 interagiscono con una capacita, una creatura, un oggetto, o un altro elemento di
 regole che ha quel tratto.
 
-<!-- prettier-ignore -->
-::traitList{category=generic}
+{{< traitList "generic" >}}
 
 ## Tratti Allineamento
 
-<!-- prettier-ignore -->
-::traitList{category=alignment}
+{{< traitList "alignment" >}}
 
 ## Tratti Armatura
 
-<!-- prettier-ignore -->
-::traitList{category=armor}
+{{< traitList "armor" >}}
 
 ## Tratti Armi
 
-<!-- prettier-ignore -->
-::traitList{category=weapon}
+{{< traitList "weapon" >}}
 
 ## Tratti Classe
 
-<!-- prettier-ignore -->
-::traitList{category=class}
+{{< traitList "class" >}}
 
 ## Tratti Classe Specifici
 
-<!-- prettier-ignore -->
-::traitList{category=class-specific}
+{{< traitList "class-specific" >}}
 
 ## Tratti Elementali
 
-<!-- prettier-ignore -->
-::traitList{category=elemental}
+{{< traitList "elemental" >}}
 
 ## Tratti Energia
 
-<!-- prettier-ignore -->
-::traitList{category=energy}
+{{< traitList "energy" >}}
 
 ## Tratti Equipaggiamento
 
-<!-- prettier-ignore -->
-::traitList{category=equipment}
+{{< traitList "equipment" >}}
 
 ## Tratti Mostro
 
-<!-- prettier-ignore -->
-::traitList{category=monster}
+{{< traitList "monster" >}}
 
 ## Tratti Piani
 
-<!-- prettier-ignore -->
-::traitList{category=plane}
+{{< traitList "plane" >}}
 
 ## Tratti Rarità
 
-<!-- prettier-ignore -->
-::traitList{category=rarity}
+{{< traitList "rarity" >}}
 
 ## Tratti Scuola
 
-<!-- prettier-ignore -->
-::traitList{category=school}
+{{< traitList "school" >}}
 
 ## Tratti Sensi
 
-<!-- prettier-ignore -->
-::traitList{category=sense}
+{{< traitList "sense" >}}
 
 ## Tratti Stirpe
 
-<!-- prettier-ignore -->
-::traitList{category=ancestry}
+{{< traitList "ancestry" >}}
 
 ## Tratti Tipi Creature
 
-<!-- prettier-ignore -->
-::traitList{category=creature-type}
+{{< traitList "creature-type" >}}
 
 ## Tratti Tradizioni
 
-<!-- prettier-ignore -->
-::traitList{category=tradition}
+{{< traitList "tradition" >}}
 
 ## Tratti Trappole
 
-<!-- prettier-ignore -->
-::traitList{category=hazard}
+{{< traitList "hazard" >}}
 
 ## Tratti Veleno
 
-<!-- prettier-ignore -->
-::traitList{category=poison}
+{{< traitList "poison" >}}

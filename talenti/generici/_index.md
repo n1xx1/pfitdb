@@ -11,5 +11,4 @@ esulano dal suo avanzamento nella classe. Le capacità che richiedono un minimo
 di addestramento, ma che possono essere apprese da chiunque, non solo dai membri
 di una certa stirpe o classe, sono dette talenti generici.
 
-<!-- prettier-ignore -->
-::featTable{path=/talenti/generici}
+{{< featTable "/talenti/generici" >}}

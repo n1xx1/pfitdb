@@ -17,7 +17,7 @@ bestie magiche. Anche se sei senza addestramento in Natura, puoi usarla per
   [Piano Materiale](/piani/piano-materiale) e i
   [Piani Elementali](/piani/piani-elementali).
 
-### @[Comandare un Animale](/azioni/abilita/comandare-un-animale)
+{{< statblock "/azioni/abilita/comandare-un-animale" >}}
 
 ## Azioni con Addestramento in Medicina
 

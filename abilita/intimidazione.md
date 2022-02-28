@@ -9,6 +9,6 @@ TODO:
 
 Fai piegare gli altri al tuo volere minacciandoli.
 
-### @[Costringere](/azioni/abilita/costringere)
+{{< statblock "/azioni/abilita/costringere" >}}
 
-### @[Demoralizzare](/azioni/abilita/demoralizzare)
+{{< statblock "/azioni/abilita/demoralizzare" >}}

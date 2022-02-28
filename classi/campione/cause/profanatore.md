@@ -17,7 +17,7 @@ male, aggiungi anche questo.
 
 ## Reazione del Campione
 
-### @[Scudo Egoista](/azioni/classe/scudo-egoista)
+{{< statblock "/azioni/classe/scudo-egoista" >}}
 
 ## Punizione Divina
 

@@ -77,27 +77,22 @@ Addestrato in Percezione
 
 ### Tiri Salvezza
 
-Esperto in Tempra  
-Esperto in Rifleesi  
-Addestrato in Volontà
+Esperto in Tempra Esperto in Rifleesi Addestrato in Volontà
 
 ### Abilità
 
-Addestrato in Artigianato  
-Addestrato in un numero di abilità aggiuntive pari a 3 più il tuo modificatore
-di Intelligenza
+Addestrato in Artigianato Addestrato in un numero di abilità aggiuntive pari a 3
+più il tuo modificatore di Intelligenza
 
 ### Attacchi
 
-Addestrato con le armi semplici  
-Addestrato con le bombe alchemiche  
-Addestrato con gli attacchi senz'armi
+Addestrato con le armi semplici Addestrato con le bombe alchemiche Addestrato
+con gli attacchi senz'armi
 
 ### Difese
 
-Addestrato con le armature medie  
-Addestrato con le armature leggere  
-Addestrato nella difesa senz'armatura
+Addestrato con le armature medie Addestrato con le armature leggere Addestrato
+nella difesa senz'armatura
 
 ### CD di Classe
 
@@ -109,28 +104,28 @@ In quanto alchimista, acquisisci i seguenti privilegi di classe. Le capacità
 ottenute ai livelli superiori riportano, accanto ai rispettivi nomi, i livelli
 richiesti per acquisirle.
 
-| Il tuo Livello | Privilegi di Classe                                                                                                                                                           |
-| :------------: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|       1        | Alchimia, campo di ricerca, competenze iniziali, formulario, stirpe e background, talento da alchimistaarch field, alchemist feat                                             |
-|       2        | Talento da alchimista, talento di abilità                                                                                                                                     |
-|       3        | Incremento di abilità, talento generico                                                                                                                                       |
-|       4        | Talento da alchimista, talento di abilità                                                                                                                                     |
-|       5        | Aumenti di caratteristica, alchimia potente, incremento di abilità, scoperta del campo di ricerca, talento di stirpekill increase                                             |
-|       6        | Talento da alchimista, talento di abilità                                                                                                                                     |
-|       7        | Esperienza con le armi alchemiche, incremento di abilità, infusioni perpetue, talento generico, volontà di ferroons, skill increase                                           |
-|       8        | Talento da alchimista, talento di abilità                                                                                                                                     |
-|       9        | Allerta, doppia miscela, esperienza con l'alchimia, incremento di abilità, talento di stirpe                                                                                  |
-|       10       | Aumenti di caratteristica, talento da alchimista, talento di abilità                                                                                                          |
-|       11       | Colosso, incremento di abilità, potenza perpetua, talento generico                                                                                                            |
-|       12       | Talento da alchimista, talento di abilità                                                                                                                                     |
+| Il tuo Livello | Privilegi di Classe                                                                                                                                                         |
+| :------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|       1        | Alchimia, campo di ricerca, competenze iniziali, formulario, stirpe e background, talento da alchimistaarch field, alchemist feat                                           |
+|       2        | Talento da alchimista, talento di abilità                                                                                                                                   |
+|       3        | Incremento di abilità, talento generico                                                                                                                                     |
+|       4        | Talento da alchimista, talento di abilità                                                                                                                                   |
+|       5        | Aumenti di caratteristica, alchimia potente, incremento di abilità, scoperta del campo di ricerca, talento di stirpekill increase                                           |
+|       6        | Talento da alchimista, talento di abilità                                                                                                                                   |
+|       7        | Esperienza con le armi alchemiche, incremento di abilità, infusioni perpetue, talento generico, volontà di ferroons, skill increase                                         |
+|       8        | Talento da alchimista, talento di abilità                                                                                                                                   |
+|       9        | Allerta, doppia miscela, esperienza con l'alchimia, incremento di abilità, talento di stirpe                                                                                |
+|       10       | Aumenti di caratteristica, talento da alchimista, talento di abilità                                                                                                        |
+|       11       | Colosso, incremento di abilità, potenza perpetua, talento generico                                                                                                          |
+|       12       | Talento da alchimista, talento di abilità                                                                                                                                   |
 |       13       | Esperienza con le armature medie, incremento di abilità, scoperta del campo di ricerca superiore, specializzazione con le armi, talento di stirpease, weapon specialization |
-|       14       | Talento da alchimista, talento di abilità                                                                                                                                     |
-|       15       | Alchimista solerte, aumenti di caratteristica, eludere, incremento di abilità, talento generico                                                                               |
-|       16       | Talento da alchimista, talento di abilità                                                                                                                                     |
-|       17       | Incremento di abilità, maestria alchemica, perfezione perpetua, talento di stirpe                                                                                             |
-|       18       | Talento da alchimista, talento di abilità                                                                                                                                     |
+|       14       | Talento da alchimista, talento di abilità                                                                                                                                   |
+|       15       | Alchimista solerte, aumenti di caratteristica, eludere, incremento di abilità, talento generico                                                                             |
+|       16       | Talento da alchimista, talento di abilità                                                                                                                                   |
+|       17       | Incremento di abilità, maestria alchemica, perfezione perpetua, talento di stirpe                                                                                           |
+|       18       | Talento da alchimista, talento di abilità                                                                                                                                   |
 |       19       | Incremento di abilità, maestria con le armature medie, talento generico                                                                                                     |
-|       20       | Aumenti di caratteristica, talento da alchimista, talento di abilità                                                                                                          |
+|       20       | Aumenti di caratteristica, talento da alchimista, talento di abilità                                                                                                        |
 
 ### Alchimia
 
@@ -186,7 +181,7 @@ Se hai bisogno subito di un'oggetto alchemico specifico, puoi usare i reagenti
 infusi per crearne uno sul momento con l'azione
 [Alchimia Rapida](/azioni/classe/alchimia-rapida).
 
-#### @[Alchimia Rapida](/azioni/classe/alchimia-rapida)
+{{< statblock "/azioni/classe/alchimia-rapida" >}}
 
 ### Campo di Ricerca
 

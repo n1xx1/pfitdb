@@ -10,11 +10,11 @@ TODO:
 Sei abile nel non farti individuare, e riesci a oltrepassare furtivamente i
 nemici, nasconderti e celare oggetti.
 
-### @[Muoversi Furtivamente](/azioni/abilita/muoversi-furtivamente)
+{{< statblock "/azioni/abilita/muoversi-furtivamente" >}}
 
-### @[Nascondere un Oggetto](/azioni/abilita/nascondere-un-oggetto)
+{{< statblock "/azioni/abilita/nascondere-un-oggetto" >}}
 
-### @[Nascondersi ](/azioni/abilita/nascondersi)
+{{< statblock "/azioni/abilita/nascondersi" >}}
 
 > ### Essere Furtivi
 >

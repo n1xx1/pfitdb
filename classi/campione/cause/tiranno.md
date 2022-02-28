@@ -25,7 +25,7 @@ male, aggiungi anche questi.
 
 ## Reazione del Campione
 
-### @[Pugno di Ferro](/azioni/classe/pugno-di-ferro)
+{{< statblock "/azioni/classe/pugno-di-ferro" >}}
 
 ## Punizione Divina
 

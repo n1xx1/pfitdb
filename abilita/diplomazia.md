@@ -11,7 +11,7 @@ Influenzi gli altri negoziando e adulandoli.
 
 ## Azioni Senza Addestramento di Diplomazia
 
-### @[Impressionare](/azioni/abilita/impressionare)
+{{< statblock "/azioni/abilita/impressionare" >}}
 
 > ### Cambiare Atteggiamento
 >
@@ -37,6 +37,6 @@ Influenzi gli altri negoziando e adulandoli.
 >   convincente o affascinante un personaggio, ma sono i giocatori a decidere
 >   come agiscono i loro personaggi.
 
-### @[Raccogliere Informazioni](/azioni/abilita/raccogliere-informazioni)
+{{< statblock "/azioni/abilita/raccogliere-informazioni" >}}
 
-### @[Richiedere](/azioni/abilita/richiedere)
+{{< statblock "/azioni/abilita/richiedere" >}}

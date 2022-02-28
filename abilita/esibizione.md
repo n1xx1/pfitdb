@@ -39,4 +39,4 @@ seguenti.
 
 - **[Guadagnare](/azioni/abilita/guadagnare)** esibendoti.
 
-### @[Esibirsi](/azioni/abilita/esibirsi)
+{{< statblock "/azioni/abilita/esibirsi" >}}

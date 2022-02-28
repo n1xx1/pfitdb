@@ -8,14 +8,14 @@ TODO:
 
 # Azioni Generiche delle Abilità
 
-### @[Decifrare Scritti](/abilita/generiche/decifrare-scritti)
+{{< include "/abilita/generiche/decifrare-scritti" >}}
 
-### @[Guadagnare](/abilita/generiche/guadagnare)
+{{< include "/abilita/generiche/guadagnare" >}}
 
-### @[Identificare Magia](/abilita/generiche/identificare-magia)
+{{< include "/abilita/generiche/identificare-magia" >}}
 
-### @[Imparare un Incantesimo](/abilita/generiche/imparare-un-incantesimo)
+{{< include "/abilita/generiche/imparare-un-incantesimo" >}}
 
-### @[Ricordare Conoscenze](/abilita/generiche/ricordare-conoscenze)
+{{< include "/abilita/generiche/ricordare-conoscenze" >}}
 
-### @[Sopravvivere](/abilita/generiche/sopravvivere)
+{{< include "/abilita/generiche/sopravvivere" >}}

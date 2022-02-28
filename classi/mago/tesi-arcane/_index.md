@@ -14,12 +14,12 @@ tua tesi avrà un titolo molto più lungo e tecnico come "Sui Metodi
 d'Interpolazione degli Incantesimi e la Genesi di una Nuova Concezione degli
 Elementi Fondamentali della Magia".
 
-## @[Armonizzazione Migliorata con il Famiglio](/classi/mago/tesi-arcane/armonizzazione-migliorata-con-il-famiglio)
+{{< include "/classi/mago/tesi-arcane/armonizzazione-migliorata-con-il-famiglio" >}}
 
-## @[Fusione di Incantesimi](/classi/mago/tesi-arcane/fusione-di-incantesimi)
+{{< include "/classi/mago/tesi-arcane/fusione-di-incantesimi" >}}
 
-## @[Legame del Bastone](/classi/mago/tesi-arcane/legame-del-bastone)
+{{< include "/classi/mago/tesi-arcane/legame-del-bastone" >}}
 
-## @[Rimpiazzo di Incantesimi](/classi/mago/tesi-arcane/rimpiazzo-di-incantesimi)
+{{< include "/classi/mago/tesi-arcane/rimpiazzo-di-incantesimi" >}}
 
-## @[Sperimentazione Metamagica](/classi/mago/tesi-arcane/sperimentazione-metamagica)
+{{< include "/classi/mago/tesi-arcane/sperimentazione-metamagica" >}}

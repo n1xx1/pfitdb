@@ -84,26 +84,22 @@ Esperto in Percezione
 
 ### Tiri Salvezza
 
-Addestrato in Tempra  
-Esperto in Riflessi  
-Esperto in Volontà
+Addestrato in Tempra Esperto in Riflessi Esperto in Volontà
 
 ### Abilità
 
-Addestrato in Società  
-Addestrato in una o più abilità determinate dalla tua metodologia  
-Addestrato in un numero di abilità pari a 4 più il tuo modificatore di
-Intelligenza
+Addestrato in Società Addestrato in una o più abilità determinate dalla tua
+metodologia Addestrato in un numero di abilità pari a 4 più il tuo modificatore
+di Intelligenza
 
 ### Attacchi
 
-Addestrato con le armi semplici e da guerra  
-Addestrato con gli attacchi senz'armi
+Addestrato con le armi semplici e da guerra Addestrato con gli attacchi
+senz'armi
 
 ### Difese
 
-Addestrato con le armature leggere  
-Addestrato nella difesa senz'armatura
+Addestrato con le armature leggere Addestrato nella difesa senz'armatura
 
 ### CD di Classe
 
@@ -143,9 +139,9 @@ per acquisirle.
 In quanto investigatore, pensi alle tue avventure come a casi da risolvere.
 Ottieni un'attività e una reazione che puoi usare per indagare sui casi.
 
-### @[Seguire una Pista](/azioni/classe/seguire-una-pista)
+{{< statblock "/azioni/classe/seguire-una-pista" >}}
 
-### @[Ragguagliare](/azioni/classe/ragguagliare)
+{{< statblock "/azioni/classe/ragguagliare" >}}
 
 ### Colpo Strategico
 
@@ -168,7 +164,7 @@ addestramento di base, indicate all'inizio della descrizione della classe.
 Puoi simulare una battaglia nella tua testa, usando il cervello piuttosto che i
 muscoli per eseguire un attacco.
 
-### @[Ideare uno Stratagemma](/azioni/classe/ideare-uno-stratagemma)
+{{< statblock "/azioni/classe/ideare-uno-stratagemma" >}}
 
 ### Metodologia
 

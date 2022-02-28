@@ -12,12 +12,12 @@ coordinazione. Quando compi l'azione base [Sfuggire](/azioni/base/sfuggire),
 puoi usare il tuo modificatore di Acrobazia anziché il tuo modificatore di
 attacco senz'armi.
 
-### @[Bilanciarsi](/azioni/abilita/bilanciarsi)
+{{< statblock "/azioni/abilita/bilanciarsi" >}}
 
-### @[Destreggiarsi](/azioni/abilita/destreggiarsi)
+{{< statblock "/azioni/abilita/destreggiarsi" >}}
 
 ## Azioni con Addestramento di Acrobazia
 
-### @[Manovrare in Volo](/azioni/abilita/manovrare-in-volo)
+{{< statblock "/azioni/abilita/manovrare-in-volo" >}}
 
-### @[Stringersi](/azioni/abilita/stringersi)
+{{< statblock "/azioni/abilita/stringersi" >}}
