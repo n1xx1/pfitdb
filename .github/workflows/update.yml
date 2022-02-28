@@ -14,18 +14,11 @@ jobs:
           repository: n1xx1/pfitdb-hugo
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
-      - uses: actions/setup-go@v3
-        with:
-          go-version: "1.17.7"
-
-      - uses: peaceiris/actions-hugo@v2
-        with:
-          hugo-version: "latest"
-
-      - run: go mod download
-      - run: hugo mod verify
-      - run: hugo mod get -u
-      - run: hugo mod tidy
+      # Update references
+      - name: Git Sumbodule Update
+        run: |
+          git pull --recurse-submodules
+          git submodule update --remote --recursive
 
       - name: Push Changes
         run: |
