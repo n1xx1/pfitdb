@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 118
 original-name: Scoundrel
 original-srd: https://2e.aonprd.com/Rackets.aspx?ID=2
 ---
@@ -18,5 +18,6 @@ effettui contro di esso fino alla fine del tuo turno successivo. In caso di
 successo critico, il bersaglio e impreparato contro tutti gli attacchi in
 mischia fino alla fine del tuo turno successivo, non solo i tuoi.
 
-Sei addestrato in Inganno e Diplomazia. Puoi scegliere il Carisma come tuo
-punteggio di caratteristica chiave.
+Sei addestrato in [Inganno](/abilita/inganno) e
+[Diplomazia](/abilita/diplomazia). Puoi scegliere il Carisma come tuo punteggio
+di caratteristica chiave.

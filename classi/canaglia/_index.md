@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 117
 original-name: Rogue
 original-srd: https://2e.aonprd.com/Classes.aspx?ID=10
 ---
@@ -168,13 +168,7 @@ specializzata in un diverso racket, per compiere una rapina particolarmente
 complessa, cosi da poter affrontare qualsiasi evenienza. Scegli un racket della
 canaglia tra quelli descritti qui di seguito.
 
-I racket possono essere trovati qua:
-
-- [Furfante](/classi/canaglia/racket/furfante)
-- [Imbroglione Mistico](/classi/canaglia/racket/imbroglione-mistico)
-- [Ladro](/classi/canaglia/racket/ladro)
-- [Picchiatore](/classi/canaglia/racket/picchiatore)
-- [Stratega](/classi/canaglia/racket/stratega)
+I racket possono essere trovati [qua](/classi/canaglia/racket).
 
 ### Stirpe e Background
 
