@@ -1,19 +1,20 @@
 ---
 source: Manuale di Gioco, pag. 36
-original-name: Woodland Elf
-original-srd: https://2e.aonprd.com/Heritages.aspx?ID=10
+original-name: Seer Elf
+original-srd: https://2e.aonprd.com/Heritages.aspx?ID=8
 TODO:
 ---
 
-# Elfo Silvano
+# Elfo Veggente
 
-Ti sei adattato a vivere nelle foreste o nelle giungle più profonde e sai come
-salire sugli alberi e utilizzare il fogliame a tuo vantaggio. Quando stai
-Scalando alberi, rampicanti o altro fogliame, ti muovi a metà della tua Velocità
-con un successo e alla tua Velocità piena con un successo critico (e ti muovi
-alla tua Velocità piena con un successo, se possiedi
-[Scalare Rapido](/talenti/generici/scalare-rapido)). Ciò non ha effetto su di te
-se stai utilizzando una Velocità di scalare. Puoi sempre utilizzare l'azione
-[Andare in Copertura](/azioni/base/andare-in-copertura) per ottenere copertura
-quando ti trovi dentro una foresta, anche se non sei vicino a un ostacolo dietro
-cui potresti [Andare in Copertura](/azioni/base/andare-in-copertura).
+Hai una capacità innata di individuare e comprendere i fenomeni magici. Puoi
+lanciare il trucchetto
+_[individuazione del magico](/incantesimi/individuazione-del-magico)_ come
+incantesimo innato arcano a volontà. Un trucchetto viene intensificato a un
+livello dell'incantesimo pari a metà del tuo livello, arrotondato per eccesso.
+Inoltre, ottieni bonus di circostanza + 1 alle prove di
+[Identificare Magia](/azioni/abilita/identificare-magia) e di
+[Decifrare Scritti](/azioni/abilita/decifrare-scritti) di natura magica. Queste
+azioni dell'abilità di norma utilizzano le abilità [Arcano](/abilita/arcano),
+[Natura](/abilita/natura), [Occultismo](/abilita/occultismo) o
+[Religione](/abilita/religione).
