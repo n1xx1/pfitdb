@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 191
 original-name: Ranger
 original-srd: https://2e.aonprd.com/Classes.aspx?ID=9
 ---
@@ -156,11 +156,8 @@ segugio più abile, quando utilizzi Cacciare la Preda ottieni un beneficio
 ulteriore che varia in base al tipo di addestramento svolto. Scegli un vantaggio
 del cacciatore.
 
-I vantaggi del cacciatore possono essere trovati qua:
-
-- [Astuzia Superiore](/classi/ranger/vantaggi-del-cacciatore/astuzia-superiore)
-- [Precisione](/classi/ranger/vantaggi-del-cacciatore/precisione)
-- [Raffica](/classi/ranger/vantaggi-del-cacciatore/raffica)
+I vantaggi del cacciatore possono essere trovati
+[qua](/classi/ranger/vantaggi-del-cacciatore).
 
 ### Talenti da Ranger
 

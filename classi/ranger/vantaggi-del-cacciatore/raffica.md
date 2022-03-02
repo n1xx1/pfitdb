@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 192
 original-name: Flurry
 original-srd: https://2e.aonprd.com/HuntersEdge.aspx?ID=1
 ---
