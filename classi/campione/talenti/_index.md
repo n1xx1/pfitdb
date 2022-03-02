@@ -8,7 +8,7 @@ navigation-disable: true
 
 # Talenti da Campione
 
-A ogni livello in cui ottieni un talento da bardo, puoi sceglierne uno tra i
+A ogni livello in cui ottieni un talento da campione, puoi sceglierne uno tra i
 seguenti. Devi soddisfare tutti i prerequisiti prima di selezionare il talento.
 
 {{< featTable "/classi/campione/talenti" >}}
