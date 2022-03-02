@@ -2,6 +2,7 @@
 source: Guida del Giocatore, pag. TODO
 original-name: Investigator
 original-srd: https://2e.aonprd.com/Classes.aspx?ID=13
+draft: true
 ---
 
 # Investigatore
