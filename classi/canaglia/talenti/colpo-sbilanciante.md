@@ -5,7 +5,7 @@ original-name: Unbalancing Blow
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=559
 ---
 
-# Colpo Sbilanciante - Talento 1
+# Colpo Sbilanciante - Talento 2
 
 **Prerequisiti** [racket del ladro](/classi/canaglia/racket)
 
