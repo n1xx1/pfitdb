@@ -13,7 +13,7 @@ aggiunta alle altre che possiedi.
 
 Ottieni la seguente azione gratuita.
 
-{{< statblock "/azioni/classe/richiamo-mutagenico" >}}
+{{< include "/azioni/classe/richiamo-mutagenico" >}}
 
 ## Scoperta del Campo di Ricerca - 5°
 

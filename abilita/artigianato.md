@@ -17,7 +17,7 @@ se sei senza addestramento in Artigianato, puoi
   o creature meccaniche. Il GM determina quali creature ricadono in
   quest'ambito, ma solitamente la definizione include i costrutti.
 
-{{< statblock "/azioni/abilita/riparare" >}}
+{{< include "/azioni/abilita/riparare" >}}
 
 ## Azioni con Addestramento di Artigianato
 
@@ -26,7 +26,7 @@ Devi essere addestrato in Artigianato per usarlo per
 
 - **[Guadagnare](/azioni/abilita/guadagnare)** fabbricando beni di consumo.
 
-{{< statblock "/azioni/abilita/fabbricare" >}}
+{{< include "/azioni/abilita/fabbricare" >}}
 
 > ### Monouso e Munizioni
 >
@@ -45,4 +45,4 @@ Devi essere addestrato in Artigianato per usarlo per
 > Per informazioni su come acquisire altre formule vedi
 > [Formule](/regole/6-equipaggiamento/TODO).
 
-{{< statblock "/azioni/abilita/identificare-alchimia" >}}
+{{< include "/azioni/abilita/identificare-alchimia" >}}

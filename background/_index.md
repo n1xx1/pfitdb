@@ -50,4 +50,4 @@ rari di questa sezione includendo dettagli più specifici.
 
 ---
 
-{{< statblockAll "/background" >}}
+{{< includeAll page="/background" sorter="level" space=true >}}

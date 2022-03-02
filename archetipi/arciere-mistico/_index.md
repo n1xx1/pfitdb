@@ -22,4 +22,4 @@ magia dell'arco in sé e per sé.
 
 {{< include "/regole/guida-del-giocatore/3-archetipi/talenti-aggiuntivi" >}}
 
-{{< statblockAll "/archetipi/arciere-mistico/talenti" >}}
+{{< includeAll page="/archetipi/arciere-mistico/talenti" sorter="level" space=true >}}

@@ -15,10 +15,10 @@ per Sopravvivere.
 - **[Sopravvivere](/azioni/abilita/sopravvivere)** nella natura procacciando il
   cibo e costruendo ripari.
 
-{{< statblock "/azioni/abilita/trovare-la-direzione" >}}
+{{< include "/azioni/abilita/trovare-la-direzione" >}}
 
 ## Azioni con Addestramento di Sopravvivenza
 
-{{< statblock "/azioni/abilita/coprire-tracce" >}}
+{{< include "/azioni/abilita/coprire-tracce" >}}
 
-{{< statblock "/azioni/abilita/seguire-tracce" >}}
+{{< include "/azioni/abilita/seguire-tracce" >}}

@@ -14,4 +14,4 @@ Sei addestrato in un'abilità basata sull'Intelligenza a tua scelta. Ottieni il
 talento da investigatore [Curioso...](/talenti/investigatore/curioso...) e
 l'azione gratuita [Ispezione Rapida](/azioni/classe/ispezione-rapida).
 
-{{< statblock "/azioni/classe/ispezione-rapida" >}}
+{{< include "/azioni/classe/ispezione-rapida" >}}

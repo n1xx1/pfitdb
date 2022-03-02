@@ -18,55 +18,55 @@ ma comunque disponibili a gran parte delle creature, sono chiamate azioni base
 specialistiche. Si tratta in genere di azioni con requisiti che non tutti i
 personaggi possiedono, come impugnare uno scudo o avere una Velocità di Scavare.
 
-{{< statblock "/azioni/base/aiutare" >}}
+{{< include "/azioni/base/aiutare" >}}
 
-{{< statblock "/azioni/base/alzarsi" >}}
+{{< include "/azioni/base/alzarsi" >}}
 
-{{< statblock "/azioni/base/andare-carponi" >}}
+{{< include "/azioni/base/andare-carponi" >}}
 
-{{< statblock "/azioni/base/andare-in-copertura" >}}
+{{< include "/azioni/base/andare-in-copertura" >}}
 
-{{< statblock "/azioni/base/avanzare" >}}
+{{< include "/azioni/base/avanzare" >}}
 
-{{< statblock "/azioni/base/cadere-a-terra" >}}
+{{< include "/azioni/base/cadere-a-terra" >}}
 
-{{< statblock "/azioni/base/colpire" >}}
+{{< include "/azioni/base/colpire" >}}
 
-{{< statblock "/azioni/base/individuare" >}}
+{{< include "/azioni/base/individuare" >}}
 
-{{< statblock "/azioni/base/interagire" >}}
+{{< include "/azioni/base/interagire" >}}
 
-{{< statblock "/azioni/base/intuire" >}}
+{{< include "/azioni/base/intuire" >}}
 
-{{< statblock "/azioni/base/lasciare" >}}
+{{< include "/azioni/base/lasciare" >}}
 
-{{< statblock "/azioni/base/passo" >}}
+{{< include "/azioni/base/passo" >}}
 
-{{< statblock "/azioni/base/preparare" >}}
+{{< include "/azioni/base/preparare" >}}
 
-{{< statblock "/azioni/base/ritardare" >}}
+{{< include "/azioni/base/ritardare" >}}
 
-{{< statblock "/azioni/base/saltare" >}}
+{{< include "/azioni/base/saltare" >}}
 
-{{< statblock "/azioni/base/sfuggire" >}}
+{{< include "/azioni/base/sfuggire" >}}
 
 ## Azioni Base Specialistiche
 
 Queste azioni sono utili in circostanze specifiche. Alcune richiedono che tu
 abbia un tipo di movimento speciale.
 
-{{< statblock "/azioni/base/afferrare-un-bordo" >}}
+{{< include "/azioni/base/afferrare-un-bordo" >}}
 
-{{< statblock "/azioni/base/alzare-lo-scudo" >}}
+{{< include "/azioni/base/alzare-lo-scudo" >}}
 
-{{< statblock "/azioni/base/arrestare-una-caduta" >}}
+{{< include "/azioni/base/arrestare-una-caduta" >}}
 
-{{< statblock "/azioni/base/evitare-lo-sguardo" >}}
+{{< include "/azioni/base/evitare-lo-sguardo" >}}
 
-{{< statblock "/azioni/base/indicare" >}}
+{{< include "/azioni/base/indicare" >}}
 
-{{< statblock "/azioni/base/montare" >}}
+{{< include "/azioni/base/montare" >}}
 
-{{< statblock "/azioni/base/scavare" >}}
+{{< include "/azioni/base/scavare" >}}
 
-{{< statblock "/azioni/base/volare" >}}
+{{< include "/azioni/base/volare" >}}

@@ -181,7 +181,7 @@ Se hai bisogno subito di un'oggetto alchemico specifico, puoi usare i reagenti
 infusi per crearne uno sul momento con l'azione
 [Alchimia Rapida](/azioni/classe/alchimia-rapida).
 
-{{< statblock "/azioni/classe/alchimia-rapida" >}}
+{{< include "/azioni/classe/alchimia-rapida" >}}
 
 ### Campo di Ricerca
 

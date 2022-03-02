@@ -39,4 +39,4 @@ seguenti.
 
 - **[Guadagnare](/azioni/abilita/guadagnare)** esibendoti.
 
-{{< statblock "/azioni/abilita/esibirsi" >}}
+{{< include "/azioni/abilita/esibirsi" >}}

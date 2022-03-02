@@ -10,12 +10,12 @@ TODO:
 Puoi ingannare e sviare gli altri con travestimenti, menzogne e altre forme di
 sotterfugio.
 
-{{< statblock "/azioni/abilita/creare-un-diversivo" >}}
+{{< include "/azioni/abilita/creare-un-diversivo" >}}
 
-{{< statblock "/azioni/abilita/impersonare" >}}
+{{< include "/azioni/abilita/impersonare" >}}
 
-{{< statblock "/azioni/abilita/mentire" >}}
+{{< include "/azioni/abilita/mentire" >}}
 
 ## Azioni con Addestramento di Inganno
 
-{{< statblock "/azioni/abilita/fintare" >}}
+{{< include "/azioni/abilita/fintare" >}}

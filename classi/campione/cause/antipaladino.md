@@ -24,7 +24,7 @@ precetti del male, aggiungi anche questi.
 
 ## Reazione del Campione
 
-{{< statblock "/azioni/classe/vendetta-distruttiva" >}}
+{{< include "/azioni/classe/vendetta-distruttiva" >}}
 
 ## Punizione Divina
 

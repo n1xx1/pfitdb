@@ -19,7 +19,7 @@ a quelli del bene, segui anche questi precetti:
 
 ## Reazione del Campione
 
-{{< statblock "/azioni/classe/barlume-di-redenzione" >}}
+{{< include "/azioni/classe/barlume-di-redenzione" >}}
 
 ## Punizione Divina
 

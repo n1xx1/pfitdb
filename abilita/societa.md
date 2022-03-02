@@ -31,4 +31,4 @@ Devi essere Addestrato in società per usarla per
   in codice, scritti in una forma incompleta o arcaica o in alcuni casi, resti
   in una lingua che non conosci.
 
-{{< statblock "/azioni/abilita/falsificare" >}}
+{{< include "/azioni/abilita/falsificare" >}}
