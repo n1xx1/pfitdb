@@ -4,7 +4,6 @@ original-name: Backgrounds
 original-srd: https://2e.aonprd.com/Backgrounds.aspx
 navigation-order: -40
 navigation-disable: true
-TODO:
 ---
 
 # Background

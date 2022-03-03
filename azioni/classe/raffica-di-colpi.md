@@ -1,6 +1,6 @@
 ---
 traits: [monaco, ostentazione]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 180
 original-name: Flurry of Blows
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=9
 ---

@@ -2,7 +2,6 @@
 source: Manuale di Gioco pag. 62
 original-name: Hermit
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=21
-TODO:
 ---
 
 # Eremita - Background

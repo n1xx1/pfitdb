@@ -1,6 +1,6 @@
 ---
 traits: [concentrazione, segreto]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 239
 original-name: Recall Knowledge
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=26
 ---

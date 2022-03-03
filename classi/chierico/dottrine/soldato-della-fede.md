@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 132
 original-name: Warpriest
 original-srd: https://2e.aonprd.com/Doctrines.aspx?ID=3
 ---

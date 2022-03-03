@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 131
 original-name: Cloistered Cleric
 original-srd: https://2e.aonprd.com/Doctrines.aspx?ID=2
 ---

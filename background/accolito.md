@@ -2,8 +2,6 @@
 source: Manuale di Gioco, pag. 60
 original-name: Acolyte
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=1
-background:
-  - generale
 ---
 
 # Accolito - Background

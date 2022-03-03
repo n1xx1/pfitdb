@@ -1,9 +1,8 @@
 ---
 traits: [pausa]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 236
 original-name: Earn Income
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=23
-TODO:
 ---
 
 # Guadagnare

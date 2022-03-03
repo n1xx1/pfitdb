@@ -2,7 +2,6 @@
 source: Manuale di Gioco pag. 63
 original-name: Miner
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=26
-TODO:
 ---
 
 # Minatore - Background

@@ -1,6 +1,6 @@
 ---
 traits: [alchimista]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 73
 original-name: Mutagenic Flashback
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=340
 ---

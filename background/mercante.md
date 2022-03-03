@@ -2,7 +2,6 @@
 source: Manuale di Gioco pag. 63
 original-name: Merchant
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=25
-TODO:
 ---
 
 # Mercante - Background

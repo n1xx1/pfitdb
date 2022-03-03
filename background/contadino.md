@@ -2,7 +2,6 @@
 source: Manuale di Gioco pag. 61
 original-name: Farmhand
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=14
-TODO:
 ---
 
 # Contadino - Background

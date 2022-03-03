@@ -2,7 +2,6 @@
 source: Manuale di Gioco pag. 62
 original-name: Martial Disciple
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=24
-TODO:
 ---
 
 # Discepolo Marziale - Background

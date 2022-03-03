@@ -3,7 +3,6 @@ traits: [raro]
 source: Guida del Giocatore, pag. 50
 original-name: Blessed
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=183
-TODO:
 ---
 
 # Benedetto - Background

@@ -1,6 +1,6 @@
 ---
 traits: [arcano, mago]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 169
 original-name: Drain Bonded Item
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=13
 ---

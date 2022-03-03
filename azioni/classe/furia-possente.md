@@ -1,6 +1,6 @@
 ---
 traits: [barbaro]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 85
 original-name: Mighty Rage
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=4
 ---

@@ -1,9 +1,8 @@
 ---
 traits: [pausa]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 240
 original-name: Subsist
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=27
-TODO:
 ---
 
 # Sopravvivere

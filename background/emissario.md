@@ -2,7 +2,6 @@
 source: Manuale di Gioco pag. 62
 original-name: Emissary
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=12
-TODO:
 ---
 
 # Emissario - Background

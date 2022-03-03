@@ -2,7 +2,6 @@
 source: Manuale di Gioco pag. 62
 original-name: Fortune Teller
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=16
-TODO:
 ---
 
 # Indovino - Background

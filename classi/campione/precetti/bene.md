@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 106
 original-name: Good
 original-srd: https://2e.aonprd.com/Tenets.aspx?ID=1
 ---

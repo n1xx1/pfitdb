@@ -2,7 +2,6 @@
 source: Manuale di Gioco pag. 64
 original-name: Prisoner
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=29
-TODO:
 ---
 
 # Prigioniero - Background

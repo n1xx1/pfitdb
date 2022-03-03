@@ -2,7 +2,6 @@
 source: Manuale di Gioco pag. 62
 original-name: Herbalist
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=20
-TODO:
 ---
 
 # Erborista - Background

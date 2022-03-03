@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 106
 original-name: Causes
 original-srd: https://2e.aonprd.com/Causes.aspx
 ---

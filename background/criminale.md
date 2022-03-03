@@ -2,7 +2,6 @@
 source: Manuale di Gioco pag. 61
 original-name: Criminal
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=10
-TODO:
 ---
 
 # Criminale - Background

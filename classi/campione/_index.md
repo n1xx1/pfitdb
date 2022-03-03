@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 105
 original-name: Champion
 original-srd: https://2e.aonprd.com/Classes.aspx?ID=4
 ---

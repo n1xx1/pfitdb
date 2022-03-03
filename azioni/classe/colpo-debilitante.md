@@ -1,6 +1,6 @@
 ---
 traits: [canaglia]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 120
 original-name: Debilitating Strike
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=11
 ---

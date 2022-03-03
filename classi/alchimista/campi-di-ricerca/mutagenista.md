@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 73
 original-name: Mutagenist
 original-srd: https://2e.aonprd.com/ResearchFields.aspx?ID=3
 ---

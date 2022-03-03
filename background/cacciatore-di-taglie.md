@@ -2,7 +2,6 @@
 source: Manuale di Gioco pag. 61
 original-name: Bounty Hunter
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=8
-TODO:
 ---
 
 # Cacciatore di Taglie - Background

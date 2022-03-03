@@ -1,6 +1,6 @@
 ---
 traits: [attacco]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 243
 original-name: Force Open
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=34
 ---

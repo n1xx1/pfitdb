@@ -1,6 +1,6 @@
 ---
 traits: [concentrazione, linguistico, mentale, uditivo]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 246
 original-name: Request
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=51
 ---

@@ -1,6 +1,6 @@
 ---
 traits: [movimento]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 240
 original-name: Maneuver in Flight
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=30
 ---

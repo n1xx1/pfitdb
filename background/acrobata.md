@@ -2,7 +2,6 @@
 source: Manuale di Gioco, pag. 60
 original-name: Acrobat
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=2
-TODO:
 ---
 
 # Acrobata - Background

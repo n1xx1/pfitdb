@@ -2,7 +2,6 @@
 source: Manuale di Gioco pag. 62
 original-name: Gladiator
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=18
-TODO:
 ---
 
 # Gladiatore - Background

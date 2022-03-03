@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 95
 original-name: Bard
 original-srd: https://2e.aonprd.com/Classes.aspx?ID=3
 ---

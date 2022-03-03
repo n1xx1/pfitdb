@@ -2,7 +2,6 @@
 source: Manuale di Gioco pag. 62
 original-name: Field Medic
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=15
-TODO:
 ---
 
 # Infermiere Militare - Background

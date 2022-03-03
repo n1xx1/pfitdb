@@ -2,7 +2,6 @@
 source: Manuale di Gioco pag. 64
 original-name: Barkeep
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=6
-TODO:
 ---
 
 # Oste - Background

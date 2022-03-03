@@ -2,7 +2,6 @@
 source: Manuale di Gioco pag. 64
 original-name: Street Urchin
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=33
-TODO:
 ---
 
 # Teppistello - Background

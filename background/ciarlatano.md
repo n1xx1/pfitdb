@@ -2,7 +2,6 @@
 source: Manuale di Gioco pag. 61
 original-name: Charlatan
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=9
-TODO:
 ---
 
 # Ciarlatano - Background

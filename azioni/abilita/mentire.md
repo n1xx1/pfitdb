@@ -1,6 +1,6 @@
 ---
 traits: [concentrazione, linguistico, mentale, segreto, uditivo]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 249
 original-name: Lie
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=47
 ---

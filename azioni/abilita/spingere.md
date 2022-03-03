@@ -1,6 +1,6 @@
 ---
 traits: [attacco]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 244
 original-name: Shove
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=38
 ---

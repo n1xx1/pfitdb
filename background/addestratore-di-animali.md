@@ -2,7 +2,6 @@
 source: Manuale di Gioco pag. 60
 original-name: Animal Whisperer
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=3
-TODO:
 ---
 
 # Addestratore di Animali - Background

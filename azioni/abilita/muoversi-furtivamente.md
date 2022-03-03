@@ -1,6 +1,6 @@
 ---
 traits: [movimento, segreto]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 246
 original-name: Sneak
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=63
 ---

@@ -1,9 +1,8 @@
 ---
 traits: [concentrazione, esplorazione]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 238
 original-name: Identify Magic
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=24
-TODO:
 ---
 
 # Imparare un Incantesimo

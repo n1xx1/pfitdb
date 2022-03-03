@@ -1,6 +1,6 @@
 ---
 traits: [canaglia, incapacitazione]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 120
 original-name: Master Strike
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=12
 ---

@@ -1,6 +1,6 @@
 ---
 traits: [movimento]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 243
 original-name: Swim
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=39
 ---

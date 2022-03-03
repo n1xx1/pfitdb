@@ -1,8 +1,8 @@
 ---
-traits: [monaco, ostentazione]
-source: Manuale di Gioco, pag. TODO
-original-name: Flurry of Blows
-original-srd: https://2e.aonprd.com/Actions.aspx?ID=9
+traits: [concentrazione, ranger]
+source: Manuale di Gioco, pag. 192
+original-name: Hunt Prey
+original-srd: https://2e.aonprd.com/Actions.aspx?ID=10
 ---
 
 # Cacciare la Preda :1:

@@ -1,6 +1,6 @@
 ---
 traits: [mentale]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 249
 original-name: Feint
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=48
 ---

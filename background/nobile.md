@@ -2,7 +2,6 @@
 source: Manuale di Gioco pag. 63
 original-name: Noble
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=27
-TODO:
 ---
 
 # Nobile - Background

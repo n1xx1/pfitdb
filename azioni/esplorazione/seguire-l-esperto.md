@@ -1,7 +1,7 @@
 ---
 traits: [concentrazione, esplorazione, uditivo, visivo]
 source: Manuale di Gioco, pag. 480
-original-name: RFollow the Expert
+original-name: Follow the Expert
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=514
 ---
 

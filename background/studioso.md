@@ -2,7 +2,6 @@
 source: Manuale di Gioco pag. 64
 original-name: Scholar
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=36
-TODO:
 ---
 
 # Studioso - Background

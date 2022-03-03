@@ -1,6 +1,6 @@
 ---
 traits: [concentrazione, esplorazione, linguistico, mentale, uditivo]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 245
 original-name: Make an Impression
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=50
 ---

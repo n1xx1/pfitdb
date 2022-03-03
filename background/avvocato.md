@@ -2,7 +2,6 @@
 source: Manuale di Gioco pag. 60
 original-name: Barrister
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=7
-TODO:
 ---
 
 # Avvocato - Background

@@ -2,7 +2,6 @@
 source: Manuale di Gioco pag. 60
 original-name: Artisan
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=4
-TODO:
 ---
 
 # Artigiano - Background

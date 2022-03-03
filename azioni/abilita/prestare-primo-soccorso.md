@@ -1,6 +1,6 @@
 ---
 traits: [maneggiare]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 250
 original-name: Administer First Aid
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=54
 ---

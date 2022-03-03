@@ -2,7 +2,6 @@
 source: Manuale di Gioco pag. 62
 original-name: Gambler
 original-srd: https://2e.aonprd.com/Backgrounds.aspx?ID=17
-TODO:
 ---
 
 # Giocatore d'Azzardo - Background

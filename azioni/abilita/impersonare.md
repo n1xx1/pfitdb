@@ -1,6 +1,6 @@
 ---
 traits: [concentrazione, esplorazione, maneggiare, segreto]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 249
 original-name: Impersonate
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=46
 ---
