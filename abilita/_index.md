@@ -1,11 +1,17 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 233
 original-name: Skills
 original-srd: https://2e.aonprd.com/Skills.aspx
-TODO:
 ---
 
 # Abilità
+
+_I punteggi di caratteristica del tuo personaggio rappresentano il suo talento e
+il suo potenziale grezzi, mentre le abilità indicano il suo addestramento e la
+sua esperienza nello svolgere determinati compiti. Ciascuna abilità è correlata
+a un punteggio di caratteristica e viene usata per una serie di azioni. La
+perizia del tuo personaggio in esse dipende da vari fattori, come il suo
+background e la sua classe._
 
 ## [Azioni Generiche](/abilita/generiche)
 

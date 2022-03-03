@@ -1,6 +1,6 @@
 ---
 traits: [concentrazione]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 246
 original-name: Perform
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=59
 ---

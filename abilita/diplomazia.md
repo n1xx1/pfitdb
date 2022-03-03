@@ -1,8 +1,7 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 245
 original-name: Diplomacy
 original-srd: https://2e.aonprd.com/Skills.aspx?ID=6
-TODO:
 ---
 
 # Diplomazia - (Car)

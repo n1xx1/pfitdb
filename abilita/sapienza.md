@@ -1,8 +1,7 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 251
 original-name: Lore
 original-srd: https://2e.aonprd.com/Skills.aspx?ID=8
-TODO:
 ---
 
 # Sapienza - (Int)

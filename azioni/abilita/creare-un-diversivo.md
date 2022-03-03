@@ -1,6 +1,6 @@
 ---
 traits: [mentale]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 248
 original-name: Create a Diversion
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=45
 ---

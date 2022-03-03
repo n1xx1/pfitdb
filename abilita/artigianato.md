@@ -1,9 +1,7 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 241
 original-name: Crafting
 original-srd: https://2e.aonprd.com/Skills.aspx?ID=4
-TODO:
-  - controllare testo Guadagnare
 ---
 
 # Artigianato - (Int)

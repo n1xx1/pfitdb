@@ -1,8 +1,7 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 246
 original-name: Stealth
 original-srd: https://2e.aonprd.com/Skills.aspx?ID=15
-TODO:
 ---
 
 # Furtività - (Des)

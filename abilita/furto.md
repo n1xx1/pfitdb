@@ -1,8 +1,7 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 248
 original-name: Thievery
 original-srd: https://2e.aonprd.com/Skills.aspx?ID=17
-TODO:
 ---
 
 # Furto - (Des)

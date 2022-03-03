@@ -1,6 +1,6 @@
 ---
 traits: [concentrazione, esplorazione]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 241
 original-name: Borrow an Arcane Spell
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=32
 ---

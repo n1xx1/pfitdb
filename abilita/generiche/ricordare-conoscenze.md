@@ -1,8 +1,7 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 239
 original-name: Recall Knowledge
 original-srd: https://2e.aonprd.com/Skills.aspx?ID=5&General=true
-TODO:
 ---
 
 # Ricordare Conoscenze \[Senza Addestramento\]

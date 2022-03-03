@@ -1,8 +1,7 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 252
 original-name: Society
 original-srd: https://2e.aonprd.com/Skills.aspx?ID=14
-TODO:
 ---
 
 # Società - (Int)

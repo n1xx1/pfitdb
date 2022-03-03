@@ -1,8 +1,7 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 234
 original-name: Decipher Writing
 original-srd: https://2e.aonprd.com/Skills.aspx?ID=1&General=true
-TODO:
 ---
 
 # Decifrare Scritti \[Addestrato\]

@@ -1,6 +1,6 @@
 ---
 traits: [maneggiare]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 248
 original-name: Disable a Device
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=69
 ---

@@ -1,8 +1,7 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 238
 original-name: Learn a Spell
 original-srd: https://2e.aonprd.com/Skills.aspx?ID=4&General=true
-TODO:
 ---
 
 # Imparare un Incantesimo \[Addestrato\]

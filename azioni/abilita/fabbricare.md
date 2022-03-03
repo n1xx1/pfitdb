@@ -1,6 +1,6 @@
 ---
 traits: [pausa, maneggiare]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 242
 original-name: Craft
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=43
 ---

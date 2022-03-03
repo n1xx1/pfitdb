@@ -1,8 +1,7 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 236
 original-name: Earn Income
 original-srd: https://2e.aonprd.com/Skills.aspx?ID=2&General=true
-TODO:
 ---
 
 # Guadagnare \[Addestrato\]

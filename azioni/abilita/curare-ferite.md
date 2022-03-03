@@ -1,6 +1,6 @@
 ---
 traits: [esplorazione, guarigione, maneggiare]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 250
 original-name: Treat Wounds
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=57
 ---

@@ -1,6 +1,6 @@
 ---
 traits: [concentrazione, esplorazione, segreto]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 253
 original-name: Cover Tracks
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=65
 ---

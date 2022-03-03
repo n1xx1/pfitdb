@@ -1,8 +1,7 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 240
 original-name: Acrobatics
 original-srd: https://2e.aonprd.com/Skills.aspx?ID=1
-TODO:
 ---
 
 # Acrobazia - (Des)

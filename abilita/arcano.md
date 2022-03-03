@@ -1,8 +1,7 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 241
 original-name: Arcana
 original-srd: https://2e.aonprd.com/Skills.aspx?ID=2
-TODO:
 ---
 
 # Arcano - (Int)

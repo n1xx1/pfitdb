@@ -1,6 +1,6 @@
 ---
 traits: [concentrazione, esplorazione, segreto]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 234
 original-name: Decipher Writing
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=22
 ---

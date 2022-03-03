@@ -1,6 +1,6 @@
 ---
 traits: [concentrazione, uditivo]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 250
 original-name: Command an Animal
 original-srd: https://2e.aonprd.com/Actions.aspx?ID=58
 ---

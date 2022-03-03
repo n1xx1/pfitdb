@@ -1,8 +1,7 @@
 ---
-source: Manuale di Gioco, pag. TODO
-original-name: Medicine
-original-srd: https://2e.aonprd.com/Skills.aspx?ID=9
-TODO:
+source: Manuale di Gioco, pag. 251
+original-name: Religion
+original-srd: https://2e.aonprd.com/Skills.aspx?ID=13
 ---
 
 # Religione - (Sag)
