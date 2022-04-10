@@ -7,7 +7,7 @@ original-srd: TODO
 
 # Dullahan
 
-II cacciatore senza testa noto come dullahan si aggira in sella a un cavallo
+Il cacciatore senza testa noto come dullahan si aggira in sella a un cavallo
 nero come la notte a caccia delle teste di coloro che ritiene indegni di
 continuare a vivere. Quando si avvicina per uccidere una preda, il dullahan
 prima sussurra il nome della vittima, poi reclama rapidamente il suo trofeo,
