@@ -118,6 +118,8 @@ il cognome di una figura ispiratrice di quel gruppo.
 Azrnak, Draahzin, Enga, Fazgyn, Fazij, Jekkajak, Kib, Kirrok, Mirkol, Tarka,
 Urkak, Varshez, Vroklan, Zekstikah, Zgaz
 
+### Tabella: Modello Draconico
+
 | Draco   | Forma del Soffio | Tipo di Danno | Tiro Salvezza |
 | ------- | ---------------- | ------------- | ------------- |
 | Bianco  | Cono             | Freddo        | Riflessi      |
@@ -130,8 +132,6 @@ Urkak, Varshez, Vroklan, Zekstikah, Zgaz
 | Oro     | Cono             | Fuoco         | Riflessi      |
 | Ottone  | Linea            | Fuoco         | Riflessi      |
 | Rame    | Linea            | Acido         | Riflessi      |
-
-Tabella: Modello Draconico
 
 # Meccaniche Coboldi
 
@@ -161,15 +161,13 @@ altra lingua a cui hai accesso (per esempio le lingue prevalenti nella tua
 regione).
 
 **Scurovisione**  
-Attingi qualche potere dal tuo modello draconico. Scegli un tipo di drago
-cromatico o metallico come modello. Questo determina il colore e l'aspetto delle
-tue scaglie e i draghi a volta considerano più favorevolmente quei coboldi che
-somigliano loro, a discrezione del GM. Il tuo modello può anche determinare i
-dettagli di altre capacità che hai, utilizzando la Tabella Modello Draconico.
+Riesci a vedere nell'oscurità e in condizioni di luce fioca come se fosse luce
+intensa, anche se nell'oscurità la tua visione è in bianco e nero.
 
 **Modello Draconico**  
 Attingi qualche potere dal tuo modello draconico. Scegli un tipo di drago
 cromatico o metallico come modello. Questo determina il colore e l'aspetto delle
 tue scaglie e i draghi a volta considerano più favorevolmente quei coboldi che
 somigliano loro, a discrezione del GM. Il tuo modello può anche determinare i
-dettagli di altre capacità che hai, utilizzando la Tabella Modello Draconico.
+dettagli di altre capacità che hai, utilizzando la tabella
+[Modello Draconico](/stirpi/coboldo#tabella-modello-draconico).
