@@ -1,6 +1,6 @@
 ---
 traits: [chierico]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 134
 original-name: Deadly Simplicity
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=264
 ---

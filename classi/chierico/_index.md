@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 129
 original-name: Cleric
 original-srd: https://2e.aonprd.com/Classes.aspx?ID=5
 ---
@@ -95,7 +95,8 @@ di Intelligenza
 Addestrato con le armi semplici  
 Addestrato con l'arma preferita della tua divinità. Se l'arma in questione è non
 comune, ottieni inoltre accesso a essa.  
-Addestrato con gli attacchi senz'armi  
+Addestrato con gli attacchi senz'armi
+
 ### Difese
 
 Senza addestramento con tutte le armature, ma questo può variare in base alla
@@ -183,10 +184,7 @@ delle quali conferisce benefici iniziali al 1° livello. Al 3°, 7°, 11°, 15°
 19° livello ottieni i benefici concessi rispettivamente dalla seconda dottrina,
 dalla terza, dalla quarta, dalla quinta e dalla dottrina finale.
 
-Le dottrine possono essere trovate qua:
-
-- [Ecclesiastico](/classi/chierico/dottrine/ecclesiastico)
-- [Soldato della Fede](/classi/chierico/dottrine/soldato-della-fede)
+Le dottrine possono essere trovate [qua](/classi/chierico/dottrine).
 
 ### Lanciare Incantesimi Divini
 
