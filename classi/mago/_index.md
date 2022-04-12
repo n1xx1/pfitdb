@@ -1,4 +1,4 @@
-  ---
+---
 source: Manuale di Gioco, pag. TODO
 original-name: Wizard
 original-srd: https://2e.aonprd.com/Classes.aspx?ID=12
@@ -34,7 +34,7 @@ Probabilmente tenti di stare fuori dalla mischia, valutando attentamente quando
 utilizzare gli incantesimi. Conservi quelli più potenti per neutralizzare i
 nemici peri-colosi e usi i trucchetti quando restano solo avversari più deboli.
 Quando i nemici ricorrono a trucchi quali
-_[invisibilità](/incantesimi/invisibilità)_ o _[volo](/incantesimi/volo)_,
+_[invisibilità](/incantesimi/invisibilita)_ o _[volo](/incantesimi/volo)_,
 rispondi con incantesimi come
 _[polvere luccicante](/incantesimi/polvere-luccicante)_ e
 _[legato a terra](/incantesimi/legato-a-terra)_ per riequilibrare lo scontro a
@@ -149,7 +149,7 @@ richiesti per acquisirle.
 
 ### Competenze Iniziali
 
-Al 1° livello ottieni un certo numero di  competenze che rappresentano il tuo
+Al 1° livello ottieni un certo numero di competenze che rappresentano il tuo
 addestramento di base, indicate all'inizio della descrizione della classe.
 
 ### Lanciare Incantesimi Arcani
