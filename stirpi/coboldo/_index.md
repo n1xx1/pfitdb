@@ -2,8 +2,7 @@
 source: Guida del Giocatore, pag. 8
 original-name: Kobold
 original-srd: https://2e.aonprd.com/Ancestries.aspx?ID=18
-traits: [coboldo, umanoide]
-TODO:
+traits: [non comune, coboldo, umanoide]
 ---
 
 # Coboldo
