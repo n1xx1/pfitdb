@@ -1,6 +1,6 @@
 ---
 traits: [chierico]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 136
 original-name: Channeled Succor
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=287
 ---

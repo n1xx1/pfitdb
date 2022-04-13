@@ -1,11 +1,11 @@
 ---
 traits: [chierico, concentrazione, metamagico]
-source: Manuale di Gioco, pag. 135 TODO
+source: Manuale di Gioco, pag. 135
 original-name: Cast Down
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=281
 ---
 
-# Scagliare a Terra :A: - Talento 6
+# Scagliare a Terra :1: - Talento 6
 
 **Prerequisiti**
 [sorgente di ferimento o guarigione](/classi/chierico#sorgente-divina)

@@ -1,6 +1,6 @@
 ---
 traits: [chierico]
-source: Manuale di Gioco, pag. 135 TODO
+source: Manuale di Gioco, pag. 135
 original-name: Divine Weapon
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=282
 ---

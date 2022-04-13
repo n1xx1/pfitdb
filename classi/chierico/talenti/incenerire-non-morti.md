@@ -1,6 +1,6 @@
 ---
 traits: [chierico]
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 137
 original-name: Cremate Undead
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=288
 ---

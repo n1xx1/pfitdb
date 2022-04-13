@@ -1,6 +1,6 @@
 ---
 traits: [chierico, concentrazione, metamagico]
-source: Manuale di Gioco, pag. 135 TODO
+source: Manuale di Gioco, pag. 136
 original-name: Align Armament
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=28
 ---
