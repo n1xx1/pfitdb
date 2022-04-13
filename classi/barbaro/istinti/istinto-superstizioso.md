@@ -1,5 +1,5 @@
 ---
-source: Guida del Giocatore, pag. TODO
+source: Guida del Giocatore, pag. 108
 original-name: Superstition Instinct
 original-srd: https://2e.aonprd.com/Instincts.aspx?ID=6
 ---

@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 107
 original-name: Liberator
 original-srd: https://2e.aonprd.com/Causes.aspx?ID=3
 ---

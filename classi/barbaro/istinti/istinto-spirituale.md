@@ -1,5 +1,5 @@
 ---
-source: Guida del Giocatore, pag. TODO
+source: Manuale di Gioco, pag. 87
 original-name: Spirit Instinct
 original-srd: https://2e.aonprd.com/Instincts.aspx?ID=5
 ---
