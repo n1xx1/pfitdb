@@ -3,6 +3,7 @@ traits: [abilita, generico]
 source: Manuale di Gioco, pag. TODO
 original-name: Skill Training
 original-srd: https://2e.aonprd.com/Feats.aspx?ID=841
+category: [generic]
 ---
 
 # Addestramento nelle Abilità - Talento 1
