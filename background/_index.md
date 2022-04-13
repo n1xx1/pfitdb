@@ -47,6 +47,4 @@ I background possono anche essere unici: se li ha il tuo personaggio, non può
 averli nessun altro. Per creare background unici, puoi adattare i background
 rari di questa sezione includendo dettagli più specifici.
 
----
-
-{{< includeAll page="/background" sorter="level" space=true >}}
+{{< backgroundTable "/background" >}}
