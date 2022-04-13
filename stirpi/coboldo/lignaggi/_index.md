@@ -2,7 +2,6 @@
 source: Guida del Giocatore, pag. 8
 original-name: Kobold Heritages
 original-srd: https://2e.aonprd.com/Heritages.aspx?Ancestry=18
-TODO:
 ---
 
 # Lignaggi dei Coboldi

@@ -3,7 +3,6 @@ source: Manuale di Gioco, pag. 54
 original-name: Human
 original-srd: https://2e.aonprd.com/Ancestries.aspx?ID=6
 traits: [umano, umanoide]
-TODO:
 ---
 
 # Umano

@@ -2,7 +2,6 @@
 source: Manuale di Gioco, pag. 36
 original-name: Cavern Elf
 original-srd: https://2e.aonprd.com/Heritages.aspx?ID=7
-TODO:
 ---
 
 # Elfo delle Caverne

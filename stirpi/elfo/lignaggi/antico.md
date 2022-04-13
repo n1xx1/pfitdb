@@ -2,7 +2,6 @@
 source: Guida ai Personaggi, pag. 19
 original-name: Ancient Elf
 original-srd: https://2e.aonprd.com/Heritages.aspx?ID=34
-TODO:
 ---
 
 # Elfo Antico

@@ -1,5 +1,5 @@
 ---
-source: Guida del Giocatore, pag. TODO
+source: Guida del Giocatore, pag. 12
 original-name: Catfolk
 original-srd: https://2e.aonprd.com/Ancestries.aspx?ID=17
 traits: [non-comune, felinide, umanoide]

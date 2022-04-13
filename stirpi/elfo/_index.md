@@ -3,7 +3,6 @@ source: Manuale di Gioco, pag. 34
 original-name: Elf
 original-srd: https://2e.aonprd.com/Ancestries.aspx?ID=2
 traits: [elfo, umanoide]
-TODO:
 ---
 
 # Elfo

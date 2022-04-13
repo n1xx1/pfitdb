@@ -1,8 +1,7 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 39
 original-name: Chameleon Gnome
 original-srd: https://2e.aonprd.com/Heritages.aspx?ID=11
-TODO:
 ---
 
 # Gnomo Camaleonte

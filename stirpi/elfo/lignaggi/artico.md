@@ -2,7 +2,6 @@
 source: Manuale di Gioco, pag. 35
 original-name: Artic Elf
 original-srd: https://2e.aonprd.com/Heritages.aspx?ID=6
-TODO:
 ---
 
 # Elfo Artico

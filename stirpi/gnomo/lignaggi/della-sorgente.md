@@ -1,8 +1,7 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 39
 original-name: Wellspring Gnome
 original-srd: https://2e.aonprd.com/Heritages.aspx?ID=15
-TODO:
 ---
 
 # Gnomo della Sorgente

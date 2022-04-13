@@ -1,8 +1,7 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 39
 original-name: Gnome Heritages
 original-srd: https://2e.aonprd.com/Heritages.aspx?Ancestry=3
-TODO:
 ---
 
 # Lignaggi degli Gnomi

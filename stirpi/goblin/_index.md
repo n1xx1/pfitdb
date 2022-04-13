@@ -1,14 +1,22 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 43
 original-name: Goblin
 original-srd: https://2e.aonprd.com/Ancestries.aspx?ID=4
 traits: [goblin, umanoide]
-TODO:
 ---
 
 # Goblin
 
-_TODO_
+_Le store complicate a cui si aggrappano gli altri popoli non sono affatto
+interessanti per i goblin. Questo popolo di piccoletti coglie ogni attimo e
+preferisce inventare storie inverosimili che registrare i fatti accaduti. Le
+guerre combattute qualche decennio fa potrebbero anche risalire a un passato
+remoto. I goblin, pur essendo per lo più incompresi dagli altri popoli, sono
+felici di essere quello che sono. Le virtù dei goblin si incentrano sulla
+consapevolezza del presente, sulla creatività e sull'onestà. I goblin si
+preoccupano di vivere una vita piena, anziché di come finirà il loro viaggio. Di
+raccontare storie, non di cercare il pelo nell'uovo. Di essere piccoli, ma di
+sognare in grande._
 
 La reputazione dei goblin è quella di creature semplici, che amano le canzoni,
 il fuoco e nutrirsi di cose disgustose, che invece odiano leggere, i cani e i

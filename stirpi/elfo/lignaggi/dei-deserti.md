@@ -2,7 +2,6 @@
 source: Guida ai Personaggi, pag. 19
 original-name: Desert Elf
 original-srd: https://2e.aonprd.com/Heritages.aspx?ID=35
-TODO:
 ---
 
 # Elfo dei Deserti

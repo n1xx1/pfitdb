@@ -2,7 +2,6 @@
 source: Manuale di Gioco, pag. 35
 original-name: Elf Heritages
 original-srd: https://2e.aonprd.com/Heritages.aspx?Ancestry=2
-TODO:
 ---
 
 # Lignaggi degli Elfi

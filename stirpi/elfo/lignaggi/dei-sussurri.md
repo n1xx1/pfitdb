@@ -2,7 +2,6 @@
 source: Manuale di Gioco, pag. 35
 original-name: Whisper Elf
 original-srd: https://2e.aonprd.com/Heritages.aspx?ID=9
-TODO:
 ---
 
 # Elfo dei Sussurri

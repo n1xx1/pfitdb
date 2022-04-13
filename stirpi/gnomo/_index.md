@@ -3,12 +3,18 @@ source: Manuale di Gioco, pag. 39
 original-name: Gnome
 original-srd: https://2e.aonprd.com/Ancestries.aspx?ID=3
 traits: [gnomo, umanoide]
-TODO:
 ---
 
 # Gnomo
 
-_TODO_
+_Molto tempo fa, i progenitori degli gnomi emigrarono dal
+[Primo Mondo](/ambientazione/piani/primo-mondo), regno delle creature fatate.
+Non si conosce bene il motivo per cui i primi gnomi giunsero su Golarion, ma la
+loro origine si manifesta negli gnomi moderni sotto forma di ragionamenti
+bizzarri, eccentricità, comportamenti ossessivi e quella he alcuni considerano
+ingenuità. Queste qualità si riflettono ulteriormente nelle loro caratteristiche
+fisiche: arti esili, capelli dai colori vivaci e fattezze facciali fanciullesche
+ed estremamente espressive, che richiamano le loro origini ultraterrene._
 
 Gli gnomi, sempre desiderosi di nuove esperienze, non si fermano mai un istante,
 né mentalmente né fisicamente, nel tentativo di allontanare una terribile

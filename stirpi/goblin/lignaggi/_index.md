@@ -1,8 +1,7 @@
 ---
-source: Manuale di Gioco, pag. TODO
-original-name: Gnome Heritages
-original-srd: https://2e.aonprd.com/Heritages.aspx?Ancestry=3
-TODO:
+source: Manuale di Gioco, pag. 43
+original-name: Goblin Heritages
+original-srd: https://2e.aonprd.com/Heritages.aspx?Ancestry=4
 ---
 
 # Lignaggi dei Goblin

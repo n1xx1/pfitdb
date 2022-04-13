@@ -1,8 +1,7 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 40
 original-name: Umbral Gnome
 original-srd: https://2e.aonprd.com/Heritages.aspx?ID=14
-TODO:
 ---
 
 # Gnomo Umbratile

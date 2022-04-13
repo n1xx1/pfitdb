@@ -1,8 +1,7 @@
 ---
-source: Manuale di Gioco, pag. TODO
-original-name: Gnome Heritages
-original-srd: https://2e.aonprd.com/Heritages.aspx?Ancestry=3
-TODO:
+source: Manuale di Gioco, pag. 56
+original-name: Human Heritages
+original-srd: https://2e.aonprd.com/Heritages.aspx?Ancestry=6
 ---
 
 # Lignaggi degli Umani
