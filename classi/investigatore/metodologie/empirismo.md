@@ -1,5 +1,5 @@
 ---
-source: Guida del Giocatore, pag. TODO
+source: Guida del Giocatore, pag. 69
 original-name: Empiricism
 original-srd: https://2e.aonprd.com/Methodologies.aspx?ID=2
 ---

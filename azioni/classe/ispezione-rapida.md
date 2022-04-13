@@ -11,5 +11,6 @@ original-srd: https://2e.aonprd.com/Actions.aspx?ID=548
 
 ---
 
-Osservi e valuti i tuoi dintorni con gran rapidità. Ricordi Conoscenze,
-Individui o Intuisci.
+Osservi e valuti i tuoi dintorni con gran rapidità.
+[Ricordi Conoscenze](/azioni/abilita/ricordare-conoscenze),
+[Individui](/azioni/base/individuare) o [Intuisci](/azioni/base/intuire).

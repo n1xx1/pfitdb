@@ -1,8 +1,7 @@
 ---
-source: Guida del Giocatore, pag. TODO
+source: Guida del Giocatore, pag. 69
 original-name: Metodologies
 original-srd: https://2e.aonprd.com/Methodologies.aspx
-TODO: a lot
 ---
 
 # Metodologie
