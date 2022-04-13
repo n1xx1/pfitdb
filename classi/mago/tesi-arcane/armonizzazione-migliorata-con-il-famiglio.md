@@ -1,5 +1,5 @@
 ---
-source: Manuale di Gioco, pag. TODO
+source: Manuale di Gioco, pag. 169
 original-name: Improved Familiar Attunement
 original-srd: https://2e.aonprd.com/ArcaneThesis.aspx?ID=1
 ---
