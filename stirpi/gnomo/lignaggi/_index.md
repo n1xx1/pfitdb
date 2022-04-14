@@ -21,3 +21,5 @@ lignaggi gnomeschi.
 {{< include "/stirpi/gnomo/lignaggi/umbratile" >}}
 
 {{< include "/stirpi/gnomo/lignaggi/vivace" >}}
+
+{{< include "/stirpi/lignaggi-versatili/lignaggi" true >}}

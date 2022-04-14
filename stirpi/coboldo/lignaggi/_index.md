@@ -18,3 +18,5 @@ una minuta tenacia. Al 1° livello scegli uno dei seguenti lignaggi dei coboldi.
 {{< include "/stirpi/coboldo/lignaggi/scaglie-di-drago" >}}
 
 {{< include "/stirpi/coboldo/lignaggi/scaglie-magiche" >}}
+
+{{< include "/stirpi/lignaggi-versatili/lignaggi" true >}}

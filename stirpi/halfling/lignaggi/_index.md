@@ -19,3 +19,5 @@ antenati. Al 1° livello scegli uno dei seguenti lignaggi halfling.
 {{< include "/stirpi/halfling/lignaggi/selvatico" >}}
 
 {{< include "/stirpi/halfling/lignaggi/vagabondo" >}}
+
+{{< include "/stirpi/lignaggi-versatili/lignaggi" true >}}

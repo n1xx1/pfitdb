@@ -15,8 +15,10 @@ una stirpe. Al 1° livello scegli uno dei seguenti lignaggi umani.
 
 {{< include "/stirpi/umano/lignaggi/versatile" >}}
 
-## Lignaggi Mezzumani
+# Lignaggi Mezzumani
 
 {{< include "/stirpi/umano/lignaggi/mezzelfo" >}}
 
 {{< include "/stirpi/umano/lignaggi/mezzorco" >}}
+
+{{< include "/stirpi/lignaggi-versatili/lignaggi" true >}}

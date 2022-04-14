@@ -22,3 +22,5 @@ periodi estesi. Al 1 ° livello scegli uno dei seguenti lignaggi elfici.
 {{< include "/stirpi/elfo/lignaggi/silvano" >}}
 
 {{< include "/stirpi/elfo/lignaggi/veggente" >}}
+
+{{< include "/stirpi/lignaggi-versatili/lignaggi" true >}}

@@ -19,3 +19,5 @@ pericolosi. Al 1 ° livello scegli uno dei seguenti lignaggi goblin.
 {{< include "/stirpi/goblin/lignaggi/indistruttibile" >}}
 
 {{< include "/stirpi/goblin/lignaggi/stomaco-di-ferro" >}}
+
+{{< include "/stirpi/lignaggi-versatili/lignaggi" true >}}

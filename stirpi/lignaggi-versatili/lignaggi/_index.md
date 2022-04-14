@@ -2,7 +2,7 @@
 source: Guida del Giocatore, pag. 28
 original-name: Versatile Heritages
 original-srd: https://2e.aonprd.com/Ancestries.aspx?Versatile=true
-navigation-order: 50
+navigation-hide: true
 ---
 
 # Lignaggi Versatili
@@ -19,14 +19,12 @@ presenti in molte stirpi._
 
 [Regole complete sui Lignaggi Versatili](/regole/guida-del-giocatore/1-stirpi-e-background/lignaggi-versatili)
 
-## Lignaggi Versatili Non Comuni
+{{< include "/stirpi/lignaggi-versatili/lignaggi/aasimar" >}}
 
-### [Aasimar](/stirpi/lignaggi-versatili/aasimar)
+{{< include "/stirpi/lignaggi-versatili/lignaggi/changeling" >}}
 
-### [Changeling](/stirpi/lignaggi-versatili/changeling)
+{{< include "/stirpi/lignaggi-versatili/lignaggi/dhampir" >}}
 
-### [Dhampir](/stirpi/lignaggi-versatili/dhampir)
+{{< include "/stirpi/lignaggi-versatili/lignaggi/tiefling" >}}
 
-### [Tiefling](/stirpi/lignaggi-versatili/tiefling)
-
-### [Viandante Crepuscolare](/stirpi/lignaggi-versatili/viandante-crepuscolare)
+{{< include "/stirpi/lignaggi-versatili/lignaggi/viandante-crepuscolare" >}}
