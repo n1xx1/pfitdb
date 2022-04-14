@@ -14,8 +14,8 @@ nei tiri salvezza su Tempra. Acquisisci il talento generico
 [Parare con lo Scudo](/talenti/generici/parare-con-lo-scudo), una reazione che
 riduce i danni sfruttando lo scudo. Se la tua divinità predilige un'arma
 semplice, acquisisci il talento da chierico
-[Semplicità Letale](/talenti/chiarico/semplicita-letale). Al 13° livello, se
-acquisisci il privilegio di classe difesa divina, raggiungi anche il grado
+[Semplicità Letale](/classi/chierico/talenti/semplicita-letale). Al 13° livello,
+se acquisisci il privilegio di classe difesa divina, raggiungi anche il grado
 esperto con armature leggere e medie.
 
 **Seconda Dottrina (3°):** Sei addestrato con le armi da guerra.

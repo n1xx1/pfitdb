@@ -8,12 +8,13 @@ original-srd: https://2e.aonprd.com/Feats.aspx?ID=167
 # Colpo Terrificante - Talento 14
 
 **Prerequisiti**
-[Respingere gli Avversari](/talenti/barbaro/respingere-gli-avversari)
+[Respingere gli Avversari](/classi/barbaro/talenti/respingere-gli-avversari)
 
 ---
 
 I tuoi attacchi sono così potenti da schiantare a terra i nemici. Quando
-utilizzi [Respingere gli Avversari](/talenti/barbaro/respingere-gli-avversari),
+utilizzi
+[Respingere gli Avversari](/classi/barbaro/talenti/respingere-gli-avversari),
 puoi effettuare una prova di [Atletica](/abilita/atletica) contro la CD di
 Tempra del bersaglio.
 
@@ -26,4 +27,4 @@ di un successo critico nell'azione [Sbilanciare](/azioni/abilita/sbilanciare).
 nell'azione [Sbilanciare](/azioni/abilita/sbilanciare).
 
 **Fallimento** Ottieni l'effetto normale di
-[Respingere gli Avversari](/talenti/barbaro/respingere-gli-avversari).
+[Respingere gli Avversari](/classi/barbaro/talenti/respingere-gli-avversari).

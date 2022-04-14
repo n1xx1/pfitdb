@@ -40,6 +40,6 @@ terra o subire danni mentali (a sua scelta). Queste creature subiscono solo il
 minimo dei danni (in genere 3 al 11°, 4 al 12°, 5 al 16° e 6 al 19°), e gli
 effetti che subiscono non possono essere modificati da nulla che cambi il tuo
 Pugno di Ferro. Per esempio, il talento
-[Ripercussioni di Ferro](/talenti/campione/ripercussioni-di-ferro) non potrebbe
-trasformare il danno in danno mentale persistente per una creatura diversa da
-quella innescante.
+[Ripercussioni di Ferro](/classi/campione/talenti/ripercussioni-di-ferro) non
+potrebbe trasformare il danno in danno mentale persistente per una creatura
+diversa da quella innescante.

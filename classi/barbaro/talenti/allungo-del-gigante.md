@@ -17,4 +17,4 @@ normale portata. Finché sei infuriato, tutti i tuoi attacchi con armi da mischi
 e senz'armi acquisiscono portata 3 metri. Questo non incrementa la portata di
 attacchi con armi o attacchi senz'armi già connotati dal tratto portata, ma si
 combina con capacità che aumentano la portata grazie a incrementi di taglia,
-come [Statura del Gigante](/talenti/barbaro/statura-del-gigante).
+come [Statura del Gigante](/classi/barbaro/talenti/statura-del-gigante).

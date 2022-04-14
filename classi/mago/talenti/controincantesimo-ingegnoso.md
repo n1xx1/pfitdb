@@ -7,7 +7,7 @@ original-srd: https://2e.aonprd.com/Feats.aspx?ID=653
 
 # Controincantesimo Ingegnoso - Talento 12
 
-**Prerequisiti** [Controincantesimo](/talenti/mago/controincantesimo),
+**Prerequisiti** [Controincantesimo](/classi/mago/talenti/controincantesimo),
 [Riconoscimento Rapido](/talenti/generici/riconoscimento-rapido)
 
 ---

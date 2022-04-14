@@ -8,7 +8,7 @@ original-srd: https://2e.aonprd.com/Feats.aspx?ID=649
 # Versatilità Universale - Talento 8
 
 **Prerequisiti** mago universale,
-[Mano dell'Apprendista](/talenti/mago/mano-dell-apprendista)
+[Mano dell'Apprendista](/classi/mago/talenti/mano-dell-apprendista)
 
 ---
 

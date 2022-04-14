@@ -11,7 +11,7 @@ ragionamento induttivo ti permette di determinare il risultato più probabile di
 qualsiasi scenario, e qualsiasi cosa fuori posto attira la tua attenzione.
 
 Sei addestrato in un'abilità basata sull'Intelligenza a tua scelta. Ottieni il
-talento da investigatore [Curioso...](/talenti/investigatore/curioso...) e
-l'azione gratuita [Ispezione Rapida](/azioni/classe/ispezione-rapida).
+talento da investigatore [Curioso...](/classi/investigatore/talenti/curioso...)
+e l'azione gratuita [Ispezione Rapida](/azioni/classe/ispezione-rapida).
 
 {{< include "/azioni/classe/ispezione-rapida" >}}

@@ -431,7 +431,7 @@ ottieni altri incantesimi di 10° livello avanzando di livello, e non possono
 essere utilizzati con capacità che permettano di lanciare incantesimi senza
 consumare slot o conferiscano ulteriori slot incantesimo. Puoi ottenere un
 secondo slot acquisendo il talento da stregone
-[Perfezione della Linea di Sangue](/talenti/stregone/perfezione-della-linee-di-sangue).
+[Perfezione della Linea di Sangue](/classi/stregone/talenti/perfezione-della-linee-di-sangue).
 
 ### Incantatore Leggendario - 19°
 

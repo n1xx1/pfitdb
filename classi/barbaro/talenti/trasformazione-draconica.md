@@ -10,7 +10,7 @@ original-srd: https://2e.aonprd.com/Feats.aspx?ID=172
 
 **Prerequisiti**:
 [istinto draconico](/classi/barbaro/istinti/istinto-draconico),
-[Ali della Furia Draconica](/talenti/barbaro/ali-della-furia-draconica)
+[Ali della Furia Draconica](/classi/barbaro/talenti/ali-della-furia-draconica)
 
 ---
 

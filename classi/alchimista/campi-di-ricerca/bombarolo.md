@@ -38,7 +38,7 @@ Le versioni moderate delle bombe scelte per infusioni perpetue.
 
 Incrementi l'area di spargimento delle tue bombe fino a danneggiare i nemici
 entro 3 metri, o entro 4,5 metri se possiedi
-[Spargimento Ampliato](/talenti/alchimista/spargimento-ampliato).
+[Spargimento Ampliato](/classi/alchimista/talenti/spargimento-ampliato).
 
 ## Perfezione Perpetua - 17°
 

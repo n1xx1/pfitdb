@@ -7,13 +7,13 @@ original-srd: https://2e.aonprd.com/Feats.aspx?ID=169
 
 # Colpo Vendicativo :R: - Talento 14
 
-**Prerequisiti** [Vieni a Prendermi](/talenti/barbaro/vieni-a-prendermi)
+**Prerequisiti** [Vieni a Prendermi](/classi/barbaro/talenti/vieni-a-prendermi)
 
 **Innesco** Una creatura entro la tua portata ti attacca ottenendo un successo o
 successo critico.
 
 **Requisiti** Sei sotto l'effetto di
-[Vieni a Prendermi](/talenti/barbaro/vieni-a-prendermi).
+[Vieni a Prendermi](/classi/barbaro/talenti/vieni-a-prendermi).
 
 ---
 

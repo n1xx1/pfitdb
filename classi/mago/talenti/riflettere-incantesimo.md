@@ -7,12 +7,12 @@ original-srd: https://2e.aonprd.com/Feats.aspx?ID=624
 
 # Riflettere Incantesimo - Talento 14
 
-**Prerequisiti** [Controincantesimo](/talenti/mago/controincantesimo)
+**Prerequisiti** [Controincantesimo](/classi/mago/talenti/controincantesimo)
 
 ---
 
 Quando utilizzi con successo
-[Controincantesimo](/talenti/mago/controincantesimo) per contrastare un
+[Controincantesimo](/classi/mago/talenti/controincantesimo) per contrastare un
 incantesimo che influenza creature specifiche o un'area, puoi respingere
 l'effetto di quell'incantesimo contro chi lo ha lanciato. Quando viene riflesso,
 l'incantesimo influenza solo l'incantatore originario anche se si tratta di un

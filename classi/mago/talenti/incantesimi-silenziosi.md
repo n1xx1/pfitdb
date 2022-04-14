@@ -7,7 +7,7 @@ original-srd: https://2e.aonprd.com/Feats.aspx?ID=644
 
 # Incantesimi Silenziosi :1: - Talento 4
 
-**Prerequisiti** [Incantesimi Celati](/talenti/mago/incantesimi-celati)
+**Prerequisiti** [Incantesimi Celati](/classi/mago/talenti/incantesimi-celati)
 
 ---
 
@@ -19,5 +19,6 @@ permette di lanciarlo in aree in cui il suono non si trasmette. Tuttavia,
 l'incantesimo conserva le sue manifestazioni visive, che lo rendono comunque
 evidente per chiunque ti veda lanciarlo. Quando utilizzi Incantesimi Silenziosi,
 puoi scegliere di ottenere i benefici di
-[Incantesimi Celati](/talenti/mago/incantesimi-celati) senza dover effettuare
-una prova di Inganno, perché l'incantesimo è privo di componenti verbali.
+[Incantesimi Celati](/classi/mago/talenti/incantesimi-celati) senza dover
+effettuare una prova di Inganno, perché l'incantesimo è privo di componenti
+verbali.

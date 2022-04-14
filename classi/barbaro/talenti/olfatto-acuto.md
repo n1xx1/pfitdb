@@ -7,7 +7,8 @@ original-srd: https://2e.aonprd.com/Feats.aspx?ID=135
 
 # Olfatto Acuto - Talento 2
 
-**Prerequisiti** [Vista Acuta](/talenti/barbaro/vista-acuta) o scurovisione
+**Prerequisiti** [Vista Acuta](/classi/barbaro/talenti/vista-acuta) o
+scurovisione
 
 ---
 

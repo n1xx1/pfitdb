@@ -16,4 +16,5 @@ e uno è un aumento di caratteristica libero.
 
 Sei addestrato nell'abilità [Intimidazione](/abilita/intimidazione) e
 nell'abilità [Sapienza](/abilita/sapienza) Legale o Sapienza Militare. Ottieni
-il talento di abilità [Coercizione Rapida](/talenti/coercizione-rapida).
+il talento di abilità
+[Coercizione Rapida](/talenti/generici/coercizione-rapida).

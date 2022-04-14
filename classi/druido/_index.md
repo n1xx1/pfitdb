@@ -265,11 +265,11 @@ hanno più occasioni di ottenere i poteri di diversi ordini.
 
 Gli incantesimi dell'ordine sono un tipo specifico di incantesimo focalizzato.
 Lanciarne uno costa 1 Punto Focalizzazione, e inizi con una riserva di
-focalizzazione di 1 punto. Ripristini tale riserva durante i Preparativi
-Giornalieri, ma puoi recuperare 1 Punto Focalizzazione effettuando per 10 minuti
-l'attività Rifocalizzare per comunicare con gli spiriti naturali intorno a te o
-prenderti cura altrimenti delle terre selvagge, ottemperando ai precetti del tuo
-ordine.
+focalizzazione di 1 punto. Ripristini tale riserva durante i preparativi
+giornalieri, ma puoi recuperare 1 Punto Focalizzazione effettuando per 10 minuti
+l'attività [Rifocalizzare](/azioni/speciale/rifocalizzare) per comunicare con
+gli spiriti naturali intorno a te o prenderti cura altrimenti delle terre
+selvagge, ottemperando ai precetti del tuo ordine.
 
 Gli incantesimi focalizzati vengono automaticamente intensificati alla metà del
 tuo livello, arrotondata per eccesso, come i trucchetti. Non richiedono slot
@@ -277,12 +277,7 @@ incantesimo, né puoi lanciarli utilizzando questi ultimi. Alcuni talenti da
 druido possono conferirti altri incantesimi focalizzati e accrescere la tua
 riserva, sebbene questa non possa mai contenere più di 3 Punti Focalizzazione.
 
-Gli ordini possono essere trovati qua:
-
-- [Animale](/classi/druido/ordini/animale)
-- [Foglia](/classi/druido/ordini/foglia)
-- [Tempesta](/classi/druido/ordini/tempesta)
-- [Selvaggio](/classi/druido/ordini/selvaggio)
+Gli ordini possono essere trovati [qua](/classi/druido/ordini).
 
 ### Parare con lo Scudo
 
@@ -395,8 +390,8 @@ con capacità che permettano di lanciare incantesimi senza consumare slot o
 conferiscano ulteriori slot incantesimo. A differenza degli altri slot
 incantesimo, avanzando di livello non ottieni altri slot di 10° livello, ma puoi
 selezionare il talento
-[Potere dello Ierofante](/talenti/druido/potere-dello-ierofante) che conferisce
-un secondo slot.
+[Potere dello Ierofante](/classi/druido/talenti/potere-dello-ierofante) che
+conferisce un secondo slot.
 
 ### Incantatore Leggendario - 19°
 

@@ -9,12 +9,12 @@ original-srd: https://2e.aonprd.com/Feats.aspx?ID=166
 
 **Prerequisiti**
 [istinto del gigante](/classi/barbaro/istinti/istinto-del-gigante),
-[Statura del Gigante](/talenti/barbaro/statura-del-gigante)
+[Statura del Gigante](/classi/barbaro/talenti/statura-del-gigante)
 
 ---
 
 Diventi ancora più grosso. Quando utilizzi
-[Statura del Gigante](/talenti/barbaro/statura-del-gigante), puoi diventare
-Enorme (aumentando la tua portata a 3 metri se eri Medio o più piccolo) mentre
-sei infuriato. Subisci la condizione [maldestro](/condizioni/maldestro) 1 finché
-sei Enorme.
+[Statura del Gigante](/classi/barbaro/talenti/statura-del-gigante), puoi
+diventare Enorme (aumentando la tua portata a 3 metri se eri Medio o più
+piccolo) mentre sei infuriato. Subisci la condizione
+[maldestro](/condizioni/maldestro) 1 finché sei Enorme.
