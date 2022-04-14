@@ -1,3 +1,4 @@
 ## **Incubo**
 
-*(Fonte: Bestiario, pag. 211)* Gli incubi sono fiammeggianti equini forieri di morte.
+_(Fonte: Bestiario, pag. 211)_ Gli incubi sono fiammeggianti equini forieri di
+morte.
