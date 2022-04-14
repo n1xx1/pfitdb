@@ -21,4 +21,4 @@ una stirpe. Al 1° livello scegli uno dei seguenti lignaggi umani.
 
 {{< include "/stirpi/umano/lignaggi/mezzorco" >}}
 
-{{< include "/stirpi/lignaggi-versatili/lignaggi" true >}}
+{{< include page="/stirpi/lignaggi-versatili/lignaggi" level=0 >}}

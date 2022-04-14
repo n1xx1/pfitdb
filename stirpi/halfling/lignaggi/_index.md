@@ -20,4 +20,4 @@ antenati. Al 1° livello scegli uno dei seguenti lignaggi halfling.
 
 {{< include "/stirpi/halfling/lignaggi/vagabondo" >}}
 
-{{< include "/stirpi/lignaggi-versatili/lignaggi" true >}}
+{{< include page="/stirpi/lignaggi-versatili/lignaggi" level=0 >}}

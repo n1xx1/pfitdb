@@ -20,4 +20,4 @@ pericolosi. Al 1 ° livello scegli uno dei seguenti lignaggi goblin.
 
 {{< include "/stirpi/goblin/lignaggi/stomaco-di-ferro" >}}
 
-{{< include "/stirpi/lignaggi-versatili/lignaggi" true >}}
+{{< include page="/stirpi/lignaggi-versatili/lignaggi" level=0 >}}

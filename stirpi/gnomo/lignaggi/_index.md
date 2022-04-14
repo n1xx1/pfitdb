@@ -22,4 +22,4 @@ lignaggi gnomeschi.
 
 {{< include "/stirpi/gnomo/lignaggi/vivace" >}}
 
-{{< include "/stirpi/lignaggi-versatili/lignaggi" true >}}
+{{< include page="/stirpi/lignaggi-versatili/lignaggi" level=0 >}}

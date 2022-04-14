@@ -20,4 +20,4 @@ dei seguenti lignaggi nanici.
 
 {{< include "/stirpi/nano/lignaggi/guardiano-della-morte" >}}
 
-{{< include "/stirpi/lignaggi-versatili/lignaggi" true >}}
+{{< include page="/stirpi/lignaggi-versatili/lignaggi" level=0 >}}
