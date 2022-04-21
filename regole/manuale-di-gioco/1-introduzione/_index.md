@@ -2,7 +2,6 @@
 source: Manuale di Gioco, pag. 7
 original-name: "Chapter 1: Introduction"
 original-srd: https://2e.aonprd.com/Rules.aspx?ID=1
-TODO: vuoto
 ---
 
 # Capitolo 1: Introduzione
