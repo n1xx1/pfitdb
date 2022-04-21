@@ -1,5 +1,5 @@
 ---
-family: dàimon
+family: daimon
 traits: [nm, minuscola, daimon, nefando]
 source: Bestiario, pag. 72
 original-name: TODO
