@@ -21,7 +21,7 @@ del bene, segui anche questi precetti:
 
 ## Reazione del Campione
 
-{{< include "/azioni/classe/passo-del-liberatore" >}}
+{/* {{< include "/azioni/classe/passo-del-liberatore" >}} */}
 
 ## Punizione Divina
 

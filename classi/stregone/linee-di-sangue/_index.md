@@ -59,22 +59,22 @@ quando lo lanci devi designare te stesso o un bersaglio nell'area come bersaglio
 dell'effetto di magia del sangue. Quando si fa riferimento al livello
 dell'incantesimo, si intende il livello dell'incantesimo che lanci.
 
-{{< include "/classi/stregone/linee-di-sangue/aberrante" >}}
+{/* {{< include "/classi/stregone/linee-di-sangue/aberrante" >}} */}
 
-{{< include "/classi/stregone/linee-di-sangue/angelica" >}}
+{/* {{< include "/classi/stregone/linee-di-sangue/angelica" >}} */}
 
-{{< include "/classi/stregone/linee-di-sangue/demoniaca" >}}
+{/* {{< include "/classi/stregone/linee-di-sangue/demoniaca" >}} */}
 
-{{< include "/classi/stregone/linee-di-sangue/diabolica" >}}
+{/* {{< include "/classi/stregone/linee-di-sangue/diabolica" >}} */}
 
-{{< include "/classi/stregone/linee-di-sangue/draconica" >}}
+{/* {{< include "/classi/stregone/linee-di-sangue/draconica" >}} */}
 
-{{< include "/classi/stregone/linee-di-sangue/elementale" >}}
+{/* {{< include "/classi/stregone/linee-di-sangue/elementale" >}} */}
 
-{{< include "/classi/stregone/linee-di-sangue/fatata" >}}
+{/* {{< include "/classi/stregone/linee-di-sangue/fatata" >}} */}
 
-{{< include "/classi/stregone/linee-di-sangue/imperiale" >}}
+{/* {{< include "/classi/stregone/linee-di-sangue/imperiale" >}} */}
 
-{{< include "/classi/stregone/linee-di-sangue/megera" >}}
+{/* {{< include "/classi/stregone/linee-di-sangue/megera" >}} */}
 
-{{< include "/classi/stregone/linee-di-sangue/non-morta" >}}
+{/* {{< include "/classi/stregone/linee-di-sangue/non-morta" >}} */}

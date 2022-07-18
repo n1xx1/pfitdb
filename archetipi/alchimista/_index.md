@@ -36,4 +36,4 @@ combinazioni possibili.
   concedere scurovisione può preparare un incantesimo diverso rispetto a
   scurovisione.
 
-{{< includeAll page="/archetipi/alchimista/talenti" sorter="level" space=true >}}
+{/* {{< includeAll page="/archetipi/alchimista/talenti" sorter="level" space=true >}} */}

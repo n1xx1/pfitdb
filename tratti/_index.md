@@ -13,76 +13,76 @@ elemento del gioco. Spesso, i tratti servono a indicare come altre regole
 interagiscono con una capacita, una creatura, un oggetto, o un altro elemento di
 regole che ha quel tratto.
 
-{{< traitList "generic" >}}
+{/* {{< traitList "generic" >}} */}
 
 ## Tratti Allineamento
 
-{{< traitList "alignment" >}}
+{/* {{< traitList "alignment" >}} */}
 
 ## Tratti Armatura
 
-{{< traitList "armor" >}}
+{/* {{< traitList "armor" >}} */}
 
 ## Tratti Armi
 
-{{< traitList "weapon" >}}
+{/* {{< traitList "weapon" >}} */}
 
 ## Tratti Classe
 
-{{< traitList "class" >}}
+{/* {{< traitList "class" >}} */}
 
 ## Tratti Classe Specifici
 
-{{< traitList "class-specific" >}}
+{/* {{< traitList "class-specific" >}} */}
 
 ## Tratti Elementali
 
-{{< traitList "elemental" >}}
+{/* {{< traitList "elemental" >}} */}
 
 ## Tratti Energia
 
-{{< traitList "energy" >}}
+{/* {{< traitList "energy" >}} */}
 
 ## Tratti Equipaggiamento
 
-{{< traitList "equipment" >}}
+{/* {{< traitList "equipment" >}} */}
 
 ## Tratti Mostro
 
-{{< traitList "monster" >}}
+{/* {{< traitList "monster" >}} */}
 
 ## Tratti Piani
 
-{{< traitList "plane" >}}
+{/* {{< traitList "plane" >}} */}
 
 ## Tratti Rarità
 
-{{< traitList "rarity" >}}
+{/* {{< traitList "rarity" >}} */}
 
 ## Tratti Scuola
 
-{{< traitList "school" >}}
+{/* {{< traitList "school" >}} */}
 
 ## Tratti Sensi
 
-{{< traitList "sense" >}}
+{/* {{< traitList "sense" >}} */}
 
 ## Tratti Stirpe
 
-{{< traitList "ancestry" >}}
+{/* {{< traitList "ancestry" >}} */}
 
 ## Tratti Tipi Creature
 
-{{< traitList "creature-type" >}}
+{/* {{< traitList "creature-type" >}} */}
 
 ## Tratti Tradizioni
 
-{{< traitList "tradition" >}}
+{/* {{< traitList "tradition" >}} */}
 
 ## Tratti Trappole
 
-{{< traitList "hazard" >}}
+{/* {{< traitList "hazard" >}} */}
 
 ## Tratti Veleno
 
-{{< traitList "poison" >}}
+{/* {{< traitList "poison" >}} */}

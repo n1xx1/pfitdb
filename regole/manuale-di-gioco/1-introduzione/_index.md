@@ -19,20 +19,22 @@ potrebbero condurre i personaggi all'interno di rovine abbandonate sommerse tra
 le acque, cripte gotiche infestate dai fantasmi e città nella giungla che
 ospitano scuole di magia. Un mondo pieno di avventure vi attende!
 
-{{< include "/regole/manuale-di-gioco/1-introduzione/che-cos-e-un-gioco-di-ruolo" >}}
+import { External } from ".contentlayer/generated/regole__manuale-di-gioco__1-introduzione__che-cos-e-un-gioco-di-ruolo.md.json";
 
-{{< include "/regole/manuale-di-gioco/1-introduzione/le-basi-del-gioco" >}}
+{/* {{< include "/regole/manuale-di-gioco/1-introduzione/che-cos-e-un-gioco-di-ruolo" >}} */}
 
-{{< include "/regole/manuale-di-gioco/1-introduzione/giocare" >}}
+{/* {{< include "/regole/manuale-di-gioco/1-introduzione/le-basi-del-gioco" >}} */}
 
-{{< include "/regole/manuale-di-gioco/1-introduzione/esempio-di-gioco" >}}
+{/* {{< include "/regole/manuale-di-gioco/1-introduzione/giocare" >}} */}
 
-{{< include "/regole/manuale-di-gioco/1-introduzione/come-usare-questo-libro" >}}
+{/* {{< include "/regole/manuale-di-gioco/1-introduzione/esempio-di-gioco" >}} */}
 
-{{< include "/regole/manuale-di-gioco/1-introduzione/formato-degli-elementi-delle-regole" >}}
+{/* {{< include "/regole/manuale-di-gioco/1-introduzione/come-usare-questo-libro" >}} */}
 
-{{< include "/regole/manuale-di-gioco/1-introduzione/creare-un-personaggio" >}}
+{/* {{< include "/regole/manuale-di-gioco/1-introduzione/formato-degli-elementi-delle-regole" >}} */}
 
-{{< include "/regole/manuale-di-gioco/1-introduzione/esempio-di-personaggio" >}}
+{/* {{< include "/regole/manuale-di-gioco/1-introduzione/creare-un-personaggio" >}} */}
 
-{{< include "/regole/manuale-di-gioco/1-introduzione/avanzare-di-livello" >}}
+{/* {{< include "/regole/manuale-di-gioco/1-introduzione/esempio-di-personaggio" >}} */}
+
+{/* {{< include "/regole/manuale-di-gioco/1-introduzione/avanzare-di-livello" >}} */}

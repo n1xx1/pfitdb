@@ -11,4 +11,4 @@ navigation-disable: true
 A ogni livello in cui ottieni un talento da druido, puoi sceglierne uno tra i
 seguenti. Devi soddisfare tutti i prerequisiti prima di selezionare il talento.
 
-{{< featTable "/classi/druido/talenti" >}}
+{/* {{< featTable "/classi/druido/talenti" >}} */}

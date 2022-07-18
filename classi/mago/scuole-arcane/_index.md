@@ -28,20 +28,20 @@ lanciarli utilizzando questi ultimi. Alcuni talenti possono conferirti altri
 incantesimi focalizzati e accrescere la tua riserva, sebbene questa non possa
 mai contenere più di 3 Punti Focalizzazione.
 
-{{< include "/classi/mago/scuole-arcane/abiurazione" >}}
+{/* {{< include "/classi/mago/scuole-arcane/abiurazione" >}} */}
 
-{{< include "/classi/mago/scuole-arcane/ammaliamento" >}}
+{/* {{< include "/classi/mago/scuole-arcane/ammaliamento" >}} */}
 
-{{< include "/classi/mago/scuole-arcane/divinazione" >}}
+{/* {{< include "/classi/mago/scuole-arcane/divinazione" >}} */}
 
-{{< include "/classi/mago/scuole-arcane/evocazione" >}}
+{/* {{< include "/classi/mago/scuole-arcane/evocazione" >}} */}
 
-{{< include "/classi/mago/scuole-arcane/illusione" >}}
+{/* {{< include "/classi/mago/scuole-arcane/illusione" >}} */}
 
-{{< include "/classi/mago/scuole-arcane/invocazione" >}}
+{/* {{< include "/classi/mago/scuole-arcane/invocazione" >}} */}
 
-{{< include "/classi/mago/scuole-arcane/necromanzia" >}}
+{/* {{< include "/classi/mago/scuole-arcane/necromanzia" >}} */}
 
-{{< include "/classi/mago/scuole-arcane/trasmutazione" >}}
+{/* {{< include "/classi/mago/scuole-arcane/trasmutazione" >}} */}
 
-{{< include "/classi/mago/scuole-arcane/universale" >}}
+{/* {{< include "/classi/mago/scuole-arcane/universale" >}} */}

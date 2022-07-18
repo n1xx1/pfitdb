@@ -14,6 +14,6 @@ delle quali conferisce benefici iniziali al 1° livello. Al 3°, 7°, 11°, 15°
 19° livello ottieni i benefici concessi rispettivamente dalla seconda dottrina,
 dalla terza, dalla quarta, dalla quinta e dalla dottrina finale.
 
-{{< include "/classi/chierico/dottrine/ecclesiastico" >}}
+{/* {{< include "/classi/chierico/dottrine/ecclesiastico" >}} */}
 
-{{< include "/classi/chierico/dottrine/soldato-della-fede" >}}
+{/* {{< include "/classi/chierico/dottrine/soldato-della-fede" >}} */}

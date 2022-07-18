@@ -26,4 +26,4 @@ delle abilità:
 - **[Imparare un Incantesimo](/azioni/abilita/imparare-un-incantesimo)** della
   tradizione arcana.
 
-{{< include "/azioni/abilita/attingere-incantesimo-arcano" >}}
+{/* {{< include "/azioni/abilita/attingere-incantesimo-arcano" >}} */}

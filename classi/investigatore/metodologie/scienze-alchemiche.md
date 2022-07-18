@@ -27,4 +27,4 @@ strumenti) pari al tuo modificatore di Intelligenza. Puoi usare l'azione
 [Tintura Rapida](/azioni/classe/tintura-rapida) per trasformare una di queste
 fiale in un elisir o strumento alchemico di cui conosci la formula.
 
-{{< include "/azioni/classe/tintura-rapida" >}}
+{/* {{< include "/azioni/classe/tintura-rapida" >}} */}

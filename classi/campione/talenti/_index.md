@@ -11,4 +11,4 @@ navigation-disable: true
 A ogni livello in cui ottieni un talento da campione, puoi sceglierne uno tra i
 seguenti. Devi soddisfare tutti i prerequisiti prima di selezionare il talento.
 
-{{< featTable "/classi/campione/talenti" >}}
+{/* {{< featTable "/classi/campione/talenti" >}} */}

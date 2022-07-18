@@ -12,10 +12,10 @@ accademico presso un istituto scientifico, ti tieni in contatto con altri
 ricercatori nel tuo campo o sei un genio solitario. Scegli un campo di ricerca.
 I campi di ricerca da tutti i manuali sono riportati di seguito.
 
-{{< include "/classi/alchimista/campi-di-ricerca/bombarolo" >}}
+{/* {{< include "/classi/alchimista/campi-di-ricerca/bombarolo" >}} */}
 
-{{< include "/classi/alchimista/campi-di-ricerca/cerusico" >}}
+{/* {{< include "/classi/alchimista/campi-di-ricerca/cerusico" >}} */}
 
-{{< include "/classi/alchimista/campi-di-ricerca/mutagenista" >}}
+{/* {{< include "/classi/alchimista/campi-di-ricerca/mutagenista" >}} */}
 
-{{< include "/classi/alchimista/campi-di-ricerca/tossicologo" >}}
+{/* {{< include "/classi/alchimista/campi-di-ricerca/tossicologo" >}} */}

@@ -34,8 +34,8 @@ Questo capitolo è divisa in tre parti:
 - Le **lingue**, consentono al tuo personaggio di comunicare con popoli e
   creature bizzarri e straordinari, sparsi per tutto il mondo.
 
-{{< include "/regole/manuale-di-gioco/2-2-stirpi-e-background/voci-delle-stirpi" >}}
+{/* {{< include "/regole/manuale-di-gioco/2-2-stirpi-e-background/voci-delle-stirpi" >}} */}
 
-{{< include "/regole/manuale-di-gioco/2-2-stirpi-e-background/background" >}}
+{/* {{< include "/regole/manuale-di-gioco/2-2-stirpi-e-background/background" >}} */}
 
-{{< include "/regole/manuale-di-gioco/2-2-stirpi-e-background/lingue" >}}
+{/* {{< include "/regole/manuale-di-gioco/2-2-stirpi-e-background/lingue" >}} */}

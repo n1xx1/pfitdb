@@ -17,4 +17,4 @@ che la capacità potrebbe influenzare.
 
 ---
 
-{{< includeAll page="/creature/capacita" space=true >}}
+{/* {{< includeAll page="/creature/capacita" space=true >}} */}
