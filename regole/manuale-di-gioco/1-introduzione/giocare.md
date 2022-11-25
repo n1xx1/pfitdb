@@ -141,15 +141,23 @@ multipli** che comincia da -5 per il secondo attacco e aumenta a -10 per il
 terzo attacco. Ci sono diversi modi per ridurre questa penalità, che si azzera
 alla fine del tuo turno.
 
-Se il tuo personaggio è il bersaglio di un _fulmine magico_ o del soffio di
-ghiaccio di un temibile drago bianco, ti verrà chiesto di effettuare un tiro
-salvezza, che rappresenta la sua abilita nell'evitare i pericoli e nel resistere
-a un'aggressione fisica o mentale. I tiri salvezza sono delle prove che si
-tentano contro la CD dell'incantesimo o capacita speciale che prende come
-bersaglio il tuo personaggio. Ci sono tre tipi di tiri salvezza, e il tuo grado
-di competenza in ciascuno di essi influenza ciò a cui sei in grado di resistere.
+Se il tuo personaggio è il bersaglio di un _[fulmine](/incantesimi/fulmine)_
+magico o del soffio di ghiaccio di un temibile drago bianco, ti verrà chiesto di
+effettuare un **tiro salvezza**, che rappresenta la sua abilita nell'evitare i
+pericoli e nel resistere a un'aggressione fisica o mentale. I tiri salvezza sono
+delle prove che si tentano contro la CD dell'incantesimo o capacita speciale che
+prende come bersaglio il tuo personaggio. Ci sono tre tipi di tiri salvezza, e
+il tuo grado di competenza in ciascuno di essi influenza ciò a cui sei in grado
+di resistere.
 
-TODO
+Effettui un tiro salvezza su **Tempra** quando un effetto bersaglia la salute o
+la vitalità del tuo personaggio, come nel caso di un veleno o di una malattia.
+Effettui un tiro salvezza su **Riflessi** quando devi schivare un pericolo che
+ha effetto su un'area particolarmente estesa, come l'esplosione generata da una
+_[palla di fuoco](/incantesimi/palla-di-fuoco)_. Infine, effettui un tiro
+salvezza su **Volontà** per difenderti da quegli effetti e incantesimi che
+bersagliano la mente, come _[charme](/incantesimi/charme)_ e
+_[confusione](/incantesimi/confusione)_.
 
 Di solito attacchi, incantesimi, pericoli e capacita speciali infliggono
 **danni** ai personaggi o impongono una o più **condizioni**, e talvolta
@@ -177,4 +185,35 @@ magici. I personaggi possono usare la pausa per riaddestrarsi in una scelta o
 nell'altra, quali che siano le loro priorità, Potrebbero compiere una ricerca,
 imparare nuovi incantesimi, avviare un'impresa o governare un regno!
 
-TODO Key Terms
+## Parole Chiave
+
+Quando crei il tuo primo personaggio, o quando ti appresti a scrivere la tua
+prima avventura, devi acquisire familiarità con alcune parole chiave. Alcuni dei
+termini menzionati nelle pagine precedenti sono riportati di seguito come
+riferimento.
+
+### Abilità
+
+Un'abilità rappresenta la capacita di una creatura di eseguire determinati
+compiti che richiedono istruzione o addestramento. Le abilità sono descritte nel
+Capitolo 4. Ciascuna abilità riporta i modi in cui puoi usarla anche se non sei
+addestrato in quella abilità, seguiti dagli usi che richiedono invece di essere
+addestrato nell'abilità stessa.
+
+### Allineamento
+
+L'allineamento rappresenta l'atteggiamento morale ed etico di una creatura.
+
+### Attacco
+
+Quando una creatura tenta di arrecare danno a un'altra creatura, sferra un Colpo
+o utilizza un'altra azione per attaccare. La maggior parte degli attacchi sono
+Colpi sferrati con un'arma, ma è possibile Colpire con un pugno, lottare e
+spingere con le proprie mani, o attaccare con un incantesimo.
+
+### Background
+
+Il background rappresenta le esperienze compiute dal personaggio prima di
+intraprendere la propria carriera da avventuriero. Ogni background ti concede un
+talento e conferisce addestramento in una o più abilità. Puoi scoprire di più
+consultando il Capitolo 2.

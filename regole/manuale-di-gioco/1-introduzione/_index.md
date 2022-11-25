@@ -10,7 +10,7 @@ _Pathfinder è un gioco di ruolo fantasy da tavolo (GdR), in cui tu e il tuo
 gruppo di amici vi incontrate per raccontare una storia di coraggiosi eroi e
 astuti nemici, in un mondo popolato da mostri terrificanti e tesori
 meravigliosi. Ma, cosa più importante, Pathfinder è un gioco in cui le azioni
-del tuo personaggio determinano lo svolgimento della storia_
+del tuo personaggio determinano lo svolgimento della storia._
 
 Le avventure di Pathfinder sono ambientate nell'Era dei Presagi Perduti, un
 pericoloso mondo fantastico che pullola di antichi imperi, enormi città stato,

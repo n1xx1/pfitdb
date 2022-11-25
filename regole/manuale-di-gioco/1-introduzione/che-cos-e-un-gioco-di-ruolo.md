@@ -8,7 +8,7 @@ original-srd: https://2e.aonprd.com/Rules.aspx?ID=2
 
 Un gioco di ruolo è un racconto interattivo in cui un giocatore, il Game Master
 (GM), prepara la scena e imbastisce delle sfide, mentre altri giocatori assumono
-il ruolo di Personaggi Giocanti (PG) e si impegnano a portare a termine le
+il ruolo di personaggi giocanti (PG) e si impegnano a portare a termine le
 sfide. Anche se prendono la forma di mostri, subdole trappole e macchinazioni di
 forze ostili, il gioco permette di creare sfide basate su complotti politici,
 soluzione di enigmi, vicissitudini interpersonali e altro ancora.

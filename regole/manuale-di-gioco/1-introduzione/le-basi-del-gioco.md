@@ -14,11 +14,13 @@ sono descritte nei collegamenti a fianco. Il Glossario ti aiuterà a trovarle.
 
 ## TODO
 
-TODO manca qualcosa
-
-I PG sono i protagonisti del gioco e la narrazione è incentrata su di loro,
-mentre i PNG e i mostri sono alleati, contatti, avversari e nemici. Detto ciò,
-PG, PNG e mostri condividono alcune caratteristiche.
+In Pathfinder, i giocatori assumono il ruolo di **personaggi giocanti (PG)**,
+mentre il Game Master interpreta i **personaggi non giocanti (PNG)** e i
+**mostri**. Entrambe le categorie sono importanti per la storie e svolgono ruoli
+differenti all'interno del gioco: i PG sono i protagonisti del gioco e la
+narrazione è incentrata su di loro, mentre i PNG e i mostri sono alleati,
+contatti, avversari e nemici. Detto ciò, PG, PNG e mostri condividono alcune
+caratteristiche.
 
 Il **livello** è una delle statistiche più importanti del gioco e serve a
 rappresentare il potere e le capacità di ogni creatura. Il livello dei PG varia
@@ -27,7 +29,7 @@ l'apice del potere. Quando i personaggi superano sfide, sconfiggono nemici e
 completano avventure, accumulano **Punti Esperienza (PE)**. Al raggiungimento di
 1.000 PE, salgono di livello e acquisiscono nuove capacita che gli permettono di
 affrontare sfide sempre più pericolose. Un PG di 1° livello potrebbe scontrarsi
-contro un Ratto Gigante o contro un gruppo di banditi, e un PG di 20°
+contro un ratto gigante o contro un gruppo di banditi, e un PG di 20°
 distruggere una città con un solo incantesimo.
 
 Oltre che dal livello, i personaggi sono caratterizzati dai **punteggi di
