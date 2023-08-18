@@ -1,6 +1,6 @@
 ---
 family: elementale-terra
-traits: [n, piccola, elementale, terra]
+traits: ["n", piccola, elementale, terra]
 source: Bestiario, pag. 152
 original-name: TODO
 original-srd: TODO
