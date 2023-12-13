@@ -38,4 +38,4 @@ seguenti.
 
 - **[Guadagnare](/azioni/abilita/guadagnare)** esibendoti.
 
-{{< include "/azioni/abilita/esibirsi" >}}
+{{% include "/azioni/abilita/esibirsi" %}}

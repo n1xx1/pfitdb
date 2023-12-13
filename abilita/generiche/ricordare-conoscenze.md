@@ -14,4 +14,4 @@ Potresti addirittura dover compiere delle ricerche prima. Se vuoi usare Medicina
 per determinare le cause di un decesso, per esempio, potresti dover effettuare
 un'autopsia prima di Ricordare Conoscenze.
 
-{{< include "/azioni/abilita/ricordare-conoscenze" >}}
+{{% include "/azioni/abilita/ricordare-conoscenze" %}}

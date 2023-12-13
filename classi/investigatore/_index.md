@@ -140,9 +140,9 @@ per acquisirle.
 In quanto investigatore, pensi alle tue avventure come a casi da risolvere.
 Ottieni un'attività e una reazione che puoi usare per indagare sui casi.
 
-{{< include "/azioni/classe/seguire-una-pista" >}}
+{{% include "/azioni/classe/seguire-una-pista" %}}
 
-{{< include "/azioni/classe/ragguagliare" >}}
+{{% include "/azioni/classe/ragguagliare" %}}
 
 ### Colpo Strategico
 
@@ -165,7 +165,7 @@ addestramento di base, indicate all'inizio della descrizione della classe.
 Puoi simulare una battaglia nella tua testa, usando il cervello piuttosto che i
 muscoli per eseguire un attacco.
 
-{{< include "/azioni/classe/ideare-uno-stratagemma" >}}
+{{% include "/azioni/classe/ideare-uno-stratagemma" %}}
 
 ### Metodologia
 

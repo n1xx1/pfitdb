@@ -10,14 +10,14 @@ Grazie alle lunghe genie familiari e alla loro fisiologia robusta, i nani vanno
 molto orgogliosi della loro tradizionale resilienza. Al 1° livello scegli uno
 dei seguenti lignaggi nanici.
 
-{{< include "/stirpi/nano/lignaggi/dal-sangue-antico" >}}
+{{% include "/stirpi/nano/lignaggi/dal-sangue-antico" %}}
 
-{{< include "/stirpi/nano/lignaggi/dal-sangue-vigoroso" >}}
+{{% include "/stirpi/nano/lignaggi/dal-sangue-vigoroso" %}}
 
-{{< include "/stirpi/nano/lignaggi/della-forgia" >}}
+{{% include "/stirpi/nano/lignaggi/della-forgia" %}}
 
-{{< include "/stirpi/nano/lignaggi/delle-rocce" >}}
+{{% include "/stirpi/nano/lignaggi/delle-rocce" %}}
 
-{{< include "/stirpi/nano/lignaggi/guardiano-della-morte" >}}
+{{% include "/stirpi/nano/lignaggi/guardiano-della-morte" %}}
 
-{{< include page="/stirpi/lignaggi-versatili/lignaggi" level=0 >}}
+{{% include page="/stirpi/lignaggi-versatili/lignaggi" level=0 %}}

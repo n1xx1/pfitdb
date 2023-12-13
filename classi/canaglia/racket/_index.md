@@ -15,12 +15,12 @@ specializzata in un diverso racket, per compiere una rapina particolarmente
 complessa, cosi da poter affrontare qualsiasi evenienza. Scegli un racket della
 canaglia tra quelli descritti qui di seguito.
 
-{{< include "/classi/canaglia/racket/furfante" >}}
+{{% include "/classi/canaglia/racket/furfante" %}}
 
-{{< include "/classi/canaglia/racket/imbroglione-mistico" >}}
+{{% include "/classi/canaglia/racket/imbroglione-mistico" %}}
 
-{{< include "/classi/canaglia/racket/ladro" >}}
+{{% include "/classi/canaglia/racket/ladro" %}}
 
-{{< include "/classi/canaglia/racket/picchiatore" >}}
+{{% include "/classi/canaglia/racket/picchiatore" %}}
 
-{{< include "/classi/canaglia/racket/stratega" >}}
+{{% include "/classi/canaglia/racket/stratega" %}}

@@ -31,6 +31,6 @@ il tuo allineamento cambia, ma rientra comunque tra quelli ammessi dalla tua
 divinità, il GM può consentirti di riaddestrare la causa permettendoti di
 continuare a seguire la stessa divinità.
 
-{{< include "/classi/campione/precetti/bene" >}}
+{{% include "/classi/campione/precetti/bene" %}}
 
-{{< include "/classi/campione/precetti/male" >}}
+{{% include "/classi/campione/precetti/male" %}}

@@ -11,4 +11,4 @@ imparare un nuovo incantesimo di quella tradizione. La Tabella Imparare un
 Incantesimo elenca il Prezzo dei materiali che ti servono per Imparare un
 Incantesimo di qualsiasi livello.
 
-{{< include "/azioni/abilita/imparare-un-incantesimo" >}}
+{{% include "/azioni/abilita/imparare-un-incantesimo" %}}

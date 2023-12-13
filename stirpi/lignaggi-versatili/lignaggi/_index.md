@@ -19,12 +19,12 @@ presenti in molte stirpi._
 
 [Regole complete sui Lignaggi Versatili](/regole/guida-del-giocatore/1-stirpi-e-background/lignaggi-versatili)
 
-{{< include "/stirpi/lignaggi-versatili/lignaggi/aasimar" >}}
+{{% include "/stirpi/lignaggi-versatili/lignaggi/aasimar" %}}
 
-{{< include "/stirpi/lignaggi-versatili/lignaggi/changeling" >}}
+{{% include "/stirpi/lignaggi-versatili/lignaggi/changeling" %}}
 
-{{< include "/stirpi/lignaggi-versatili/lignaggi/dhampir" >}}
+{{% include "/stirpi/lignaggi-versatili/lignaggi/dhampir" %}}
 
-{{< include "/stirpi/lignaggi-versatili/lignaggi/tiefling" >}}
+{{% include "/stirpi/lignaggi-versatili/lignaggi/tiefling" %}}
 
-{{< include "/stirpi/lignaggi-versatili/lignaggi/viandante-crepuscolare" >}}
+{{% include "/stirpi/lignaggi-versatili/lignaggi/viandante-crepuscolare" %}}

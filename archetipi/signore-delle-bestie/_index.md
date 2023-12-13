@@ -14,7 +14,7 @@ oppure possono considerarti un povero cucciolo indifeso che ha bisogno di
 protezione. In ogni caso, combatteranno al to fianco, anche sacrificando la loro
 vita per te, se necessario.
 
-{{< include "/regole/guida-del-giocatore/3-archetipi/talenti-aggiuntivi" >}}
+{{% include "/regole/guida-del-giocatore/3-archetipi/talenti-aggiuntivi" %}}
 
 > ### Compagni Animali del Signore delle Bestie
 >
@@ -30,6 +30,6 @@ vita per te, se necessario.
 > ottenuto il compagno animale dall'archetipo Signore delle Bestie o da un'altra
 > fonte.
 >
-> ### @[Richiamo del Compagno](/azioni/speciale/richiamo-del-compagno)
+> {{% include page="/azioni/speciale/richiamo-del-compagno" level=4 blockquote=true %}}
 
-{{< includeAll page="/archetipi/signore-delle-bestie/talenti" sorter="level" space=true >}}
+{{% includeAll page="/archetipi/signore-delle-bestie/talenti" sorter="level" space=true %}}

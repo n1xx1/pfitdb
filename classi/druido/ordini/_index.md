@@ -28,10 +28,10 @@ incantesimo, né puoi lanciarli utilizzando questi ultimi. Alcuni talenti da
 druido possono conferirti altri incantesimi focalizzati e accrescere la tua
 riserva, sebbene questa non possa mai contenere più di 3 Punti Focalizzazione.
 
-{{< include "/classi/druido/ordini/animale" >}}
+{{% include "/classi/druido/ordini/animale" %}}
 
-{{< include "/classi/druido/ordini/foglia" >}}
+{{% include "/classi/druido/ordini/foglia" %}}
 
-{{< include "/classi/druido/ordini/tempesta" >}}
+{{% include "/classi/druido/ordini/tempesta" %}}
 
-{{< include "/classi/druido/ordini/selvaggio" >}}
+{{% include "/classi/druido/ordini/selvaggio" %}}

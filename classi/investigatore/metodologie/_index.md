@@ -9,10 +9,10 @@ original-srd: https://2e.aonprd.com/Methodologies.aspx
 I tuoi studi di hanno reso esperto in molte aree, ma una in particolare ha
 attirato il tuo interesse. Scegli una metodologia.
 
-{{< include "/classi/investigatore/metodologie/empirismo" >}}
+{{% include "/classi/investigatore/metodologie/empirismo" %}}
 
-{{< include "/classi/investigatore/metodologie/interrogatorio" >}}
+{{% include "/classi/investigatore/metodologie/interrogatorio" %}}
 
-{{< include "/classi/investigatore/metodologie/medicina-legale" >}}
+{{% include "/classi/investigatore/metodologie/medicina-legale" %}}
 
-{{< include "/classi/investigatore/metodologie/scienze-alchemiche" >}}
+{{% include "/classi/investigatore/metodologie/scienze-alchemiche" %}}

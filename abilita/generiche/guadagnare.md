@@ -26,7 +26,7 @@ Potresti anche usare le tue abilità fisiche per guadagnare, per esempio usando
 [Artigianato](/abilita/artigianato), [Sapienza](/abilita/sapienza) o
 [Esibizione](/abilita/esibizione) la CD tende a essere parecchio superiore.
 
-{{< include "/azioni/abilita/guadagnare" >}}
+{{% include "/azioni/abilita/guadagnare" %}}
 
 > ### Preparazione Aggiuntiva
 >

@@ -23,4 +23,4 @@ creatura con cui stai conversando, e potresti
 qualcuno ti sta fornendo informazioni su quell'oggetto. Ottieni anche l'azione
 [Domanda Mirata](/azioni/classe/domanda-mirata).
 
-{{< include "/azioni/classe/domanda-mirata" >}}
+{{% include "/azioni/classe/domanda-mirata" %}}

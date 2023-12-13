@@ -17,7 +17,7 @@ male, aggiungi anche questo.
 
 ## Reazione del Campione
 
-{{< include "/azioni/classe/scudo-egoista" >}}
+{{% include "/azioni/classe/scudo-egoista" %}}
 
 ## Punizione Divina
 

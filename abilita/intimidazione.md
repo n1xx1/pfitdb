@@ -8,6 +8,6 @@ original-srd: https://2e.aonprd.com/Skills.aspx?ID=7
 
 Fai piegare gli altri al tuo volere minacciandoli.
 
-{{< include "/azioni/abilita/costringere" >}}
+{{% include "/azioni/abilita/costringere" %}}
 
-{{< include "/azioni/abilita/demoralizzare" >}}
+{{% include "/azioni/abilita/demoralizzare" %}}

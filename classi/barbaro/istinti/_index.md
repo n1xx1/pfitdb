@@ -20,14 +20,14 @@ anatemi: se li compi, perdi le capacità di istinto e tutti i talenti di istinto
 finché non dedichi 1 giorno di pausa a riarmonizzare il tuo spirito, ma conservi
 tutte le altre capacità da barbaro.
 
-{{< include "/classi/barbaro/istinti/istinto-animale" >}}
+{{% include "/classi/barbaro/istinti/istinto-animale" %}}
 
-{{< include "/classi/barbaro/istinti/istinto-del-gigante" >}}
+{{% include "/classi/barbaro/istinti/istinto-del-gigante" %}}
 
-{{< include "/classi/barbaro/istinti/istinto-dell-ira" >}}
+{{% include "/classi/barbaro/istinti/istinto-dell-ira" %}}
 
-{{< include "/classi/barbaro/istinti/istinto-draconico" >}}
+{{% include "/classi/barbaro/istinti/istinto-draconico" %}}
 
-{{< include "/classi/barbaro/istinti/istinto-spirituale" >}}
+{{% include "/classi/barbaro/istinti/istinto-spirituale" %}}
 
-{{< include "/classi/barbaro/istinti/istinto-superstizioso" >}}
+{{% include "/classi/barbaro/istinti/istinto-superstizioso" %}}

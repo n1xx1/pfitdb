@@ -9,4 +9,4 @@ original-srd: https://2e.aonprd.com/Heritages.aspx?ID=1
 Gli antichi eroi nanici sapevano sottrarsi alla magia dei loro nemici e una
 parte di quella resistenza sopravvive anche in te. Ottieni la seguente reazione.
 
-{{< include "/azioni/stirpe/richiamo-del-sangue-antico" >}}
+{{% include "/azioni/stirpe/richiamo-del-sangue-antico" %}}

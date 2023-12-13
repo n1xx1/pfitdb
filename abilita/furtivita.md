@@ -9,11 +9,11 @@ original-srd: https://2e.aonprd.com/Skills.aspx?ID=15
 Sei abile nel non farti individuare, e riesci a oltrepassare furtivamente i
 nemici, nasconderti e celare oggetti.
 
-{{< include "/azioni/abilita/muoversi-furtivamente" >}}
+{{% include "/azioni/abilita/muoversi-furtivamente" %}}
 
-{{< include "/azioni/abilita/nascondere-un-oggetto" >}}
+{{% include "/azioni/abilita/nascondere-un-oggetto" %}}
 
-{{< include "/azioni/abilita/nascondersi" >}}
+{{% include "/azioni/abilita/nascondersi" %}}
 
 > ### Essere Furtivi
 >

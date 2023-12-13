@@ -14,4 +14,4 @@ essere addestrato nell'abilità rilevante per l'azione. Solitamente si usa
 filosofia, [Religione](/abilita/religione) per i testi sacri e
 [Società](/abilita/societa) per messaggi in codice o documenti arcaici.
 
-{{< include "/azioni/abilita/decifrare-scritti" >}}
+{{% include "/azioni/abilita/decifrare-scritti" %}}

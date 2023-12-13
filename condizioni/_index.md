@@ -177,86 +177,86 @@ sangue o la tua essenza vitale._
 > [rallentato](/condizioni/rallentato) 1 e la seconda a
 > [rallentato](/condizioni/rallentato) 0, rimuovendola.
 
-{{< include "/condizioni/abbagliato" >}}
+{{% include "/condizioni/abbagliato" %}}
 
-{{< include "/condizioni/accecato" >}}
+{{% include "/condizioni/accecato" %}}
 
-{{< include "/condizioni/accelerato" >}}
+{{% include "/condizioni/accelerato" %}}
 
-{{< include "/condizioni/affascinato" >}}
+{{% include "/condizioni/affascinato" %}}
 
-{{< include "/condizioni/affaticato" >}}
+{{% include "/condizioni/affaticato" %}}
 
-{{< include "/condizioni/afferrato" >}}
+{{% include "/condizioni/afferrato" %}}
 
-{{< include "/condizioni/amichevole" >}}
+{{% include "/condizioni/amichevole" %}}
 
-{{< include "/condizioni/assordato" >}}
+{{% include "/condizioni/assordato" %}}
 
-{{< include "/condizioni/collaborativo" >}}
+{{% include "/condizioni/collaborativo" %}}
 
-{{< include "/condizioni/condannato" >}}
+{{% include "/condizioni/condannato" %}}
 
-{{< include "/condizioni/confuso" >}}
+{{% include "/condizioni/confuso" %}}
 
-{{< include "/condizioni/controllato" >}}
+{{% include "/condizioni/controllato" %}}
 
-{{< include "/condizioni/danno-persistente" >}}
+{{% include "/condizioni/danno-persistente" %}}
 
-{{< include "/condizioni/ferito" >}}
+{{% include "/condizioni/ferito" %}}
 
-{{< include "/condizioni/immobilizzato" >}}
+{{% include "/condizioni/immobilizzato" %}}
 
-{{< include "/condizioni/impreparato" >}}
+{{% include "/condizioni/impreparato" %}}
 
-{{< include "/condizioni/in-fuga" >}}
+{{% include "/condizioni/in-fuga" %}}
 
-{{< include "/condizioni/indebolito" >}}
+{{% include "/condizioni/indebolito" %}}
 
-{{< include "/condizioni/indifferente" >}}
+{{% include "/condizioni/indifferente" %}}
 
-{{< include "/condizioni/ingombrato" >}}
+{{% include "/condizioni/ingombrato" %}}
 
-{{< include "/condizioni/inosservato" >}}
+{{% include "/condizioni/inosservato" %}}
 
-{{< include "/condizioni/invisibile" >}}
+{{% include "/condizioni/invisibile" %}}
 
-{{< include "/condizioni/maldestro" >}}
+{{% include "/condizioni/maldestro" %}}
 
-{{< include "/condizioni/maldisposto" >}}
+{{% include "/condizioni/maldisposto" %}}
 
-{{< include "/condizioni/morente" >}}
+{{% include "/condizioni/morente" %}}
 
-{{< include "/condizioni/nascosto" >}}
+{{% include "/condizioni/nascosto" %}}
 
-{{< include "/condizioni/nauseato" >}}
+{{% include "/condizioni/nauseato" %}}
 
-{{< include "/condizioni/non-individuato" >}}
+{{% include "/condizioni/non-individuato" %}}
 
-{{< include "/condizioni/occultato" >}}
+{{% include "/condizioni/occultato" %}}
 
-{{< include "/condizioni/osservato" >}}
+{{% include "/condizioni/osservato" %}}
 
-{{< include "/condizioni/ostile" >}}
+{{% include "/condizioni/ostile" %}}
 
-{{< include "/condizioni/paralizzato" >}}
+{{% include "/condizioni/paralizzato" %}}
 
-{{< include "/condizioni/pietrificato" >}}
+{{% include "/condizioni/pietrificato" %}}
 
-{{< include "/condizioni/privo-di-sensi" >}}
+{{% include "/condizioni/privo-di-sensi" %}}
 
-{{< include "/condizioni/prono" >}}
+{{% include "/condizioni/prono" %}}
 
-{{< include "/condizioni/rallentato" >}}
+{{% include "/condizioni/rallentato" %}}
 
-{{< include "/condizioni/risucchiato" >}}
+{{% include "/condizioni/risucchiato" %}}
 
-{{< include "/condizioni/rotto" >}}
+{{% include "/condizioni/rotto" %}}
 
-{{< include "/condizioni/sbigottito" >}}
+{{% include "/condizioni/sbigottito" %}}
 
-{{< include "/condizioni/spaventato" >}}
+{{% include "/condizioni/spaventato" %}}
 
-{{< include "/condizioni/stordito" >}}
+{{% include "/condizioni/stordito" %}}
 
-{{< include "/condizioni/trattenuto" >}}
+{{% include "/condizioni/trattenuto" %}}

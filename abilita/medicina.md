@@ -16,15 +16,15 @@ addestramento in Medicina, puoi usarla per
   prove come regolarità nelle ferite; ciò è particolarmente utile per capire in
   che modo è stato ferito o ucciso un cadavere.
 
-{{< include "/azioni/abilita/prestare-primo-soccorso" >}}
+{{% include "/azioni/abilita/prestare-primo-soccorso" %}}
 
 ## Azioni con Addestramento in Medicina
 
-{{< include "/azioni/abilita/curare-ferite" >}}
+{{% include "/azioni/abilita/curare-ferite" %}}
 
-{{< include "/azioni/abilita/curare-malattia" >}}
+{{% include "/azioni/abilita/curare-malattia" %}}
 
-{{< include "/azioni/abilita/curare-veleno" >}}
+{{% include "/azioni/abilita/curare-veleno" %}}
 
 > ### Animali Comandati
 >

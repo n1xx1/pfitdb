@@ -10,4 +10,4 @@ Per trovare cibo e riparo, puoi usare l'attività di pausa Sopravvivere, che
 sfrutta Società se sei in un insediamento o Sopravvivenza se sei in mezzo alla
 natura.
 
-{{< include "/azioni/abilita/sopravvivere" >}}
+{{% include "/azioni/abilita/sopravvivere" %}}
