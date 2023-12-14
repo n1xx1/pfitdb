@@ -17,34 +17,46 @@ sua visione del mondo e lo aiutano a definire il suo ruolo.
 
 ## Stirpi Comuni
 
-### [Elfo](/stirpi/elfo)
+{{< cards rows=2 >}}
 
-### [Gnomo](/stirpi/gnomo)
+{{< card link="/stirpi/elfo" title="Elfo" />}}
 
-### [Goblin](/stirpi/goblin)
+{{< card link="/stirpi/gnomo" title="Gnomo" />}}
 
-### [Halfling](/stirpi/halfling)
+{{< card link="/stirpi/goblin" title="Goblin" />}}
 
-### [Nano](/stirpi/nano)
+{{< card link="/stirpi/halfling" title="Halfling" />}}
 
-### [Umano](/stirpi/umano)
+{{< card link="/stirpi/nano" title="Nano" />}}
+
+{{< card link="/stirpi/umano" title="Umano" />}}
+
+{{< /cards >}}
 
 ## Stirpi Non Comuni
 
-### [Coboldo](/stirpi/coboldo)
+{{< cards rows=2 >}}
 
-### [Felinide](/stirpi/felinide)
+{{< card link="/stirpi/coboldo" title="Coboldo" />}}
 
-### [Hobgoblin](/stirpi/hobgoblin)
+{{< card link="/stirpi/felinide" title="Felinide" />}}
 
-### [Leshy](/stirpi/leshy)
+{{< card link="/stirpi/hobgoblin" title="Hobgoblin" />}}
 
-### [Lucertoloide](/stirpi/lucertoloide)
+{{< card link="/stirpi/leshy" title="Leshy" />}}
 
-### [Orco](/stirpi/orco)
+{{< card link="/stirpi/lucertoloide" title="Lucertoloide" />}}
 
-### [Rattoide](/stirpi/rattoide)
+{{< card link="/stirpi/orco" title="Orco" />}}
 
-### [Tengu](/stirpi/tengu)
+{{< card link="/stirpi/rattoide" title="Rattoide" />}}
+
+{{< card link="/stirpi/tengu" title="Tengu" />}}
+
+{{< /cards >}}
 
 ## Stirpi Rare
+
+{{< cards rows=2 >}}
+
+{{< /cards >}}

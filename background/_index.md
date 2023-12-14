@@ -27,7 +27,7 @@ Sapienza che sono adatte alla maggior parte delle campagne.
 I talenti di abilità ampliano le funzioni delle tue abilità compaiono nella
 sezione Talenti.
 
-### Background Rari
+## Background Rari
 
 _La maggior parte dei background è disponibile per qualsiasi personaggio, ma
 alcuni background sono così insoliti che il solo fatto di averli rende un
